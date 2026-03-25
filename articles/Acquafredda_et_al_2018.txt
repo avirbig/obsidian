@@ -1,0 +1,732 @@
+Reassessment of WD-XRF method for obsidian provenance shareable
+databases
+Pasquale Acquafredda a, b, *, Italo M. Muntoni c , Mauro Pallara a
+a Dipartimento di Scienze della Terra e Geoambientali, Universita degli Studi di Bari ‘Aldo Moro’, via E. Orabona 4, 70125 Bari, Italy
+b Centro Interdipartimentale “Laboratorio di Ricerca per la Diagnostica dei Beni Culturali”, via E. Orabona 4, 70125 Bari, Italy
+c Soprintendenza Archeologia, Belle Arti e Paesaggio per le Province di Barletta-Andria-Trani e Foggia, via Valentini 8, 71121 Foggia, Italy
+a r t i c l e i n f o
+Article history:
+Received 2 May 2017
+Received in revised form
+25 July 2017
+Accepted 7 August 2017
+Available online 6 September 2017
+Keywords:
+Obsidian provenance
+WD-XRF
+Non-destructive analyses
+Shareable database
+Mediterranean
+a b s t r a c t
+The X-ray fluorescence technique using peak intensity ratios of trace elements is one of the faster, less
+expensive and less invasive methods for obsidian sourcing. Moreover, XRF peak intensity ratios are
+particularly useful when the artifact is slightly altered, particularly affecting the alkali cations, or when its
+surfaces are covered with a fine film of carbonate deposits formed while the sample was buried.
+The limitation of this technique results from the dimensions of the obsidian samples: very small
+obsidian samples, nowadays about 1 cm in size, are difficult to measure given the very few X-rays
+emitted by their surface.
+An aluminium holder closed with a very thin Mylar© polyester film was prepared and the specimen,
+positioned at the centre of the surface of the Mylar film, was placed in the XRF spectrometer. The use of
+recent technology XRF apparatus equipped with a 4 kW Rh anode X-ray tube coupled with an accurate
+measurement of refined X-ray characteristic lines, that exclude the X-ray background contribution, of five
+trace elements (Rb, Sr, Y, Zr, Nb), made it possible to determine the source geological outcrop of
+archaeological obsidian samples as little as 7 mm and as light as 40 mg.
+A database of peak intensity ratios, background and interference free, of five trace elements was
+produced for obsidian samples from Monte Arci, Palmarola, Lipari, Pantelleria, Gyali and Melos.
+This database may be used by other laboratories provided the X-ray intensity of the trace elements Rb,
+Sr, Y, Zr, Nb are measured as net intensities, that is purified from the contribution of the background and
+from interelemental interferences.
+A comparison between data obtained with two spectrometers, of different generation and differently
+calibrated, confirmed the possibility of obtaining a database that can be shared with other laboratories.
+The proposed XRF method was tested on Neolithic obsidians from four Apulian sites (Ripa Tetta at
+Lucera, Palestra ex G.I.L. at Foggia, Pulo di Molfetta and Grotta di Santa Barbara at Polignano a Mare),
+whose source outcrops had been also determined by SEM-EDS.
+© 2017 Elsevier Ltd and INQUA. All rights reserved.
+1. Introduction
+The characterisation of obsidian can provide important information on cultural, social and economic relationships between
+peoples in Mediterranean prehistory. For this reason, the study of
+obsidian distribution has provided a well-defined outline of the
+circulation of Mediterranean sources (Monte Arci, Palmarola, Lipari,
+Pantelleria, Gyali and Melos) in the past. The identification of
+obsidian sources is, of course, only the first step needed to study its
+circulation: it is also essential to study the forms in which the
+material moved from sources to sites and between sites in exchange networks, the quantity of obsidian used, the reduction
+technology and the use-wear of obsidian artifacts. There is still
+debate over the economic versus prestige value of the quantitatively very limited amounts of obsidian in many Neolithic contexts.
+The provenance of obsidian artifacts can be determined using
+numerous minimally destructive or non-destructive methods such
+as laser ablation inductively coupled plasma-mass spectrometry
+(Gratuze et al., 2001), electron-probe microanalysis (Tykot, 2002),
+* Corresponding author. Dipartimento di Scienze della Terra e Geoambientali,
+Universita degli Studi di Bari ‘Aldo Moro’, via E. Orabona 4, 70125 Bari, Italy.
+E-mail addresses: pasquale.acquafredda@uniba.it (P. Acquafredda), italomaria.
+muntoni@beniculturali.it (I.M. Muntoni), mauro.pallara@uniba.it (M. Pallara).
+Contents lists available at ScienceDirect
+Quaternary International
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / q u a i n t
+http://dx.doi.org/10.1016/j.quaint.2017.08.020
+1040-6182/© 2017 Elsevier Ltd and INQUA. All rights reserved.
+Quaternary International 468 (2018) 169e178X-ray fluorescence (XRF) using peak intensity ratios of various elements (Nelson et al., 1975; De Francesco et al., 2008), scanning
+electron microscopy coupled with energy dispersive spectrometer
+(SEM-EDS) microanalysis (Acquafredda et al., 1999; Acquafredda
+and Paglionico, 2004), and Energy Dispersive (ED) Spectrometers
+(Phillips and Speakman, 2009; Frahm et al., 2014a).
+In particular the XRF peak intensity ratios technique is particularly useful when the artifact is slightly altered or covered by thin
+carbonate encrustations, if compared with other surface analysis
+technique like laser ablation inductively coupled plasma-mass
+spectrometry (LA-ICP MS), Electron Probe MicroAnalysis (EPMA)
+and SEM-EDS; in fact the XRF peak intensity ratios technique,
+measuring emitting lines of heavy elements such us Rb, Sr, Y, Zr and
+Nb, is less affected by analytical inaccuracies due to the chemical
+contribution of the surface of the samples (Acquafredda et al.,
+2013).
+The aim of this research is to evaluate the possibility to refine
+the wavelength dispersive XRF (WD-XRF) measures reviewing the
+ED and WD methods proposed in the literature (Nelson et al., 1975;
+De Francesco et al., 2008) and suggesting a non-destructive WDXRF procedure capable of producing a database shareable by
+several laboratories, suitable for obsidian provenance information.
+Obsidian samples to test the WD-XRF procedures were collected
+at Monte Arci in Sardinia (Perdas Urias, Conca Cannas, Canale Perdera and Riu Solacera), Palmarola, Lipari, Pantelleria (Bagno di
+Venere, Salto la Vecchia and Balata dei Turchi), Gyali and Melos
+(Nihia, Adamas, Sarakiniko and Demenegaki) (Fig. 1); a detailed
+description of the geological obsidian outcrops is found in
+Acquafredda et al. (1999).
+2. The XRF technique
+Chemical quantitative analyses with a WD-XRF spectrometer
+must satisfy Bragg's law (2dsinq ¼ nl); this means that the WD-XRF
+spectrometers require that 1) the specimen, 2) the diffracting
+crystal, and 3) the detector must all lie, at varying values of q value
+(q is the rotation angle for the spectral scansion), on the same
+focusing circle (Rowland's circle). With the geometry of a not fully
+focused WD spectrometer, Bragg's law is satisfied using primary
+and secondary collimators that focus the X-ray respectively on the
+diffracting (dispersive) crystal and on the detector during the 2q
+rotation of the goniometer; with the geometry of a fully focused
+WD spectrometer, Bragg's law is satisfied using only a few slits, in
+place of the focusing collimators: in this case, during the 2q rotation
+of the goniometer, the instrument rotates and simultaneously
+moves both the diffracting crystal and the detector along Roland's
+circle.
+Not fully focused WD spectrometers are normally used for bulk
+analyses of the specimen (as powdered and pressed samples,
+melted disk of powdered rocks, ...) while fully focused WD spectrometers are mounted on EPMA or on SEM. Both not fully focused
+and fully focused geometries require the sample surface to be
+perfectly flat; they can supply reproducible results only if X-ray
+peak intensity ratios of contiguous elements are used as substitutes
+for the elemental concentrations as in the case of the obsidian
+source area determination (De Francesco et al., 2008, 2011).
+During WD analyses, if the surface of the specimen is not
+perfectly flat, as in the case of archaeological obsidian samples, it is
+impossible to obtain quantitative chemical data; in this case, the Xray intensity of the signal also depends, from sample to sample and
+between different samples, on the angle between the direction of
+the X-ray source (normally the X-ray tube) and the complexity of
+the surface of the specimen and simultaneously on the angle between the surface of the specimen and the direction of the detector.
+One way of minimizing this surface effect is to detect the X-ray
+fluorescence of chemical elements that are contiguous in the Periodic Table: regardless of the complexity of the surface, the X-ray
+intensity ratio between two very close chemical elements will
+remain practically identical. This does not allow for the calculation
+of the concentrations of elements, but does tell us the precise intensity ratios of their X-ray lines if they are contiguous in the Periodic Table. This is what Nelson et al. (1975) proposed to
+characterize the obsidian of the Pacific Northwest coast (USA),
+employing an ED Silicon Lithium X-ray detector.
+Fig. 1. Obsidian source areas sampled in the Mediterranean basin; the four Neolithic Apulian sites whose archaeological obsidians were characterized to check the analytical
+method are also shown (smaller characters not in italics).
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178170Using the X-ray peak intensity ratios of some trace elements, the
+raw intensity data are collected with no calibration to concentrations. Moreover, to identify obsidian provenance, the XRF equipment, depending also on its exciting X-ray tube, is particularly
+effective at revealing some incompatible elements, the “mid-Z”
+trace elements (i.e. Rb, Sr, Y, Zr, Nb); these elements accurately
+characterize igneous rocks since their concentration varies between volcanic sources (Nelson et al., 1975; Forster and Grave,
+2012; Chataigner and Gratuze, 2014a; Frahm, 2014).
+The major analytical problems related to the geometry of the
+sample can be partly resolved by using an ED spectrometer instead
+of a WD spectrometer. Using the ED spectrometer no account is
+taken of Bragg's law because there is no moving component during
+the analysis and the dispersion of the X-ray is done in energy and
+not in the wavelength. Moreover, for an ED spectrometer the total
+solid angle within which the X-rays are collected is much greater
+than for the WD spectrometer; additionally, the ED detector does
+not require critical positioning with respect to the source of the Xrays (a geometry non perfectly focused on a Roland's circle) making
+it preferable for the analysis of samples that are not perfectly flat
+especially during SEM microanalyses (Ruste, 1979; Acquafredda
+and Paglionico, 2004).
+This is why, in recent years, the archaeometric use of ED X-ray
+spectrometers (Phillips and Speakman, 2009; Nazaroff et al., 2010;
+Shackley, 2012; Forster and Grave, 2012; Millhauser et al., 2011;
+Frahm et al., 2014a,b; Conrey et al., 2014; Milic, 2014), that is
+portable X-ray Fluorescence (pXRF, Milic 2014), Field-portable Xray Fluorescence (FpXRF) and Hand Held portable X-ray Fluorescence (HHpXRF, Frahm et al., 2014a), and especially the apparatus
+equipped with the new Silicon Drift Detectors (SDD), has offered
+new potential for very rapid obsidian source characterisation.
+The potential for executing rapid and easy ED analyses, particularly useful in the training of students (Shackley, 2012), that are
+sufficient for initially sorting artifacts, must not rule out combining
+these cost-effective and non-destructive techniques with other
+effective types of analysis (Chataigner and Gratuze, 2014a,b; Frahm,
+2014); Neutron Activation Analysis (NAA), LA-ICP MS, SEM with ED
+Spectrometers and whole sample WD-XRF have been shown to
+present more instrumental precision and to provide more secure
+source and sub-source attribution.
+Finally, the WD-XRF technique is one of the most accurate and
+simplest means of analysing rock specimens, and many research
+laboratories that characterize geo-archaeological samples already
+own a WD-XRF apparatus (Conrey et al., 2014).
+3. The use of the WD-XRF spectrometer
+The X-ray fluorescence technique using peak intensity ratios of
+trace elements is very fast, taking about 20 min per sample (a total
+time of 23 min: 21 min for the XRF analysis þ2 min per sample for
+the operator to position the samples and start up the spectrometer), reproducible, accurate, inexpensive, non-destructive and
+efficient to use because XRF spectrometers are commonly found in
+research laboratories.
+Fundamentally, the procedures involved in this technique present three problems:
+1) the rapid positioning of the sample in the spectrometer sample
+holder;
+2) the potential for creating a shareable database of use not only
+for the research laboratory that standardizes the XRF spectrometer but also for other laboratories;
+3) the dimension of the obsidian samples to be characterized.
+3.1. Rapid positioning of the specimen in the sample holder
+An obsidian sample can be simply placed on the bottom sample
+Fig. 2. XRF spectrometer sample holder equipped with plexiglas capsules in which the sample can be fixed; the boxes were built with different diameter holes through which the
+more regular surface of the obsidian can be exposed to the X-ray source.
+Fig. 3. XRF spectrometer sample holder closed at the bottom with a very thin Mylar©
+polyester film. At the centre of the plastic film is the obsidian sample (as light as 40 mg,
+in the inset), that seem to be suspended in the air. Scale bar is 5 mm.
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178 171holder using a reducing mask to adapt the size of the sample to the
+maximum diameter of the specimen carrier. As a result, the sample
+is not firmly held in the holder and there is a high risk that during
+the analysis the specimen may fall onto the head of the X-ray tube
+and damage it; moreover, a large amount of reducing mask is
+needed, whose composition contributes to the noise of the X-rays
+collected. We also tested the possibility of using a special plexiglas
+capsule in which the obsidian can be held in place by the pressure
+of a steel spring (Fig. 2). Various plexiglas boxes with different
+diameter holes, through which to expose the obsidian sample to
+the X-rays were constructed and tested (Fig. 2). These plexiglas
+containers, placed in the sample holder, are particularly useful for
+samples larger than one centimetre but they do limit the power
+supply of the X-ray tube because excessively high temperatures
+may deform the plexiglas.
+Another possibility is to attach the specimen with a sticker to a
+sample support that can then be placed in the specimen carrier (De
+Francesco et al., 2008, 2011); in this case, too, the high temperatures reached during the analyses may deteriorate the adhesive,
+usually double-sided tape, causing the obsidian to fall onto the
+head of the X-ray tube or in any case inside the spectrometer. On
+the other hand, the use of particularly effective adhesives for
+bonding the sample to the support makes them difficult to remove
+after the analysis: this procedure affects the time taken to perform
+the analysis and may damage particularly fragile samples.
+Finally, we tested the possibility of placing the specimens into
+an aluminium holder closed at the bottom with a very thin Mylar©
+polyester film. The Mylar film is almost transparent to the incoming
+X-ray of the tube and above all to the penetrative wavelength of the
+Ka lines exiting the sample, like that of the elements Rb, Sr, Y, Zr, Nb.
+Under these conditions, signal loss due to the Mylar film is
+imperceptible and the specimen seems to be suspended on the
+head of the tube; moreover the noise contribution at X-ray spectrum due to the support is negligible compared with other
+aluminium, steel or plexiglas holders, increasing the potential for
+effectively detecting the X-ray of the trace elements present in the
+obsidian. Finally, even if the obsidian specimen is very small, it can
+be quickly and easily positioned at the centre of the surface of the
+Mylar film (Fig. 3) for subsequent WD-XRF analysis.
+3.2. Production of a shareable database
+It is possible to create a database that is also helpful for other
+laboratories as long as the data are collected as “net peaks” (total Xray emission peak minus the background) of the trace elements Rb,
+Sr, Y, Zr, Nb. In the emission region of these trace elements the
+background trend is not linear; its shape, depending on the matrix
+of the sample and the anode (Ag, Rh, W, ...) of the X-ray tube, can be
+expressed by an exponential function (Leoni and Saitta, 1976). The
+intensity IB of the background can be calculated as:
+IB ¼ eal þ b
+where l is the wavelength corresponding to the angular position of
+the goniometer (2q values), and “a” and “b” are two constants that
+depend on the instrumental conditions and on the composition of
+the sample. In the case of Rb, Sr, Y, Zr, Nb at least six sampling points
+of the background must be carefully chosen and measured in the
+wavelength frequency range from 0.073 to 0.095 nm (0.73 ÷ 0.95 Å)
+so as to be able to calculate their values below the peak position of
+the trace element (Fig. 4).
+Moreover, an accurate measure of these elements must take into
+account the overlap of the interfering lines and the possibility that
+these trace elements may be present as impurities in the target of
+the X-ray tube or in the material of the X-ray spectrometer cabinet.
+To measure the trace elements Rb, Sr, Y, Zr, Nb one must take into
+account that the Y Ka1,2 has, as interfering line, the Rb Kb1, that the
+Zr Ka1,2 has, as interfering line, the Sr Kb1 and that the Nb Ka1,2 has,
+as interfering line, the Y Kb1 (Fig. 4).
+In Nelson et al. (1975) these interferences were signalled and in
+the proposed method the X-ray ratio was given as the sum of two
+intensities, probably due to the difficulties of a severe mathematical
+correction of these overlaps with data collected using an ED X-ray
+detector. WD spectrometer analysis allows for a complete
+Fig. 4. Plot of a WD-XRF scan between 27 and 40 2q degrees (about the frequency range from 0,067 to 0.097 nm) of the X-ray emitted by a small obsidian sample (GSB L25 from
+Grotta di Santa Barbara at Polignano a Mare); analytical conditions were: Rhodium X-ray tube set at 60 kV, 66 mA; spectrum dispersed by a LiF 220 diffracting crystal towards a
+scintillator detector. For each element are indicated the 2q degrees of the Ka line, the gross counts per second measured on the peak position and its relative net counts (background
+and interference free). In the figure are also specified the 2q degrees position for background sampling; for Nb, Zr and Y is indicated the contribution of the interfering line to the
+measured peak, as calculated for the WD spectrometer used (further details in the text).
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178172correction of the interferences by measuring their overlap with
+pure standards added to the element that requires interference
+correction (Leoni and Saitta, 1976). Pure standards, normally MgO,
+Al2 O 3 and SiO2 , are also used to check the presence of trace elements in the target of the X-ray tube and in the material of the Xray spectrometer cabinet.
+Other parameters that may influence the X-ray intensity ratio of
+the Rb, Sr, Y, Zr and Nb emission lines are: a) the type of diffracting
+crystal, b) the target of the X-ray tube and c) the power supply, in
+particular the kV, of the X-ray tube.
+These three different points will be discussed in greater detail
+below:
+a) The LiF 220 is the most common crystal used to detect
+numerous trace elements (Leoni and Saitta, 1976); moreover, it
+would be senseless to use a diffracting crystal different from the
+LiF 220 to detect Rb, Sr, Y, Zr and Nb because this diffracting
+crystal, whose 2d lattice distance is 2.848 Å, is that which offers
+a better dispersion of the Ka wavelength of these trace elements
+without a significant signal loss; in fact the use of a crystal with a
+lattice distance greater than 2.8 Å (LiF 200, PET ...), leads to a
+strong overlap of the Ka lines of Rb, Sr, Y, Zr and Nb with the
+consequence that is impossible to detect correctly the exponential background (Leoni and Saitta, 1976); the use of a diffracting crystal with a lattice distance smaller than 2.8 Å, like the
+LiF 420, leads to a significant X-ray signal loss.
+b) Rb, Sr, Y, Zr and Nb are normally detected using an Ag (Leoni and
+Saitta, 1976) or Rh X-ray tube: in fact the spectral X-ray emission
+of these two targets, characteristic lines and bremsstralung, is
+very similar and represents the better condition to excite the Xray emission of these elements; on the other hand, new WD
+spectrometers are sold with an Rh tube that is considered a
+"general purpose X-ray tube". To test the proposition that WDXRF spectrometers, equipped with different X-ray tubes, can
+provide data useable in a shareable database, the peak intensity
+ratios were also measured by interposing different filters between the tube and the sample: an Al 200 mm tick filter, an Al
+750 mm tick filter and a brass 100 mm tick filter; the details will
+be discussed later together with the problems related to
+obsidian provenance.
+c) To detect X-ray lines of Rb, Sr, Y, Zr and Nb effectively, the Rh Xray tube must be powered to achieve its maximum performance; in the case of our spectrometer, the power supply parameters were set at 60 kV, 66 mA. In order to check the
+potential for producing a shareable database, other different
+power supply parameters were used, specifically: 60 kV, 40 mA
+and 40 kV, 60 mA. The data from these tests will also be discussed later together with the problems related to obsidian
+provenance.
+Further WD-XRF spectrometer parameters, not discussed in this
+paragraph (the distance from the X-ray tube and the sample, the
+distance between the lamellae of the primary collimator, the use of
+a secondary collimator and so on) only have a negligible influence
+on the X-ray intensity ratio of the trace elements Rb, Sr, Y, Zr and
+Nb.
+During all the experiments presented in this paper, the X-ray
+intensity of Rb, Sr, Y, Zr and Nb were accurately measured and the
+contribution of the exponential background mathematically
+subtracted.
+3.3. The dimension of the obsidian samples
+Obsidian samples larger than 5.15 cm cannot be placed into the
+sample holder of a standard WD labXRF spectrometer without
+resizing the specimen in a disruptive way. If the specimen is smaller
+than 5 cm, it can be positioned at the centre of the surface of the
+Mylar film and then placed in the XRF spectrometer, even if the
+obsidian sample is very small (Fig. 3).
+The potential for characterising very small obsidian fragments,
+given the very few X-rays emitted by small specimens, depends on
+the ability to follow the procedures described above; good results
+also depend on minimizing the distance between the X-ray tube
+and the specimen, from the power supply of the X-ray tube and
+finally undertaking an accurate energy discrimination of the elements. In addition, for extremely small specimens as tiny as
+6.6  5.7  1.4 mm (39.8 mg, Fig. 3), to avoid displacement of the
+obsidian from the centre of the sample holder during the analysis, it
+was necessary to acquire the X-ray data with the sample spinner in
+the off position. This dimension may also represent the lower limit
+of the size of an obsidian sample containing glass and
+microphenocrysts.
+4. Characterisation of central-eastern Mediterranean
+obsidians
+The analyses were carried out at the Department of “Scienze
+della Terra e Geoambientali” at Bari University where a welldefined outline of the circulation of various Mediterranean sources of obsidian was obtained by WD-XRF and by SEM-EDS
+(Acquafredda et al., 1999; Acquafredda and Paglionico, 2004;
+Acquafredda and Muntoni, 2005, 2008; Acquafredda et al., 2011,
+2013), mainly concerning their distribution in southern and central Italian Neolithic sites. Regarding the four Sardinian obsidian
+geological sources SA, SB1, SB2 and SC, only the two sources SA and
+SC have been characterized in this research, which were the most
+important, the most used and long distance traded during the
+Neolithic period (Tykot, 2002; Luglie, 2012).
+WD X-ray fluorescence analyses of 76 geological samples
+collected at Monte Arci (25 samples), Palmarola (eight samples),
+Lipari (ten samples), Pantelleria (six samples), Gyali (seven samples) and Melos (20 samples) were carried out with a spectrometer
+(PANalytical AXIOS-Advanced) equipped with a 4 kW Rh Super
+Sharp end window X-ray Tube (Rh-SST) set at 60 kV, 66 mA to
+achieve maximum performance.
+To better discriminate the Ka X-ray lines of trace elements such
+as Rb, Sr, Y, Zr and Nb, a LiF 220 (2.848 Å of 2d lattice distance)
+diffracting crystal coupled with the “very fine” primary collimator
+(parallel metal foil blades spaced 150 mm) were used; a scintillator
+detector was selected to reveal the X-ray lines; measurement of
+peak and background counting time was set at 100 s. The spectrometer set with these parameters made it possible to detect trace
+elements like Rb, Sr, Y, Zr and Nb, on powdered pellet samples, as
+low as one part per million (ppm) with a repeatability that is of the
+order of a fraction of ppm; such a high sensitivity allows us to
+determine, in a completely non-destructive way, the provenance of
+archaeological obsidian samples as small as 7 mm and as light as
+40 mg (Fig. 3).
+Analytical data of Rb, Sr, Y, Zr and Nb, expressed as X-ray intensities, in counts per second, background and interference free,
+are reported in Table 1. The plots of the X-ray peak intensity ratios
+of some contiguous trace elements (Fig. 5) show the potential for
+distinguishing clearly between the various obsidian sources and in
+some cases even their sub-sources, as for Monte Arci (SC ¼ Perdas
+Urias; SA ¼ Conca Cannas, Canale Perdera and Riu Solacera), Pantelleria (BV ¼ Bagno di Venere, SV ¼ Salto la Vecchia and Balata dei
+Turchi) and Melos (1 ¼ Nihia, Adamas and Sarakiniko,
+2 ¼ Demenegaki), with greater accuracy than other techniques like
+SEM-EDS.
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178 173Table 1
+X-ray emission and characterizing ratio of some contiguous trace elements of geological samples from various obsidian sources and sub-sources in the Mediterranean basin
+(same localities as in Acquafredda et al., 1999). The X-ray intensity values, measured for 100 s and expressed as counts per second, are background and interference free. Subsources outcrops: for Monte Arci, SC ¼ Perdas Urias; SA ¼ Conca Cannas, Canale Perdera and Riu Solacera; for Pantelleria, BV ¼ Bagno di Venere, SV ¼ Salto la Vecchia and Balata
+dei Turchi; for Melos, 1 ¼ Nihia, Adamas and Sarakiniko, 2 ¼ Demenegaki.
+Rb Sr Y Zr Nb Rb/Sr Zr/Y Nb/Y Nb/Sr
+Arci 1 SA 23790,1 2775,4 4379,5 12809,9 7521,6 8,57 2,92 1,72 2,71
+Arci 2 SA 23996,3 2785,5 4503,8 12892,9 7679,2 8,61 2,86 1,71 2,76
+Arci 3 SA 23933,2 2813,0 4600,4 13069,9 7831,9 8,51 2,84 1,70 2,78
+Arci 4 SA 23943,3 2823,6 4581,5 13076,2 7842,1 8,48 2,85 1,71 2,78
+Arci 5 SA 23954,5 2795,6 4641,2 13167,6 7836,7 8,57 2,84 1,69 2,80
+Arci 7 SA 24000,8 2810,1 4624,5 13191,5 7850,0 8,54 2,85 1,70 2,79
+Arci 8 SA 23856,8 2797,3 4595,9 13088,7 7818,7 8,53 2,85 1,70 2,80
+Arci 8b SA 23890,5 2784,3 4607,0 13030,5 7840,4 8,58 2,83 1,70 2,82
+Arci 9 SA 23894,6 2797,9 4589,5 13054,4 7809,0 8,54 2,84 1,70 2,79
+Arci 10 SA 23797,1 2794,7 4576,5 12898,4 7802,6 8,52 2,82 1,70 2,79
+Arci 11 SA 24211,1 2843,6 4706,9 14034,5 8145,7 8,51 2,98 1,73 2,86
+Arci 12 SA 23878,9 2782,6 4614,3 13135,0 7859,9 8,58 2,85 1,70 2,82
+Arci 13 SA 23942,4 2802,6 4615,1 13002,4 7839,3 8,54 2,82 1,70 2,80
+Arci 14 SA 23809,2 2779,3 4558,7 13065,3 7800,9 8,57 2,87 1,71 2,81
+Arci 15 SA 23903,9 2784,8 4608,2 12964,5 7832,4 8,58 2,81 1,70 2,81
+Arci 16 SA 23850,0 2804,9 4626,1 13132,1 7873,5 8,50 2,84 1,70 2,81
+Arci 17 SA 23930,2 2790,6 4587,2 13082,8 7864,8 8,58 2,85 1,71 2,82
+Arci 18 SA 23868,0 2813,9 4570,4 13090,8 7811,0 8,48 2,86 1,71 2,78
+Arci 19 SA 23894,1 2809,8 4619,7 13099,2 7864,1 8,50 2,84 1,70 2,80
+Arci 19b SA 23756,9 2808,2 4577,9 13049,6 7804,0 8,46 2,85 1,70 2,78
+Arci 21 SA 23799,9 2794,0 4571,9 12974,8 7807,3 8,52 2,84 1,71 2,79
+Arci 22 SA 23828,8 2809,1 4599,6 13033,1 7800,0 8,48 2,83 1,70 2,78
+Arci 23 SA 24029,5 2808,1 4608,1 13204,0 7886,4 8,56 2,87 1,71 2,81
+Arci 98 SC 15630,1 12620,4 3034,0 34033,4 4247,7 1,24 11,22 1,40 0,34
+Arci 99 SC 15643,0 12587,5 3024,8 33800,8 4252,0 1,24 11,17 1,41 0,34
+Palmarola 1 44064,5 540,7 7325,2 42799,1 10385,2 81,50 5,84 1,42 19,21
+Palmarola 2 44170,9 520,0 7217,7 42554,2 10350,8 84,94 5,90 1,43 19,90
+Palmarola 3 44317,1 539,1 7334,6 42801,5 10480,9 82,21 5,84 1,43 19,44
+Palmarola 4 44171,7 530,5 7363,9 42894,2 10436,3 83,26 5,82 1,42 19,67
+Palmarola 5 43884,6 549,7 7210,1 42545,6 10333,7 79,84 5,90 1,43 18,80
+Palmarola 6 43860,5 526,1 7170,6 42118,1 10277,6 83,37 5,87 1,43 19,54
+Palmarola 8 43196,5 641,0 6693,5 40337,8 9659,3 67,39 6,03 1,44 15,07
+Palmarola 9 42996,2 555,3 6618,7 40301,5 9640,4 77,42 6,09 1,46 17,36
+Lipari 1 27609,5 1542,8 5360,4 25033,4 5451,3 17,90 4,67 1,02 3,53
+Lipari 2 27627,2 1514,9 5203,7 24028,2 5293,7 18,24 4,62 1,02 3,49
+Lipari 3 27723,2 1633,4 5151,2 25474,7 5377,7 16,97 4,95 1,04 3,29
+Lipari 4 27556,2 1510,5 5280,1 24240,6 5321,7 18,24 4,59 1,01 3,52
+Lipari 6 27023,9 1438,4 4839,1 22809,7 4994,0 18,79 4,71 1,03 3,47
+Lipari 7 27853,7 1509,9 5295,4 24602,4 5401,3 18,45 4,65 1,02 3,58
+Lipari 8 27153,2 1445,9 4939,1 23207,9 5085,0 18,78 4,70 1,03 3,52
+Lipari 9 27522,8 1645,8 5056,6 25058,2 5293,2 16,72 4,96 1,05 3,22
+Lipari 10 27710,3 1550,8 5370,5 24577,1 5380,3 17,87 4,58 1,00 3,47
+Lipari 11a 27792,2 1498,7 5441,0 24586,4 5394,7 18,54 4,52 0,99 3,60
+Pant. 2 B.V. 9994,0 102,8 11309,3 163260,5 35707,2 97,19 14,44 3,16 347,23
+Pant. 4 B.V. 9965,1 102,8 11474,8 163782,2 35886,6 96,91 14,27 3,13 348,99
+Pant. 6 S.V. 12844,4 169,5 15749,0 197163,1 44642,3 75,79 12,52 2,83 263,43
+Pant. 9 S.V. 12810,8 145,5 15430,4 196728,6 44302,6 88,05 12,75 2,87 304,50
+Pant. 17 S.V. 12919,4 143,4 15849,9 198940,9 45058,2 90,07 12,55 2,84 314,12
+Pant. 20 S.V. 12931,0 149,4 15930,2 198801,0 44935,7 86,55 12,48 2,82 300,76
+Gyali 5 13891,5 7257,1 2145,9 15701,4 2888,8 1,91 7,32 1,35 0,40
+Gyali 7 13917,1 7228,9 2175,2 15678,6 2894,7 1,93 7,21 1,33 0,40
+Gyali 8 13909,0 7289,7 2166,5 15670,4 2879,7 1,91 7,23 1,33 0,40
+Gyali 11 13875,8 7449,9 2136,9 15562,5 2920,7 1,86 7,28 1,37 0,39
+Gyali 14 13919,8 7012,8 2170,8 15626,8 2901,5 1,98 7,20 1,34 0,41
+Gyali 15 13936,5 7003,1 2186,8 15525,7 2899,2 1,99 7,10 1,33 0,41
+Gyali 19 13921,9 6877,8 2199,6 15735,2 2913,0 2,02 7,15 1,32 0,42
+Melos 1_1 11351,9 7499,4 1593,4 12307,0 3094,3 1,51 7,72 1,94 0,41
+Melos 2_1 11124,2 10324,1 1965,1 15249,0 1418,6 1,08 7,76 0,72 0,14
+Melos 3_1 11085,3 10546,3 1942,1 15576,7 1459,5 1,05 8,02 0,75 0,14
+Melos 4_1 10908,6 9941,3 1793,5 14443,8 1398,6 1,10 8,05 0,78 0,14
+Melos 7_1 10780,2 9860,2 1802,6 14366,8 1371,6 1,09 7,97 0,76 0,14
+Melos 8_1 11143,2 10232,4 1872,3 15122,9 1424,1 1,09 8,08 0,76 0,14
+Melos 9_1 11190,1 10319,2 2019,8 15501,3 1442,1 1,08 7,67 0,71 0,14
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e1781745. Tests of the ability to create a shared WD-XRF database for
+obsidian samples
+As argued before, the potential for creating a shared WD-XRF
+database depends fundamentally on the analytical procedures
+adopted to collect X-ray intensities. These are essentially:
+1) the use of Mylar;
+2) the target of the X-ray tube;
+3) the power supply, kV and mA, of the X-ray tube;
+4) the use of different spectrometers.
+5.1. The use of Mylar
+To verify the possibility of using a Mylar© polyester film during
+the characterisation of obsidian artifacts, the powdered pellets of
+Lipari rocks were re-analysed, covering their surface with a double
+Mylar film. The X-ray intensity ratio obtained clearly showed that
+the data obtained with and without the use of Mylar coincide
+perfectly (Fig. 6a).
+5.2. The target of the X-ray tube
+Rb, Sr, Y, Zr and Nb are normally detected using an Ag (Leoni and
+Saitta, 1976) or Rh X-ray tube. To simulate the possibility of
+changing the X-ray tube, powdered obsidian samples of the Mediterranean basin were also analysed using different filters; in
+particular an Al 200 mm tick filter (for samples from Lipari only), an
+Al 750 mm tick filter (for all the samples) and a brass 100 mm tick
+filter (for all the samples). A rapid examination of the results (Fig. 6)
+shows that the Al 200 mm tick and 750 mm tick filters have no in-
+fluence on the X-ray intensity ratio whilst the brass 100 mm tick
+filter appreciably shifts the ratios (Fig. 6a); the use of a log-log plot
+(Fig. 6b), that minimizes non-significant differences, shows that
+even using a 100 mm tick brass filter all the Mediterranean source
+areas are clearly distinguishable.
+5.3. The power supply, kV and mA, of the X-ray tube
+Testing the variation of the power supply of the X-ray tube is
+very important: according to Kramers’ law the intensity of the
+bremsstralung depends strongly on the target, the current and the
+voltage of the tube but its shape is largely voltage-controlled. This is
+particularly important for the elements Rb, Sr, Y, Zr and Nb because
+their Ka emissions are on the descending slope of the bremsstralung of an Ag or Rh X-ray tube. The change in intensity and shape of
+the bremsstralung can be easily calculated (Leoni and Saitta, 1976),
+and consequently the background can be correctly subtracted.
+There remains the problem that in the case of Rb, Sr, Y, Zr and Nb
+even a small variation in the exciting radiation, in this case mainly
+the bremsstralung, could lead to a variation, for the same sample, in
+their X-ray intensity ratio.
+The powdered obsidian samples from the Mediterranean basin
+were also measured using an X-ray tube power supply of 60 kV
+40 mA (for samples from Lipari only) and of 40 kV 60 mA (for all the
+samples). The latter condition is unusual because heavy elements
+such as Rb, Sr, Y, Zr and Nb are normally analysed with kV that are
+Table 1 (continued )
+Rb Sr Y Zr Nb Rb/Sr Zr/Y Nb/Y Nb/Sr
+Melos 10_1 11030,0 10096,6 1838,3 14772,8 1400,9 1,09 8,04 0,76 0,14
+Melos 11_1 11315,2 10527,2 2067,4 15938,9 1462,8 1,07 7,71 0,71 0,14
+Melos 12_1 10203,3 9244,3 1582,3 12947,7 1237,1 1,10 8,18 0,78 0,13
+Melos 13_1 11259,2 10836,7 2143,9 16516,1 1456,3 1,04 7,70 0,68 0,13
+Melos 14_1 10394,1 11105,0 1980,0 16443,7 1350,9 0,94 8,30 0,68 0,12
+Melos 15_1 9710,9 9531,9 1588,1 13449,5 1185,3 1,02 8,47 0,75 0,12
+Melos 16_1 10921,6 10500,5 1962,0 15592,8 1397,2 1,04 7,95 0,71 0,13
+Melos 17_1 11068,4 10231,2 1910,7 15082,5 1443,4 1,08 7,89 0,76 0,14
+Melos 18_1 11228,9 10340,4 1965,4 15417,1 1403,2 1,09 7,84 0,71 0,14
+Melos 19_1 11071,2 10180,3 1889,9 14972,5 1410,3 1,09 7,92 0,75 0,14
+Melos 20_2 9867,4 11016,3 1645,8 15084,9 1279,1 0,90 9,17 0,78 0,12
+Melos 21_2 10178,3 11459,6 1796,9 16135,0 1312,8 0,89 8,98 0,73 0,11
+Melos 22_2 10228,2 11610,0 1880,4 16498,6 1313,2 0,88 8,77 0,70 0,11
+Fig. 5. Plots of WD XRF X-ray intensity ratios of some contiguous trace elements of geological samples from various obsidian sources of Mediterranean basin (same localities as in
+Acquafredda et al., 1999).
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178 175higher than the mA; in fact the excitation of these elements with an
+X-ray tube current greater than its acceleration voltage, using the
+same total power, greatly decreases the X-ray counts produced on
+the sample.
+Again, a glance at the results (Fig. 6a) shows that the power
+supply of 60 kV 40 mA has no influence on the X-ray intensity ratio
+but the power supply of 40 kV 60 mA appreciably shifts the ratios
+(Fig. 6a); the use of a log-log plot (Fig. 6b), that minimizes nonsignificant differences, shows that even using the inadvisable power supply of 40 kV 60 mA all the Mediterranean source areas are
+clearly distinguishable.
+5.4. The use of different spectrometers
+Finally, the X-ray ratios presently measured using a Panalytical
+AXIOS-Advanced spectrometer equipped with a 4 kW Rh end
+window X-ray tube, were compared with the data obtained using a
+Philips PW1480 automatic spectrometer equipped with a 3 kW Rh
+side window X-ray tube (Acquafredda et al., 1999; De Francesco
+et al., 2011).
+The main differences between the two types of spectrometer
+are:
+i) the X-ray tube-sample distance (smaller in the case of the
+AXIOS spectrometer);
+ii) the distance between the lamellae of the primary collimator
+(150 mm for the AXIOS spectrometer and 300 mm for the
+PW1480 spectrometer);
+iii) the X-ray tube power supply set at 60 kV, 66 mA for the
+AXIOS spectrometer (this research) and at 80 kV, 35 mA for
+the PW1480 spectrometer (Acquafredda et al., 1999);
+iv) the different efficiencies of the scintillator detector.
+The comparison of the data obtained with the two different
+spectrometers (Fig. 7) clearly shows that there is a good fit between
+data obtained with different instruments and also in different
+research laboratories: evidently the distance from the X-ray tube
+and the sample, the distance between the lamellae of the primary
+collimator, and so on, only have a negligible influence on the X-ray
+intensity ratio of the trace elements Rb, Sr, Y, Zr and Nb.
+6. A quick verification of the proposed method using Apulian
+Neolithic obsidians
+The proposed XRF method was tested by analyzing Neolithic
+obsidians from the four Apulian sites of Ripa Tetta at Lucera (seven
+samples), Palestra ex G.I.L. at Foggia (four samples), Pulo di Molfetta
+(Acquafredda and Muntoni, 2008: five samples) and Grotta di Santa
+Barbara at Polignano a Mare (Acquafredda and Larocca, 2017: one
+sample) whose source outcrops were also determined by SEM-EDS:
+the analytical results gave the same provenance indication using
+the data obtained with SEM-EDS or XRF peak intensity ratios
+(Fig. 8).
+Four samples from Ripa Tetta, characterized with SEM-EDS,
+have SiO2 and CaO contents that make it uncertain whether they
+come from the Lipari or Monte Arci or Palmarola outcrops; this is
+certainly due to the presence of a very fine carbonate encrustation
+covering the surface of the samples (Acquafredda and Muntoni,
+2008). To attribute them with certainty to one of the Mediterranean outcrops using the SEM-EDS technique, it is possible to submerge the specimen in cold acetic acid for at least 24 h to remove
+the carbonate film (Acquafredda and Muntoni, 2008); after the
+chemical attack with acetic acid the polished surface of the
+obsidian can be easily re-analysed using ED microanalysis. The
+uncertain attribution of these samples can also be resolved, again
+with SEM-EDS, by analyzing the very tiny microphenocrysts present in the glass as suggested in Acquafredda and Muntoni (2008).
+Alternatively, the provenance of the obsidian can be characterized
+by WD-XRF using the X-ray intensity ratios of trace elements such
+as Rb, Sr, Y, Zr and Nb (Fig. 8) avoiding any chemical treatment; in
+fact the very fine carbonate films covering the specimen surface
+absorb the intensity of these trace elements only minimally, and in
+any case do not alter their ratio.
+The two Neolithic sites, whose obsidian provenance data are
+presented here for the first time (Ripa Tetta at Lucera, Palestra ex
+G.I.L. at Foggia), are two of the ditched villages typical of the Early
+and Middle Neolithic in the Apulian Tavoliere area (southern Italy).
+The Tavoliere plain, the most extensive alluvial basin in southern
+Italy (about 4600 km2 ), was densely settled in the Neolithic period
+from 6200 to 4000 BC. During this time the plain was the scene of
+systematic agricultural exploitation and animal husbandry.
+Neolithic groups adapted their productive economy to the favourable and homogeneous environments provided by geology and
+climate. These villages have one or more large, circular, often
+concentric ditches enclosing inhabited areas subdivided by broad
+empty spaces.
+The Ripa Tetta village (Lucera, FG), one of these settlements, was
+the object of regular excavations by the University of Pisa, Dipartimento di Scienze Archeologiche, from 1982 to 1992 (Tozzi, 2002).
+The site was surrounded by one small circular ditch and was settled
+Fig. 6. Plots of WD XRF X-ray intensity ratios of some contiguous trace elements of geological samples from various obsidian sources of the Mediterranean basin (symbols as in
+Fig. 5). a) Lipari X-ray intensity under different analytical conditions: using double mylar film, using an Al filter 200 mm thick, using an Al filter 750 mm thick, using a brass filter
+100 mm thick, changing the X-ray power supply from the usual 60 kV 66 mA to 60 kV 40 mA, changing the X-ray power supply from the usual 60 kV 66 mA to 40 kV 60 mA; in the
+inset a zoom on the Lipari data. b) a log-log plot of the X-ray intensity ratios obtained under different analytical conditions (using an Al filter 750 mm thick, using a brass filter
+100 mm thick, using a power supply of 40 kV 60 mA) is also plotted for all the Mediterranean sources.
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178176in the Early Neolithic period. Extensive excavations in two inner
+areas have shown reliable domestic structures, whose spaces were
+functionally organised, with stone footings and a wooden frame
+with a daub covering. Outside functional areas (structured firing
+places, post-holes, etc.) and some burials were identified, all dated
+to an advanced phase of the Early Neolithic (as evidenced by the
+single radiocarbon date of 6890 ± 60 BP).
+The so called Palestra ex G.I.L. area in the centre of the modern
+city of Foggia (FG), where clear evidence of one or more Neolithic
+villages had previously been found, was the object of a rescue
+excavation by the Soprintendenza Archeologia della Puglia in 2013
+(Muntoni and Scopece, 2014). Intensive excavations have shown
+reliable stratified cultural deposits within one large circular ditch,
+settled in the Middle Neolithic period, with two human burials, one
+of them is dated to 6152 ± 45 BP and to 6066 ± 45 BP.
+Lipari appears to have been the main source of obsidian in the
+central Mediterranean area and it clearly has the widest distribution throughout Italy. Only four Ripa Tetta obsidian samples came
+from Palmarola. Our results, therefore, are consistent with those
+observed at many other Early to Late Neolithic sites in southern
+Italy: obsidian from Lipari is predominant, and sometimes the only
+source present, in all Neolithic periods. Obsidian from the Aeolian
+Archipelago was probably traded to the southern Italian peninsula
+by sea and along inland routes. The presence of Palmarola obsidian
+at Early Neolithic sites in the Tavoliere, such as Ripa Tetta, together
+with artifacts from Lipari, suggest land-based and trans-Apennine
+exchange networks from the Tyrrhenian coast to inland Irpinia and
+then to the Tavoliere, the Ofanto Valley and the Murge Plateau
+along the Adriatic coast.
+7. Conclusion
+The X-ray fluorescence technique using peak intensity ratios of
+trace elements provides very good, reproducible, shareable and
+cheap data for provenance information on obsidian samples,
+especially in the case of slight alterations particularly affecting the
+alkali cations of the artifact (Acquafredda and Muntoni, 2008;
+Acquafredda et al., 2013). This analytical method is particularly
+useful for obsidian samples covered by thin carbonate encrustations or for specimens whose surface, when very pore-rich, is
+difficult to analyze with other methodologies like LA-ICP MS or
+SEM-EDS (Acquafredda and Muntoni, 2008; Acquafredda et al.,
+2013).
+This technique is a very powerful tool for creating a shareable
+database useful for Mediterranean obsidian provenance attribution
+because it is very rapid (about 20 min per sample), reproducible,
+accurate, inexpensive, non-destructive and easily used because XRF
+equipment is fairly widespread in many research laboratories.
+An accurate measurement of refined X-ray emission lines, that
+exclude the X-ray background contribution, made it possible to
+Fig. 7. log-log plots of WD XRF X-ray intensity ratios of some contiguous trace elements of geological samples from various obsidian sources of the Mediterranean basin (symbols as
+in Fig. 5). In the left figure are reported in grey the X-ray intensity ratio data of Acquafredda et al. (1999); in the right figure are reported in grey the X-ray intensity ratios data of De
+Francesco et al. (2011).
+Fig. 8. Provenance attribution of selected obsidian samples from the Neolithic sites of Ripa Tetta at Lucera, Palestra ex G.I.L. at Foggia, Pulo di Molfetta (Acquafredda and Muntoni,
+2008) and Grotta di Santa Barbara at Polignano a Mare (Acquafredda and Larocca, 2017), present in Puglia (southern Italy). On the left the attribution to a source with SEM-EDS
+analysing the glass of the samples and on the right the attribution to the same provenance using WD-XRF (in the inset a zoom of the attribution of the samples from Lipari). For the
+uncertainty of the attribution of some Ripa Tetta samples by SEM-EDS see the discussion in the text.
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178 177determine the source geological outcrop of obsidian samples as
+small as 7 mm and as light as 40 mg.
+The Rb, Sr, Y, Zr, Nb peak intensity ratio data are absolutely
+comparable between different laboratories provided they are
+perfectly purified from the contribution of the background and
+from interelemental interferences: analytical results obtained with
+two XRF spectrometers, of different generation and differently
+calibrated, validated the possibility to generate a shareable
+database.
+A quick verification on Apulian Neolithic obsidians, whose
+provenance was also determined using other techniques, guarantees the accuracy of the method.
+Acknowledgments
+Many thanks to the archaeologists Prof. Carlo Tozzi of the University of Pisa, and Dr. Marta Colombo, who kindly provided the
+obsidian artifacts from Ripa Tetta.
+SEM-EDS analyses were performed with a SDD detector of
+“Laboratorio per lo Sviluppo Integrato delle Scienze e delle TEcnologie dei Materiali Avanzati e per dispositivi innovativi (SISTEMA)” of the University of Bari.
+References
+Acquafredda, P., Andriani, T., Lorenzoni, S., Zanettin, E., 1999. Chemical characterization of obsidians from different Mediterranean sources by non-destructive
+SEM-EDS analytical method. J. Archaeol. Sci. 26, 315e325.
+Acquafredda, P., Paglionico, A., 2004. SEM-EDS microanalyses of microphenocrysts
+of Mediterranean obsidians: a preliminary approach to source discrimination.
+Europ. J. Mineral. 16, 419e429.
+Acquafredda, P., Muntoni, I.M., 2005. Provenienza delle ossidiane di Masseria
+Candelaro (Manfredonia) mediante analisi chimiche non distruttive. In:
+Cassano, S.M., Manfredini, A. (Eds.), Masseria Candelaro: Vita Quotidiana e
+Mondo Ideologico in una Comunita Neolitica del Tavoliere. Claudio Grenzi,
+Foggia, pp. 358e364.
+Acquafredda, P., Muntoni, I.M., 2008. Obsidian from Pulo di Molfetta (Bari, southern
+Italy): provenance from Lipari and first recognition of a Neolithic sample from
+Monte Arci (Sardinia). J. Archaeol. Sci. 35, 947e955.
+Acquafredda, P., Mitolo, D., Muntoni, I.M., 2011. Provenienza di ossidiana di Selva dei
+Muli (Frosinone). Origini 33, pp. 233e236.
+Acquafredda, P., Larocca, F., 2017. Caratterizzazione archeologica e petrografica di
+manufatti neolitici dalla grotta di Santa Barbara (Polignano a Mare, Bari). In:
+Radina, F. (Ed.), Preistoria e Protostoria della Puglia, Istituto Italiano di Preistoria
+e Protostoria, Firenze, pp. 779e783.
+Acquafredda, P., Muntoni, I.M., Pallara, M., 2013. SEM-EDS and XRF characterization
+of obsidian bladelets from Portonovo (AN) to identify raw material provenance.
+Origini 35, 69e82.
+Chataigner, C., Gratuze, B., 2014a. New data on the exploitation of obsidian in the
+southern Caucasus (Armenia, Georgia) and eastern Turkey, Part 1: Source
+characterization. Archaeometry 56, 25e47.
+Chataigner, C., Gratuze, B., 2014b. New data on the exploitation of obsidian in the
+southern Caucasus (Armenia, Georgia) and eastern Turkey, Part 2: Obsidian
+procurement from the Upper Palaeolithic to the late Bronze age. Archaeometry
+56, 48e69.
+Conrey, R.M., Goodman-Elgar, M., Bettencourt, N., Seyfarth, A., Van Hoose, A.,
+Wolff, J.A., 2014. Calibration of a portable X-ray fluorescence spectrometer in
+the analysis of archaeological samples using influence coefficients. Geochem.
+Explor. Environ. Anal. 14, 291e301.
+De Francesco, A.M., Crisci, G.M., Bocci, M., 2008. Non-destructive analytic method
+using XRF for determination of provenance of archaeological obsidians from the
+Mediterranean area: A comparison with traditional XRF methods. Archaeometry 50, 337e350.
+De Francesco, A.M., Bocci, M., Crisci, G.M., 2011. Non-destructive applications of
+wavelength XRF in obsidian studies. In: Shackley, M.S. (Ed.), X-Ray Fluorescence
+Spectrometry (XRF) in Geoarchaeology. Springer, New York-Heidelberg,
+pp. 81e107.
+Forster, N., Grave, P., 2012. Non-destructive PXRF analysis of museum-curated
+obsidian from the Near East. J. Archaeol. Sci. 39, 728e736.
+Frahm, E., 2014. Characterizing obsidian sources with portable XRF: Accuracy,
+reproducibility, and field relationships in a case study from Armenia.
+J. Archaeol. Sci. 49, 105e125.
+Frahm, E., Doonan, R.C.P., Kilikoglou, V., 2014a. Handheld portable X-ray fluorescence of Aegean obsidians. Archaeometry 56, 228e260.
+Frahm, E., Schmidt, B., Gasparyan, B., Yeritsyan, B., Karapetian, S., Meliksetian, K.,
+Adler, D.S., 2014b. Ten seconds in the field: rapid Armenian obsidian sourcing
+with portable XRF to inform excavations and surveys. J. Archaeol. Sci. 41,
+333e348.
+Gratuze, B., Blet-Lemarquand, M., Barrandon, J.N., 2001. Mass spectrometry with
+laser sampling: a new tool to characterize archaeological materials. J. Radioanal.
+Nucl. Chem. 26, 869e881.
+Leoni, L., Saitta, M., 1976. X-ray fluorescence analysis of 29 trace elements in rock
+and mineral standards. Rendiconti della Soc. Ital. Mineral. Petrol. 32, 497e510.
+Luglie, C., 2012. From the perspective of the source. Neolithic production and exchange of Monte Arci Obsidians (Central-Western Sardinia). Rubricatum Rev.
+del Museu de Gava 5, 173e180.
+Milic, M., 2014. PXRF characterisation of obsidian from central Anatolia, the Aegean
+and central Europe. J. Archaeol. Sci. 41, 285e296.
+Millhauser, J.K., Rodríguez-Alegría, E., Glascock, M.D., 2011. Testing the accuracy of
+portable X-ray fluorescence to study Aztec and Colonial obsidian supply at
+Xaltocan, Mexico. J. Archaeol. Sci. 38, 3141e3152.
+Muntoni, I.M., Scopece, N., 2014. Palestra ex GIL (Foggia, Prov. di Foggia). Notiziario
+di Preistoria e Protostoria 1, 61e62.
+Nazaroff, A.J., Prufer, K.M., Drake, B.J., 2010. Assessing the applicability of portable
+X-ray fluorescence spectrometry for obsidian provenance research in the Maya
+lowlands. J. Archaeol. Sci. 37, 885e895.
+Nelson, D.E., D’Auria, J.M., Bennett, R.B., 1975. Characterization of Pacific Northwest
+coast obsidian by X-ray fluorescence analysis. Archaeometry 17, 85e97.
+Phillips, S.C., Speakman, R.J., 2009. Initial source evaluation of archaeological
+obsidian from the Kuril Islands of the Russian Far East using portable XRF.
+J. Archaeol. Sci. 36, 1256e1263.
+Ruste, J., 1979. X-ray spectrometry. In: Maurice, F., Meny, L., Tixier, R. (Eds.),
+Microanalysis and Scanning Electron Microscopy. Les Editions de Physique,
+Orsay, pp. 215e267.
+Shackley, M.S., 2012. Portable X-ray Fluorescence Spectrometry (pXRF): the Good,
+the Bad, and the Ugly. Archaeol. Southwest Mag. 26 (2) available online: http://
+www.archaeologysouthwest.org/pdf/pXRF_essay_shackley.pdf.
+Tozzi, C., 2002. Ripa Tetta. In: Fugazzola Delpino, M.A., Pessina, A., Tine, V. (Eds.), Le
+Ceramiche Impresse nel Neolitico Antico, Italia e Mediterraneo. Istituto Poligrafico e Zecca dello Stato, Rome, pp. 579e588.
+Tykot, R.H., 2002. Chemical fingerprinting and source tracing of obsidian: the
+central Mediterranean trade in black gold. Accounts Chem. Res. 35, 618e627.
+P. Acquafredda et al. / Quaternary International 468 (2018) 169e178178

@@ -1,0 +1,4 @@
+SiO2,Al2O3,TiO2,Fe2O3,MgO,CaO,Na2O,K2O,P2O5,MnO,BaO,Total,source_raw,source,sample_id,site,notes,verification_flag,paper,year,method,method_tier,units
+74.9,11.14,0.1,2.85,0,0.08,5.72,4.13,0.01,0.04,0.02,99,Bingôl A,BingolA,,,"Mean rows only; Bingöl A; oxides in wt%, not converted to elemental ppm",False,Rosen et al. 2011,2011,Electron Microprobe,2,oxide wt%
+74.76,10.6,0.12,3.35,0,0.14,5.5,4.48,0.01,0.04,0,99,Bingôl A,BingolA,,,"Mean rows only; Bingöl A; oxides in wt%, not converted to elemental ppm",False,Rosen et al. 2011,2011,Electron Microprobe,2,oxide wt%
+74.74,10.62,0.12,3.29,0,0.15,5.6,4.4,0.01,0.05,0,99,Bingôl A,BingolA,,,"Mean rows only; Bingöl A; oxides in wt%, not converted to elemental ppm",False,Rosen et al. 2011,2011,Electron Microprobe,2,oxide wt%

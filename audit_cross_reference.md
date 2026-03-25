@@ -10,13 +10,13 @@ Below is every paper/study referenced across your xlsx files, mapped against wha
 
 | Paper | Table Location | Article File | Method | Units |
 |-------|---------------|--------------|--------|-------|
-| Milic 2014 | `data1.xlsx`, `Milic 2014.xlsx` | — | pXRF | ppm |
-| Campbell and Healey 2016 | `data1.xlsx`, `campbell and healey 1.xlsx`, `campbell and healey 2.xlsx` | — | pXRF | ppm |
+| Milic 2014 | `data1.xlsx`, `Milic 2014.xlsx` | `Milic_2014.txt` | pXRF | ppm |
+| Campbell and Healey 2016 | `data1.xlsx`, `campbell and healey 1.xlsx`, `campbell and healey 2.xlsx` | `Campbell and Healey 2016.txt` | pXRF | ppm |
 | Frahm 2013 | `data1.xlsx`, `Frahm 2013.xlsx` | `Frahm_2013.txt` | pXRF (HHpXRF) | ppm — Rb, Sr, Zr, Zn, Mn, Ti with error columns |
 | Morgan 2015 | `data1.xlsx`, `Morgan 2015.xlsx` | — | pXRF | ppm |
-| Schechter et al 2016 | `data1.xlsx`, `Schechter et al 2016.xlsx` | — | pXRF | ppm |
+| Schechter et al 2016 | `data1.xlsx`, `Schechter et al 2016.xlsx` | `Schechter_et_al_2016.txt` | pXRF | ppm |
 | Khalidi, Gratuze & Boucetta 2009 | `data1.xlsx`, `Khalidi Gratuze Boucetta 2009.xlsx` | `khalidi Gratuze 2009.txt` | LA-ICP-MS | ppm |
-| Frahm and Hauck 2017 | `data1.xlsx`, `Frahm and Hauck 2017.xlsx` | — | Mixed (comparison table of many techniques) | ppm |
+| Frahm and Hauck 2017 | `data1.xlsx`, `Frahm and Hauck 2017.xlsx` | `Frahm and Hauck 2017.txt` | Mixed (comparison table of many techniques) | ppm |
 | Carter and Shackley 2007 | `data2.xlsx` | `Carter_and_Shackley_2007.txt` | EDXRF | ppm |
 | Carter et al. 2006 | `data2.xlsx` | `Carter_et_al_2006.txt` | ICP-AES/ICP-MS | mixed (oxides wt% + ppm) |
 | Forster and Grave 2012 | `data2.xlsx` | `Forster_and_Grave_2012.txt` | pXRF | mixed (oxides wt% + ppm) |
@@ -28,6 +28,7 @@ Below is every paper/study referenced across your xlsx files, mapped against wha
 | Poupeau et al. 2010 | `data2.xlsx` | `Poupeau_et_al_2010.txt` | PIXE | ppm/wt% |
 | Carter et al. 2017 | `data2.xlsx` | `Carter_2017_Investigating_Pottery_Neolithic_Shaar_Hagolan.txt` | EDXRF | ppm |
 | Rosenberg, Carter et al. 2022 | `Carter_Rosenberg_2022_Tel_Tsaf.xlsx` | `Carter_2022_Obsidian_Beads_Tel_Tsaf.txt` | EDXRF | ppm |
+| Acquafredda et al. 2018 | `data2.xlsx` | `Acquafredda_et_al_2018.txt` | XRF | ppm — Italian/Sardinian sources (Arci, Palmarola, Lipari, Pantelleria) |
 
 ## B. Papers WITH data tables but NO matching article in `articles/`
 
@@ -43,7 +44,7 @@ These are studies you have extracted data from but don't have the article text a
 | **Frahm 2014** | `data2.xlsx` (empty sheet!) | pXRF | Sheet exists but contains no data. Article (`Frahm_2014.txt`) confirmed: Bronze Age Northern Mesopotamia blade production — no elemental concentration tables. Sheet will remain empty. |
 | **Oddone et al. 1997** | `data2.xlsx` | NAA | Göllü Dağ source data (WGD, EGD) |
 | **Carter et al. 2013 (Kenan Tepe)** | `data2.xlsx` | EDXRF | Kenan Tepe data, Bingöl assignments — distinct from Orange/Carter 2013 (Tell Aswad) and Carter/Grant 2013 (Körtik Tepe) |
-| **Acquafredda et al. 2018** | `data2.xlsx` | XRF | Italian/Sardinian obsidian (Arci) — may not be relevant |
+| **Acquafredda et al. 2018** | `data2.xlsx` | XRF | Italian/Sardinian obsidian (Arci) — moved to Section A (article now available: `Acquafredda_et_al_2018.txt`) |
 | **Bressy et al. 2005** | `data2.xlsx` | ICP-AES/ICP-MS | Referenced for EGD, Bingöl A/B comparisons |
 | **Ozdemir et al. 2006** | `data2.xlsx` | LA-ICP-MS | Nemrut data |
 | **Kelle and Seifried 1990** | `data2.xlsx` Frahm & Hauck sheet | WDXRF | Göllü Dağ reference data |

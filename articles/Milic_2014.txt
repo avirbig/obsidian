@@ -1,0 +1,954 @@
+PXRF characterisation of obsidian from central Anatolia, the Aegean
+and central Europe
+Marina Milic*
+Institute of Archaeology, University College London, 31-34 Gordon Square, London WC1H 0PY, United Kingdom
+a r t i c l e i n f o
+Article history:
+Received 3 October 2012
+Received in revised form
+8 July 2013
+Accepted 2 August 2013
+Keywords:
+Obsidian sourcing
+pXRF
+Aegean
+Anatolia
+Carpathians
+Neolithic
+Mass sampling
+Multiple distributions
+a b s t r a c t
+The obsidian sources of central Anatolia, the Aegean and central Europe have been studied in detail over
+the past 50 years. Various analytical techniques have been employed to discriminate artefacts from each
+of these and to reconstruct their zones of distribution. This paper presents a pXRF method that allows
+mass sampling of artefacts focusing on three neighbouring regions, particularly where these zones
+overlap. Successful discrimination of the obsidian source for products could be achieved using threedimensional scatter plots of trace elements RbeSreZr. PXRF can thus be appreciated as a powerful
+tool in the region, enabling non-destructive on-site analyses in contexts where the export of artefacts is
+often difficult if not impossible. The ability to rapidly process large assemblages also has major implications for generating data-sets of sufficient resolution to transform archaeological interpretation.
+Ó 2013 Elsevier Ltd. All rights reserved.
+1. Introduction
+A wide range of scientific methods have been developed to
+analyse the origins of obsidian artefacts and raw materials, and by
+extension to investigate peoples’ movements and interactions. This
+paper deals with the capabilities of a portable X-ray fluorescence
+(pXRF) instrument to discriminate obsidian artefacts that were
+found on the sites located in a wide area incorporating the Balkans,
+Aegean and western Anatolia. The point of departure is the identification and study of a region(s) supplied by one or more obsidian
+sources forming, what one might term, overlap zones between
+different obsidian distributions (Fig. 1). The artefacts found in these
+regions are products of obsidian outcrops in 1) central Anatolia
+(Göllü Dag and Nenezi Dag), 2) the Aegean (Adamas and Demenegaki on the island of Melos and sources on Antiparos and Giali),
+and 3) Central Europe (Carpathian 1 and Carpathian 2). The aim is
+to discriminate obsidian types that have been found in archaeological contexts in neighbouring geographical regions, particularly
+in the Aegean area, where multiple obsidian distributions occur
+during the Neolithic period. This actively leads us to the question of
+contacts, trade, choice and other social processes that these communities were involved in.
+Obsidian from more than one source is present in several assemblages from the above regions (e.g. Çatalhöyük, Turkey (Carter
+and Milic, 2013a), Vinca, Serbia (Tripkovic and Milic, 2008), Keros in
+the Cyclades (Carter and Milic, 2013b)), and so it became clear that
+some sites and/or regions had access to obsidian from more than
+one source (based on analytical work or visual inspection). For this
+present study, the use of pXRF was chosen as the most suited
+analytical method in order to sample the majority of artefacts in
+each assemblage. My intention has been to develop a field method
+that enables analyses of large obsidian assemblages that can capture the true variability of raw materials, along with the relationship between raw materials and the technological form in which
+they appear. Another aim is to systematically integrate social theory
+and scientific practice through practical work, using methods
+readily accessible to most archaeologists.
+Given that chipped stone assemblages often contain obsidian from
+multiple sources, whether the case is small-scale site-level project or
+large-scale, regional research, it is valuable to analyse a large sample
+of obsidian artefacts. Site-level analyses are typically looking for
+temporal and spatial pattern and changes in obsidian supply (e.g.
+Çatalhöyük (Carter et al., 2005)), studies at the regional scale typically
+aim to reconstruct exchange networks amongst groups of sites.
+In this paper I will assess the usability of pXRF for the purposes
+outlined here through analysis of geological samples of known
+origin from the aforementioned three source regions to establish
+the parameters of trace element ranges for each as determined by
+* Tel.: þ44 (0) 7503732120.
+E-mail address: milicmarina@gmail.com.
+Contents lists available at ScienceDirect
+Journal of Archaeological Science
+j o u r n a l h o m e p a g e : h t t p : / / w w w . e l s e v i e r . c o m / l o c a t e / j a s
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.08.002
+Journal of Archaeological Science 41 (2014) 285e296the specific instrument in use. The next step is to analyse archaeological obsidians under the same conditions, thereby revealing the
+geological source from which the obsidian originated. This is used
+to address the directionality of connectivity between the communities that receive obsidian. This social perspective is based on the
+relative proportions of obsidians from different sources found at
+each archaeological site, and regional patterns across multiple sites.
+The specific details of the archaeological analyses will not be discussed here, being too extensive for this paper’s objectives, but they
+nonetheless serve to demonstrate the third strand in this paper that
+assesses the specific benefits of mass-sampling to archaeological
+interpretation (Freund, 2012).
+Through tertiary scatter plots of strontium (Sr), zirconium (Zr)
+and rubidium (Rb) it is possible to separate the major obsidian
+types into distinct groups, while discrimination of the Adamas and
+Demenegaki sources on Melos is possible through iron (Fe) and
+titanium (Ti) contents. Two sub-sources within Carpathian 2 source
+could also possibly be separated using Ti and Fe, although a bigger
+sample is required to explore this further.
+1.1. Validity of pXRF
+This study of obsidian from the three volcanic regions is based on
+analyses undertaken solely using pXRF. This is a fast and nondestructive technology that has found considerable support in
+obsidian provenancing studies, and so far has been tested in almost
+all the obsidian using regions of the world (Craig et al., 2007; Golitko
+et al., 2010; Jia et al., 2010; Millhauser et al., 2011; Nazaroff et al.,
+2009; Phillips and Speakman, 2009; Sheppard et al., 2011; Tykot,
+2010). In turn, there has been a healthy associated suite of literature critically reflecting upon the reliability of these ‘fast’ methods in
+archaeology and geology (Craig et al., 2007; Frahm, 2012; Millhauser
+et al., 2011; Nazaroff et al., 2009; Shackley, 2011), that have also dealt
+with precision and comparability of pXRF to other methods, mainly
+to lab-based EDXRF but also INAA and PIXE. These inter-laboratory
+tests have shown the ability of pXRF instruments to effectively
+discriminate different sources, although the elemental concentrations reported were not always comparable to the results produced
+using other instruments without further calibration using regression
+analyses (Craig et al., 2007; Frahm et al., 2013; Millhauser et al., 2011;
+Nazaroff et al., 2009; Shackley, 2011). A critical issue for obsidian
+provenancing, however, is that each instrument, using the method
+described below, will independently, and consistently, provide the
+data that will allow investigator to come to the same archaeologically relevant conclusions, that is provenancing archaeological obsidians to specific geological sources (Frahm, 2012). The aim of this
+study is to test the validity of the INNOV-X pXRF (see below) for the
+discrimination of several obsidian sources conducted through multiple analyses of geological and archaeological materials of known
+provenance. The geological samples were acquired at the quarries
+and the results were compared to the published data from other
+methods. The inter-laboratory study involved the common analysis
+of 16 archaeological artefacts from Çatalhöyük (Turkey) provenanced using EDXRF, PIXE, ICP and pXRF, and 10 source samples from
+Carpathian 1 and 2 analysed with EDXRF and pXRF.
+1.2. Mass-sampling
+PXRF has greater restrictions than lab-based analytical equipment
+for characterising obsidian, and this limits certain applications for
+specifically scientific analyses (Shackley, 2011). The technology can,
+however, produce highly replicable results (precision) in ideal
+Fig. 1. Major obsidian sources in central Anatolia, the Aegean and the Carpathians and related artefact distribution zones (by author).
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296286contexts, though being a hand-held device, practice-based precision
+relates to the actual performance of the user as well as the instrument.
+Scientific intentions aside, our research is often constrained by
+bureaucracy in terms of gaining permission to export items to
+laboratories to conduct analyses. Being a common issue in the areas
+considered in this paper, this has often led to analyses of essentially
+“random” pieces. These may fulfil bureaucratic criteria (‘non
+museum quality’), but often lack techno-typological diagnostics,
+whereby we tend to talk in reductionist terms of “samples” rather
+than characteristic “artefacts” (Carter, 2008, p. 226). These sampling
+protocols can have major implications upon the kinds of questions
+we are able to ask of our material (Carter et al., 2006; Molloy et al., in
+press). Bigger picture stories, such as those created by Renfrew and
+his colleagues in the 1960s, were based on examination of assemblages from dozens of sites. Over the past 50 years the development
+of various analytical methods has allowed us to understand which
+obsidian is circulating in these regions. Building upon this previous
+work, the aim of mass sampling of archaeological obsidian is to
+move forward in the range of social questions that we can answer
+(Freund, 2012). The goal of this new research is not to search for rare
+‘exotic’ pieces but to quantify and qualify entire assemblages as
+close to in toto as practicable. This is done by determining raw
+material provenance ratios, followed by the chaîne opératoire of
+objects in their contextual and regional setting (e.g. Briois et al.,
+1997; Carter and Kilikoglou, 2007; Carter et al., 2006; Freund and
+Tykot, 2011). Through this we can begin to assess preferential access to, or desire for, specific sources at each particular site, and
+discern chronological and geographical variability from local, to
+regional to macro-regional scales. Arguably then, the greatest value
+of pXRF lies in the logistical reality of it being possible to bring it to
+storage locations and mass-sample artefacts.
+A disadvantage of the pXRF technique is the size and
+morphology of some archaeological artefacts we sometimes deal
+with (Liritzis and Zacharias, 2010; though see Frahm, 2012). The
+geological source material analysed in this study is large enough to
+allow the screen of the analyser to be entirely covered to enable
+consistent results. However, when examining archaeological
+pieces, they were often thinner, smaller and irregular (e.g. very thin
+and narrow bladelets and debris). Davis et al. (2011) have shown
+using lab-based XRF techniques that dealing with such small, thin
+artefacts can have an effect upon the precision and accuracy of
+analyses. This was taken into account when selecting artefacts for
+analysis and further quality control of results was possible insofar
+as outliers from known clusters could be readily identified, characterised as problematic readings if the artefacts were of suboptimal morphology, and removed from the data-set.
+2. Background to the source regions
+Since the early work of Cann and Renfrew (1964), there have
+been a large number of projects dedicated to obsidian studies in
+central Anatolia, the Aegean and Carpathians, work that has provided us with a solid evidential basis for understanding the
+composition of these archaeologically significant sources (e.g.
+Williams-Thorpe et al., 1984; Kilikoglou et al., 1996; Poidevin, 1998).
+2.1. Central Anatolia
+A number of obsidian sources are known in central Anatolia
+(Cappadocia), of which the most significant archaeologically are the
+massifs of Göllü Dag and Nenezi Dag (Fig. 1). In the past two decades, these complex sources have been mapped and characterised
+in detail, and their products discriminated through the use of OES,
+SEM-EDS, EDXRF, LA-ICP-MS and PIXE (Binder et al., 2011; Cauvin
+et al., 1998; Gratuze, 1999; Poidevin, 1998; Poupeau et al., 2010).
+These Cappadocian sources were exploited from significant distances away from the Epi-Palaeolithic period ca. 17 000 cal BC)
+onwards (Carter et al., 2011), with raw materials and workshop
+manufactured implements circulating throughout Anatolia, Cyprus
+and the Levant. Small quantities of these Cappadocian obsidians are
+also attested in Western Anatolian and Aegean islands from the late
+Neolithic (in Anatolian terminology; late 7th millennium BC), as far
+west as Crete and the Cyclades in the later periods (Bellot-Gurlet
+et al., 2008; Bergner et al., 2009; Carter and Kilikoglou, 2007;
+Milic, in preparation; Pernicka et al., 1999).
+2.2. The Aegean
+The most archaeologically significant obsidian sources of the
+Aegean are located on the islands of Melos and Antiparos in the
+Cyclades and Giali in the Dodecanese (Fig. 1). Melos represents the
+major obsidian complex in the Aegean with two main outcrops -
+Demenegaki and Adamas (also known as Sta Nychia), which were
+extensively used in prehistory (Carter, 2009; Perlés, 1992; Renfrew
+et al., 1965; Torrence, 1986). Located only ca. 9 km apart ATCF,
+these sources produced obsidian of similar knapping quality and
+elemental composition (Torrence, 1986, p. 96). The discrimination of
+the two Melian sources has been achieved using techniques such as
+OES, NAA, XRF, ICP-AES and SEM-EDS (Acquafredda and Paglionico,
+2004; Aspinall et al., 1972; Kilikoglou et al., 1996; Liritzis, 2008;
+Shelford et al., 1982), with the most commonly used method being
+NAA using the relative concentration of scandium (Sc) (Aspinall
+et al., 1972; Kilikoglou et al., 1996). Shelford et al. (1982) have
+shown XRF to be successful for discriminating the two sources using
+major elements. More recently, through pXRF technology, the Adamas and Demenegaki sources were separated on the basis of Ti and
+Fe content (Frahm et al., 2013; Liritzis, 2008). Unfortunately, since
+the early 1980’s when the two Melian sources could be distinguished, there have been very few larger-scale obsidian characterisation studies of archaeological obsidian from in the Aegean region.
+Obsidian from Antiparos was not used widely in prehistory;
+while the raw material is of good quality the small size of the
+nodules (<5 cm long) restricted its use for making artefacts (Carter
+and Contreras, 2012; Renfrew et al., 1965, p. 232).
+Giali is a small island in the Dodecanese that was a source of
+distinctive white-spotted obsidian. When knapped, it is highly
+translucent (giali means glass, in modern Greek) with crystalline
+inclusions that gave this obsidian poor knapping qualities due to
+unpredictable fracturing patterns, although in the archaeological
+record it appears in the form of carved/ground vessels manufactured from the Middle Bronze Age (Bevan, 2007; Carter, 2009;
+Renfrew et al., 1965), while it was rarely if ever used for tool
+manufacture in the immediate region during later Neolithic.
+2.3. The Carpathians
+The Carpathian sources are located in modern-day Hungary and
+Slovakia in central-eastern Europe (Nandris, 1975; Rosania et al.,
+2008; Williams and Nandris, 1977). Another source area has
+recently been explored in the eastern Carpathians in today’s Ukraine
+(Rosania et al., 2008), though this does not relate to this paper since
+the distribution of this obsidian is still not documented in archaeological contexts. A large number of samples have been analysed from
+these regions using NAA, EDS, XRF, PIXE, PIGE and recently, PGAA
+(Biró et al., 1986; Biró, 2004; Oddone et al., 1999; Rózsa et al., 2006;
+Thorpe, 1978; Williams-Thorpe et al., 1984). The results permitted
+the separation of the Carpathian sources into the Zemplin Hills
+sources in eastern Slovakia (Carpathian 1) and the Tokaj Mountain
+sources in north-eastern Hungary (Carpathian 2), with the latter
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296 287subsequently discriminated into two sub-groups, Erd}obénye C2E
+and Tolcsva C2T (Biró et al., 1986; Williams-Thorpe et al., 1984).
+Unlike the other sources discussed in this paper, today only
+small nodules can be found in soil matrices at the major Carpathian sources. The geological context is often in secondary deposits, in which obsidian occurs as clasts rather than flows
+(Williams and Nandris, 1977). The deposits that were exploited in
+prehistory no longer exist due to natural erosional processes and
+more recent intensive cultivation (Nandris, 1975; Oddone et al.,
+1999). The small size of tools (and cores) from these deposits
+suggest, but do not prove, that the choice of tool size was dictated
+by the geological formation process that did not produce flows
+that could be quarried in the same way as in the Aegean and
+Anatolia.
+3. Multiple distributions and their archaeological
+significance
+The mapping of obsidian circulation through time and space is a
+typical means of displaying and interrogating social behaviour and
+processes, in particular trade/exchange, as most clearly and influentially outlined in the fall-off curves and supply/contact zone
+models of Renfrew et al. (1968).
+In this study I demonstrate discrimination of obsidian from the
+main sources of the Aegean, Carpathians and central Anatolia,
+because they all appear, in various frequencies, on sites in the
+Neolithic Aegean and surrounding mainland, in the Balkans and
+western parts of Anatolia.
+3.1. Overlaps between the Carpathian, Aegean and central
+Anatolian obsidian in the Neolithic period
+The circulation of raw materials from each source region has
+overlaps with the neighbouring region at the edges of their distributions (Fig. 1). The appearance of obsidian from more than one
+source is documented throughout prehistory, although the
+emphasis here is on the Neolithic period of late 7th/beginning of
+6th to the 5th millennium BC.
+The overlap of Carpathian and Aegean obsidian is currently
+known only at the sites of Mandalo (Kilikoglou et al., 1996) and
+Dispilio (Milic, in preparation) in western Macedonia, Greece. In turn,
+the appearance of Aegean and central Anatolian material is
+commonly witnessed in western and north-western Anatolia and
+northern and eastern Aegean, as for example at several locations in
+Izmir region (Morali (Renfrew et al., 1965), Ulucak (Milic, in
+preparation; Çilingiroglu, 2011), Ege Gübre and Yes ̧ ilova (Milic, in
+preparation), Çukariçi Höyük (Bergner et al., 2009) and DedecikHeybelitepe (Herling et al., 2008)), in the Troad (Troy (Pernicka
+et al., 1999), Cos ̧ kuntepe (Perlés et al., 2011) and Gülpinar (Milic, in
+preparation) and Ugurlu on Gokçeada (Milic, in preparation) and
+Marmara region (Barcin Höyük, Aktopraklık, Pendik and Fikirtepe
+(Milic, in preparation)). Finally, tiny quantities of obsidian from both
+Fig. 2. Relative proportion of obsidian at archaeological sites discussed in the text (by author).
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296288Göllü Dag and Melos were found further north in Thrace at Hoca
+Çes ̧ me (Milic, in preparation). One piece out of 13 in total at Sitagroi
+was assigned to Göllü Dag, although it is unstratified and possibly of
+EBA date (Renfrew and Aspinall, 1990, p. 266) (Fig. 2). The most
+eastern penetration of Melian raw material inland into Anatolia and
+its overlap with central Anatolian obsidian distribution has been
+identified at late Chalcolithic Aphrodisias (Blackman, 1986).
+In the Aegean islands, chipped stone assemblages were dominated by Melian products, though small amounts of obsidian from
+central Anatolia have been noticed in assemblages of various dates,
+usually on the basis of macroscopic examination (e.g. Chios (pers.
+obs.), Dodecanese (Sampson, 1987), Cyclades (Carter and Milic,
+2013b) and Crete (Panagiotaki, 1999)).
+3.2. Spatial and chronological significance
+Regional approach of this project permits the investigation of
+patterns arising from the study of many sites, thereby diminishing
+the risk of accentuating differences in a single assemblage and
+having the potential to reflect patterns rather than exceptions.
+Overlaps in raw material distribution were not part of uniform and
+parallel distribution and exchange systems, but in most areas were
+represented by the presence of a ‘main’ raw material from one
+source accompanied by sporadic or occasional pieces from another.
+The frequency of one or more obsidian types varies from site to site,
+and therefore these overlaps need to be considered on a microregional scale. A good example is western Anatolia, where during
+the Neolithic period, the presence of Melian obsidian and central
+Anatolian varies in different areas. Melian is much more frequent in
+the region of Izmir and in the Troad, while in the Marmara in the
+north-west, the more common sources are central Anatolian types
+(Milic, in preparation). Furthermore, the sites within each of these
+micro-regions will have different frequencies of obsidian in total
+and variety of obsidian types (e.g. at Çukariçi Höyük the total
+amount of obsidian is more than 80% (B. Horejs pers. com.) while
+relative proportion of obsidian to other raw materials in neighbouring Ulucak is less than 1% (K. Cooney pers. com.)). In the case of
+tell and multi-period sites, the frequency of one or more obsidian
+types can be observed through their different stratigraphic sequences and time periods (e.g. pers. obs. at Ulucak). Detailed study
+of obsidian assemblages at Çatalhöyük has shown that the occurrence of Göllü Dag and Nenezi Dag obsidian changed radically
+through time, despite the fact that the sources were equidistant
+from the settlement (Carter et al., 2005). Likewise, the procurement
+of the two nearby Melian sources Adamas and Demenegaki might
+be considered as the same social action, given that their setting on
+an island required similar efforts and organisation (Torrence, 1986).
+For these reasons it is important from an archaeological perspective
+to use a method that enables sufficient data to be employed to
+achieve greater statistical validity of the results produced.
+Fig. 2 shows sites that belong to 7/6th and 5th millennia BC
+located in the areas of overlaps of different source groups and general patterns with the percentage of obsidian from each source area.
+This could be analysed further according to specific chronological
+time frames (Early Neolithic, Middle Neolithic, Late Neolithic, Chalcolithic, etc.) and more detailed presence of various sources (Göllü
+Dag and Nenezi Dag in central Anatolia; Adamas and Demenegaki in
+Melos; C1 and C2 in the Carpathians). The intention here is to
+demonstrate the general pattern of directionality of communication,
+and so this more detailed treatment is not pursued.
+4. Sample selection and the analyses
+A total of 52 geological samples were analysed from eight sources:
+Göllü Dag e seven pieces (Bogazköy e two, Kömürcü - two and
+Kayırlı e three), Nenezi Dag e five, Melos Adamas e eight pieces,
+Melos Demenegaki e eleven, Giali e five, Antiparos e one, Carpathian
+1 e seven and Carpathian 2 e eight pieces (analysed on location).
+4.1. The analyses
+The analyses were undertaken using a handheld Olympus
+Innov-X Delta XRF device. The model operates a 40 kV and is
+equipped with the Delta Rhodium (Rh) anode X-Ray tube, and uses
+a Silicon Drift Detector. For the purpose of obsidian sourcing, the
+instrument was set to the ‘Soil setting’ using three-beam mode to
+record a wide range of elements. The “3 beam” soil mode records
+heavy metals, transitional metals and light elements with each of
+the beams. Here, the results of nine elements (Ti, Mn, Fe, Zn, Rb, Sr,
+Zr, Ba, Pb) are detailed, however, the main focus is on the three
+trace elements Rb, Sr and Zr. These are commonly used in obsidian
+provenancing for clustering the source groups. All the data is processed in comma-delimited Excel files including calculated error
+ranges. The quantification is based on Compton peak normalisation,
+with results given as ppm. Each sample was analysed for 10 s per
+beam giving 30 s of total exposure time per sample. Repeated examinations of the samples using different times 20, 30 and 60 s per
+beam shown that 10 s per beam analyses produced matching results (Fig. 4).
+Fig. 3. Three-dimensional scatter plot of Rb, Sr and Zr illustrating the discrimination of
+the sources using pXRF (by author).
+Fig. 4. Three-dimensional scatter plot of Rb, Sr and Zr showing the discrimination of
+the sources using 30, 60 and 90 s exposures (by author).
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296 289All the geological samples were analysed as a whole, with no
+preparation required, apart from simple cleaning. The objects were
+positioned to cover as much as possible of the pXRF scanning
+screen, usually reading the most flat surface of artefacts to ensure
+that the greatest amount of X-rays would be returned from the
+sample (issues of geometry/flat surfaces also detailed in Davis et al.,
+2011). The Innov-X Delta instrument has a screening window about
+10 mm in diameter, while the X-ray source excites a target circle
+with an 8 mm diameter.
+4.2. The results
+The results of nine elements are shown in Table 1, however, the
+trace elements Rb, Sr and Zr proved to be the most informative for
+separating all the reference samples into distinct groups (Fig. 3).
+Their range and mean value are shown in Table 2.
+Table 1
+The concentrations of elements (Ti, Mn, Fe, Zn, Rb, Sr, Zr, Ba, Pb) as determined by pXRF in ppm.
+Source Ti (ppm) Mn (ppm) Fe (ppm) Zn (ppm) Rb (ppm) Sr (ppm) Zr (ppm) Ba (ppm) Pb (ppm)
+Göllü Dag 298 466 4414 20 194 11 76 124 27
+Göllü Dag 312 430 3891 17 179 11 75 117 26
+Göllü Dag 229 463 4225 16 187 12 74 142 25
+Göllü Dag 307 455 4066 14 178 14 75 123 31
+Göllü Dag 237 421 3868 17 176 8 76 107 24
+Göllü Dag 417 425 3949 14 168 14 71 130 26
+Göllü Dag 573 344 4196 20 166 16 69 159 23
+Nenezi Dag 773 497 6653 34 158 99 137 380 37
+Nenezi Dag 812 455 6093 33 148 100 137 374 33
+Nenezi Dag 514 456 5557 29 143 97 132 413 31
+Nenezi Dag 859 439 6779 32 155 99 137 420 36
+Nenezi Dag 807 431 6203 34 156 98 135 396 32
+Melos Adamas 843 440 5821 28 107 102 105 405 18
+Melos Adamas 830 400 5672 26 112 97 111 280 16
+Melos Adamas 954 446 5882 25 111 99 108 338 15
+Melos Adamas 892 442 5859 24 110 103 110 369 14
+Melos Adamas 827 412 5583 27 108 107 107 322 16
+Melos Adamas 830 392 5460 24 103 98 104 310 14
+Melos Adamas 874 417 5171 27 111 93 109 336 14
+Melos Adamas 913 427 5618 21 105 98 102 407 18
+Melos Demenegaki 1158 354 7231 20 97 109 117 339 17
+Melos Demenegaki 1146 399 6902 20 97 105 110 315 15
+Melos Demenegaki 1162 390 6997 27 95 105 112 378 16
+Melos Demenegaki 1125 381 7166 33 98 109 109 255 15
+Melos Demenegaki 1113 379 6849 29 95 108 114 312 13
+Melos Demenegaki 1145 369 6824 27 91 106 112 309 16
+Melos Demenegaki 1294 374 7191 25 98 114 108 304 19
+Melos Demenegaki 1125 432 7276 32 99 110 121 358 10
+Melos Demenegaki 1149 374 6873 32 96 114 115 315 15
+Melos Demenegaki 1163 384 7056 27 98 111 119 323 19
+Melos Demenegaki 1206 412 7218 22 103 114 121 365 15
+Giali 776 251 5111 18 122 62 99 509 24
+Giali 674 257 4552 21 124 60 94 552 20
+Giali 560 219 4221 17 118 66 97 420 21
+Giali 544 239 4513 18 122 64 95 520 19
+Giali 510 212 4484 20 121 61 96 475 21
+Carpathian 1 232 300 5536 23 155 73 69 359 33
+Carpathian 1 188 282 5404 21 154 76 69 326 31
+Carpathian 1 223 305 5261 23 163 77 63 280 32
+Carpathian 1 231 291 4768 22 156 65 62 420 27
+Carpathian 1 231 326 5187 22 172 73 68 305 38
+Carpathian 1 229 308 5456 22 168 75 74 351 33
+Carpathian 1 170 340 5483 20 173 64 67 307 38
+Carpathian 2 1701 421 11 671 46 174 71 128 367 34
+Carpathian 2 364 258 7335 46 185 75 122 408 39
+Carpathian 2 682 300 7315 32 164 70 129 416 28
+Carpathian 2 327 289 7512 37 181 71 126 459 42
+Carpathian 2 326 286 7052 35 165 72 118 407 27
+Carpathian 2 331 296 7108 36 173 72 123 461 27
+Carpathian 2 2356 278 12 551 43 176 73 128 385 38
+Carpathian 2 2032 292 11 361 38 174 74 133 572 33
+Antiparos 439 509 4206 24 367 10 128 153 57
+Table 2
+The range and mean values of Rb, Sr and Zr in obsidian from the sources.
+Source Rb (ppm) Sr (ppm) Zr (ppm)
+Göllü Dag 166e194 8e16 69e76
+Mean 178 12 74
+Nenezi Dag 143e158 97e100 132e137
+Mean 152 99 136
+Melos Adamas 103e112 93e107 102e111
+Mean 108 100 107
+Melos Demenegaki 91e103 105e114 108e121
+Mean 97 110 114
+Antiparos 367 10 128
+Giali 118e124 60e66 94e97
+Mean 121 63 96
+Carpathian 1 154e173 64e77 62e74
+Mean 163 72 67
+Carpathian 2 164e185 71e76 118e140
+Mean 175 73 127
+M. Milic / Journal of Archaeological Science 41 (2014) 285e2962904.3. Central Anatolia
+If we consider the source regions separately we can see that
+Nenezi Dag and Göllü Dag have distinct differences in concentration of some elements, with characteristic (comparatively) low Sr in
+Göllü Dag obsidian (8e16 ppm). Zr is also present in a distinctly
+lower quantity in Göllü Dag (65e100 ppm) while it is considerably
+higher at Nenezi Dag (130e160 ppm).
+Characterisation work on geological and archaeological artefacts from Cappadocia has been conducted using other techniques, allowing comparison of the different methods (Hancock
+and Carter, 2010; Poupeau et al., 2010). Firstly, archaeological
+material from Çatalhöyük has been tested using lab-based
+EDXRF (UC Berkeley), PIXE (CR2PA, Paris), ICP-MS (Grenoble)
+and finally pXRF. Table 3 shows the results of Rb, Sr and Zr using
+these techniques on the same artefacts (also demonstrated in
+Fig. 5).
+Secondly, the results of analyses of the geological samples from
+Göllü Dag and Nenezi Dag that were produced with pXRF are
+compared to the published results of the same sources (Carter and
+Shackley, 2007; Poupeau et al., 2010). Table 4 and Fig. 6 demonstrate that the mean concentration of Rb as measured by pXRF is
+lower than that measured by PIXE and EDXRF at both Göllü Dag and
+Nenezi Dag, while Sr and Zr contained concentrations comparable
+to other techniques (for comparisons see also Hancock and Carter,
+2010).
+4.4. The case of Melos
+The Melian and other two Aegean sources were well discriminated from the other types in Fig. 3. In the cases of Antiparos and
+Giali the situation is also quite clear. PXRF analyses of a small
+nodule from Antiparos gave readings of Rb (367 ppm), Sr (10 ppm),
+and Zr (128 ppm) which clearly chemically separated this source
+from the others analysed. Likewise, the ‘spotty’ Giali glass created a
+distinctive cluster on the diagram with the Rb (118e124 ppm), Sr
+(60e66 ppm) and Zr (94e97 ppm).
+Turning to the Melian sources of Adamas and Demenegaki,
+these two also formed a cluster that stands apart from the other
+source groups with the elemental value ranges Rb (91e112 ppm), Sr
+(93e114 ppm) and Zr (102e121). However, scatter plots of Rb, Sr
+and Zr were unable to separate Adamas from Demenegaki, as their
+concentrations were almost identical (Fig. 3). If we take them apart,
+Adamas has quantities of Rb (103e112 ppm), Sr (93e107 ppm), Zr
+(102e111 ppm) while this is slightly different from Demenegaki
+which has Rb (91e103 ppm), Sr (105e114 ppm), Zr (108e121 ppm).
+Here, it was necessary to plot other elements in order to separate
+two obsidian types with greater certainty, these were titanium (Ti)
+and iron (Fe) (Fig. 7). The samples analysed produced concentrations ranging for Adamas Ti (827e954 ppm) and Fe (5171e
+Table 3
+Concentration of Rb, Sr and Zr in 16 archaeological artefacts from Çatalhöyük
+(Turkey) examined by EDXRF (UC Berkeley), PIXE (CR2PA, Paris), ICP-MS (Grenoble)
+and pXRF.
+Sample Technique Rb ppm Sr ppm Zr ppm Source
+005 EDXRF 192 18 78 Göllü Dag
+ICP-MS 181 12.2 79.0 Göllü Dag
+PXRF 172 12 71 Göllü Dag
+010 EDXRF 201 17 75 Göllü Dag
+ICP-MS 182 9.2 73.1 Göllü Dag
+PXRF 183 14 73 Göllü Dag
+020 EDXRF 193 19 75 Göllü Dag
+ICP-MS 187 12.5 80.2 Göllü Dag
+PXRF 177 13 81 Göllü Dag
+030 EDXRF 167 104 140 Nenezi Dag
+ICP-MS 164 95.9 147 Nenezi Dag
+PXRF 155 103 137 Nenezi Dag
+032 EDXRF 166 107 136 Nenezi Dag
+ICP-MS 167 95.8 149 Nenezi Dag
+PXRF 147 97 132 Nenezi Dag
+301 EDXRF 168 112 147 Nenezi Dag
+PXRF 158 102 136 Nenezi Dag
+310 PIXE 176 130 137 Nenezi Dag
+PXRF 150 100 128 Nenezi Dag
+322 PIXE 160 119 135 Nenezi Dag
+PXRF 150 95 132 Nenezi Dag
+329 PIXE 187 15 73 Göllü Dag
+PXRF 176 14 74 Göllü Dag
+341 PIXE 173 114 148 Nenezi Dag
+PXRF 152 96 132 Nenezi Dag
+352 EDXRF 187 17 87 Göllü Dag
+PIXE 187 16 70 Göllü Dag
+PXRF 178 14 76 Göllü Dag
+360 PIXE 175 107 141 Nenezi Dag
+PXRF 156 102 135 Nenezi Dag
+361 PIXE 169 116 150 Nenezi Dag
+PXRF 155 100 130 Nenezi Dag
+365 PIXE 192 15 77 Göllü Dag
+PXRF 178 12 73 Göllü Dag
+368 PIXE 188 14 74 Göllü Dag
+PXRF 169 13 76 Göllü Dag
+372 PIXE 163 107 140 Nenezi Dag
+PXRF 158 100 137 Nenezi Dag
+Fig. 5. Three-dimensional scatter plot of Rb, Sr and Zr showing the discrimination of
+16 archaeological artefacts from Çatalhöyük (Turkey) examined by g EDXRF, ICP, PIXE
+and pXRF (by author).
+Table 4
+The range and mean values of Rb, Sr and Zr in Göllü Dag and Nenezi Dag sources as
+determined by EDXRF (UC Berkeley), PIXE (CR2PA, Paris), ICP-MS (Grenoble) and
+pXRF.
+Source Method Rb (ppm) Sr (ppm) Zr (ppm)
+Göllü Dag PIXE 165e236 0e17 56e90
+Mean 190 11 74
+EDXRF 167e245 17e32 73e92
+Mean 203 24 83
+ICP-MS 173e186 9e12 70e73
+Mean 181 10 71
+PXRF 166e194 8e16 69e76
+Mean 178 12 74
+Nenezi Dag PIXE 179e191 115e130 125e179
+Mean 171 107 145
+EDXRF 156e205 100e120 126e155
+Mean 174 108 137
+ICP-MS 154e160 90e97 136e139
+Mean 157 93 138
+PXRF 143e158 97e100 132e137
+Mean 152 99 136
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296 2915882 ppm), and for Demenegaki Ti (1113e1294 ppm) and Fe
+(6824e7276 ppm).
+Shelford et al. (1982) were the first to suggest the use of major
+elements to discriminate the Melian sources. Liritzis (2008) published scatter plots (FeeTieSr) also using a portable EDXRF method
+for the separation of Melian obsidian. The average values of Ti and
+Fe of Melian sources are for Adamas Ti (770e870 ppm) and Fe
+(7500e9000 ppm) and for Demenegaki Ti (1000e1114 ppm) and Fe
+(10 200e11 300 ppm) (Table 5).
+The concentration of Fe drastically deviates in two procedures
+although their values consistently differ, enabling discrimination of
+the two sources in both cases. In this instance, a systematic error is
+evident, with calibration factor of 1.46e1.49. This can be ascribed to
+the instrument’s software providing precision but not absolute
+accuracy. The data is “internally consistent” and has systematic
+deviation from the readings of Liritzis (2008) (both Fe and Ti are
+reported in ppm), so when source data and object are compared it is
+going to give the same values but to make it comparable to other
+modes of analyses the data needs to be calibrated.
+4.5. The Carpathians
+Analyses of 15 central European samples show that the source
+groups can be clearly separated into C1 and C2 (Fig. 3). The pXRF
+reading of Carpathian obsidian demonstrated the following concentrations for Carpathian 1 e Rb (156e173 ppm), Sr (64e77 ppm)
+and Zr (62e74) while in Carpathian 2 e Rb (164e185 ppm), Sr (71e
+76 ppm) and Zr (118e140). The higher quantity of Zr in Carpathian 2
+was the main discriminant of the two sources.
+Ten samples (five from C1 and five from C2) out of those 15 have
+also been analysed with the EDXRF instrument at MAX laboratory,
+McMaster University (Canada). The results of the pXRF show that
+the values for Rb are slightly lower than those produced by EDXRF,
+as was the case in central Anatolian obsidian. The quantities of the
+other two trace elements are compatible (Table 6; Fig. 8).
+As with the Melian sources at Adamas and Demenegaki, it was
+nonetheless clear that two sub-sources within Carpathian 2 were
+represented in the pXRF analyses through the different values for Ti
+and Fe (Table 7). However, as the obsidian in these areas is in secondary contexts, in order to clarify the exact range and geographical location of sub-sources within the two proposed C2 flows (C2T
+and C2E) (Biró et al., 1986; see Williams-Thorpe et al., 1984), an
+extensive fieldwork program and systematic analyses of larger
+sample, as well as comparison with the results produced by
+different techniques (cf. Biró, 2004) would be required, and goes
+beyond the parameters of this specific study.
+5. Visual discrimination of obsidian
+The chemical characterisation has been done in conjunction
+with macroscopic (visual) discrimination, which relies on firsthand knowledge of the visual properties of obsidian sources that
+are expected in an area. The study of obsidian provenance has often
+involved macroscopic discrimination of obsidian artefacts using the
+naked eye. Even though it can be difficult and unreliable as a
+technique for differentiating types, remarks on physical properties
+are nonetheless commonly found in the literature (Braswell et al.,
+2000; Carter et al., 2008). In their early studies Cann and Renfrew
+Fig. 6. Three-dimensional scatter plot showing the mean values of concentrations of
+Rb, Sr and Zr in Göllü Dag and Nenezi Dag sources as recorded EDXRF, ICP, PIXE and
+pXRF (by author).
+Fig. 7. Two-dimensional scatter plot of Ti and Fe discriminating the two Melian
+sources e Adamas and Demenegaki (by author).
+Table 5
+Ti and Fe ppm range and mean values produced by pXRF studies of Liritzis (2008)
+and this study.
+Source Method Ti (ppm) Fe (ppm)
+Adamas EDXRF 770e870 7500e9000
+Mean 820 8234
+PXRF 827e954 5171e5882
+Mean 870 5633
+Demenegaki EDXRF 1000e1114 10 200e11 300
+Mean 1058 10 516
+PXRF 1113e1294 6824e7276
+Mean 1162 7053
+Table 6
+The range and mean value of Rb, Sr and Zr in Carpathian 1 and Carpathian 2 source
+samples determined by EDXRF (MAXlab, McMaster University) and pXRF.
+Source Method Rb (ppm) Sr (ppm) Zr (ppm)
+Carpathian 1 EDXRF 174e185 66e81 75e80
+Mean 180 74 78
+PXRF 154e173 64e77 62e74
+Mean 163 72 67
+Carpathian 2 EDXRF 174e197 67e76 125e148
+Mean 190 73 138
+PXRF 164e185 71e76 118e140
+Mean 175 73 127
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296292(1964) referred to the results of chemical characterisation and visual properties of the various obsidian sources. They used visual
+characteristics as a means of discriminating source materials that
+could not e at that time e be discriminated chemically. At Çatalhöyük, the macroscopic examinations of the entire assemblage
+(over 10 000 artefacts) has been done after which a sample was
+analysed with pXRF which confirmed the accuracy of the visual
+examination was over 95% (Milic et al., n.d.).
+The sources concerned in this study have distinct macroscopic
+properties and some of the most common are listed here in Table 8.
+The image below (Fig. 9) shows the colour variation of obsidian
+found in archaeological contexts that belong to these geological
+groups. According to the colour and transparency, obsidian from
+Nenezi Dag, Melos (both sources) and Carpathian 2 show visual
+similarities being grey matt sometimes semi-transparent, while
+Göllü Dag is completely transparent and is closely comparable
+visually to Carpathian 1.
+6. Discussion: archaeological significance of PXRF for
+obsidian studies
+Obsidian characterisation studies have developed over the past
+50 years into a powerful tool in archaeological research. It has long
+been employed by archaeologists as a proxy for analysing people’s
+movements and mapping long distance contacts (see also Hallam
+et al., 1976; Renfrew et al., 1968; Tykot, 2002; Williams-Thorpe
+et al., 1984). Obsidian characterisation studies have become the
+“success story in archaeological science” (Williams-Thorpe, 1995)
+with intensive surveys of source areas and the development of
+powerful techniques that could discriminate various obsidian types
+and sub-types with high precision. The emergence of pXRF
+instrumentation provides a non-destructive, fast and (comparatively) cheap resource but, perhaps more importantly, one better
+suited to the practical realities of archaeological research using a
+multi-regional and cross-border approach. A highly specialised
+scientific field of investigation has progressed to a much more “user
+friendly” system whereby data can be gained far more readily
+through software driven algorithms not manual mathematics,
+making it more accessible to non-specialist, if suitably trained, researchers. With the growing acceptance that this technology produces reliable results, the challenge is becoming one of applications
+whereby the scientific analyses can address issues that relate also to
+agendas in social theory (Freund, 2012; Molloy et al., in press).
+Some authors (Craig et al., 2007; Nazaroff et al., 2009;
+Millhauser et al., 2011; Shackley, 2011; Sheppard et al., 2011;
+Frahm, 2012) have already discussed the capability in source
+determination and comparability of pXRF data to other analytical
+techniques. Analyses of geological samples from eight sources of at
+least 12 compositionally distinct types and concentrations of Rb, Sr
+and Zr produced by Innov-X pXRF were able to divide Göllü Dag,
+Nenezi Dag, Melian, Giali, Antiparos, Carpathian 1 and Carpathian 2
+sources into separate clusters. In addition, bivariate plotting of Ti
+and Fe was successful in discriminating the two elementally and
+macroscopically related sources Adamas and Demenegaki on
+Melos, as well as two outcrops in Carpathian 2 source. The values of
+Rb, Sr and Zr are comparable to the other analytical methods as
+shown through analyses of Çatalhöyük and Carpathian assemblages previously examined by lab-based instruments.
+6.1. The achievements of the method
+The administrative and bureaucratic, as well as academic realities of sampling have impact on the applicability of many fields of
+artefact research and analyses. Destructive and expensive methods
+may not be suited to the generation of statistically valid data-sets,
+while the aggregate of many samples using pXRF allows different
+aspects to be explored on the basis of data quantity. This allows
+more archaeologically nuanced questions to be addressed that
+relate to the character of mobility from a regional perspective, with
+considerably greater confidence than the research and sampling
+parameters that have often gone hand in hand with lab-based
+analytical methods. Specifically, it would be possible to look at
+the patterns that emerge in the use of different obsidians at a site
+and in a region, and through multi-scalar analyses we might be able
+to see where patterns change as we progress from discussion of
+patterning at level of the household to issues of connectivity on
+regional scales. Equally, as well as consideration of spatial
+patterning, it becomes possible to address the relations between
+technological choice, practice, and obsidian procurement. The
+different procurement and consumption patterns visible at groups
+of sites located in western Anatolia are one example of how this
+might work on the larger scale. In the case of the appearance of
+Fig. 8. Three-dimensional scatter plot of Rb, Sr and Zr showing the discrimination of
+Carpathian 1 and Carpathian 2 with EDXRF and pXRF (by author).
+Table 7
+The ppm concentration of Ti and Fe showing two distinct Carpathian 2 groups. The
+samples marked with asterisk could be ascribed to one group.
+Source Ti (ppm) Fe (ppm)
+Carpathian 2* 1701 11 671
+Carpathian 2 364 7335
+Carpathian 2 682 7315
+Carpathian 2 327 7512
+Carpathian 2 326 7052
+Carpathian 2 331 7108
+Carpathian 2* 2356 12 551
+Carpathian 2* 2032 11 361
+Table 8
+Description of the typical visual characteristics of obsidian from the analysed
+sources.
+Source Macroscopic characteristics
+Göllü Dag Completely transparent or transparent with dark blue
+sprinkles. A variety is with white sprinkles
+Nenezi Dag Grey opaque or semi-transparent, sometimes
+with darker stripes or ‘stains’ inside
+Melos (Adamas
+and Demenegaki)
+Grey matt opaque occasionally semi-transparent
+stripy
+Giali Transparent with white spherulites
+Carpathian 1 Generally very glossy and transparent, occasionally
+with some darker tinge
+Carpathian 2 Grey matt opaque occasionally semi-transparent
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296 293exceptional obsidian finds at specific sites (e.g. Dispilio or Mandalo
+in northern Greece), this could be related to the local connections of
+a small community or family groups (Fig. 2).
+Despite the scale of these aims, it has not been my intention here to
+present an overly positivist argument promoting the benefits of pXRF
+for artefact studies, but I have been more focussed on the potential of
+the method of technologically and spatially selective mass sampling
+that it allows. Alongside the traditional search for the rare (“exotic”)
+pieces and long distance distributions, we may also explore a) the
+frequency of obsidian relative to other raw materials in complete
+assemblages, b) the frequency of different obsidian types in multiple
+distributions, i.e. when more than one source is represented, c) the
+chaîne opératoire of existing obsidian types, d) obsidian frequencies at
+neighbouring and contemporary settlements, e) the procurement
+and consumption of obsidian on a micro and macro regional basis.
+In my on-going research, the high resolution data analysis of
+obsidian origins at key study sites is being used to trace connectivity in the above regions, thus addressing aspects of the process of
+Neolithisation and colonisation, but also the ways in which agents/
+agencies within different distribution networks and systems
+engaged with each other. The context of the research presented
+here is therefore to characterise how peoples interacted in prehistory, what choices they made, and aspects of their perception of
+geographic boundaries and obstacles. We are under the horizon of
+being able to overtly socialise our understanding of circulation
+patterns through scientific analyses, but the method discussed in
+this paper demonstrates that this new technology allows new
+sampling regimes that give access to sufficiently large archaeological data-sets to allow regional distribution models to be more
+robustly created.
+Acknowledgements
+This research was carried out with funding from the WennerGren Wadsworth International Fellowship and UCL ORS Scholarship. The Central Anatolian and the Aegean obsidian source samples were provided by Tristan Carter (McMaster University), while
+some additional Melian obsidian was analysed in Cambridge University with the permission of Colin Renfrew. Artefacts previously
+analysed by alternative techniques were kindly leant to me by
+Tristan Carter, François-Xavier Le Bourdonnec, Gérard Poupeau and
+Steven, M. Shackley. Thank to Marcos Martinon-Torres and Barry
+Molloy for advice on earlier versions of the text, and to the two
+anonymous referees for their insightful and helpful comments.
+References
+Acquafredda, P., Paglionico, A., 2004. SEMeEDS microanalysis of microphenocrysts
+of Mediterranean obsidians: a preliminary approach to source discrimination.
+Journal of Mineralogy 16, 419e429.
+Fig. 9. Typical visual characteristics of relevant obsidian from sources in central Anatolia, the Aegean and the Carpathians (by author).
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296294Aspinall, A., Feather, S.W., R, C., 1972. Neutron activation analysis of Aegean obsidians. Nature 237, 333e334.
+Bellot-Gurlet, L., Pelon, O., Séfériadès, M.L., 2008. Détermination de provenance
+d’une sélection d’obsidiennes du palais minoen de Malia (Crète). Comptes
+Rendus Pale 7, 419e427.
+Bergner, M., Horejs, B., Pernicka, E., 2009. Zur Herkunft der Obsidianartefakte vom
+Çukuriçi Höyük. Studia Troica 18, 249e272.
+Bevan, A., 2007. Stone Vessels and Values in the Bronze Age Mediterranean. Cambridge University Press, Cambridge.
+Binder, D., Gratuze, B., Mouralis, D., Balkan-Atlı, N., 2011. New investigations of the
+Göllüdag obsidian lava flows system: a multi-disciplinary approach. Journal of
+Archaeological Science 38, 3174e3184.
+Biró, K., Pozsgai, I., Vladar, A., 1986. Electron beam microanalyses of obsidian
+samples from geological and archaeological sites. Acta Archaeologica Academiae Scientiarun Hungaricae 38, 257e278.
+Biró, K.T., 2004. Carpathian obsidians: myth and reality. In: Proceedings of the 34th
+ISA. Institución “Fernando El Católico (CSIC) Excma”. Diputación De Zaragoza,
+Electronic Publication, pp. 267e277.
+Blackman, M.J., 1986. The provenience of obsidian artifacts from Late Chalcolithic
+levels at Aphrodisias. In: Joukowsky, M. (Ed.), Prehistoric Aphrodisias: an Account of the Excavations and Artifact Studies. Brown University, Center for Old
+World Archaeology and Art, Providence, pp. 279e285.
+Braswell, G.E., Clark, J.E., Aoyama, K., McKillop, H., Glascock, M.D., 2000. Determining the geological provenance of obsidian artifacts from the Maya Region: a
+test of the efficacy of visual sourcing. Latin American Antiquity 11, 269e282.
+Briois, F., Gratuze, B., Guilaine, J., 1997. Obsidiennes du site Neolithique Preceramique de Shillourokambos (Chypre). Paléorient 23.1, 95e112.
+Cann, J.R., Renfrew, C., 1964. The characterisation of obsidian and its application to
+the Mediterranean Region. Proceedings of the Prehistoric Society 30, 111e133.
+Carter, T., 2008. The consumption of obsidian in the early Bronze Age Cyclades. In:
+Brodie, N., Doole, J., Gavalas, G., Renfrew, C. (Eds.), Horizon: a Colloquium on the
+Prehistory of the Cyclades. McDonald Institute Mohographs, Cambridge.
+Carter, T., 2009. L’obsidienne Égéenne: Caractérisation, Utilisation et Culture. In:
+Moncel, M.-H., Frohlich, F. (Eds.), L’Homme Et Le Precieux. Matières Minérales
+Précieuses De La Préhistoire à Aujourd’hui, BAR International Series 1934.
+Archaeopress, Oxford, pp. 199e212.
+Carter, T., Contreras, D.A., 2012. The character and use of the Soros Hill Obsidian
+source, Antiparos (Greece). Comptes Rendus Palevol 11, 595e602.
+Carter, T., Dubernet, S., King, R., Le Bourdonnec, F.-X., Milic, M., Poupeau, G.,
+Shackley, M.S., 2008. Eastern Anatolian obsidians at Çatalhöyük and the
+reconfiguration of regional interaction in the early Ceramic Neolithic. Antiquity
+82, 900e909.
+Carter, T., Kilikoglou, V., 2007. From reactor to royalty? Aegean and Anatolian obsidians from Quartier Mu, Malia (Crete). Journal of Mediterranean Archaeology
+20, 115e143.
+Carter, T., Le Bourdonnec, F.-X., Kartal, M., Poupeau, G., Calligaro, T., Moretto, P.,
+2011. Marginal perspectives: sourcing Epi-Palaeolithic to Chalcolithic Obsidian
+from the Öküzini Cave (SW Turkey). Paléorient 37.2.
+Carter, T., Milic, M., 2013a. The chipped stone. In: Hodder, I. (Ed.), Substantive
+Technologies at Çatalhöyük: Reports from the 2000e2008 Seasons. Monographs of the Cotsen Institute of Archaeology, University of California at Los
+Angeles, Los Angeles.
+Carter, T., Milic, M., 2013b. The chipped stone. In: Excavations at Keros Dhaskalio.
+McDonald Institute for Archaeology, Cambridge (submitted October 2011).
+Carter, T., Poupeau, G., Bressy, C., Pearce, N.J.P., 2005. From chemistry to consumption: towards a history of obsidian use at Çatalhöyük through a programme of inter-laboratory trace-elemental characterization. In: Hodder, I.
+(Ed.), Changing Materialities at Çatalhöyük: Reports from the 1995e99 Seasons. McDonald Institute for Archaeological Research, Cambridge, pp. 285e
+305.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N.J.P., 2006. A new programme of obsidian
+characterization at Çatalhöyük, Turkey. Journal of Archaeological Science 33,
+893e909.
+Carter, T., Shackley, M.S., 2007. Sourcing obsidian from Neolithic Çatalhöyük (Turkey)
+using Energy Dispersive X-ray Fluorescence. Archaeometry 49, 437e454.
+Cauvin, M.-C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.-L.,
+Chataigner, C., 1998. L’Obsidienne au Proche et Moyen Orient: Du Volcan à
+l’Outil. In: Maison de l’Orient Méditerranéen, BAR International Series 738.
+Archaeopress, Oxford.
+Çilingiroglu, Ç., 2011. The current state of Neolithic research at Ulucak, _Izmir. In:
+Krauß, R. (Ed.), Beginnings e New Research in the Appearance of the Neolithic
+between Northwest Anatolia and the Carpathian Basin. Papers of the International Workshop 8the9th April 2009. Deutsches Archäologisches Institut,
+Istanbul, pp. 67e76.
+Craig, N., Speakman, R.J., Popelka-Filcoff, R.S., Glascock, M.D., Robertson, J.D.,
+Shackley, M.S., Aldenderfer, M.S., 2007. Comparison of XRF and PXRF for analysis of archaeological obsidian from southern Peru. Journal of Archaeological
+Science 34, 2012e2024.
+Davis, M.K., Jackson, T.L., Shackley, M.S., Teague, T., Hampel, J.H., 2011. Factors
+affecting the Energy-Dispersive X-Ray Fluorescence (EDXRF) analysis of
+archaeological obsidian. In: Shackley, M.S. (Ed.), X-ray Fluorescence Spectrometry (XRF) in Geoarchaeology. Springer, pp. 45e63.
+Frahm, E., 2012. Validity of “Off-the-Shelf” handheld portable XRF for sourcing near
+eastern obsidian chip debris. Journal of Archaeological Science 40 (2), 1080e
+1092.
+Frahm, E., Doonan, R., Kilikoglou, V., 2013. Handheld portable X-ray fluorescence of
+Aegean obsidians. Archaeometry. http://dx.doi.org/10.1111/arcm.12012.
+Freund, K.P., 2012. An assessment of the current applications and future directions
+of obsidian sourcing studies in archaeological research*. Archaeometry. http://
+dx.doi.org/10.1111/j.1475-4754.2012.00708.x.
+Freund, K.P., Tykot, R.H., 2011. Lithic technology and obsidian exchange networks in
+Bronze Age Nuragic Sardinia (Italy). Archaeological and Anthropological Sciences 3, 151e164.
+Golitko, M., Meierhoff, J., Terrell, J.E., 2010. Chemical characterization of sources of
+obsidian from the Sepik coast (PNG). Archaeology Oceania 45, 120e129.
+Gratuze, B., 1999. Obsidian characterization by Laser Ablation ICP-MS and its
+application to Prehistoric trade in the Mediterranean and the near east: sources
+and distribution of obsidian with the Aegean and Anatolia. Journal of Archaeological Science 26, 869e881.
+Hallam, B.R., Warren, S.E., Renfrew, C., 1976. Obsidian in the western Mediterranean: characterization by neutron activation analysis and optical emission
+spectroscopy. Proceedings of the Prehistoric Society 42, 85e110.
+Hancock, R.G.V., Carter, T., 2010. How reliable are our published archaeometric
+analyses? Effects of analytical techniques through time on the elemental
+analysis of obsidians. Journal of Archaeological Science 37, 243e250.
+Herling, L., Kasper, K., Lichter, C., Meriç, R., 2008. Im Westen nichts Neues?
+Ergebnisse der Grabungen 2003 und 2004 in Dedecik-Heybelitepe. Istanbuler
+Mitteilungen 58, 13e65.
+Jia, P.W., Doelman, T., Chen, C., Zhao, H., Lin, S., Torrence, R., Glascock, M.D.,
+2010. Moving sources: a preliminary study of volcanic glass artifact distributions in northeast China using PXRF. Journal of Archaeological Science 37,
+1670e1677.
+Kilikoglou, V., Bassiakos, Y., Grimanis, A.P., Souvatzis, K., Pilali-Papasteriou, A.,
+Papanthimou-Papaefthimiou, A., 1996. Carpathian obsidian in Macedonia,
+Greece. Journal of Archaeological Science 23, 343e349.
+Liritzis, I., 2008. Assessment of Aegean obsidian sources by a portable ED-XRF
+analyser: grouping, provenance and accuracy. In: Facorellis, Y., Zacharias, N.,
+Polikreti, K. (Eds.), Proceedings of the 4th Symposium of the Hellenic Society for
+Archaeometry, BAR International Series 1746. Tempus Reparatum, Oxford.
+Liritzis, I., Zacharias, N., 2010. Portable XRF of archaeological artifacts: current
+research, potentials and limitations. In: Shackley, M.S. (Ed.), X-ray Fluorescence
+Spectrometry (XRF) in Geoarchaeology. Springer, pp. 109e142.
+Milic, M. Obsidian Exchange and Society in the Balkans and the Mediterranean of
+the 6th and 5th Millennia BC. University College London (in preparation).
+Milic, M., Brown, K., Carter, T., n.d. A visual characterisation of the Çatalhöyük
+obsidian (Appendix 21). In: Hodder, I. (Ed.), Substantive Technologies at Çatalhöyük Reports from the 2000e2008 Seasons. Monographs of the Cotsen
+Institute of Archaeology, University of California at Los Angeles, Los Angeles.
+Millhauser, J.K., Rodríguez-Alegría, E., Glascock, M.D., 2011. Testing the accuracy of
+portable X-ray fluorescence to study Aztec and Colonial obsidian supply at
+Xaltocan, Mexico. Journal of Archaeological Science 38, 3141e3152.
+Molloy, B.P.C., Milic, M., Doonan, R. Temporal rhythms in obsidian consumption at
+Prepalatial Priniatikos Pyrgos: a pXRF study. In: Molloy, B.P.C., Duckworth, C.
+(Eds.), A Cretan Landscape Through Time: Survey, Geoarchaeological Prospection, and Excavation in the Environs of Priniatikos Pyrgos, British Archaeological Reports, Oxford (in press).
+Nandris, J., 1975. A reconsideration of the south-east European sources of archaeological obsidian. Bulletin London University Institute of Archaeology 12, 71e94.
+Nazaroff, A.J., Prufer, K.M., Drake, B.L., 2009. Assessing the applicability of portable
+X-ray fluorescence spectrometry for obsidian provenance research in the Maya
+Lowlands. Journal of Archaeological Science 30, 1e11.
+Oddone, M., Marton, P., Bigazzi, B., B.K, T., 1999. Chemical characterizations of
+Carpathian obsidian sources by instrumental and epithermal neutron activation
+analysis. Journal of Radioanalytical and Nuclear Chemistry 240, 147e153.
+Panagiotaki, M., 1999. The Central Palace Sanctuary at Knossos, vol. 31 (Suppl.).
+British School at Athens.
+Perlés, C., 1992. Systems of exchange and organisation of production in Neolithic
+Greece. Journal of Mediterranean Archaeology 5, 115e162.
+Perlés, C., Takaoglu, T., Gratuze, B., 2011. Melian obsidian in NW Turkey: evidence
+for early Neolithic trade. Journal of Field Archaeology 36, 42e49.
+Pernicka, E., Yalç in, U., Rehren, T., Hauptmann, A., 1999. The Beginnings of Metallurgy, Anschnitt. Deutsches Bergbau-Museum, Bochum.
+Phillips, S.C., Speakman, R.J., 2009. Initial source evaluation of archaeological
+obsidian from the Kuril Islands of the Russian Far East Using Portable XRF.
+Journal of Archaeological Science 36, 1256e1263.
+Poidevin, J.L., 1998. Les Gisements d’Obsidienne de Turquie et de Transcaucasie:
+Géologie, Géochemie et Chronométrie. In: Cauvin, M.-C., Gourgaud, A.,
+Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.-L., Chataigner, C. (Eds.), L’Obsidienne Au Proche Et Moyen Orient: Du Volcan à l’Outil, Maison de l’Orient
+Méditerranéen, BAR International Series 738. Archaeopress, Oxford, pp. 105e
+203.
+Poupeau, G., Le Bourdonnec, F.-X., Carter, T., Delerue, S., Shackley, M.S., Barrat, J.-A.,
+Dubernet, S., Moretto, Ph., Calligaro, T., Milic, M., K, K., 2010. The use of SEMEDS, PIXE and EDXRF for obsidian provenance studies in the Near East: a case
+study from Neolithic Çatalhöyük (central Anatolia). Journal of Archaeological
+Science 37, 2705e2720.
+Renfrew, C., Aspinall, A., 1990. Aegean obsidian and Franchthi Cave. In: Perlés, C.
+(Ed.), Les Industries Lithiques Tatllees De Franchthi (Argolide, Grece), Les Industries Du Mesolithique Et Du Neolithique Initial, Tome II. Indiana University
+Press, Bloomington and Indianapolis, pp. 257e270.
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296 295Renfrew, C., Dixon, J.E., Cann, J.R., 1965. Obsidian in the Aegean. Annual of the
+British School of Archaeology at Athens 60, 225e247.
+Renfrew, C., Dixon, J.E., Cann, J.R., 1968. Further analysis of near eastern obsidians.
+Proceedings of the Prehistoric Society 34, 319e331.
+Rosania, C.N., Boulanger, M.T., Glascock, M.D., Biró, K.T., Ryzhov, S., Trnka, G., 2008.
+Revisiting Carpathian obsidian. Antiquity 82.
+Rózsa, P., Szöõr, G., Gratuze, B., Elekes, Z., Uzonyi, I., Kiss, Á.Z., 2006. Comparative
+geochemical studies of obsidian samples from various localities. Acta Geologica
+Hungarica 49 (1), 73e87.
+Sampson, A., 1987. The Neolithic Period in Dodecanese. Tameio Archaiologikon
+Poron kai Apollotrioseon, Athens.
+Shackley, M.S., 2011. Is there reliability in portable X-Ray Fluorescence (pXRF)
+spectrometry. SAA Archaeological Record 10, 17e20.
+Shelford, P., Hodson, F., Cosgrove, M.E., Warren, S.E., Renfrew, C., 1982. The sources
+and characterisation of Melian obsidian. In: Renfrew, C., Wagstaff, M. (Eds.), An
+Island Polity: the Archaeology of Exploitation on Melos. Cambridge University
+Press, Cambridge, pp. 182e191.
+Sheppard, P.J., Irwin, J.G., Lin, S.C., McCaffrey, C.P., 2011. Characterization of New
+Zealand obsidian using PXRF. Journal of Archaeological Science 38, 45e56.
+Thorpe, O.W., 1978. A Study of Obsidian in Prehistoric Central and Eastern Europe,
+and Its Trace Element Characterization (Unpublished PhD thesis).
+Torrence, R., 1986. Production and Exchange of Stone Tools. Cambridge University
+Press, Cambridge.
+Tripkovic, B., Milic, M., 2008. The origin and exchange of obsidian from Vinca-Belo
+Brdo. Starinar, 71e86.
+Tykot, R.H., 2002. Chemical fingerprinting and source tracing of obsidian: the
+central Mediterranean trade in black gold. Accounts of Chemical Research 35,
+618e627.
+Tykot, R.H., 2010. Sourcing of Sardinian obsidian collections in the Museo
+Preistorico-Etnografico “Luigi Pigorini” using non-destructive portable XRF.
+In: Lugliè, C. (Ed.), L’ossidiana Del Monte Arci Nel Mediterraneo. Nuovi
+Apporti Sulla Diffusione, Sui Sistemi Di Produzione e Sulla Loro Cronologia,
+Atti Del 5 Convegno Internazionale (Pau, Italia, 27e29 Giugno 2008). NUR,
+Ares, pp. 85e97.
+Williams, O., Nandris, J., 1977. The Hungarian and Slovak sources of archaeological
+obsidian: an Interim report on further fieldwork, with a note on Tektites.
+Journal of Archaeological Science 4, 207e219.
+Williams-Thorpe, O., 1995. Obsidian in the Mediterranean and the near east: a
+provenancing success story. Archaeolometry 37, 217e248.
+Williams-Thorpe, O., Warren, S.E., Nandris, J.G., 1984. The distribution and provenance of archaeological obsidian in central and eastern Europe. Journal of
+Archaeological Science 11, 183e212.
+M. Milic / Journal of Archaeological Science 41 (2014) 285e296296

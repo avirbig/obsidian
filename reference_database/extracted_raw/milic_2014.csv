@@ -1,0 +1,16 @@
+﻿source_raw,source,Rb,Rb_range_flag,Sr,Sr_range_flag,Zr,Zr_range_flag,sample_id,site,notes,verification_flag,paper,year,method,method_tier,units
+Göllü Dag ,GolluDag,180.0,166-194,12.0,8.0-16.0,72.5,69-76,,,,False,Milic 2014,2014,pXRF,1,ppm
+Mean ,Mean,178.0,,12.0,,74.0,,,,,False,Milic 2014,2014,pXRF,1,ppm
+Nenezi Dag ,ND,150.5,143-158,98.5,97-100,134.5,132-137,,,,False,Milic 2014,2014,pXRF,1,ppm
+Mean ,Mean,152.0,,99.0,,136.0,,,,,False,Milic 2014,2014,pXRF,1,ppm
+Melos Adamas ,Melos Adamas,107.5,103-112,100.0,93-107,106.5,102-111,,,,False,Milic 2014,2014,pXRF,1,ppm
+Mean ,Mean,108.0,,100.0,,107.0,,,,,False,Milic 2014,2014,pXRF,1,ppm
+Melos Demenegaki ,Melos Demenegaki,97.0,91-103,109.5,105-114,114.5,108-121,,,,False,Milic 2014,2014,pXRF,1,ppm
+Mean ,Mean,97.0,,110.0,,114.0,,,,,False,Milic 2014,2014,pXRF,1,ppm
+Antiparos ,Antiparos,367.0,,10.0,,128.0,,,,,False,Milic 2014,2014,pXRF,1,ppm
+Giali ,Giali,121.0,118-124,63.0,60-66,95.5,94-97,,,,False,Milic 2014,2014,pXRF,1,ppm
+Mean ,Mean,121.0,,63.0,,96.0,,,,,False,Milic 2014,2014,pXRF,1,ppm
+Carpathian 1 ,Carpathian 1,163.5,154-173,70.5,64-77,68.0,62-74,,,,False,Milic 2014,2014,pXRF,1,ppm
+Mean ,Mean,163.0,,72.0,,67.0,,,,,False,Milic 2014,2014,pXRF,1,ppm
+Carpathian 2 ,Carpathian 2,174.5,164-185,73.5,71-76,129.0,118-140,,,,False,Milic 2014,2014,pXRF,1,ppm
+Mean ,Mean,175.0,,73.0,,127.0,,,,,False,Milic 2014,2014,pXRF,1,ppm

@@ -1,0 +1,1215 @@
+Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016 Manuscrit reçu le 9 juin 2015, accepté le 11 décembre 2015
+T he obsidian assemblages
+from the Wadi R abah occupations
+at Ein Z ippori, Israel
+H.C. Schechter, A. G opher, N. Getzov, E . R ice, A. Yaroshevich and I. M ilevski
+Abstract: A total of 266 obsidian items were found during four seasons of excavation at the Late Prehistoric site of Ein Zippori,
+Israel. Most of the assemblage was assigned to the Wadi Rabah culture. The obsidian artefacts originated in three Anatolian sources
+– Cappadocian Göllü Dağ and eastern Anatolian Bingöl A and B. Several colour and texture differences were noticed on some of
+the items from the different sources. The presence of items such as flakes, blades, core trimming elements, cores and tools reflect
+some on-site production. The high ratio of tools and bladelet segments to other debitage items may indicate an import of prepared
+bladelets and tools to the site as well. Pressure was dominantly used, probably alongside percussion, and signs of non-specialized
+production may be apparent. Tool design and retouch characteristics point to a highly standardized transverse arrowhead production
+(or import), several different bead-making traditions, and a distinction between the shaping (retouch) of blade and bladelet tools,
+perhaps indicating a distinction in use.
+Résumé : Au cours de quatre campagnes de fouille sur le site préhistorique d’Ein Zippori (Israël), 266 objets en obsidienne ont été
+trouvé. La plus grande partie de l’assemblage a été datée de la culture de Wadi Rabah. Les outils en obsidienne proviennent de trois
+sources en Anatolie – Göllü Dağ en Cappadoce et Bingöl A et B en Anatolie orientale. Plusieurs nuances dans la couleur et la texture
+ont été observées sur certains objets provenant de ces trois sources. La présence d’objets, tels qu’éclats, lames et CTE, nucléus et outils,
+reflète une production sur place. La moyenne élevée d’outils et de fragments de lamelles par rapport à d’autres pièces débitées pourrait
+également être l’indication d’une importation de lamelles préparées et d’outils. L’utilisation de la pression prédominait, parallèlement
+à la percussion, probablement, et des indices de production non spécialisée apparaissent. Le type d’outil et les caractères de la
+retouche indiquent une production (ou une importation) hautement standardisée de pointes de flèche transverses ; l’existence de
+plusieurs traditions dans la confection de perles et la retouche différente des lames et lamelles suggèrent peut-être un usage distinct.
+Keywords: Ein Zippori; Wadi Rabah culture; Obsidian; Provenance; Bladelet pressure technology.
+Mots-clés : Ein Zippori ; Culture de Wadi Rabah ; Obsidienne ; Provenance ; Débitage de lames par pression.
+INTRODuCTION
+The site of Ein Zippori is located in the lower Galilee, less
+than 5 km west of Nazareth, on the southern bank of Nahal
+Zippori and the northern slopes of Giv’at Rabi (Jebel el Ayin)
+(fig. 1). A salvage excavation of the site was conducted by the
+Israel Antiquities Authority between the years 2011-2014,
+along both sides of route 79 (fig. 2).
+The excavations exposed a large, multi-layered site
+(Milevski et al. 2014;1 Milevski and Getzov 2014). Several late
+prehistoric settlement sequences were defined:
+– Pre-Pottery Neolithic (PPN) B-C, dated to the 10 th –9 th
+millennia cal. BP, were found in several areas (general
+Stratum X);
+1. See also Milevski I., Getzov N. and Liran R., Rescuing Ein Zippori, a Late
+Prehistoric Site in the Galilee. The Ancient Near East Today (2014). [http://
+asorblog.org/2014/05/13/rescuing-ein-zippori-a-late-prehistoric-site-inthe-galilee/]
+029-052-Schechter.indd 29 12/04/16 09:5630 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+– Late Pottery Neolithic—what is called by some of the
+present authors the Early Chalcolithic (ECh)—, dated
+mainly to the second half of the 8th and early parts of the
+7th millennia cal. BP (following Gopher 2012: 1534 and
+fig. 41.1), with strata of the Wadi Rabah (WR) culture
+(general Stratum IX);
+– Early Bronze Age (EBA), mainly the EBA IB (ca 53005000 cal. BP) (general Stratum VIII) with some occurrences of the EBA II (general Stratum VII).
+Two large fields (I and II), covering a total area of ca
+6200 m2 , were excavated (fig. 2). In several parts, bedrock was
+reached, and in some areas the depth of accumulation from the
+top soil was more than 4 m.
+The archaeological remains
+The Ein Zippori Wadi Rabah layers are massive and show
+several stratigraphic units. Architectural remains are fragmented with plans for only single buildings. Large assemblages of pottery vessels, flint tools and flint industry waste
+were found, alongside a rich ground-stone assemblage and
+imagery items such as palettes, decorated bones and seals.2
+The fauna is relatively rich, containing ovicaprines, pigs and
+cattle. Residue analyses conducted on several pottery vessels
+of the WR and EBA layers indicate that olive oil was probably
+produced and stored in these vessels (Namdar et al. 2015).
+Burials were found in several areas within the site. A number
+of newborns or babies were buried in pottery vessels or parts
+of them. A fine stone bowl with a string of tens of stone beads
+was found as a probable offering deposit of one of these burials
+in area E.
+2. Milevski I., Getzov N., Galili E. and Horwitz L., “Some Iconographic
+Motifs from the 6 th –5th Millennia BC in Mesopotamia and the Levant:
+Clues for Cultural Connections”, Paper presented to the 17th Congress of
+the International union of Prehistoric and Protohistoric Sciences, Burgos,
+September 1-7, 2014.
+Fig. 1 – Map with location of the sites mentioned in the paper.
+029-052-Schechter.indd 30 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 31Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Fig. 2. – At the top, general view of excavations looking east, 2012 season of excavations (photo Skyview
+Ltd); At the bottom, plan with location of areas, 2011-2014 excavations: 1) D. Kaufman excavations (1995);
+2) O. Barzilai excavations (2007); 3) J.P. Dessel excavations, Tel Ein Zippori (1997-1999).
+029-052-Schechter.indd 31 12/04/16 09:5632 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+PRESENTATION
+OBSIDIAN IN THE SOUTHERN LEVANT
+Obsidian first appears in the Southern Levant in the
+Natufian (Khalaily and Valla 2013), can be found in small
+quantities in PPNA sites3 and as larger assemblages during the
+PPNB,4 when bladelet pressure debitage technology is also
+introduced to the Levant (Gopher et al. 1998). Obsidian presence declines in the later parts of the Pre-Pottery Neolithic5
+and becomes rare in the Early Pottery Neolithic.6 Obsidian
+becomes common again in later Pottery Neolithic sites WR.7 It
+is not however, distributed evenly between sites and may be
+concentrated in exchange centres (Garfinkel 2008 and 2011;
+Prausnitz 1970; Schechter et al. 2013). Obsidian again
+decreases at the beginning of the Chalcolithic Ghasullian (e.g.,
+Gilat in Yellin et al. 1996) and practically disappears before
+the EBA (Garfinkel 2011 but see Rosen et al. 2005).
+Obsidian items found in the southern Levant had to have
+been imported, as there are no obsidian sources in the region.
+The nearest sources are located in Central (Göllü Dağ, Nenezi
+Dağ) or Eastern (Bingöl A, Bingöl B, Nemrut Dağ, Meydan
+Dağ, Sarikamiş, Arteni) Anatolia and only obsidian from these
+sources was found in the Southern Levant to date (Perlman
+and Yellin 1980; Delerue 2007). Obsidian found in PPN sites
+in the region generally came from central Anatolian sources,
+while obsidian from eastern Anatolian sources appeared during the PPN and greatly increased during the PN (Perlman and
+Yellin 1980; Yellin and Frachtenberg 1992; Delerue 2007;
+Delerue et al. 2012). Core issues concerning the movement and
+trade of obsidian in the greater region were first discussed by
+Renfrew et al. (1966 and 1968), who constructed the ‘downthe-line’ model to explain the apparent decrease in obsidian
+quantity as distance from the source grows. However, as they
+pointed out, the large assemblage from Jericho (CrowfootPayne 1983: Tables 2-8) does not fit this model, as is the case
+3. E.g. Zahrat adh-Dhra’ 2 in Edwards et al. (2004); Netiv Hagdud in Nadel
+(1997) and Yellin (1997); but compare Jericho in Crowfoot-Payne (1983):
+Tables 2-8.
+4. E.g. Horvat Galil in Gopher (1997); Motza in Khalaily et al. (2007) or
+Nahal Lavan 109 in Burian and Friedman (1988).
+5. E.g. Tel ‘Ali in Garfinkel (1994); Beisamoun in Bocquentin et al. 2007;
+Ashkelon in Garfinkel 2008; ‘Ain Ghazal in Rollefson et al. (1993).
+6. Namely during the Yarmukian and Lodian/Jericho IX phases (Garfinkel
+1993 and 2008: Table 36); but see Hagoshrim V in Gopher et al. (1998) and
+Schechter et al. (2013).
+7. E.g. Kabri in Stekelis 1958 and Prausnitz 1969; Horvat ‘uza in LiebermanWander (2009); Nahal Zehora II in Delerue (2012); Hagoshrim IV in
+Gopher et al. (1998) and Schechter et al. (2013).
+for EPPNB Nahal Lavan 109 (Burian and Friedman 1988) or
+PN Hagoshrim (Gopher et al. 1998 and 2011; Schechter et al.
+2013). Such assemblages were the basis for the development of
+more complex models such as Renfrew’s (1977) “directional
+trade”, discussing “central places” and “trade between centres”, which were adopted and adapted to interpret the obsidian
+trade system in the Southern Levant (Garfinkel 2008 and 2011;
+Gopher et al. 1998).
+RESEARCH OBJECTIVES
+In this paper, we present the obsidian assemblage from Ein
+Zippori. Different technological issues concerning bladelet debitage by pressure and on-site production are discussed, as well as
+different typological issues concerning obsidian tools. A chemical provenance analysis is presented and implications concerning the origins of the obsidian items are discussed. The obsidian
+assemblage is further reviewed in light of diachronic and synchronic comparisons – both in light of earlier data known in the
+region and as part of the WR culture in comparison to other WR
+assemblages. Conclusions concerning the place and importance
+of this obsidian assemblage are drawn at the end of the discussion. This obsidian assemblage enriches our knowledge of
+southern Levantine obsidian during the WR, reinforces previous
+conclusions and provides insight into local site-hierarchy concerning obsidian distribution and production.
+DATINg THE OBSIDIAN ASSEmBLAgE
+fROm EIN ZIppORI
+Through the 2014 excavation season, 266 obsidian items
+were found at Ein Zippori. Most of them were found in WR
+layers (71.8%), some in EBA IB layers (18.8%), and a few in
+general EBA (3.1%) or top-soil (6.3%) layers. Since obsidian is
+generally not found in EBA sites in the Southern Levant, and is
+common in WR sites, it is safe to suggest that the obsidian at
+Ein Zippori was used in the WR settlement, and is residual in
+the EBA layers, due to post-depositional mixing processes.
+Single items may be dated to the earlier Pottery Neolithic on a
+typological basis (an Amuq type arrowhead and perhaps a
+spear-head), and their chronological assignment is discussed
+below. We therefore analyse all the obsidian items as part of
+one assemblage assigned to the WR culture.
+029-052-Schechter.indd 32 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 33Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+ASSEMBLAGE BREAKDOWN
+Debitage accounts for 57.1% of the obsidian assemblage,
+while tools account for 36.8% (table 1). There are approximately 1.5 debitage items per each tool; debris are scarce
+(2.3%), and so are Primary Elements (0.8%). All this does not
+indicate intensive on-site production. It did however take place
+as some cores were found (2.3%), as well as core trimming elements (8.6%). Except for tools, bladelets make up the major
+part of the assemblage (36.5%). They were probably both produced on-site and imported, and were the main product of the
+obsidian trade to the site.
+Table 1 – The obsidian assemblage from Ein Zippori.
+Type No. % of assemblage
+Debris
+Chunk 1 0.4
+Chip 5 1.9
+Total debris 6 2.3
+Debitage
+PE flake 2 0.8
+Flake 24 9.0
+Blade 6 2.3
+Bladelet 97 36.5
+CTE 23 8.6
+Total debitage 152 57.1
+Tool 98 36.8
+Core 6 2.3
+Disc bead 4 1.5
+Total 266 100.0
+TECHNOLOgY
+A tendency towards bladelet8 production and consumption is
+apparent from the assemblage and some technological tendencies are noticed. Of the 97 bladelets found, 90.7% were produced
+by pressure (fig. 3: 1), characterized by abraded punctiform
+butts, flat or small bulbs, parallel sides and arrises, no ventral
+ripples, distal curve, etc. (Inizan et al. 1999: 76-78; Pelegrin
+2012); and the rest were produced by percussion (Pelegrin 2000)
+or show mixed marks. The dominant use of pressure to produce
+obsidian bladelets is wide spread in the region (Binder 2007)
+and well known from many sites in the area.9
+8. A bladelet has a maximum width of 12 mm, maximum length of 50 mm
+and has at least 2:1 length-to-width ratio when complete. Fragments with
+characteristically parallel sides and arrises were also determined as bladelets.
+9. E.g. Hagoshrim in Gopher et al. 1998 and 2011; Schechter et al. 2013;
+Nahal Zehora in Delerue et al. 2012.
+Very few of the bladelets are complete (N=7, 7.2%) and
+those measure 15-40 mm in length. Most bladelets are broken.
+Bladelet width ranges from 4 mm to 12 mm, yet 86.6% cluster
+ca 6-10 mm, averaging at 7.8 mm. Most bladelets are 2 mm
+(52.6%) or 1 mm (38.1%) thick, and few (9.3%) are 3-4 mm
+thick. Of the bladelet fragments, 56.7% are medial, 37.8% are
+proximal and 5.6% are distal; 23.7% of the bladelets are lateral,
+produced from the sides of the debitage plane, while 76.3% are
+central. Experiments show that lateral bladelets average at
+18-28% in a single production sequence from a bladelet core
+(Astruc et al. 2007), and their frequency at Ein Zippori supports on-site production.
+The direction of production of the bladelet could be noticed
+on 77.3% of the bladelets; of them 88.0% were produced from
+unipolar cores and 12.0% from cores with opposed platforms.
+Bidirectional scars appear at Ein Zippori on bladelets and
+cores (fig. 3: 3). This was also noticed at Hagoshrim (Gopher et
+al. 2011; Schechter et al. 2013), Damishliyya I (Astruc et al.
+2007) and Tel Kurdu (Healey 2004: Fig. 10.4). Bidirectional
+debitage by pressure seems to be “illogical”, as put by
+M.-L. Inizan (1999: 78), thus the reduction process probably
+involved intermittent percussion and corrective removals, from
+primary and opposed striking platforms, resulting in bidirectional appearance.
+Six cores were found at the site, two of which are broken.
+Of the complete cores, each has a different shape-pencil shape
+(fig. 3: 4), pyramidal (fig. 3: 2), trapezoid, prismatic—which
+are expected morphologies of pressure bladelet cores (Inizan
+et al. 1999: 78 and fig. 31). According to the scars on the debitage planes, all cores were used to produce bladelets and one
+was formerly used to produce blades, whose scars still appear
+on the back of the core. The production method on all cores
+was pressure, yet on two cores signs of terminal production by
+percussion appear. Two cores had changed orientation—the
+striking platform and debitage plane were moved to a different
+face of the core—, in both cases flipped over so that the base
+became the new striking platform, resulting in the appearance
+of bidirectional cores (fig. 3: 2). Core maintenance includes
+abraded sides and retouch along or across back (fig. 3: 2-3)—
+presumably to dull sharp edges and ease handling (Marder
+2002: 184). Retouch appears along the line of points of percussion, presumably as preparation for further production, while
+abrasion on the striking platform presumably helped stabilize
+the punch/crutch (Binder 2007).
+To summarize, the obsidian chaîne opératoire was aimed
+at producing bladelets by pressure from cores, which have
+abraded striking platforms and abraded, retouched or flat
+backs, sides and bases. The cores may have formerly been used
+029-052-Schechter.indd 33 12/04/16 09:5634 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Fig. 3 – Pressure production. 1) Bladelets produced by pressure; 2) pyramidal core;
+3) a core showing bidirectional removals; 4) pencil-shaped core.
+029-052-Schechter.indd 34 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 35Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+to produce blades and may show terminal or intermediate use
+of percussion. This chaîne opératoire was also recorded at
+Hagoshrim (Gopher et al. 2011; Schechter et al. 2013), and is
+probably typical to the local and regional obsidian industry
+during this time.
+Different types of Core Trimming Elements (CTE) were
+found in the assemblage, and they are generally typical standard bladelet production CTEs. The 23 CTEs include: nine
+overshot10 bladelets (fig. 4: 5), two overshot blades (fig. 4: 2),
+one overshot flake (which is a core tablet, fig. 4: 3), three ridge11
+blade/lets (fig. 4: 1, 6), one core tablet12 (fig. 4: 4) and seven
+other CTEs. Additional CTEs, were counted in the tools, and
+are mentioned below. All overshot items but one are broken
+and represented by their overshooting distal end. Most (66.6%)
+are lateral—removing part of the side of the core in addition to
+part of the debitage plane. An overshot blade and an overshot
+bladelet may have been produced by percussion, but all the
+others seem to have been produced by pressure. One other
+overshot bladelet and another overshot blade show marks of
+bidirectional production. The blade (the only complete overshot item) was struck from the base of the core, all along the
+debitage plane, overshooting and removing the striking platform (fig. 4: 2). The ridge blades are represented with three
+fragments (proximal, medial and distal). The preparation of
+the ridge varies—uni- or bi- facial retouch or abrasion (fig. 4:
+1, 6). In all cases the ‘mirror-flat’ sides meet at the ridge at a
+right angle, which is surprisingly accurate. Precise right angles
+were also recorded on cores at Ein Zippori and are a striking
+phenomenon at Hagoshrim (Gopher et al. 2011; Schechter et
+al. 2013). The tablet is a successful removal of the striking
+platform, after several failed attempts resulting in multiple
+hinges, struck from the centre of the debitage plane (fig. 4: 4).
+All the items included here in ‘other CTEs’ are different forms
+of removal of parts of the debitage plane. They may be removed
+from the proximal, medial or distal parts of the core, and all
+show removals in mixed directions, mostly transverse. A typical kind of removal in the standard bladelet industry is an item
+removed transversely, across the proximal part of the front of
+the core, removing part of the striking platform and part of the
+debitage plane, where they meet along the points of percussion
+(fig. 4: 7). Two such items were found at Ein Zippori.
+10. Overshot, meaning plunging, removing the base of the core with their
+distal end, see Inizan et al. 1999: 149-151; Shea 2013: 130-131.
+11. Ridged or crested blades are used to initiate blade reduction, see Inizan et
+al. 1999: 73; Shea 2013: 128-130.
+12. Striking platform rejuvenation flake, see Inizan et al. 1999: 153; Shea
+2013: 130.
+TOOLS
+The typological division of the 98 tools found at Ein
+Zippori is presented in Table 2. The most dominant tool group
+at the site is retouched items, accounting together for 71.4% of
+the tools. Of them 62.9% are retouched bladelets (fig. 5: 1-2),
+25.7% are retouched blades, 10.0% are retouched flakes and
+one item (1.4%) is a retouched chunk. The percentage (out of
+all the tools) of retouched blades (18.4%) and retouched bladelets (44.9%) exceeds the percentage of their unretouched counterparts from the assemblage as a whole (blades 2.3% and
+bladelets 36.5%, table 2), presumably reflecting a degree of
+selection in favor of blade/let blanks for tools. Not only simple
+blade/lets were chosen as blanks—two ridge blades and two
+overshot bladelets were also made into tools. Among the
+retouched flakes we include a worked flake, rubbed and
+abraded all around, which may be a bead preform or used so
+that all its retouch was abraded (fig. 5: 3).
+Table 2 – The obsidian tools from Ein Zippori.
+Type No. % % of retouched items
+Arrowheads 5 5.1
+Corner Thinned Blades 2 2.0
+Burins 5 5.1
+Notches 12 12.2
+Truncated blades 4 4.1
+Retouched blades 18 18.4 25.7
+Retouched bladelets 44 44.9 62.9
+Retouched flakes 7 7.1 10.0
+Retouched chunks 1 1.0 1.4
+Total 98 100.0
+Retouch on blades and bladelets
+The character of the retouch may be compared to show differences and similarities in the two production trajectories. The
+location of retouch on blades is usually bilateral (80%), while on
+bladelets it may be bilateral (56.4%) or unilateral (41.0%). Most
+retouch on both blades and bladelets tends to be direct (struck
+from the ventral face towards the dorsal face: 53.3% for blades,
+43.6% for bladelets), yet other types of retouch do appear. Inverse
+retouch (struck from the dorsal face towards the ventral face)
+appears more on bladelets (10.3%) than on blades (6.7%).
+Alternate retouch (direct on one lateral edge and inverse on the
+other) appears equally on both blades (20%) and bladelets
+(20.5%), while more of the bladelets show alternating retouch
+(alternating between direct and inverse retouch on the same lateral edge. 23.1% for bladelets, 13.3% for blades).
+029-052-Schechter.indd 35 12/04/16 09:5636 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Fig. 4 – Core Trimming Elements. 1) Abraded ridge bladelet; 2) overshot blade; 3) overshot core tablet;
+4) core tablet; 5) overshot bladelet; 6) unifacial ridge blade; 7) removal of the line of points of percussion.
+029-052-Schechter.indd 36 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 37Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Fig. 5 – Tools. 1-2) Retouched bladelets; 3) abraded flake; 4) parallel notches; 5) Corner Thinned Blade; 6) dihedral burin.
+029-052-Schechter.indd 37 12/04/16 09:5638 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Notches
+Notches13 account for 12.2% of the tool assemblage. They
+appear mainly on bladelets (50%) but also appear on a flake
+(the abraded flake, fig. 5:3), a core tablet, a CTE and more.
+Most notches are 3-7 mm wide although three are quite large
+and measure 15-17 mm. The direction of the notch does not
+seem to matter as 50% of the notches are inverse, 44% are
+direct and one (6%) is bifacial. A single item may have one
+(58.3%), two (33.3%) or even three (8.3%) notches. Most of the
+multi-notched items are bladelets; they have two parallel
+notches near the proximal, or less commonly, the distal end,
+presumably used for hafting (fig. 5: 4). Most notched items
+have other retouch on them (66.6%), mostly fine retouch. One
+item counted in the notches has drill-attempt marks on both
+faces (see below fig. 7: 5).
+Truncated blades
+Four truncated blades were found, all truncated by direct
+retouch. One blade is truncated only on the proximal end,
+another only on the distal end, while a third is truncated on
+both ends and has some retouch along both laterals. The fourth
+truncated blade is broken on one end and truncated on the
+other. It has a rectilinear shape, a direct abrupt back along one
+edge and some inverse retouch along the other. More importantly, what was probably once the sharp edge, was dulled by
+abrasion, perhaps due to some form of use. This item is too
+flimsy to be defined as a sickle blade but it resembles this tool
+type. Shape-defined sickle segments made on obsidian (with
+no sickle-sheen, as reaping does not create this visual effect on
+obsidian) were also found in the Early and Late ubaid layers at
+Kosak Shamali (Nishiaki 2003).
+Arrowheads, Corner-Thinned-Blades (CTB)
+and burins
+These items are all formal standardized tools. They appear
+in small numbers in the assemblage but have great importance
+to the character and chronology of the assemblage.
+Five obsidian arrowheads were found at Ein Zippori. Three
+of them are transverse arrowheads (fig. 6: 2-4), typologically
+and technologically almost identical. They are all shaped on a
+medial segment of a blade produced by pressure. They have a
+trapezoidal shape achieved by two oblique truncations. Two
+have invasive pressure retouch from both the truncations to the
+13. See definition in Inizan et al. 1999: 147 and fig. 65.4.
+Fig. 6 – Arrowheads. 1) Spear-head (?);
+2-4) transverse arrowheads; 5) Amuq point.
+centre, and one is covered by this type of retouch. Regular,
+direct, abrupt retouch appears on the oblique truncations of the
+three arrowheads after the pressure retouch, creating very uniformly straight truncations. Two of the arrowheads have identical measurements (18 mm long, 17 mm wide, 3 mm thick); and
+the third was made on a slightly wider blade, resulting in a
+slightly longer arrowhead (20 mm long, 17 mm wide, 2 mm
+thick). It is clear that blades with specific measurements were
+029-052-Schechter.indd 38 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 39Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+produced or chosen for the job and that the arrowheads were
+shaped according to the same technology and tradition, as part
+of a highly standardized industry. It is worth mentioning that
+two of the arrowheads were found in the same locus (L. 1991,
+area C) while the third was found in a different area tens of
+meters away (L. 5516, area K2).
+Obsidian transverse arrowheads are rare but parallels can be
+found at Hagoshrim (Schechter et al. 2013) and at the Late
+Neolithic layers at Sabi Abyad (Copeland 1996: 296-297), where
+a cache of similar items made of flint was also found (Copeland
+1996: 292). Transverse arrowheads made of flint were also found
+in other WR sites such as Nahal Zehora II (Barkai and Gopher
+2012: 789). Several differences may be noticed between the
+highly standardized obsidian transverse arrowheads from Ein
+Zippori and those mentioned above. The transverse arrowheads
+from Hagoshrim range 8-19 mm in width and 12-25 in length.
+They show various metric configurations, and generally tend to
+be smaller, with less oblique and irregularly outlined truncations
+(personal observation). None of the transverse arrowheads from
+Hagoshrim has pressure retouch and two have concave truncations, typical to flint transverse arrowheads (Rosen 1997: 39)
+and not known at Ein Zippori. The obsidian transverse arrowheads from Sabi Abyad also have different metric configurations
+(more stout or more elongated), and though traces of pressure
+retouch do appear on them, their oblique sides were shaped by
+snaps (Copeland 1996: Figs. 4.3, 6 and 4.17, 14 and 18). The flint
+transverse arrowheads from the Sabi Abyad cache are substantially more elongated and are usually covered by pressure
+retouch (Copeland 1996: Fig. 4.17, 1-10). Flint transverse arrowheads from Nahal Zehora II are all substantially smaller than the
+obsidian ones presented here; may be trapezoidal, with slightly
+concave truncations, or triangular (Barkai and Gopher 2012:
+Fig. 19.13, 4-6 and 19.14, 4-12); and none have pressure retouch.
+In the Southern Levant, transverse arrowheads are clearly present in flint assemblages of the WR culture and are only very
+rarely found in later assemblages (Gopher 1994: 265-266;
+Gopher and Barkai 2012: 1118; Rosen 1984).14
+One arrowhead found at Ein Zippori is a possible Amuq
+point represented by one of its tips (fig. 6: 5). The arrowhead
+was shaped on a pressure-produced bladelet. The tip was
+shaped by bilateral, direct, semi-abrupt, covering pressure
+retouch on the dorsal face; inverse, flat covering pressure
+retouch on the ventral face; and then fine, direct regular retouch
+straightening the oblique edges towards the tip. Parallels can
+be found at Musular (Özbaşaran 2000: 136 and fig. 14), where
+14. However, see discussion in S. Rosen (1997: 44) concerning the presence of
+specific subtypes in the desert through EBA II.
+they are shaped by unifacial pressure retouch covering the
+whole dorsal face.
+The last item included in the arrowheads is very large
+(fig. 6: 1). It has a general leaf-shape, is 96 mm long, 23 mm
+wide and 8 mm thick, with both tips broken off. Its general
+shape resembles an Amuq point (Gopher 1989: 92). The blade
+blank was produced from a bipolar core as attested by the dorsal scars. About half the blade (presumably the hafted end)
+was shaped by bilateral, direct, semi-abrupt pressure retouch
+covering the dorsal side, and flat, inverse pressure retouch covering the ventral side. Beyond this part, regular alternating
+retouch appears along both edges of the tool all the way to the
+other broken tip, where more inverse, flat pressure retouch is
+present along one lateral edge of the ventral face. Due to its
+size, the tool could probably not perform as an arrowhead but
+rather as a spearhead. The regular retouch, heavier along one
+lateral edge, may alternatively suggest it was a hafted knife. A
+parallel may be found at the LPPNB-EPN Tell el-Kerkh 2
+(Arimura 2003: 73, fig. 41, 7 and pl. 9, 21). It too was shaped by
+pressure retouch on a blade detached from an opposed-platform core.
+Bipolar, naviform blade cores were ‘mass-produced’ in the
+PPNB production centre of Kaletepe in Central Anatolia, nearby the Göllü Dağ sources, and blades were exported (Binder
+and Balkan-Atli 2001). Obsidian bipolar cores were also found
+in Anatolian PPNB occupational sites such as Aşıklı Höyük
+(Balkan-Atli 1994). Obsidian bipolar blade cores were not
+found in the Southern Levant. This large point may be compared to similar items made of flint found at the PN layer 2 at
+Munhata (Gopher 1989: 91 and fig. 38.6 and 8).
+Arrowheads in general are not common in WR assemblages, and those made on obsidian are even less so. Transverse
+arrowheads are known from WR contexts, and Amuq points
+are typical to the Middle and Late PPNB as well as to the
+beginning of the PN.
+Five Burins were found at Ein Zippori. All were produced
+on flakes and all have other retouch on them besides the burin
+blow. The first is a broken dihedral axis burin, with one burin
+blow along a break, the second along a retouched edge and
+more direct retouch along the edge opposite the burin point.
+The second burin (fig. 5: 7) is very similar yet larger (19 x 15 x
+5 mm for the first, 33 x 15 x 8 mm for the second). It is a dihedral axis burin with one burin blow along a retouched edge.
+The third burin was made on a retouched CTE flake removed
+from the side of the debitage plane, taking the front of the
+striking platform. The axis burin blow is ventrally angled,
+from one retouched edge of the tool to the other, removing the
+distal end of the flake, and plunging over along the opposite
+029-052-Schechter.indd 39 12/04/16 09:5640 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+retouched edge. The fourth burin was made on a retouched
+flake (fig. 5: 6). Two angle burin blows run parallel on the same
+edge, opposite the retouched edge. The first burin blow is perpendicular to the original item but the second angled to the
+dorsal face and plunged, taking the entire distal end, to other
+side of the flake. On this plunging scar additional direct abrupt
+retouch was performed, turning the tool into an endscraper.
+Another burin was made on a CTE flake, yet it is heavily
+crushed and none of the retouch, including the ventrally angled
+angle burin blow from a distal break, is certain.
+Burins on blades are considered one of the hallmarks of the
+PPN (Rollefson 1995), but burins on flakes may appear in
+many other periods and are not a chronological marker.
+Two bladelets were defined as Corner-Thinned-Blades
+(CTB). CTBs were defined by Y. Nishiaki (1990) as “obsidian
+blades and bladelets with one or more corners deliberately
+thinned by lamellar retouch”, and considered as tools. Both
+bladelets from Ein Zippori have one lamellar ventral removal
+along one edge. One originates from a break (fig. 5: 5) and one
+from the proximal edge. They are both quite flimsy and should
+be considered with reservation. CTBs usually appear in PPN
+contexts (Nishiaki 1990) but as shown at Hagoshrim (Schechter
+et al. 2013), and at Sabi-Abyad (Copeland 1996), they are found
+in WR and parallel contexts as well.
+BEADS
+Four obsidian beads were found at Ein Zippori. Three of
+the beads are disc-shaped (fig. 7: 2-4) and one is a perforated
+proximal end of a broken bladelet which may have served as a
+pendant (fig. 7: 1). The bladelet was polished on the dorsal face
+and along one lateral edge and then the proximal end and the
+other lateral edge were rounded by invasive direct pressure
+retouch. The biconical hole was drilled last. Of the three disc
+beads, two were found near each other, in the same locus
+(B. 10585, L. 1094, area A; fig. 7: 2, 4), and the third in a different area altogether (L. 9029, area C.; fig. 7: 3). The three
+disc beads look similar but show several technological differences. Two were made on flakes (fig. 7: 2, 4) and one on a blade
+(fig. 7: 3). Predominantly direct retouch was first used around
+the bead perimeter to give them a round shape; the beads were
+then partially polished on the dorsal face, and the one made on
+a blade was also polished on the ventral face; finally a biconical hole was drilled, equally from both faces on the blade and
+predominantly from the ventral face on the flakes. Similar
+obsidian beads were found at Hagoshrim (Schechter et al.
+2013) and at Horvat ‘uza (Lieberman-Wander 2009).
+Fig. 7 – Beads. 1) Perforated bladelet); 2-4) disc beads;
+5) perforation attempt.
+A notched item with drill-attempt marks was found (fig. 7:
+5). The drilling marks appear on the same spot on both faces
+of the item and were probably intended to meet and make a
+hole. It may be a bead preform but the hole perimeter is quite
+large and it may have been intended for a different purpose.
+TECHNO-TYPOLOGICAL DISCuSSION
+Obsidian bladelet industries in the greater Fertile Crescent
+area are traditionally produced by pressure (Binder 2007). The
+pressure production industry requires great skill and expertise,
+especially in the preparatory stages (Inizan et al. 1999: 76;
+Pelegrin 2012). It is presumably performed by specialists in
+selected sites such as the workshops near the obsidian sources
+(Binder and Balkan-Atli 2001) and, very differently, at
+Hagoshrim (Gopher et al. 2011; Schechter et al. 2013). The
+production process leaves behind typical industrial waste such
+as primary elements (PE), large preparatory flakes, unsuccessful cores, CTEs such as ridge blades and core tablets, overshooting blades, etc.
+Several aspects of the obsidian assemblage from Ein
+Zippori imply that prepared obsidian items were imported to
+the site, alongside on-site production. The local production
+included the later stages of production and was probably not
+solely based on pressure or performed by specialists.
+029-052-Schechter.indd 40 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 41Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Diverse CTEs and cores were found at the site, reflecting
+obsidian production on-site. The core shapes are standard and
+the CTEs are typical to bladelet production industries.
+However, there are hardly any primary elements or debris and
+no large preparatory flakes. This indicates that cores were
+brought to the site ready-made, and maintained during production on-site by the removal of different CTEs.
+Tools make up a large percent of the assemblage (36.8%.
+table 1) and there are very few debitage items per tool (1.5).
+Many more debitage items are expected during the production
+of tools on-site, as can be seen in the flint assemblage. About
+60% of all the flint from Ein Zippori has been sorted to date,
+including 80-90% of the flint originating in the WR layers.
+These assemblages constitute almost 200,000 items; of them
+ca 150,000 belong to WR culture. In the flint assemblage, that
+was clearly extensively worked on-site, debitage items comprise 44.9% of the assemblage and tools 12.1%, making the
+ratio 3.7:1. This situation may also be compared to the different
+layers at Hagoshrim: obsidian tool percentages plummet from
+42.7% in layer VI, where on-site production did not take place,
+to 17.0% in layer V and 9.3% in layer IV, when on-site production appeared and then intensified (Schechter et al. 2013:
+Fig. 8.b). It is therefore suggested that obsidian bladelets,
+arrowheads, beads and such, were imported to the site prepared, alongside ready-made bladelet cores, and that only limited on-site obsidian production was performed at Ein Zippori.
+The production of bladelets and other items, which did take
+place on-site at Ein Zippori, was presumably performed by
+local knappers and not by obsidian specialists. Obsidian bladelets produced by pressure tend to be highly standardized in
+both metrics and quality of production: they have abraded
+punctiform butts, flat bulbs, no ventral ripples and straight parallel sides and arrises (Inizan et al. 1999: 76-78; Pelegrin
+2012). At Ein Zippori, 64.2% of the assemblage shows mixed
+signs of being produced by pressure, most of it comprised of
+bladelets or tools on bladelets. Of these presumed pressureproduced items, substantial percentages show non-parallel and
+winding sides and arrises (26.1%), ventral ripples (55.8%!) and
+different types of butts (not abraded or punctiform) (9.1%).
+This may point to a situation where inexperienced knappers
+tried to perform this foreign technology. A different option
+may be that these items were not produced by pressure after
+all, despite their general appearance, but rather that local knappers, well-practiced in producing fine flint bladelets,15 performed their expertise using gentle percussion on obsidian
+15. For WR bladelets production, see Barkai and Gopher 2012: 772-773 and
+781; Gopher and Barkai 2012: 1117.
+bladelet cores prepared for pressure debitage. It may also be
+suggested, based on the low professionalism and bidirectional
+removals, that pressure and percussion were used intermittently depending on skill, core maintenance needs, etc.
+Blades and bladelets represent two different technological
+and typological trajectories. There seems to be a difference in
+the tendencies to import blades or bladelets from the different
+sources, or to produce blades or bladelets from material from
+the different sources (see below). Blade and bladelet tools were
+shaped and retouched somewhat differently. While blades
+were mainly retouched bilaterally, presumably used on both
+sides, bladelets were uni- or bilaterally retouched equally.
+Blades were mainly retouched with direct retouch, while
+bladelets show a tendency toward more divers retouch direction. Like blades, most of the bladelets have direct retouch but
+they also have alternating and inverse retouch, twice as much
+as blades do. It is possible that blades were rarer, their use prolonged by using both sides, and shaped more traditionally,
+resulting in less diversified retouch. These differences reflect a
+separation between blades and bladelets. There is a certain
+separation in the materials they were made on; they were
+shaped somewhat differently, probably for different uses, and
+were not conceived as one type of tool.
+Only few tool types were made on obsidian. Except for
+arrowheads and burins most tools are retouched, truncated or
+notched flakes, blades or bladelets. The situation is different in
+the flint assemblage. As mentioned above, most of the WR flint
+assemblage has been analysed, and includes 12.1% tools and
+3.8% cores. As there are a few excavation areas, each including
+several WR sub-strata, these frequencies vary in the different
+assemblages, with tools ranging from 8-23% and cores from
+3-5%. The obsidian tool and core percentages diverge from this
+range (more tools, 36.8%; less cores, 2.8%). The variety of
+tool-types made on flint includes retouched, truncated, notched
+and denticulated items; scrapers and perforators of different
+types, burins, bifacial tools, arrowheads, and sickle blades.
+Thus, even though the analysis of the large flint assemblage
+from the site is still on going, it is clear that the flint tool-type
+list is more diverse, and as a raw material, obsidian was treated
+differently than flint. This may indicate that obsidian was
+reserved for specific uses, due to its physical properties or its
+high cost as an import.16
+16. In contrary to the ‘typical Neolithic inventory’, obsidian shows at
+Hagoshrim (Gopher et al. 2011).
+029-052-Schechter.indd 41 12/04/16 09:5642 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+PROVENANCE
+A sample of 44 obsidian items was analysed in order to
+determine the provenance of the obsidian items. These items
+were chosen in the following manner: all the beads and arrowheads; 2-3 items from each ‘obsidian type’;17 a representative of
+each debitage category that has not been represented in the
+above group;18 five more items from each area, which was not
+represented in the above groups (Areas L1 and N5). The items
+in the sample originate from the following strata: 12 items
+from the WR phases; 10 from post-WR phases; 8 from nonspecific phases (either WR or post-WR); and 14 from other
+contexts. The different areas of excavation are represented as
+follows: 2 items from area A; 14 from area B; 7 from area C; 2
+from area D; 5 from area E; 4 from area K; 5 from area L1; 5
+from area N5. These numbers roughly correlate to the size of
+the excavation areas.
+ANALYTICAL pROCEDURES
+The obsidian analysis was conducted using a Bruker
+Tracer III-SD energy-dispersive portable X-Ray Fluorescence
+(pXRF) spectrometer. The spectrometer is equipped with a
+10 mm2 X-Flash SDD Peltiers air-cooled detector with a highcount rate and resolution of 145eV at 100,000 counts per second (cps). In order to analyse the key trace elements used to
+source obsidian, a 0.006” Cu, 0.001” Ti, 0.012” Al filter was
+used with a voltage of 40 kV and current of 30 μA. The samples were analysed wholly and non-destructively for 180 seconds with the major elements of manganese (Mn), and iron
+(Fe) analysed along with the trace elements of zinc (Zn), gallium (Ga), rubidium (Rb), strontium (Sr), yttrium (Y), zirconium (Zr), niobium (Nb), and thorium (Th).
+The spectral data and concentrations were then input into
+Excel software and calibrated into parts per million (ppm)
+(table 3). Bruker’s19 obsidian calibration was used for the anal17. Colour/texture category, and see below. These happen to be mostly bladelets and some flakes and tools.
+18. I.e., CTEs, PE and cores.
+19. Speakman R.J., “Evaluation of Bruker’s Tracer Family Factory Obsidian
+Calibration for Handheld Portable XRF Studies of Obsidian”. Report
+Prepared for Bruker AXS, Kennewick, WA, 2012. [https://www.
+bruker.com/fileadmin/user_upload/8-PDF-Docs/X-rayDiffraction_
+ElementalAnalysis/HH-XRF/LabReports/Bruker_Obsidian_Report.
+pdf]. See also Glascock M.D. and Ferguson J.R., “Report on the Analysis
+of Obsidian Source Samples by Multiple Analytical Methods”. Report
+on File at the university of Missouri Research Reactor. Columbia, MO,
+Archaeometry Laboratory, 2012.
+ysis of the obsidian from Ein Zippori. This calibration is based
+on 40 slab-cut pieces of obsidian commissioned by the
+university of Missouri Research Reactor (MuRR)
+Archaeometry Laboratory. The elemental composition of the
+obsidian artefacts was then compared to samples, analysed
+under the same conditions as the obsidian from Ein Zippori,
+from the source areas of both central and eastern Anatolian
+sources. These source samples were analysed (by the author
+E. Rice) with the permission of Tristan Carter, from the collection at McMaster Archaeological XRF laboratory (MAX Lab).
+RESULTS
+For the 44 obsidian artefacts analysed using pXRF, three
+source areas were identified (table 4). Based on the results of a
+hierarchical cluster analysis, three major groupings were distinguished. Those clusters were then matched to the source
+samples provided by the McMaster Archaeological XRF
+Laboratory, based on the elements listed above including Mn,
+Fe, Zn, Ga, Rb, Sr, Y, Zr, Nb, and Th. From the entire assemblage, 12 artefacts were found to be from the central Anatolian
+source area of Göllü Dağ, and 32 were from eastern Anatolian
+sources (15 from Bingöl A, and 17 from Bingöl B). Figures 8-10
+show the clustering of artefacts from each source location with
+90% confidence ellipses.
+pROVENANCE DISCUSSION
+All the obsidian tested from Ein Zippori originates from
+Anatolian sources, as does all other tested obsidian found in
+Israel.20 The percentages of items originating in each of the
+above mentioned sources are presented in Table 4, where the
+predominance of items originating from eastern Anatolian
+sources is clearly apparent. This variety of sources, with a tendency towards eastern Anatolian sources, is known from the
+WR of other sites in the area as well (Delerue 2007: 447-452).
+It is traditionally accepted that during the earlier PPN period
+obsidian was imported to the Southern Levant from the central
+Anatolian Göllü Dağ sources (Yellin and Frachtenberg 1992)
+and only later, perhaps due to local political changes in the
+source regions (Binder 2007), did obsidian from eastern
+Anatolian sources start appearing in this area (Perlman and
+Yellin 1980). The latter is clearly reflected in the predominance
+of eastern Anatolian obsidian items found at Ein Zippori.
+20. Such as in Delerue 2007; Perlman and Yellin 1980.
+029-052-Schechter.indd 42 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 43Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Attempts to notice changes of obsidian provenance within the
+WR phases show an increase of obsidian from Göllü Dağ (from
+25% to 30%) and Bingöl A (from 25% to 40%), and a decrease
+in obsidian from Bingöl B (from 50% to 30%), with time.21
+21. According to the provenance of the 22 items from the sample, originating
+in these phases.
+Table 3 – Provenance analysis raw data table.
+ID # MnKa1 FeKa1 ZnKa1 GaKa1 ThLa1 RbKa1 SrKa1 Y Ka1 ZrKa1 NbKa1 Source
+EZPR 10585.1 447 5127 30 21 15 126 36 25 97 30 Göllü Dağ
+EZPR 10585.2 591 6027 43 26 14 141 39 27 98 33 Göllü Dağ
+EZPR 13451 422 20532 159 22 24 213 0 132 1142 69 Bingöl A
+EZPR 14426 284 7227 29 26 18 152 27 28 121 18 Göllü Dağ
+EZPR 14445 515 7664 34 26 20 202 13 24 93 23 Göllü Dağ
+EZPR 14486 328 15971 41 30 30 258 48 34 347 21 Bingöl B
+EZPR 14759 572 30870 198 26 29 242 0 142 1186 63 Bingöl A
+EZPR 14948.1 697 30474 189 24 31 230 1 142 1170 62 Bingöl A
+EZPR 14948.2 384 16233 61 29 30 253 50 34 332 20 Bingöl B
+EZPR 14948.3 338 12723 38 19 29 220 44 32 300 17 Bingöl B
+EZPR 14954 442 5623 18 13 21 179 10 22 81 21 Göllü Dağ
+EZPR 14963 633 7750 31 30 27 227 12 27 104 26 Göllü Dağ
+EZPR 14987 421 16700 63 32 35 268 49 35 345 21 Bingöl B
+EZPR 15031 577 7677 28 26 23 218 15 22 93 25 Göllü Dağ
+EZPR 15047 472 24251 189 29 27 244 0 142 1252 77 Bingöl A
+EZPR 17756 577 26804 186 26 28 207 3 125 1048 55 Bingöl A
+EZPR 17905 631 31016 164 28 29 246 1 133 1107 59 Bingöl A
+EZPR 17912 395 16005 46 32 33 264 52 39 351 21 Bingöl B
+EZPR 17913 366 13788 37 21 29 235 40 32 316 20 Bingöl B
+EZPR 20100 576 30059 189 25 29 232 1 135 1159 63 Bingöl A
+EZPR 20206 325 13567 39 22 28 234 42 33 308 17 Bingöl B
+EZPR 30748.1 396 28461 231 33 38 313 0 162 1364 76 Bingöl A
+EZPR 30748.2 370 14548 36 26 28 241 46 33 326 19 Bingöl B
+EZPR 30823 307 13915 48 22 25 230 45 33 313 19 Bingöl B
+EZPR 31263 516 7233 29 27 24 220 13 24 91 25 Göllü Dağ
+EZPR 31313 296 14853 44 28 28 238 46 34 326 20 Bingöl B
+EZPR 50091 311 13614 40 21 25 229 47 32 308 18 Bingöl B
+EZPR 50279 508 7676 28 22 19 184 12 24 84 23 Göllü Dağ
+EZPR 50418 461 20749 167 24 28 218 0 130 1175 71 Bingöl A
+EZPR 55085 276 12381 36 23 26 219 39 31 301 16 Bingöl B
+EZPR 60201 324 16623 52 32 27 270 52 34 343 22 Bingöl B
+EZPR 60232 596 7535 32 26 26 225 11 24 95 28 Göllü Dağ
+EZPR 60243 346 15872 48 29 28 244 47 36 329 20 Bingöl B
+EZPR 60346 516 28731 244 35 40 317 0 163 1398 79 Bingöl A
+EZPR 60353 483 6053 21 18 23 180 12 20 87 21 Göllü Dağ
+EZPR 77046 561 32363 194 29 26 228 0 130 1173 60 Bingöl A
+EZPR 77050 840 43192 307 42 43 318 2 180 1456 75 Bingöl A
+EZPR 77065 642 31931 176 28 33 224 2 137 1199 60 Bingöl A
+EZPR 77071.1 364 17371 59 31 31 270 51 35 352 23 Bingöl B
+EZPR 77071.2 443 20062 71 36 36 309 56 40 376 24 Bingöl B
+EZPR 90045 439 20337 72 36 35 303 58 35 362 23 Bingöl B
+EZPR 90052 451 21235 152 25 28 225 0 131 1179 73 Bingöl A
+EZPR 90121 519 25929 209 35 32 266 1 152 1366 82 Bingöl A
+EZPR 90211 335 7449 43 29 17 150 26 27 126 16 Göllü Dağ
+Table 4 – Provenance of geochemically analyzed items.
+Source No. of items %
+Bingöl A 15 34.1
+Bingöl B 17 38.6
+Göllü Dağ 12 27.3
+Total 44 100.0
+029-052-Schechter.indd 43 12/04/16 09:5644 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Several obsidian researches show that obsidian from different sources differs in its colour, texture and general appearance (Healey 2007; Kayacan and Özbaşaran 2007).22 By
+combining geochemical analysis and ‘Macroscopic Color and
+Pattern Analysis’ (Kayacan 2014), they manage to assign different types of obsidian, found at different sites, to the different
+obsidian sources, in a much larger scale than formerly possible.
+Though these source-recognition methods were not fully
+employed at Ein Zippori, preliminary observations may be
+made.
+The different obsidian types found at the site, as viewed for
+each item through transmitted light, are presented in Table 5,
+and the correlation of obsidian type to source, of the items
+which were geochemically examined, is presented in Table 6.
+22. Carter T., “Chipped Stone Report: The West Mound Excavations.” In:
+Çatalhöyük 2006. Archive Report: 256-259. http://www.catalhoyuk.com/
+downloads/Archive_Report_2006.pdf
+Several points are apparent when analysing Table 6. Clear
+green items, characterized by completely transparent dark
+green obsidian, appear only in Bingöl A, and comprise the
+largest group from this source. All other items originating
+from Bingöl A are also of different green types and no other
+obsidian colour was found to come from this source. Opaque
+Black items, characterized by deep black, opaque obsidian
+with a mirror-like shine, appear only in Bingöl B, and though
+not as definitively, they too comprise the largest group from
+this source. Almost all of the obsidian from Göllü Dağ is grey,
+most of it clear grey. The two spotted red items are disk beads
+and according to this analysis originate in Göllü Dağ. However,
+this ‘spotted red’ type in other analyses includes a mix of
+obsidians probably originating from eastern Anatolian Meydan
+Dağ/Sarikamiş and/or Arteni sources (Tristan Carter personal
+comm.). Further geochemical analysis as well as better definition and differentiations of the obsidian visual types are needed
+for further in-depth research.
+Fig. 8 – Bivariate plot of Ein Zippori obsidian samples of Nb vs. Sr with 90% confidence ellipses.
+029-052-Schechter.indd 44 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 45Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+A typo-technological difference between items from different sources may be mentioned. Most blades (including
+blanks, tools and CTEs) originate in Bingöl A (54.2%) and
+only a minority originate in Bingöl B (12.5%). Most bladelets
+(including blanks, tools and CTEs) originate in Bingöl A as
+well (38.6%), yet many more bladelets originate in Bingöl B
+(23.4%) than do blades. In other words, blades were dominantly made on obsidian from Bingöl A, while bladelets were
+more evenly made on obsidian from the different sources. To
+look at the situation—bladelets account for 62.9% of the items
+made on Bingöl A obsidian and 61.7% of the items made on
+Bingöl B obsidian—quite evenly distributed. Blades however,
+Fig. 9 – Bivariate plot of Ein Zippori obsidian samples of Rb vs. Y with 90% confidence ellipses.
+Table 5 – Different obsidian types defined by color and texture.
+Colour Clear Cloudy Striped Clear with impurities Total
+No. % of group No. % of group No. % of group No. % of group No. % of total
+Green 85 84.2 10 9.9 6 5.9 101 38.0
+Green Grey 13 76.5 4 23.5 17 6.4
+Grey 55 67.9 8 9.9 16 19.8 2 2.5 81 30.5
+Blue Grey 8 88.9 1 11.1 9 3.4
+Brown 7 53.8 5 38.5 1 7.7 13 4.9
+Opaque Black 43 16.2
+Red 2 100.0 2 0.8
+Total 266 100.0
+029-052-Schechter.indd 45 12/04/16 09:5646 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+account for 13.4% of the items made on Bingöl A obsidian and
+only 5% of the items made on Bingöl B obsidian. Again the
+limitation seems to be on blade production, while bladelets are
+produced on all materials. A more strict separation, bladelets
+originating mainly in one source and blades in another, was
+also noticed in Musular (Kayacan and Özbaşaran 2007) for
+different Göllü Dağ sources. This tendency may reflect the size
+of raw material chunks procured from each source or the technological traditions common among the knappers at each
+source. It may also help explain the differences in the way the
+blade and bladelet tools were retouched.
+CONCLuSION
+The obsidian assemblages of the WR culture in the Southern
+Levant have several common characteristics unique to their
+time. The obsidian sources during the WR include central and
+Fig. 10 – Bivariate plot of Ein Zippori obsidian samples of Sr vs. Zr with 90% confidence ellipses.
+Table 6 – Obsidian types for geochemically analyzed items.
+Source Color No. % of source
+Bingöl A clear green 9 60.0
+Bingöl A cloudy green 5 33.3
+Bingöl A striped green 1 6.7
+Source total 15 100.0
+Bingöl B clear grey 3 17.6
+Bingöl B cloudy grey 3 17.6
+Bingöl B striped grey 2 11.8
+Bingöl B striped green 2 11.8
+Bingöl B striped brown 1 5.9
+Bingöl B opaque black 6 35.3
+Source total 17 100.0
+Göllü Dağ clear grey 8 66.7
+Göllü Dağ cloudy grey 2 16.7
+Göllü Dağ spotted clear red 2 16.7
+Source total 12 100.0
+Total tested items 44
+029-052-Schechter.indd 46 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 47Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+eastern Anatolian sources, with an emphasis on the latter
+(Delerue 2007). This reflects a shift in obsidian trade to the
+Southern Levant from the earlier PPNB, when all obsidian in the
+area originated in central Anatolian sources, namely Göllü Dağ
+(Perlman and Yellin 1980; Yellin and Frachtenberg 1992).
+The ratio of obsidian to flint can be used to estimate the
+intensity of obsidian use, especially by comparison between
+sites. It seems that the intensity of obsidian use was greater during the PPNB than during the WR in general (table 7); the WR
+of Hagoshrim IV being the exception, with conspicuous obsidian presence.
+Additionally, while the PPNB assemblages are usually
+characterized by flake dominance and an abundance of
+debris—together accounting for 69% of the assemblage from
+Nahal Lavan 109 (Burian and Friedman 1988: Table 1) and
+49.8% of the assemblage from Motza—, 23 the WR assemblages
+are dominated by bladelets, and especially pressure produced
+bladelets, as is evident at Hagoshrim (Schechter et al. 2013)
+and Nahal Zehora II (Delerue et al. 2012). Pressure produced
+bladelets were also found at the EPPNB site of Horvat Galil
+(Gopher 1997), but not at other PPNB sites. This northern
+technology (Binder 2007) was therefore permeating into the
+Southern Levant during the PPN, but only became wide spread
+in the WR culture (Gopher et al. 1998).
+The WR obsidian assemblages also usually include additional obsidian artefacts, such as beads, vessels and more, not
+reported in any earlier site. Disc beads and bladelet-pendants
+were found at Hagoshrim (Schechter et al. 2013), Horvat ‘uza
+(Lieberman-Wander 2009) and more. Bracelet and vessel frag23. Yet blades are more common than flakes in the debitage (Khalaily et al.
+2007: Table 2).
+ments, as well as a very large blade core, were found at
+Hagoshrim, and Kabri is famous for its obsidian mirror and
+giant core (Stekelis 1958; Prausnitz 1969 and 1970: 166; Gopher
+et al. 2011).
+These general characteristics of WR obsidian assemblages
+were also noticed at Ein Zippori. The obsidian assemblage
+from Ein Zippori originated in three different sources— central Anatolian Göllü Dağ and eastern Anatolian Bingöl A and
+B—with predominance of eastern Anatolian sources. The
+obsidian to flint ratio at Ein Zippori is 1:657, comfortably situated within the range for other WR sites (table 7); this ratio is
+lower than at PPNB sites, as expected. The obsidian assemblage at Ein Zippori is dominated by pressure produced bladelets and tools, and includes additional obsidian body ornaments/
+artefacts such as beads and pendants. This assemblage is thus
+typical to the WR, as was presented above.
+Besides pressure produced bladelets and tools, the assemblage includes other debitage items, mainly from the later
+stages of the chaîne opératoire, such as flakes, blades, CTEs
+and cores. Obsidian was imported to the site in the form of
+produced bladelets, tools and beads, as well as preformed and/
+or fully prepared bladelet cores. Some on-site production took
+place, by local knappers, who may have not had great expertise
+at knapping obsidian. The production involved both pressure
+and percussion and was aimed at producing bladelets. Bladelets
+and blades were retouched somewhat differently and were
+probably used for different purposes.
+This relationship, between import and on-site production,
+varies between different sites of the WR culture. A comparison
+between Nahal Zehora II, Ein Zippori and Hagoshrim IV may
+reflect different attitudes towards obsidian, and the different
+roles each of the sites had concerning obsidian and its movement
+Table 7 – Numbers of obsidian items from selected southern Levantine sites and ratios to the flint finds
+(adjusted from Schechter et al. 2013: Table 2).
+Site Period N of obsidian items Ratio of obsidian vs. flint Reference
+Horvat Galil EPPNB 133 1 1:81 Gopher 1997: 207, table 2
+Motza EPPNB 432 1:212 2 Khalaily et al. 2007: Table 2
+Nahal Lavan 109 EPPNB Over 600 1:76 3 Burian et al. 1999: 112, table 1
+Hagoshrim IV WR ca 10,000 1:47 4 Schechter et al. 2013: Table 2
+Horvat ‘Uza (strata XVI-XIX) WR 29 1:645 5 Lieberman-Wander 2009: 95
+Ein Zippori WR 266 1:657 6
+Nahal Zehorah II (strata I-II) WR 26 1:1,2777 Delerue et al. 2012
+1. 33 items retrieved during excavation, 100 from surface collection.
+2. Flint counts presented in the reference are estimated as 10% of total flint assemblage and ratio was calculated accordingly.
+3. In total, over 600 obsidian items were collected from Nahal Lavan 109 (Burian et al. 1999), 356 of them were studied and published (Burian and Friedman 1988; Yelin and Frachtenberg 1992),
+yet only 144 of them were collected under a controlled grid collection as presented in Burian et al. 1999. For the ratio we consider here only these grid collected items.
+4. Loci include 14 obsidian items, 48% of assemblage; 5. Loci include 14 obsidian items, 48% of assemblage; 6. Loci include 106 obsidian items, 40% of assemblage; 7. Loci include 22 obsidian
+items, 85% of assemblage.
+4-7: The ratio is based only on loci from which flint was counted.
+029-052-Schechter.indd 47 12/04/16 09:5648 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+and use in the region. At Nahal Zehora II obsidian is relatively
+scarce (table 7), and includes only blades and bladelets, which
+imply import rather than on-site production (Delerue et al.
+2012). At Hagoshrim IV on the other extreme, obsidian is very
+frequent (table 7) and many different types of items appear,
+reflecting complex on-site production procedures (Gopher et al.
+2011; Schechter et al. 2013). It is thus evident that obsidian was
+not evenly distributed in the area, and it seems to have been
+concentrated in production and exchange centres (i.e.,
+Hagoshrim, and see Garfinkel 2008 and 2011). Production was
+not, however, restricted to these centres, and was performed on
+a local site scale, perhaps by non-specialists (i.e., Ein Zippori).
+The products of the obsidian industry also reached sites where
+no production took place (i.e., Nahal Zehora II).
+Obsidian is a rare and exotic raw material in the Southern
+Levant, which had to be brought from afar. As such, it probably
+played a role in socio-politics and economy and might also have
+significance in the symbolic-ritual array. The large burnt core
+from Hagoshrim (Gopher et al. 2011; Schechter et al. 2013) may
+be an example from the Southern Levant, while the burnt house
+at Arpachiyah may be mentioned as an example in other regions
+(Campbell 2000). In addition to all that, obsidian items must
+have had utilitarian uses as well (Gopher et al. 1998 and 2011).
+The obsidian from Ein Zippori represents a component of
+the multiple relationships the Southern Levant as a whole, and
+this site in the Lower Galilee in particular, had with the Northern
+Levant. These connections are also expressed in other media
+such as the stamp seals found at the site, reflecting possible interaction with the northern Halaf culture, and the engraved stone
+plate and bone item,24 reflecting an artistic expression of ideas,
+common to various cultures in this space and time.
+24. Milevski et al. 2014, see footnote 1.
+ACKNOWLEDgEmENTS
+The excavations at Ein Zippori were conducted by the Israel
+Antiquity Authority, and were funded by the National Company of
+Roads. The authors would like to thank photographer Pavel Shrago
+and illustrator Leonid Zeiger for their work on the obsidian items. We
+would also like to thank the anonymous reviewers for their effort and
+helpful suggestions.
+Heeli C. Schechter
+Avi Gopher
+Department of Archaeology and Near East Cultures – Tel Aviv University
+Tel Aviv 69978 – Israel
+heelinka@gmail.com
+agopher@post.tau.ac.il
+Nimrod Getzov
+Ianir Milevski
+Alla Yaroshevich
+Department of Excavations, Surveys and Research
+Israel Antiquities Authority, POB 586
+Jerusalem 91004 – Israel
+getzov@israntique.org.il
+ianirmilevski@gmail.com
+allayaroshe@gmail.com
+Erin Rice
+Department of Anthropology
+University of Illinois at Chicago
+Chicago IL 60607-7139 – USA
+erice1@uic.edu
+BIBLIOGRAPHY
+A rimura M.
+2003 Chipped Stone Artifacts. In: Iwasaki T. and Tsuneki A.
+(eds.), Archaeology of the Rouj Basin. A Regional Study of
+the Transition from Village to City in Northwest Syria: 57-97.
+Tsukuba: university of Tsukuba, Department of Archaeology,
+Institute of History and Anthropology.
+A struc L ., G ratuze B., P elegrin J. and A kkermans P.M.M.G.
+2007 From Production to use: A Parcel of Obsidian Bladelets at
+Sabi Abyad II. In: A struc L., Binder D. and Briois F. (eds.),
+Technical Systems and Near Eastern PPN Communities: 327341. Antibes: APDCA.
+Balkan-Atli N.
+1994 The Typological Characteristics of the Asıklı Höyük Chipped
+Stone Industry. In: Gebel H.G. and Kozłowski S.K. (eds.),
+Neolithic Chipped Stone Industries of the Fertile Crescent.
+Proceedings of the First Workshop on PPN Chipped Lithic
+Industries: 209-221. Berlin: ex Oriente (SENEPSE 1).
+Barkai R . and G opher A .
+2012 Flint Assemblages from Naḥal Zehora II: Techno-Typological
+Changes During the PN. In: G opher A. (ed.): 757-869.
+Binder D.
+2007 PPN Pressure Technology: Views from Anatolia. In: A struc L.,
+Binder D. and Briois F. (eds.), Technical Systems and Near
+Eastern PPN Communities: 235-243. Antibes: APDCA.
+029-052-Schechter.indd 48 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 49Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Binder D. and Balkan-Atli N.
+2001 Obsidian Exploitation and Blade Technology at Kömürcü
+Kaletepe (Capadocia, Turkey). In: Caneva I., L emorini C .,
+Z ampetti D. and Biaggi P. (eds.), Beyond Tools, Redefining
+the PPN Lithic assemblages of the Levant: 1-16. Berlin: ex
+Oriente (SENEPSE 9).
+Bocquentin F., K halaily H., Samuelian N., Barzilai O.,
+L e D osseur G., Kolska H orwitz L . and E mery-Barbier A .
+2007 Renewed Excavation of the PPNB Site of Beisamoun, Hula
+Basin. Neo-Lithics 2/07: 17-21.
+Burian F. and F riedman E .
+1988 The Obsidian Finds of the PPNB Site Nahal Lavan 109.
+Mitekufat Haeven 21: 5-59 (in Hebrew).
+Burian F., F riedman E . and M intz E .
+1999 Nahal Lavan 109 – A Pre-Pottery Neolithic site in the Western
+Negev, Israel. In: Festschrift für Gunter Samulla: 95-120.
+Wiesbaden (Materialien zur Vor- und Frühgeschichte von
+Hessen 8).
+Campbell S.
+2000 The Burnt House at Arpachiyah: A Reexamination. BASOR 318:
+1-40.
+C opeland L .
+1996 The Flint and Obsidian Industries. In: A kkermans P.M.M.G.
+(ed.), Tell Sabi Abyad, The Late Neolithic Settlement: Report on
+the Excavations of the University of Amsterdam (1988) and the
+National Museum of Antiquities Leiden (1991-1993) in Syria:
+285-338. Istanbul: Nederlands Historisch-Archaeologisch
+Instituut te Istanbul.
+C rowfoot-Payne J.
+1983 The Flint Industries of Jericho. In: K enyon K.M. and
+H olland T.A. (eds.), Excavations at Jericho V: Appendix C:
+622-759. London: British School of Archaeology in Jerusalem.
+Delerue S.
+2007 L’Obsidienne dans le processus de Néolithisation du ProcheOrient (12000-6500 av. J.-C. cal). Thèse non publiée.
+Bordeaux : université Bordeaux 3, Maison de l’Archéologie.
+Delerue S., G opher A ., P oupeau P., M ilton A . and Barrat J.A .
+2012 Obsidians of Nahal Zehora II and their Provenance. In:
+G opher A. (ed.): 1101-1109.
+E dwards P.C ., M eadows J., Sayej G. and Westaway M.
+2004 From the PPNA to the PPNB: new views from the Southern
+Levant after excavations at Zahrat adh-Dhra‘ 2 in Jordan.
+Paléorient 30,2: 21-60.
+Garfinkel Y.
+1993 The Yarmukian Culture in Israel. Paléorient 19,1: 115-134.
+1994 The “PPNC” Flint Assemblage from Tel ‘Ali. In: Gebel H.G.
+and Kozłowski S.K. (eds.), Neolithic Chipped Stone Industries
+of the Fertile Crescent. Proceedings of the First Workshop on
+PPN Chipped Lithic Industries: 543-562. Berlin: ex Oriente
+(SENEPSE 1).
+2008 The Obsidian. In: Garfinkel Y. and Dag D., Neolithic
+Ashkelon: 203-208. Jerusalem: Institute of Archaeology,
+Hebrew university of Jerusalem (Qedem 47).
+2011 Obsidian Distribution and Cultural Contacts in the Southern
+Levant During the 7th Millennium cal. BC. In: H ealey E.,
+Campbell S. and Maeda O. (eds.), The State of the Stone.
+Terminologies, Continuities and Contexts in Near Eastern
+Lithics: 409-420. Berlin: ex Oriente (SENEPSE 13).
+G opher A .
+1989 The flint assemblages of Munhata (Israel). Paris: Association
+Paléorient (Les Cahiers du CRFJ 4).
+1997 Horvat Galil – An Early PPNB Site in the upper Galilee, Israel.
+Tel Aviv 24: 183-222.
+2012 The Pottery Neolithic in the Southern Levant – a Second
+Neolithic Revolution. In: G opher A. (ed.): 1525-1611.
+G opher A . (ed.)
+2012 Village Communities of the Pottery Neolithic Period in the
+Menashe Hills, Israel. Archaeological Investigations at the
+Sites of Nahal Zehora. Tel Aviv: Emery and Claire Yass
+Publications in Archaeology (Sonia and Marco Nadler Institute
+of Archaeology Monograph Series 29).
+G opher A . and Barkai R .
+2012 The Lithic Assemblages at the Nahal Zehora Sites: A Summary.
+In: G opher A. (ed.): 1110-1132.
+G opher A ., Barkai R . and M arder O.
+1998 Cultural Contacts in the Neolithic Period: Anatolian Obsidians
+in the Southern Levant. In: O tte M. (éd.), Préhistoire d’Anatolie, Genèse de deux mondes : 641-650. Liège : Institut Français
+du Proche-Orient.
+G opher A ., M arder O. and Barkai R .
+2011 An Obsidian Industry from Neolithic Hagoshrim, upper Galilee.
+In: H ealey E., Campbell S. and Maeda O. (eds.), The State
+of the Stone. Terminologies, Continuities and Contexts in Near
+Eastern Lithics: 395-402. Berlin: ex Oriente (SENEPSE 13).
+H ealey E .
+2004 Tell Kurdu 2001: Chipped Stone. In: Özbal R., Gerritsen F.,
+D iebold B., H ealey E., Aydin N., L oyet M., Nardulli F.,
+R eese D., Ekstrom H., Sholts S., Mekel -Bobrov N., and
+L ahn B., Tell Kurdu excavations 2001. Anatolica 30: 56-60.
+2007 Obsidian as an Indicator of Inter-Regional Contacts and
+Exchange: Three Case-Studies from the Halaf Period. Anatolian
+Studies 57: 171-189 (Transanatolia: Bridging the Gap between
+East and West in the Archaeology of Ancient Anatolia).
+I nizan M.-L ., R eduron-Ballinger M., Roche H. and T ixier J.
+1999 Technology and Terminology of Knapped Stone. Nanterre:
+CREP (Préhistoire de la Pierre Taillée 5).
+K ayacan N.
+2014 Obsidian from the IST Area. In: Özbaşaran M. and Duru G.
+(eds.), Istanbul (IST) Area of the East Mound at Çatalhöyük.
+Los Angeles: Cotsen Institute in uCLA (Çatalhöyük 7).
+K ayacan N. and Özbaşaran M.
+2007 The Choice of Obsidian and its use at Musular, Central
+Anatolia. In: A struc L., Binder D. and Briois F. (eds.),
+Technical Systems and Near Eastern PPN Communities: 229233. Antibes: APDCA.
+K halaily H. and Valla F. R .
+2013 Obsidian in Natufian Context: The Case of Eynan (Ain Mallaha),
+Israel. In: Bar-Yosef O. and Valla F. R. (eds.), Natufian
+Foragers in the Levant: 193-202. Ann-Arbor: International
+Monographs in Prehistory (Archaeological Ser. 19).
+029-052-Schechter.indd 49 12/04/16 09:5650 H.C. S chechter , A. G opher , N. Getzov, E. R ice, A. Yaroshevich and I. M ilevskiPaléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+K halaily H., Bar-Yosef O., Barzilai O., Boaretto E .,
+Bocquentin F., L e D osseur G., E irikh-Rose A ., G oringM orris N.A ., G reenhut Z ., M arder O., Sapir-H en L .
+and Yizhaq M.
+2007 Excavations at Motza in the Judean Hills and the Early PrePottery Neolithic B in the Southern Levant. Paléorient 33,2:
+5-37.
+L ieberman-Wander R .
+2009 The Obsidian Flaked-Stone Assemblage. In: Getzov N.,
+L ieberman-Wander R ., Smithline H. and Syon D. (eds.),
+Horvat ‘Uza: The 1991 Excavations. Volume 1: The Early
+Periods: 95-96. Jerusalem: Israel Antiquities Authority (IAA
+Reports 41).
+M arder O.
+2002 The Lithic Technology of Epipaleolithic Hunter-Gatherers in
+the Negev: The Implications of Refitting Studies. unpublished
+PhD Dissertation. Jerusalem: The Hebrew university (in
+Hebrew).
+M ilevski I. and Getzov N.
+2014 ‘En Zippori. Hadashot Arkheologiyot – Excavations and
+Surveys in Israel 126. [http://www.hadashot-esi.org.il/Report_
+Detail_Eng.aspx?id=13675]
+M ilevski I., L iran R . and Getzov N.
+2014 The Early Bronze Age Town of Ein Zippori in the Galilee
+(Israel). Antiquity 88,339. [http://antiquity.ac.uk/projgall/milevski339/]
+Nadel D.
+1997 The Chipped Stone Industry of Netiv Hagdud. In: BarYosef O. and Gopher A. (eds.), An Early Neolithic Village in
+the Jordan Valley, Part I: The Archaeology of Netiv Hagdud:
+71-149. Cambridge, MA: Harvard university, Peabody Museum
+of Archaeology and Ethnology (American School of Prehistoric
+Research Bulletins 43).
+Namdar D., A mrani A ., Getzov N. and M ilevski I.
+2015 Olive oil storage during the fifth and sixth millennia BC at
+Ein Zippori, Northern Israel. Israel Journal of Plant Sciences
+62,1-2: 65-74.
+Nishiaki Y.
+1990 Corner-Thinned Blades: A New Obsidian Tool Type from a
+Pottery Neolithic Mound in the Khabur Basin, Syria. Bulletin of
+the American Schools of Oriental Research 280: 5-14.
+2003 Chronological Developments of the Chalcolithic Flaked
+Stone Industries at Tell Kosak Shamali. In: Nishiaki Y. and
+M atsutani T. (eds.), Tell Kosak Shamali. The Archaeological
+Investigations on the Upper Euphrates, Syria, Vol. II.
+Chalcolithic Technology and Subsistance: 15-111. Tokyo: The
+university Museum, The university of Tokyo (UMUT monograph 2).
+Özbaşaran M.
+2000 The Neolithic Site of Musular, Central Anatolia. Anatolica 26:
+129-151.
+P elegrin J.
+2000 Les techniques de débitage laminaire au Tardiglaciaire : critères
+de diagnose et quelques réflexions. In : Valentin B., Bodu P.
+et C hristensen M. (éd.), L’Europe centrale et septentrionale
+au Tardiglaciaire, Actes de la Table-ronde de Nemours, 1997 :
+73-86. Nemours : APRAIF (Mémoires du Musée de Préhistoire
+d’Île-de-France 7).
+2012 New Experimental Observations for the Characterization of
+Pressure Blade Production Techniques. In: Desrosiers P. M.
+(ed.), The Emergence of Pressure Blade Making. From Origin
+to Modern Experimentation: 465-500. New York: Springer.
+P erlman I. and Yellin J.
+1980 The Provenience of Obsidian from Neolithic Sites in Israel.
+Israel Exploration Journal 30: 83-88.
+P rausnitz M.W.
+1969 The Excavations at Kabri. Eretz Israel 9: 122-129 (in Hebrew
+with English Summary).
+1970 From Hunter to Farmer and Trader. Jerusalem: Habelt.
+R enfrew C .
+1977 Alternative Models for Exchange and Spatial Distribution. In:
+E arle T.K. and Ericson J.E. (eds.), Exchange Systems in
+Prehistory: 71-90. New York: Academic Press.
+R enfrew C ., D ixon J.E . and Cann J.R .
+1966 Obsidian and Early Cultural Contact in the Near East.
+Proceedings of the Prehistoric Society 32: 30-72.
+1968 Further Analysis of Near Eastern Obsidians. Proceedings of the
+Prehistoric Society 34: 319-331.
+Rollefson G.O.
+1995 Burin Variability at Neolithic ‘Ain Ghazal, Jordan. In: ‘A mr K.,
+Z ayadine F. and Z aghloul M. (eds.), Studies in the History
+and Archaeology of Jordan V: 515-518. Amman: Department of
+Antiquities of Jordan.
+Rollefson G.O., K afafi Z . and Simmons A .
+1993 The Neolithic Village of ‘Ain Ghazal, Jordan: Preliminary
+Report on the 1989 Season. In: Dever W.G. (ed.), Preliminary
+Excavation Reports: Sardis, Paphos, Caesarea Maritima,
+Shiqmim, ‘Ain Ghazal: 107-126. Atlanta: Scholars Press
+(Annual of the American Schools of Oriental Research 51).
+Rosen S.A .
+1984 Kvish Harif: Preliminary Investigations at a Late Neolithic Site
+in the Central Negev. Paléorient 10,2: 111-121.
+Rosen S.A .
+1997 Lithics after the Stone Age. AltaMira: Walnut Creek.
+Rosen S.A ., T ykot R .H. and G ottesman M.
+2005 Long Distance Trinket Trade: Early Bronze Age Obsidian from
+the Negev. Journal of Archaeological Science 32: 775-784.
+S chechter H.C ., M arder O., Barkai R ., Getzov N. and G opher A .
+2013 The Obsidian Assemblage from Neolithic Hagoshrim, Israel:
+Pressure Technology and Cultural Influence. In: Borrell F.,
+I bañez J.J. and Molist M. (eds.), Stone Tools in Transition:
+From Hunter-Gatherers to Farming Societies in the Near East:
+509-528. Barcelona: universitat Autònoma de Barcelona.
+Shea J. J.
+2013 Stone Tools in the Paleolithic and Neolithic Near East. A Guide.
+New York: Cambridge university Press.
+Stekelis M.
+1958 An Obsidian Core found at Kibbutz Kabri. Eretz Israel 5: 35-38
+(in Hebrew).
+029-052-Schechter.indd 50 12/04/16 09:56The obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel 51Paléorient, vol. 42.1, p. 29-51 © CNRS ÉDITIONS 2016
+Yellin J.
+1997 Miscellaneous Finds: The Obsidian Artifacts from Netiv
+Hagdud. In: Bar-Yosef O. and Gopher A. (eds.), An Early
+Neolithic Village in the Jordan Valley, Part I: The Archaeology
+of Netiv Hagdud: 193-196. Cambridge: Peabody Museum of
+Archaeology and Ethnology, Harvard university (American
+School of Prehistoric Research Bulletins 43).
+Yellin J. and F rachtenberg F.
+1992 A Re-Examination of Nahal Lavan Obsidian. In: Waelkens M.,
+H erz N. and Moens L. (eds.), Ancient Stones: Quarrying,
+Trade and Provenance: 139-148. Leuven: Leuven university
+Press (Acta Archaeologica Lovaniensia, Monographiae 4).
+Yellin J., L evy T.E . and Rowan Y.M.
+1996 New Evidence on Prehistoric Trade Routes: The Obsidian
+Evidence from Gilat, Israel. Journal of Field Archaeology 23,3:
+361-368.
+029-052-Schechter.indd 51 12/04/16 09:56029-052-Schechter.indd 52 12/04/16 09:56

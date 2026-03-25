@@ -1,0 +1,1173 @@
+Contents lists available at ScienceDirect
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+Origin of an obsidian scraper at Yabroud Rockshelter II (Syria): Implications
+for Near Eastern social networks in the early Upper Palaeolithic
+Ellery Frahma,⁎, Thomas C. Hauck b
+a Yale Initiative for the Study of Ancient Pyrotechnology, Council on Archaeological Studies, Department of Anthropology, Yale University, P.O. Box 208277, New Haven,
+CT 06520, United States
+b Institute for Prehistory, University of Cologne, Weyertal 125, 50923 Cologne, Germany
+A R T I C L E I N F O
+Keywords:
+Yabrud II
+Jabrud II
+Göllü Daǧ
+Obsidian sourcing
+Portable XRF
+Social networks
+Late Pleistocene
+A B S T R A C T
+Identifying the movement of lithic materials to reconstruct social networks has been a mainstay of research into
+Palaeolithic cognition and behavior, but such datasets are often predicated on studies of cherts and similar
+siliceous rocks, the origins of which can be difficult to establish conclusively. Yabroud Rockshelter II (YR2) in
+southern Syria contained stratified Middle and Upper Palaeolithic layers and, therefore, played a key role in
+defining the Levantine Palaeolithic. One obsidian scraper was found in Layer 4, which, via techno-typological
+correlations with nearby sites, dates to ∼41–32 ka. Here we report our attribution of this scraper, based on its
+elemental analysis, to the Komürcü outcrops at Göllü Dağ volcano in central Turkey, ≥700 km on foot. This
+finding has three important implications. First, the earliest transport of obsidian into the Levant is usually
+associated with the Epipalaeolithic Natufian cultural complex (∼14.5–11.5 ka); however, the phenomenon
+dates farther back to a period following the Middle to Upper Palaeolithic transition. Second, Layer 4 is roughly
+contemporaneous with Layer C at Shanidar Cave in northern Iraq, where two obsidian flakes were sourced to
+eastern Turkey and/or the Caucasus, suggesting similar scales of interaction across the landscape. Lastly, the
+chert assemblage is presumed to be local (≤10 km), but the obsidian scraper suggests that there are other fartravelled artifacts, underscoring that visual identification of cherts might be underestimating the extent of Late
+Pleistocene mobility and networks.
+1. Introduction
+Most arguments regarding cognitive and behavioral differences
+between Middle and Upper Palaeolithic hominins – commonly presumed to be Neanderthals and anatomically modern humans (AMHs),
+respectively – are predicated on evidence that readily preserves within
+the archaeological record. There is, for example, renewed interest in
+pyrotechnology of the Pleistocene (e.g. Berna and Goldberg, 2008;
+Daniau et al., 2010; Roebroeks and Villa, 2011; Courty et al., 2012;
+Twomey, 2013; Bentsen, 2014). Heat treatment of lithic materials and
+sophisticated adhesive recipes are thought to reflect advanced cognitive
+capabilities (Wadley et al., 2009; Wadley, 2013; Wadley and Prinsloo,
+2014). Contrasting the use of symbolic objects in Upper Palaeolithic
+(UP) assemblages with Middle Palaeolithic (MP) ones has also been an
+important – and hotly debated – line of investigation (e.g., Mellars,
+1989, 1996; d'Errico et al., 2003, 2005; Botha, 2008, 2010; Zilhão et al.,
+2010; Peresani et al., 2011; Finlayson et al., 2012; Roebroeks et al.,
+2012; inter alia). Other research foci include the rate and spread of
+technological innovations (Mellars, 1998; Klein, 2003; Wynn and
+Coolidge, 2008) and differences in subsistence practices or technologies
+(Binford, 1985, 1989; Stiner, 1994; Marean and Assefa, 1999; Villa
+et al., 2005; Adler et al., 2004, 2006; inter alia).
+A mainstay of such research has been identifying the movement of
+lithic raw materials (and other exotic items) across the landscape in
+order to investigate the scales of social networks. Given that such
+networks can function as a means to buffer against resource and climate
+unpredictability via access to distant ecological zones (Whallon, 1989;
+McBrearty and Brooks, 2000), a lack of long-distance social connections
+has been suggested as one factor in the Neanderthals' demise (Gamble,
+1999). The evidence, though, is not conclusive. Villa and Roebroeks
+(2014) note that, in European UP assemblages that record distances >
+300 km, nearly all involve the transport of shells, not lithic materials.
+Many efforts to establish the geographic sources of lithic materials rely
+on macroscopic identification of chert and similar siliceous rocks
+(Demars, 1982, 1990a, 1990b; Chadelle, 1983; Geneste, 1985; Turq,
+1988; inter alia). Thus, claims of long-distance transport are met with
+skepticism as a matter of arithmetic. Attributing a chert artifact to
+outcrops at a distance of 10 km means that one can reliably discern
+http://dx.doi.org/10.1016/j.jasrep.2017.04.021
+Received 25 March 2017; Received in revised form 16 April 2017; Accepted 23 April 2017
+⁎ Corresponding author.
+E-mail address: ellery.frahm@yale.edu (E. Frahm).
+Journal of Archaeological Science: Reports 13 (2017) 415–427
+Available online 03 May 2017
+2352-409X/ © 2017 Elsevier Ltd. All rights reserved.
+MARKsources within the surrounding 300 km 2
+. When this distance increases
+to 300 km, the potential source area expands exponentially to
+280,000 km2 , larger than all of France. The reliability of source
+identifications decreases across such a large area, especially when
+based upon visual means for chert and similar siliceous rocks, which
+can exhibit low macroscopic diversity over such scales. Thus, longdistance transport is best identified by geochemical means.
+From 1930 to 1933, German archaeologist Alfred Rust excavated a
+series of rockshelters in the Skifta Valley, near the town of Yabroud
+(sometimes transliterated as “Yabrud” or “Jabrud”), ∼60 km northeast
+of Damascus. Collectively, these shelters comprise a nearly complete
+archaeological record of the Palaeolithic in the Levant (Rust, 1933,
+1950). Yabroud Rockshelter I contained Lower Palaeolithic (LP) and
+MP layers, Rockshelter II contained MP and UP layers, and Rockshelter
+III had Epipalaeolithic (EP; in particular, Natufian) layers. More than
+10,000 lithic artifacts were recovered from Rockshelter I alone.
+Yabroud Rockshelter II (hereafter “YR2”), which is the focus of our
+study, contained a sequence of stratified layers, ∼ 3 m deep, with dense
+lithic deposits as well as intact ash concentrations (i.e., combustion
+remnants, most likely hearths), attesting to little post-depositional
+disturbance. As a result of Rust's excavations, this locality played an
+important role in defining the Levantine Palaeolithic (e.g., Bordes,
+1955, 1962; Heinzelin, 1966; Solecki and Solecki, 1966, 1986, 2007,
+inter alia; Farrand, 1970; Ziffer, 1981; Gilead, 1991; Pastoors et al.,
+2008; Bretzke et al., 2011; Bretzke and Conard, 2012; Shimelmitz et al.,
+2016). Rust's assemblages are housed at the Institute of Prehistoric
+Archaeology, University of Cologne (Germany), where they have long
+been a focus of research (Bakdach, 1982; El-Kassem, 2001; Frank, 2004;
+Hauck et al., 2014).
+In YR2 Layer 4, Rust (1950) reported the presence of a single
+obsidian artifact (“das einzige Stück Obsidian aus dem Gesamtinventar,” 80) along with pigment (ochre), adhesive (bitumen), and grinding
+stones as well as bone tools, perforated shells, and a hearth. Regarding
+the obsidian tool, identified as a scraper (“Obsidianschaber”), he
+discussed its potential origins:
+Es ist dies das einzige Stück Obsidian aus den Jabruder
+Kulturschichten. Dieses vulkanische Glas kommt am Orte nicht
+vor, doch stehen in südlicher und südöstlicher Richtung in einer
+Entfernung von etwa 100 km große Lavafelder an. Es ist mir
+allerdings unbekannt, ob dort Obsidian vorliegt. Jedenfalls läßt sich
+das Glasartefakt bisher keineswegs für eine Wanderungsoder
+Handelsweghypothese auswerten.
+[This is the only piece of obsidian from the Yabroud cultural strata.
+This volcanic glass does not occur in the region, but there are lava
+fields in the south and southeast at a distance of about 100 km. It is,
+however, unknown to me whether there is obsidian. In any case, the
+glass artifact cannot be evaluated by any means for a migration or
+trade route hypothesis.]
+Thus, Rust (1950) recognized that this raw material was non-local;
+however, at the time, he had no way of knowing its volcanic origins
+were much farther than – and in nearly the opposite direction of – the
+Eṣ-Ṣafā basalt flows to the southeast. Ziffer (1981:78–79, 90) also
+discusses the obsidian scraper and other finds from YR2 Layer 4:
+It is a rich assemblage in lithic material (507 tools and 374 waste
+blanks), as well as in bone tools (5 bi-conical points) and pierced
+snails... There are also, for the first time in the site, ochre and
+bitumen (asphalt) remains, beside some grinding stones probably
+used with relation to these materials. Rust suggested the bitumen
+remains as a [basis] for handling certain flint tools. There is also a
+piece of obsidian in the collection. The flint in general is very
+colorful, with red, [violet], brown, and yellow shades dominating...
+The intensity of hearths used in all the layers and their position, one
+over the other, together with quite a large quantity of lithic material
+in all of the layers, the existence of bone-tools, shells, and obsidian
+fragments in layer 4, all make Yabroud II [an] intensive settlement,
+and maybe a “base-camp” site, during the Upper Palaeolithic period
+in Syria.
+Gilead (1991:142) similarly noted the significance of these finds
+(although he erroneously referred to “a few flakes of obsidian” rather
+than a single obsidian scraper):
+A few flakes of obsidian from Level 4 of Yabroud II, found with
+perforated shells, ochre, bitumen on a few flint tools, and grinding
+stones, are also important indicators of long-distance transport...
+The only sources of obsidian in the Near East are near Lake Van in
+Eastern Anatolia and the Çiftlik area of Central Anatolia, so the
+obsidian of Yabroud II had been transported some 600–900 km.
+Only during the early Neolithic do we find obsidian artifacts
+distributed over comparable distances.
+Indeed, the development of obsidian sourcing by Colin Renfrew and
+colleagues (Cann and Renfrew, 1964; Renfrew et al., 1965, 1966, 1968;
+Dixon et al., 1968; Cann et al., 1968, 1969; Renfrew, 1969) coincided
+with the “Neolithic Revolution,” especially the origins of agriculture
+and urbanism, as an emerging topic of interest. Hence, obsidian
+sourcing became linked to “Neolithization” in the Near East. It was
+hoped that the spread of the “Neolithic package” could be traced via the
+transport and trade of obsidian. Early results implied that Neolithic
+villages were far from isolated. As obsidian moved, so too could
+technological or social innovations. Such interpretations were consistent with the extreme rarity of obsidian in Mesopotamian and Levantine
+assemblages until EP and Neolithic times (Cauvin, 1991). During the
+Palaeolithic, obsidian largely remained near its Anatolian sources
+(Kuhn et al., 2015). Consequently, an initial “gold rush” (Özdoğan,
+1994:423) of obsidian sourcing in the Near East focused on the
+Neolithic, as has more recent work (e.g., Bressy et al., 2005; Carter
+et al., 2006, 2013; Poupeau et al., 2010; Orange et al., 2013; Ortega
+et al., 2014; Ibáñez et al., 2015; Campbell and Healey, 2016; Frahm
+et al., 2016a; Khalidi et al., 2016).
+Here we report our findings regarding the origin of YR2 Layer 4
+obsidian scraper, a small flake that has been steeply resharpened to the
+point where its utility is essentially exhausted and which has experienced post-depositional breakage. We chemically analyzed this scraper
+using non-destructive portable X-ray fluorescence (pXRF) and compared its composition to a collection of 230 geo-referenced obsidian
+specimens. Our data establish that this scraper matches the Kömürcü
+obsidian outcrops on the slopes of the Göllü Dağ volcanic complex in
+central Turkey. Therefore, the rockshelter and obsidian source are >
+500 km apart linearly (which crosses into the Mediterranean Sea)
+and > 700 km on foot following the least-cost path across the landscape. This result has three key implications. First, the earliest transport
+of obsidian into the Levant is usually associated with the EP Natufian
+cultural complex (∼14.5–11.5 ka; Akkermans and Schwartz, 2003:82;
+Khalaily and Valla, 2013; Ridout-Sharpe, 2015), after the emergence of
+this phenomenon in Southwest Anatolia (i.e., Öküzini Cave,
+∼ 18–14 ka; Carter et al., 2011). The YR2 obsidian scraper, however,
+attests that this phenomenon has roots deeper in time, dating much
+farther back into the Pleistocene. Second, a number of techno-typological correlations of the YR2 assemblage to those at nearby sites suggest
+an age of ∼ 41–32 ka for Layer 4, corresponding to the second half of
+Marine Isotope Stage 3. This appears to be roughly contemporaneous to
+Layer C at Shanidar Cave in northern Iraq, where obsidian flakes were
+sourced by Renfrew and colleagues to eastern Turkey and/or the
+Caucasus. This means that at least one of the Shanidar flakes was
+moved about the same distance as the YR2 scraper at about the same
+time, suggesting similar scales of interaction across the landscape.
+Lastly, the remainder of the YR2 lithic assemblage, composed of chert
+and related siliceous rocks, is thought to derive from raw materials <
+5–10 km away. The obsidian scraper, which was transported > 700
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+416km, hints that there are other far-travelled artifacts hidden in the YR2
+lithic assemblage, underscoring that visual identification of cherts
+might be underestimating the extent of UP mobility and networks.
+2. Pleistocene obsidian transport in the Near East
+In Mesopotamia and the Levant, obsidian artifacts – especially ones
+for which their sources have been chemically established – are rare in
+Pleistocene contexts. Perhaps the best known case is Shanidar Cave in
+northern Iraq (Fig. 1). The site's small obsidian flakes and famous
+Neanderthal skeletons are often mentioned together in a way that
+implies contemporaneity. Instead, the flakes were found in the EP
+(Layer B) and UP (Layer C) strata, not the Neanderthal-bearing MP
+(Layer D) stratum (Solecki, 1963). Radiocarbon dating at the time
+indicated Layers B and C had ages of ∼ 12–11 ka and ∼ 35–29 ka,
+respectively, with a long discontinuity between them (Solecki, 1963).
+These ages predate recent advances and calibrations for 14 C determinations, which suggest that Layer C is closer to ∼ 40 ka cal BPHULU near
+the bottom and ∼ 33 ka cal BPHULU near the top. Two of the obsidian
+flakes from Layer C were analyzed by Renfrew et al. (1966), who
+attributed one to their “Group 4c” (either Nemrut Daǧ volcano or the
+Bingöl A sources; Fig. 1) and the other flake to their “Group 1e–f” (for
+which we now know there are several possibilities, most likely either
+the Kars obsidian sources in northeastern Turkey or one of the
+numerous Armenian obsidian sources).
+At Zarzi Cave, also in northern Iraq, Dorothy Garrod (1930) found
+“two small fragments of obsidian,” one of which was identified by
+Renfrew et al. (1966) as Group 4c obsidian. There are no radiometric
+dates for Zarzi, but Hole and Flannery (1967) proposed an age of
+22–12 ka. At nearby Palegawra Cave, thought to be more-or-less
+contemporaneous to Zarzi, Braidwood and colleagues unearthed several
+obsidian tools (Braidwood and Howe, 1960), but none were chemically
+sourced. Bone collagen yielded two uncalibrated 14 C dates of
+14.4–13.3 ka (Turnbull and Reed, 1974), which, again when adjusted
+using a modern calibration curve, implies an age closer to ∼ 18–16 cal
+BP HULU. Given subsequent technical advances (e.g., ultrafiltration
+methods, calibration curves), these dates should be considered estimates. To the west in the Levant, there are rare (and usually unsourced)
+obsidian artifacts found in EP/“Proto-Neolithic” contexts ∼ 14–12 ka
+(e.g., two bladelets at El Kowm I in Syria, one bladelet at Dhour Choueir
+in Lebanon; Cauvin, 1991), only becoming more frequent at later
+Natufian settlements such as Ain Mallaha (Khalaily and Valla, 2013).
+Most Mesopotamian and Levantine sites with obsidian date later
+during the Holocene (e.g., Mureybet IA in Syria; Cauvin, 1991). Thus,
+Periods 0 and 1 for Near Eastern obsidian distribution, as conceptualized by Cauvin and Chataigner (1998; based largely on the Maison de
+l'Orient et de la Méditerranée system), are ∼ 14–12 ka and ∼ 12–10.3 ka,
+respectively (Fig. 2c–d). Their synthesis, spanning ∼ 14–6 ka (Fig. 2b;
+Chataigner et al., 1998), essentially duplicates the patterns of Neolithic
+obsidian distribution observed by Renfrew and colleagues (Fig. 2a;
+Dixon et al., 1968). JR2 lies at the confluence of “diffusion” or “contact
+zones” (sensu Chataigner et al., 1998 and Dixon et al., 1968, respectively) of Central and Eastern Anatolian obsidians, suggesting that, even
+during the Neolithic, obsidian artifacts found near Yabroud could have
+originated in either region of Turkey. It should be noted, however, that
+there is only one sourced artifact (i.e., a blade from Zarzi Cave) for all of
+Period 0 (Fig. 2c) and its timing is debatable. Consequently, the
+Neolithic pattern can only be presumed to reflect that specific era
+Fig. 1. Southwest Asian obsidian sources (triangles) and Upper Palaeolithic sites with obsidian (squares). The purple line denotes the least-cost path on the modern landscape between
+Göllü Dağ and YR2. It is 710 km in length, revealing the minimum transport distance on the ground. The dark blue line between Nemrut Dağ and Shanidar Cave denotes the least-cost
+path, which is 450 km long. The map is based on United States' National Geophysical Data Center data. (For interpretation of the references to colour in this figure legend, the reader is
+referred to the web version of this article.)
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+417(see, though, its deficiencies in Frahm et al., 2016a).
+3. Yabroud Rockshelter II (YR2)
+YR2 is one of several rockshelters along the Skifta Valley, where the
+Wadi Skifta incised into an Eocene limestone plateau at an elevation of
+1400 m asl (Fig. 3). The shelter, which opens to the southeast, is
+∼ 33 m across and ∼ 12 m from the entrance to back wall. One segment
+of the shelter was used as a Roman or Byzantine sepulcher with tombs
+cut into the wall. Rust excavated a 4 × 5 m (15 m 2
+) segment that
+contained ∼ 3 m of stratified deposits (Fig. 4). This portion of YR2
+contained the main MP–UP occupation area. The adjoining test trenches
+dug by Rust – and a series of small (and unpublished) test pits dug by
+Columbia University archaeologists in the 1960s during more extensive
+Fig. 2. Four models of Near East obsidian distribution from sources (triangles) in what is now Turkey. (a) The large-scale patterns first observed by Renfrew and colleagues have been
+reinforced by later syntheses (b), including Anatolian and Levantine regions supplied by the Central Anatolian sources (red areas) and Mesopotamian zones supplied by select Eastern
+Anatolian obsidian sources (blue areas). Obsidian distribution maps for (c) Period 0 and (d) Period 1 in Cauvin and Chataigner (1998) show the scarcity of obsidian at Mesopotamian and
+Levantine sites before the Holocene. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)
+Fig. 3. Location of Yabroud Rockshelter II (“YR2”) in the Skifta Valley of Syria. Satellite image courtesy of the DigitalGlobe Foundation (© DigitalGlobe, Inc., All Rights Reserved).
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+418excavations at Yabroud Rockshelter I (Solecki and Solecki, 1966, 1986)
+– encountered only occasional Palaeolithic material. Rust delineated a
+sequence of ten layers from the bedrock to the modern surface, each of
+which contained abundant lithic artifacts. The lowest layers (Layers 10
+to 7) consist of coarse-grained sedimentary strata and include limestone
+blocks from roof fall. The sediments become finer in the upper layers,
+but there are still occasional autochthonous limestone slabs. The
+depositional differences seem to roughly coincide with the MP–UP
+transition and might correlate with climatic changes (Pastoors et al.,
+2008). Lithic types associated with the MP occur in Layers 10–7, UP
+lithic types occur in Layers 5–1, and a possible “transitional” assemblage occurs in Layer 6 (Pastoors et al., 2008; Bretzke and Conard,
+2012). The Layer 4 lithic assemblage includes a total of 882 chert
+artifacts (e.g., tools, cores, flakes, shatter) plus the obsidian artifact.
+These lithics are well preserved, but there is a high frequency of edge
+damage (which obfuscates fine retouch), presumably due to trampling
+during subsequent occupations. Roughly a third of the Layer 4 lithics
+exhibit signs of heating, likely due to combustion in the hearths (Fig. 4).
+Opinions vary regarding attribution of the YR2 lithic assemblages to
+a certain UP “culture” or “industry” (Belfer-Cohen and Goring-Morris,
+2003; Kuhn et al., 2003). Levantine UP assemblages are frequently
+classified within a framework of two lithic traditions: (1) the blade/
+bladelet-based “Ahmarian” tradition and (2) the flake-based “Levantine
+Aurignacian” tradition (e.g., Gilead, 1991; Gilead, 1981; Marks, 1981;
+Bergman, 1987, 2003; Belfer-Cohen and Goring-Morris, 2003). Technological features considered Ahmarian include: one reduction strategy; single-platform cores; unidirectional reduction to remove straight
+blades/bladelets; laterally retouched blades, sometimes shaped into “el
+Wad” points; and, in the northern Levant, reduction with opposed
+striking platforms (Azoury, 1986; Davidzon and Goring-Morris, 2003;
+Kuhn et al., 2003; Marks, 2003). Levantine Aurignacian features
+include a variety of reduction strategies to create flakes, blades, and
+Fig. 4. Cross section of the archaeological sequence at YR2, redrawn after Rust (1950: Plate 75). The black lenses are combustion features, apparently hearths, revealed by ash
+concentrations in shallow depressions. The brown shades are arbitrary. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this
+article.)
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+419bladelets and a range of tool types, including carinated scrapers and,
+most diagnostically, twisted blades and bladelets (Belfer-Cohen and
+Goring-Morris, 2003; Bergman, 2003; Marks, 2003).
+The YR2 Layer 4 assemblage includes elements of both Ahmarian
+(e.g. abundant blades and bladelets, el Wad points) and Levantine
+Aurignacian (e.g., twisted blades and bladelets) traditions (Hauck et al.,
+2014). Specifically, it has two major components: (1) blades and
+bladelets along with their associated cores and debitage and (2)
+endscapers produced from thick blades or, preferably, flakes removed
+from cores (Hauck et al., 2014). It should be kept in mind, however,
+that the coarse nature of Rust's excavation likely biased the technotypological proportions found in the collected assemblage (Hauck et al.,
+2014). This mix of reduction strategies and tool types has led to
+different classifications for the Layer 4 assemblage. Belfer-Cohen and
+Goring-Morris (2003) attribute Layer 4 to the Levantine Aurignacian
+tradition, while Schyle (1992) and Kuhn et al. (2003) assign it to the
+Ahmarian. Bretzke and Conard (2012) note that Layer 4′s emphasis on
+blades and unidirectional reduction favor an Ahmarian classification,
+while carinated scrapers, twisted blades, and multiple reduction
+strategies easily fit the Levantine Aurignacian. Readers interested in a
+detailed techno-typological analysis of the Layer 4 lithics are referred to
+Hauck et al. (2014).
+At present, the YR2 chronology is somewhat imprecise. Rust did not
+collect samples for 14 C dating, of course. Thus, the dates for YR2 are
+based on techno-typological correlations to nearby UP sites while
+acknowledging that a taxonomic approach is far from perfect. Most of
+the correlations have been made to Ksar Akil in Lebanon, ∼ 100 km
+west (Azoury, 1986; Bergman, 1987; Ohnuma, 1988; Williams and
+Bergman, 2010). Ziffer (1981) attributes YR2 Layers 4 and 5 to the
+“Levantine Aurignacian B II” of Ksar Akil Layers 8 and 9, which
+corresponds to Phase 4. We examined the YR2 Layer 4 assemblage
+(Hauck et al., 2014) and concluded that it best correlates to Ksar Akil
+Phase 3. One set of Bayesian models for Ksar Akil's radiometric dates
+has yielded a Phase 3 start ∼ 40–35 ka (Douka et al., 2013), with a
+large spread due to uncertainties in the models' parameters. A more
+recent set of Bayesian models places the start of Phase 3 at ∼41–39 ka
+and the end near ∼ 39–37 ka (Bosch et al., 2015). If one instead favors
+Ziffer's (1981) attribution nearly four decades ago, YR2 Layer 4 still
+remains older than ∼ 36–32 ka (Layer 6, Bosch et al., 2015).
+Therefore, a series of correlations and dates points to ∼ 41–32 ka
+for YR2 Layer 4, making it essentially contemporaneous with Layer C of
+Shanidar Cave at ∼40–33 ka. Given that, by modern standards, Rust's
+excavation methods were coarse, greater temporal resolution is almost
+certainly unrealistic. Pastoors et al. (2008) propose that, out of an
+abundance of caution, Rust's layers should be regarded as artificial units
+that reflect a general chronostratigraphic trend rather than discrete
+occupation levels. Therefore, a highly conservative chronological
+assessment for the scraper would ascribe it to the second half of Marine
+Isotope Stage (MIS) 3 (∼ 60–57 to ∼ 29–27 ka), which would remain
+valid even if this tool was an intrusion from a layer above or below.
+It can still be argued that, despite the coarse nature of Rust's
+excavations, the layers were, to a large extent, in situ with limited postdepositional disturbance. For example, Gilead (1991:128) stated, based
+on a reexamination of the YR2 lithic assemblages at Cologne, that
+Layers 4 and 2 “are clearly different from Layers 3 and 1” in terms of
+their techno-typological products (e.g., “Layers 4 and 5 are dominated
+by blades”). Pastoors et al. (2008) reexamined Layers 10 to 5 and
+concluded that the assemblage exhibited typical features of the MP–UP
+transition in the Levant. The observed hearths, they propose, further
+bolster Rust's interpretation of the layers (at least where the hearths
+were preserved and encountered but not necessarily throughout the
+entire shelter). Pastoors et al. (2008:54) also suggest that, with the
+exception of small debris not collected by Rust, “the reduction
+sequences within these assemblages are complete... which in turn
+supports the idea of homogenous assemblages.” Furthermore, they
+(2008:62) “suggest... with great caution” that the sedimentary change
+between YR2 Layers 7 and 6 might correlate with a climate shift (e.g.,
+the Heinrich 4 event, ∼ 42 ka), but they “cannot exclude local
+explanations for this observation.” Ash lenses, as illustrated in Rust's
+(1950) section (Fig. 4), and in situ lithics were observed onsite by
+Pastoors et al. (2008) in exposed profiles of the Columbia excavations.
+Finally, after decades of study (Ziffer, 1981; Bakdach, 1982; El-Kassem,
+2001; Frank, 2004; Pastoors et al., 2008; Bretzke and Conard, 2012;
+Hauck et al., 2014), there are no known inter-layer refits. Considered
+together, the lines of evidence suggest that Rust's layers reflect some
+degree of chronostratigraphic reality and integrity.
+4. Chert and its potentially local sources
+Before focusing on the only obsidian artifact, it is worth reemphasizing that there were also 506 chert tools and 374 chert flakes,
+fragments, and cores in Layer 4. That is, 99.8% of the tools are chert.
+As mentioned in the Introduction, Ziffer (1981:90) noted that the chert
+was “very colorful” and included red, violet, yellow, and brown shades.
+El-Kassem's (2001) macroscopic analysis of the YR2 assemblage suggested, based on an abundance of weathered cortical surfaces, that most
+of the chert derived from secondary deposits. Rust (1950) noted the
+existence of such secondary deposits within the vicinity. Citing the
+work of Solecki and Solecki (1995) at Rockshelter I, Shea (2003:355)
+claims the occupants were “selective, travelling long distances to collect
+more siliceous flints and bypassing low quality flint nodules eroding
+from the bedrock in front of the caves.” Neither Solecki and Solecki
+(1995) nor Shea (2003), however, specify what source(s) or distance
+they had in mind. El-Kassem (2001) proposes that chert from both
+rockshelters largely originated from a secondary deposit ∼ 5 km to the
+northeast. Pastoors et al. (2008) observe that a few artifacts within the
+lithic assemblage exhibit a chalky cortex indicative of primary outcrops. Various chert outcrops occur in Eocene marls and Cretaceous
+limestones < 10 km from YR2 (Wolfart, 1966; Dodonov et al., 2006).
+Hence, Pastoors et al. (2008:50) suggest that, “although we cannot rule
+out that some raw materials were transported over longer distances, the
+overwhelming majority was certainly collected from the immediate
+vicinity and is therefore of purely local [≤ 20 km] origin.” In short,
+with the exception of obsidian, lithic materials appear to have been
+collected primarily or exclusively from secondary sources (i.e., alluvial
+deposits, deflated surfaces) in the vicinity, and neither material
+availability nor transport are assumed to be constraints on the lithic
+technology at YR2.
+5. Methods and materials
+The YR2 obsidian tool was analyzed using portable X-ray fluorescence analysis (pXRF) and compared to a collection of obsidian
+reference specimens to identify its origin.
+5.1. The YR2 obsidian tool
+The lone obsidian artifact at YR2 (Fig. 5) is a small tool:
+28 × 25 × 10 mm in size and 6.5 g in mass. Rust (1950) called it the
+only occurrence of a rundschaber (round scraper) at the site. It has also
+been classified as an endscraper-on-flake, others of which are made of
+chert in Layer 4 (Hauck et al., 2014). Within such a framework, chert
+endscrapers tend to be larger (45 ± 9 mm in maximal dimension) but
+not, on average, thicker (10 ± 4 mm) than the obsidian one. Rust's
+illustration (Fig. 5b) is oriented improperly and tends to exaggerate
+features around the perimeter of the tool. As noted in Section 3, there is
+abundant edge damage in the Layer 4 lithic assemblage, adding to the
+ambiguities of distinguishing fine retouch from edge damage, especially
+for a more brittle material than chert. A conservative classification is
+that the tool is a retouched flake, for which the original striking
+platform is absent. It has been worked with steep scalar-stepped-backed
+retouch, so steep that its utility is essentially exhausted. The tool looks
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+420more like a déjeté or transverse scraper when it is oriented properly
+(Fig. 5c), but a more general classification of “scraper” seems appropriate given the degree to which the tool has been resharpened to the
+point of exhaustion and damaged post-depositionally. The dorsal surface has a coarse surface, which may be cortex sensu stricto or a
+fracture plane due to a weakness or thermal stresses within the obsidian
+deposit as it cooled. A flow band within the obsidian can also be
+observed, and at least once, it affected the propagation of a crack. The
+obsidian scraper is likely smaller than chert ones due to a greater degree
+of reduction over an extended use-life during long-distance transport
+from its source.
+5.2. Portable XRF procedures
+The YR2 scraper as well as the obsidian reference specimens were
+analyzed with a Thermo Scientific Niton XL3t 950 GOLDD instrument.
+To produce an incident X-ray beam, this instrument has a 2-W, Aganode X-ray tube. Its settings (e.g., its voltage and current) can vary in
+conjunction with a series of built-in X-ray filters to optimally fluoresce
+different portions of the periodic table. Our elements of interest (and
+other spectral features pertinent to data processing) were measured
+using the “main” X-ray filter and its associated tube settings (40 kV and
+≤ 50 μA). To measure the characteristic X-rays emitted from a specimen, this instrument has a 25-mm 2 Si drift detector with an energy
+resolution ≤ 155 eV in practice. The incident beam is ordinarily ~ 8mm in diameter (~ 50 mm 2
+); however, this instrument's built-in
+collimator (i.e., “small spot” mode) can reduce the beam size to
+3 mm (~ 7 mm 2 ). The collimator was used due to many small specimen
+sizes in our obsidian reference collection (Section 5.4). The instrument
+was operated while mounted in a portable Thermo Scientific SmartStand, which, together with a built-in camera, enabled precise specimen positioning. Each measurement took 60 s.
+Measured X-rays must be “corrected” for various phenomena that
+occur in a specimen (e.g., X-ray absorption and attenuation, secondary
+X-ray fluorescence). Our study used the fundamental parameters (FP)
+approach, which has been routinely used in certain XRF applications for
+decades (de Boer and Brouwer, 1990). After interlaboratory testing,
+Heginbotham et al. (2010) showed that the most accurate XRF
+instruments used FP correction in conjunction with standards for
+calibration (i.e., what they labelled “FP with standards”). Such an
+approach was used here. The instrument's factory-set calibration, which
+is intended to be applicable across a wide range of concentrations, can
+yield accurate values for certain elements in obsidian but inaccurate
+values for others. Further work is needed to “fine tune” the calibration
+for obsidian.
+Here our pXRF measurements were further calibrated using a series
+of obsidian specimens that were previously characterized using multiple analytical techniques. This approach is favored by the
+Archaeometry Laboratory at the University of Missouri Research
+Reactor (MURR) (Glascock, 2011; Ferguson, 2012). Our data here were
+calibrated using a set of 22 obsidians from Southwest Asia (Armenia,
+Georgia, and Turkey). These specimens were previously analyzed with
+(1) neutron activation analysis (NAA) and (2) energy-dispersive XRF
+(EDXRF) at MURR using their standard protocols (Glascock et al., 2007,
+2008) and with (3) electron microprobe analysis (EMPA) at the
+University of Minnesota using published procedures (Frahm, 2012a).
+Use of this obsidian standard set has already been demonstrated to yield
+high reproducibility and accuracy in earlier publications (Frahm,
+2014a; Frahm and Feinberg, 2015).
+Fig. 5. (a) The obsidian tool from YR2. (b) The corresponding illustration of Rust (1950: Plate 86) in its original (incorrect) orientation. Note that features around the perimeter are
+somewhat exaggerated in this illustration. (c) A new illustration of the tool in its correct orientation.
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+4215.3. Selecting elements of interest
+This study follows a typical XRF approach to element selection
+(Hughes, 1984:3; Shackley, 1988:763, Shackley, 1995:546): our five
+elements of interest – Nb, Zr, Sr, Rb, and Fe – fall into the so-called
+“mid-Z” range and, consequently, are among the elements best measured using XRF (Hughes, 1988; Davis et al., 1998; Shackley, 1998,
+2008, 2011). Consequently, they are among the most often used
+elements for XRF-based obsidian sourcing (e.g., Shackley, 1988,
+1995; Ferguson and Skinner, 2003; Carter and Shackley, 2007; Craig
+et al., 2007; Speakman et al., 2007; De Francesco et al., 2008; Ogburn
+et al., 2009; Poupeau et al., 2010; Golitko, 2011; Ferguson, 2012; Carter
+et al., 2013; Orange et al., 2013; Freund, 2014; Milić, 2014; inter alia).
+5.4. Obsidian reference collection
+For this study, the tool's composition was not compared to published
+data in the literature. Instead, our collection of geo-referenced obsidian
+specimens from across Southwest Asia, spanning from the Aegean to the
+Caucasus, was also analyzed using pXRF. The collection, composed
+primary of small (< 1 cm) specimens, has been mounted in epoxy discs
+and polished flat for EMPA-based obsidian studies (Frahm and
+Feinberg, 2013a, 2013b; Frahm, 2014b; Frahm et al., 2016a). In this
+set are 595 obsidian specimens from central Turkey (often termed
+“Central Anatolia”) and eastern Turkey (“Eastern Anatolia”). It includes, for example, more than a hundred specimens from the Anatolian
+sources of peralkaline obsidian: Bingöl A and the Nemrut Daǧ source
+complex (Frahm, 2012b). The remainder of these specimens are
+calcalkaline obsidians, which occur throughout Turkey and the rest of
+Southwest Asia. About half of the specimens were sufficiently large for
+EMPA, but the pXRF analyses, even with a small-spot collimator,
+included too much of the mounting material for reliable data (i.e.,
+the data also reflected the epoxy). The result was a set of 230 specimens
+for comparison to the scraper (these data are all available in the
+Supplementary material).
+6. Sourcing results
+Fig. 6 shows scatterplots of four elements – Rb, Sr, Zr, and Fe – for
+the pXRF analyses of the YR2 obsidian scraper as well as 230 geological
+obsidian specimens. The plots demonstrate that this scraper matches
+the Kömürcü obsidian outcrops on the eastern slopes of the Göllü Dağ
+volcanic complex (Fig. 7). Therefore, the site and obsidian source are –
+linearly – > 500 km apart; however, that path crosses into the Mediterranean Sea. On foot, the shortest possible path over the landscape
+is > 700 km (Fig. 1). At Göllü Dağ (called Çiftlik by Renfrew and
+colleagues), there are several chemically distinct obsidians. According
+to one study (Binder et al., 2011), there are seven or eight different
+obsidians at this volcano. Obsidian outcrops near Komürcü village and
+east of Kayırlı village – known in the literature as “Komürcü” and “East
+Kayırlı,” respectively – can be difficult to discern. As a result, their
+obsidians are sometimes combined into a single chemical “type” called
+“East Göllü Dağ” (Poidevin, 1998; Carter and Shackley, 2007). Subtle
+but measurable differences between them do, however, exist (e.g.,
+Poupeau et al., 2005; Hancock and Carter, 2010; Binder et al., 2011),
+and pXRF can make this distinction (Frahm and Feinberg, 2013a).
+There has been, over the decades, variability in elemental data for
+Komürcü obsidian. Such variability is, to an extent, inevitable given
+differences in analytical techniques and procedures. Hancock and
+Carter (2010) observe that, “although analytical chemistry is not a
+democratic process, the agreement of specific elemental concentration
+data between (among) independent analytical techniques adds credibility to the relative accuracy of their numbers” (245). Table 1 shows
+15 datasets for Komürcü obsidian from a variety of analytical techniques. The overall mean values have excellent agreement (within one
+standard deviation) with our pXRF data for Komürcü obsidian.
+7. Discussion
+It is worth stressing at this point that, although YR2 reflects an early
+instance of long-distance movement of Göllü Dağ obsidian, obsidian
+was used by mobile foragers throughout the Palaeolithic when near the
+sources, both in Anatolia (Slimak, 2004; Slimak et al., 2008; Kuhn et al.,
+2015) and in adjacent regions (Adler et al., 2012, 2014; Frahm et al.,
+2016b). These populations often produced entire assemblages out of
+obsidian so that its transport over the local landscape can reflect day-today patterns of mobility and social networking. Long-distance transport, on the other hand, does not necessarily occur through such
+frequent or routine encounters, but it remains archaeologically visible
+via “exotic” materials, such as far-flung obsidian artifacts found in the
+Levant. These cases, however, are rare, meaning that we are left to
+discuss small sample sizes, such as a single tool that was moved at least
+700 km (although Rust did not collect the small lithic size classes at
+YR2, so the presence of, for example, obsidian resharpening flakes
+cannot be addressed).
+Regarding the processes that carried this singular artifact at least
+700 km from Komürcü to YR2, it seems more likely that the scraper
+passed from individual to individual – and, therefore, that neighboring
+groups were, at least periodically, in contact across this area – than that
+the very same individual visited both the source and site, although this
+is not inconceivable. Nor do we know how long it took for this tool to
+travel this distance. It could have taken a year or perhaps generations. A
+lack of obsidian discovered at intermediate and nearby UP sites (e.g.,
+Ksar Akil) implies that it was not a common occurrence. Consequently,
+the presence of Göllü Dağ obsidian at YR2 has three key implications
+for the creation and maintenance of Near Eastern social networks.
+First, the earliest transport of Anatolian obsidian into the Levant is
+widely considered to be as a phenomenon associated with the EP
+Natufian complex. Instead, the YR2 obsidian scraper dates to a period
+following the Middle to Upper Palaeolithic transition. We have thus far
+not specified which Late Pleistocene hominin(s) inhabited YR2. No
+human fossils were recovered by Rust or the Columbia University team.
+MP assemblages are generally thought to reflect Neanderthals, while UP
+assemblages are assumed to reflect AMHs. These associations may,
+though, be subject to challenge, especially in a region such as the
+Levant where Neanderthals and AMHs coexisted. The last dated
+Neanderthal in the Levant was found at Geula Cave B, Mount Carmel,
+near Haifa. Charred bones yielded a 14 C age of ∼ 44 ± 2 ka
+(Wreschner, 1967), but a date from this time must be regarded with
+caution. Modern radiocarbon techniques would likely yield a date
+closer to ∼48 ± 2 ka cal BPHULU . Consequently, archaeologists working in the Levant tend to cite a date range, frequently ∼45–35 ka (e.g.,
+Shea, 2002), for the Neanderthals' disappearance in the region. Such a
+range, though, overlaps with our age estimate of ∼ 41–32 ka for YR2
+Layer 4. Perhaps the strongest speculation again stems from comparison
+to Ksar Akil. Two AMH fossils, nicknamed “Egbert” (Ksar Akil 1) and
+“Ethelruda” (Ksar Akil 2), were found in the layers beneath Phase 3
+(Douka et al., 2013; Bosch et al., 2015). Egbert, in the Early Ahmarian
+Phase, is dated to 43.3–42.8 ka, whereas Ethelruda dates beyond the
+14 C range (> 45.9 ka) in the Initial UP Phase (Bosch et al., 2015).
+Accordingly, our hypothesis is that Layer 4 reflects AMH occupations;
+however, either fossils or precise dating are needed in order to
+conclusively establish which hominin(s) occupied YR2 during this time.
+Second, given the limited chronological resolution of these excavations, the best available age estimates place the YR2 Layer 4 obsidian
+artifact as essentially contemporaneous with those in Layer C of
+Shanidar Cave (∼ 40–33 ka). They might not have been truly contemporaneous, but the temporal resolution with which we must work
+allows no greater precision. Renfrew et al. (1966) attributed one of the
+Shanidar Cave flakes to Nemrut Dağ volcano (∼ 310 km linearly,
+≥ 450 km on foot; Fig. 1) or the Bingöl A deposits (∼430 km linearly,
+≥ 460 km on foot). The other flake matched their “Group 1e–f”
+obsidian type, so it was transported ≥ 500 km linearly and ≥700 km
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+422Fig. 6. Scatterplots of four elements – Rb, Sr, Zr, and Fe – that show five analyses of the YR2 obsidian tool and 230 analyses of the geological obsidian specimens. The tool chemically
+matches the Kömürcü obsidian outcrops on the eastern slope of the Göllü Dağ volcanic complex. These data are all available in the supplementary online materials.
+Fig. 7. The Kömürcü obsidian outcrops at the Göllü Dağ volcanic complex in Turkey. Satellite image courtesy of the DigitalGlobe Foundation (© DigitalGlobe, Inc., All Rights Reserved).
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+423on foot from a source in northeastern Turkey or Armenia. Therefore, at
+least one of the Shanidar Cave flakes was moved about the same
+distance as the scraper from YR2. In fact, Solecki (1963) even argued
+that “the closest parallels” to Shanidar Cave's Layer C include YR2
+Layers 4 and 5. Hence, there is a regional precedent for such longdistance obsidian transport – and, in turn, connections between groups
+in diverse contexts – that appears more-or-less concurrent with YR2
+Layer 4.
+It is also worth considering far-travelled Pleistocene obsidian
+artifacts outside the Near East as a means for comparison. Moutsiou
+(2012) tabulated long-distance obsidian transfers in Eastern Africa
+during the Early, Middle, and Later Stone Age (n = 52). During each
+period, there was one or two instances of obsidian artifacts at linear
+distances of ∼ 120–200 km from their geological sources (n = 2 for the
+Early and Later Stone Age; n = 1 for the Middle Stone Age; Moutsiou,
+2012: Fig. 1). She also tabulated data from central and southeastern
+Europe, where Palaeolithic populations used the “Carpathian” and
+Aegean obsidian sources. In the MP, one artifact was moved a linear
+distance of ∼ 210 km. The rest (n = 9) were < 125 km from their
+sources. Transfer distances increased during the UP: there are six cases
+of artifacts at linear distances ∼ 400–500 km from the sources
+(Moutsiou, 2012: Fig. 1). These sites each have a single obsidian
+artifact and, to varying degrees, younger ages than our estimate for
+YR2 Layer 4 (e.g., Aggsbach B in Austria: ∼ 27 ka, Bacho Kiro in
+Bulgaria: ∼ 29 ka, Kraków-Zwierzyniec I in Poland: ∼ 31 ka, KremsHundssteig in Austria: ∼33–27 ka). Hence, UP central and southeastern Europe exhibits a trend in long-distance obsidian transport
+similar to that in the UP Levant and Mesopotamia but ostensibly during
+a later time. Based on the literature, there appears to be few instances of
+obsidian transfers ∼ 120–200 km in Eastern Africa (Moutsiou, 2012),
+but new data for Later Stone Age forager-fisher and pastoralist
+interactions in Kenya contradict this interpretation and reveal such
+transfers were frequent (Frahm et al., 2017), although across much
+shorter distances than that reported here between Göllü Dağ volcano
+and YR2.
+Finally, it is particularly striking when a scraper, made of obsidian
+from a far-flung source, is surrounded by what appears to be functionally equivalent tools made of raw materials available < 10 km from the
+site. The presence of the obsidian scraper suggests a potential – and,
+perhaps, the great likelihood – for far-travelled chert tools at YR2. The
+mobile foragers who occupied YR2 most likely would not have arrived
+at the rockshelter empty-handed with the exception of a single small,
+nearly exhausted scraper. Even if this tool had been passed from
+individual to individual, it might well have been acquired at a
+considerable distance from YR2. That is not to suggest that the entire
+lithic toolkit of its owner was far-travelled or even non-local. Nor is this
+issue limited only to visual chert sourcing. It is challenging even by
+sophisticated geochemical means to assign chert artifacts from
+Cretaceous limestone beds (such as occur in the Levant) to a particular
+outcrop (Ekshtain et al., 2017). Consequently, “exotic” chert artifacts
+could be scattered among those from local outcrops. Therefore,
+reconstructions of Late Pleistocene hunter-gatherer mobility and social
+networks based on visual – and even geochemical – identification of
+chert sources may only be minimum estimates that considerably
+underestimate the geographic extent of such phenomena.
+8. Conclusions
+Using the movement of lithic materials to recognize long-distance
+social networks has been a mainstay of studies into cognition and
+behavior; however, datasets are often predicated on cherts and similar
+siliceous rocks, the origins of which can be challenging to establish
+conclusively. YR2 offers the rare opportunity to chemically determine
+the geographic origin of a far-travelled tool in a Palaeolithic context.
+Rust (1950) recognized that the obsidian tool unearthed at YR2 was
+non-local, but he had no way of knowing that it came from farther away
+– and in a nearly opposite direction – than he imagined. Using pXRF
+and 230 reference specimens, we show that this scraper matches the
+Komürcü obsidian outcrops on the eastern slopes of Göllü Dağ volcano
+in central Turkey, ≥ 700 km on foot. Unfortunately, the chronology of
+YR2 is imprecise, and it will remain so for the foreseeable future. For
+now, we must rely on techno-typological correlations that suggest an
+age of ∼ 41–32 ka for YR2 Layer 4 and, in turn, this obsidian scraper,
+which was discarded at the end of its extended use-life. This finding has
+three key implications for the creation and maintenance of Near Eastern
+networks during a period following the Middle to Upper Palaeolithic
+transition. First, the earliest transport of obsidian from Anatolia into the
+Levant is often regarded as a phenomenon associated with the EP
+Natufian complex. The YR2 scraper attests, however, that it has much
+deeper temporal roots, reflecting the behavior of hominins during the
+last half of MIS 3. Second, YR2 Layer 4 seems contemporaneous to
+Layer C at Shanidar Cave in Iraq, where two obsidian flakes were
+sourced to eastern Turkey and/or the Caucasus. Thus, at least one of
+these flakes was moved about the same distance as the YR2 scraper,
+suggesting that there were other large-scale contacts across the Near
+East at this time. That is, ostensibly concurrent obsidian artifacts at YR2
+and Shanidar Cave could be elements of a larger phenomenon. Third,
+the rest of the YR2 assemblage, composed of chert and similar siliceous
+Table 1
+Fifteen datasets for Komürcü obsidian from the Göllü Dağ volcanic complex. The overall mean values from different analytical techniques exhibit excellent agreement with our pXRF data
+for Komürcü obsidian.
+Reference Technique Nb Zr Sr Rb Fe
+Mean ± 1σ Mean ± 1σ Mean ± 1σ Mean ± 1σ Mean ± 1σ
+Keller and Seifried, 1990 WDXRF 20 ± 1 77 ± 1 16 ± 1 181 ± 2 6040 ± 70
+Yellin, 1995 NAA 209 ± 10 6110 ± 100
+Martinetto, 1996 ICP-AES/MS 25 70 12 153 6650
+Oddone et al., 1997 NAA 78 ± 1 19 ± 3 180 ± 3 6800 ± 850
+Bellot-Gurlet 1998 ICP-AES/MS 25 ± 1 69 ± 1 12 ± 1 176 ± 20 5760 ± 770
+Gratuze in Poidevin, 1998 LA-ICP-MS 21 ± 3 71 ± 9 13 ± 1 192 ± 18 5120 ± 1230
+Carter and Shackley, 2007 EDXRF 24 ± 6 83 ± 6 24 ± 4 204 ± 16 9000 ± 800
+Kobayashi and Mochizuki, 2007 EDXRF 71 ± 3 9 ± 2 184 ± 6 4800 ± 140
+Frahm, 2010 EDXRF 20 83 12 180 5870
+" NAA 73 184 5642
+" EMPA 50 ± 17 4370 ± 330
+Poupeau et al., 2010 ICP-MS 22 ± 2 70 ± 1 10 ± 1 179 ± 5
+" PIXE 32 ± 6 73 ± 9 13 ± 3 183 ± 18 4600 ± 170
+" SEM-EDS 4890 ± 325
+Binder et al., 2011 LA-ICP-MS 25 ± 1 70 ± 5 9 ± 1 188 ± 6 5600 ± 500
+Overall mean values 24 ± 4 72 ± 8 14 ± 5 184 ± 14 5804 ± 1175
+This study pXRF 20 ± 1 64 ± 4 14 ± 2 190 ± 3 5700 ± 90
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+424rocks, is thought to derive from sources < 10 km away. The obsidian
+scraper raises the possibility that other far-travelled artifacts occur in
+the YR2 lithic assemblage. Therefore, visual sourcing of chert assemblages might be leading to serious underestimates regarding the
+geographic extent of Palaeolithic mobility strategies and social networks.
+Acknowledgements
+The pXRF instrument is part of the research infrastructure of the
+University of Minnesota's Wilford Lab of North American Archaeology,
+directed by Katherine Hayes. Most of the Anatolian geological specimens were collected by George “Rip” Rapp, University of Minnesota
+and the late Tuncay Ercan, Directorate of Mineral Research and
+Exploration of Turkey. Additional Göllü Dağ specimens were collected
+by John Whittaker and Kathryn Kamp of Grinnell College. The Yale
+Babylonian Collection allowed access to their copy of Rust's, 1950
+excavation report. Many thanks to Dan Adler, Andrew Kandel, Gilliane
+Monnier, and Gil Tostevin for helpful comments that enabled and
+encouraged us to significantly improve the final paper. Any errors and
+all interpretations, though, remain our own. Two anonymous reviewers'
+comments also enabled us to make clarifications. Our thoughts continue
+to be with our Syrian friends, colleagues, and their families.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.jasrep.2017.04.021.
+References
+Adler, D.S., Bar-Oz, G., Vekua, A., Tushabramishvili, N., 2004. Palaeolithic hunting
+practices. Caucasus Environment 2 (7), 52–55.
+Adler, D.S., Bar-Oz, G., Belfer-Cohen, A., Bar-Yosef, O., 2006. Ahead of the game: Middle
+and Upper Palaeolithic hunting practices in the Southern Caucasus. Curr. Anthropol.
+47 (1), 89–118.
+Adler, D.S., Yeritsyan, B., Wilkinson, K., Pinhasi, R., Bar-Oz, G., Nahapetyan, S., Bailey,
+R., Schmidt, B.A., Glauberman, P., Wales, N., Gasparian, B., 2012. The Hrazdan
+Gorge Palaeolithic project, 2008–2009. In: Avetisyan, P., Bobokhyan, A. (Eds.),
+Archaeology of Armenia in Regional Context, Proceedings of the International
+Conference Dedicated to the 50th Anniversary of the Institute of Archaeology and
+Ethnography held on September 15–17, 2009 in Yerevan, Armenia. NAS RA Gitutyn
+Publishing House, Yerevan, pp. 21–37 edited by.
+Adler, D.S., Wilkinson, K.N., Blockley, S., Mark, D., Pinhasi, R., Schmidt-Magee, B.A.,
+Nahapetyan, S., Mallol, C., Berna, F., Glauberman, P.J., Raczynski-Henk, Y., Wales,
+N., Frahm, E., Jöris, O., MacLeod, A., Smith, V., Cullen, V., Gasparyan, B., 2014. Early
+Levallois technology and the transition from the Lower to Middle Palaeolithic in the
+Southern Caucasus. Science 345 (6204), 1609–1613.
+Akkermans, P.M.M.G., Schwartz, G.M., 2003. The Archaeology of Syria: From Complex
+Hunter-Gatherers to Early Urban Societies (c. 16,000–300 BC). Cambridge University
+Press.
+Azoury, I., 1986. Ksar Akil, Lebanon. In: A Technological and Typological Analysis of the
+Transitional and Early Upper Palaeolithic Levels of Ksar Akil and Abu Halka. Vol. 1:
+Levels XXV-XII, Part I: Text. BAR International, Oxford.
+Bakdach, J., 1982. Das Jungpaläolithikum von Jabrud, Syrien. Ph.D. dissertation
+Universität zu Köln, Köln.
+Bellot-Gurlet, L., 1998. Caractérisation par Analyse Élémentaire (PIXE et ICP-MS/-AES)
+d’un Verre Naturel: l’Obsidienne: Application à l’étude de Provenance d’Objets
+Archéologiques .
+Belfer-Cohen, A., Goring-Morris, A.N., 2003. Current issues in Levantine Upper
+Palaeolithic research. In: Goring-Morris, A.N., Belfer-Cohen, A. (Eds.), More Than
+Meets the Eye: Studies on Upper Palaeolithic Diversity in the Near East. Oxford, pp.
+1–12.
+Bentsen, S., 2014. Using pyrotechnology: fire-related features and activities with a focus
+on the African Middle stone age. J. Archaeol. Res. 22 (2), 141–175.
+Bergman, C.A., 1987. Ksar Akil, Lebanon. In: A Technological and Typological Analysis of
+the Later Palaeolithic Levels of Ksar Akil. Vol. 2: Levels XIII-VI. BAR International,
+Oxford.
+Bergman, C.A., 2003. Twisted debitage and the Levantine Aurignacian problem. In:
+Goring-Morris, A.N., Belfer-Cohen, A. (Eds.), More Than Meets the Eye: Studies on
+Upper Palaeolithic Diversity in the Near East, Oxbow, Oxford.
+Berna, F., Goldberg, P., 2008. Assessing Paleolithic pyrotechnology and associated
+hominin behavior in Israel. Isr. J. Earth Sci. 56, 107–121.
+Binder, D., Gratuze, B., Mouralis, D., Balkan-Atlı, N., 2011. New investigations of the
+Göllüdağ obsidian lava flow system: a multi-disciplinary approach. J. Archaeol. Sci.
+38, 3174–3184.
+Binford, L.R., 1985. Human ancestors: changing views of their behavior. J. Anthropol.
+Archaeol. 4, 292–327.
+Binford, L.R., 1989. Isolating the transition to cultural adaptations: an organizational
+approach. In: Trinkaus, E. (Ed.), The Emergence of Modern Humans: Biocultural
+Adaptations in the Later Pleistocene. Cambridge University Press, Cambridge, pp.
+18–41.
+de Boer, D.K.G., Brouwer, P.N., 1990. Adv. X-ray Anal. 33, 237–243.
+Bordes, F., 1955. Le Paleolithique Inferieur et Moyen de Jabroud (Syrie) et la Question de
+Pre-Aurignacien. l'Anthropologie 59, 486–507.
+Bordes, F., 1962. Sur la Chronologie de Paleolithique au Moyen Orient. Quaternaria 5,
+57–69.
+Bosch, M.D., Mannino, M.A., Prendergast, A.L., O'Connell, T.C., Demarchi, B., Taylor,
+S.M., Niven, L., van der Plicht, J., Hublin, J.-J., 2015. New chronology for Ksâr ‘Akil
+(Lebanon) supports Levantine route of modern human dispersal into Europe. PNAS
+112 (25), 7683–7688.
+Botha, R., 2008. Prehistoric shell beads as a window on language evolution. Lang.
+Commun. 28, 197–212.
+Botha, R., 2010. On the soundness of inferring modern language from symbolic
+behaviour. Camb. Archaeol. J. 20, 345–356.
+Braidwood, R.J., Howe, B., 1960. Prehistoric investigations in Iraqi Kurdistan. In: Studies
+in Ancient Oriental Civilization No. 31. University of Chicago Press, Chicago.
+Bressy, C., Poupeau, G., Yener, K.A., 2005. Cultural interactions during the Ubaid and
+Halaf periods: Tell Kurdu (Amuq Valley, Turkey) obsidian sourcing. J. Archaeol. Sci.
+32, 1560–1565.
+Bretzke, K., Conard, N.J., 2012. Evaluating morphological variability in lithic
+assemblages using 3D models of stone artifacts. J. Archaeol. Sci. 39, 3741–3749.
+Bretzke, K., Kandel, A.W., Conard, N.J., 2011. Deducing landuse patterns from
+archaeological survey data. Chronique Archéologique en Syrie V 11–18.
+Campbell, S., Healey, E., 2016. Multiple sources: the pXRF analysis of obsidian from
+Kenan Tepe, S.E. Turkey. J. Archaeol. Sci. Rep. 10, 377–389.
+Cann, J.R., Renfrew, C., 1964. The characterization of obsidian and its application to the
+Mediterranean region. Proceedings of the Prehistoric Society 30, 111–133.
+Cann, J.R., Dixon, J.E., Renfrew, C., 1968. The sources of Saliagos obsidian. In: Evans,
+J.D., Renfrew, C. (Eds.), Excavations at Saliagos Near Antiparos. vol. 5. British
+School at Athens, pp. 105–107 edited by.
+Cann, J.R., Dixon, J.E., Renfrew, C., 1969. Obsidian analysis and the obsidian trade. In:
+Brothwell, D.R., Higgs, E. (Eds.), Science in Archaeology: A Survey of Progress and
+Research, Revised and, Expanded ed. Praeger Publishers, New York, pp. 578–591.
+Carter, T., Shackley, M.S., 2007. Sourcing obsidian from Neolithic Catalhoyuk (Turkey)
+using energy dispersive X-ray fluorescence. Archaeometry 49 (3), 437–454.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N., 2006. A new programme of obsidian
+characterization at Çatalhöyük, Turkey. J. Archaeol. Sci. 33 (7), 893–909.
+Carter, T., Le Bourdonnec, F.-X., Kartal, M., Poupeau, G., Calligaro, T., Moretto, P., 2011.
+Marginal perspectives: sourcing obsidian from the Öküzini Cave (SW Turkey).
+Paléorient 37 (2), 123–149.
+Carter, T., Grant, S., Kartal, M., Coşkun, A., Özkaya, V., 2013. Networks and
+neolithisation: sourcing obsidian from Körtik Tepe (SE Anatolia). J. Archaeol. Sci. 40,
+556–569.
+Cauvin, M.-C., 1991. L'obsidienne au Levant Prehistorique: Provenance et Fonction.
+Cahiers de l'Euphrate 5-6, 163–190.
+Cauvin, M.-C., Chataigner, C., 1998. Distribution de l'Obsidienne dans les Sites
+Archéologiques du Proche et du Moyen Orient (Par Phase Chronologique). In: Cauvin,
+M.C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner,
+C. (Eds.), L'obsidienne au Proche et Moyen-Orient: Du Volcan à l'Outil. BAR
+International Series, pp. 325–350.
+Chadelle, J.-P., 1983. Technologie et utilisation du silex au Périgordien supérieur:
+l'example de la couche VIII du Flageolet I. Ecole des Hautes Etudes en Sciences
+Sociales, Toulouse.
+Chataigner, C., Poidevin, J., Arnaud, N., 1998. Turkish occurrences of obsidian and use by
+prehistoric peoples in the Near East from 14,000 to 6000 BP. J. Volcanol. Geotherm.
+Res. 85 (1–4), 517–537.
+Courty, M.-A., Carbonell, E., Poch, J.V., Banerjee, R., 2012. Microstratigraphic and multianalytical evidence for advanced Neanderthal pyrotechnology at Abric Romani
+(Capellades, Spain). Quat. Int. 247, 294–312.
+Craig, N.R., Speakman, R., Popelka-Filcoff, R., Glascock, M., Robertson, J., Shackley,
+M.S., Aldenderfer, M., 2007. Comparison of XRF and PXRF for analysis of
+archaeological obsidian from Southern Perú. J. Archaeol. Sci. 34 (12), 2012–2024.
+Daniau, A.-L., d'Errico, F., Sánchez Goñi, M.F., 2010. Testing the hypothesis of fire use for
+ecosystem management by Neanderthal and upper Palaeolithic modern human
+populations (fire ecosystem management). PLoS One 5 (2), e9157.
+Davidzon, A., Goring-Morris, A.N., 2003. Sealed in stone: an example of Early Ahmarian
+technology and mobility in the light of refitting studies at Nahal Nizzana XIII, Israel.
+J. Isr. Prehist. Soc. - Mitekufat Haeven 33, 75–205.
+Davis, M.K., Jackson, T.L., Shackley, M.S., Teague, T., Hampel, J.H., 1998. Factors
+affecting the energy-dispersive X-ray fluorescence (EDXRF) analysis of archaeological
+obsidian. In: Shackley, M.S. (Ed.), Archaeological Obsidian Studies: Method and
+Theory. Advances in Archaeological and Museum Science Volume 3. Springer, pp.
+159–180 Plenum Press.
+De Francesco, A.M., Crisci, G.M., Bocci, M., 2008. Non-destructive analytic method using
+XRF for determination of provenance of archaeological obsidians from the
+Mediterranean area: a comparison with traditional XRF methods. Archaeometry 50
+(2), 337–350.
+Demars, P.-Y., 1982. L'utilisation du silex au Paléolithique Supérior: choix,
+approvisionnement, circulation: l'example du Bassin de Brive. Centre National de la
+Recherche Scientifique (CNRS), Institut du Quaternaire, University of Bordeaux I,
+Cahiers de Quaternaire No. 5 .
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+425Demars, P.-Y., 1990a. Les interstratifications entre Aurignacien et Châtelperronien à Roc
+de Combe et au Paige (Lot): approvisionnement en matières premières et position
+chronologique. In: Farizy, C. (Ed.), Paléolithique Moyen Récent et Paléolithique
+Supérior Ancien en Europe. Nemours: Mémoires du Musée de Préhistoire d'lle de
+France No. 3pp. 235–240.
+Demars, P.-Y., 1990b. Les matières premières. In: Raynal, J.-P., Pautrat, Y. (Eds.), La
+Chapelle-aux-Saints et La Préhistoire en Corrèze. Bordeaux, L'Association pour la
+Recherche Archéologique en Limousin, pp. 23–28.
+Dixon, J., Cann, J., Renfrew, C., 1968. Obsidian and the origins of trade. Sci. Am. 218 (3),
+38–46.
+Dodonov, A.E., Kandel, A.W., Simakova, A.N., Masri, M., Conard, N.J., 2006.
+Geomorphology, site distribution and paleolithic settlement dynamics of the
+Ma'aloula region, Damascus province, Syria. In: Conard, N.J. (Ed.), Tübingen –
+Damascus Excavation and Survey Project 1999–2005. Kerns, Tübingen, pp. 257–274.
+Douka, K., Bergman, C.A., Hedges, R.E.M., Wesselingh, F.P., Higham, T.F.G., 2013.
+Chronology of Ksar Akil (Lebanon) and implications for the colonization of Europe by
+anatomically modern humans. PLoS One 8 (9), e72931.
+Ekshtain, R., Ilani, S., Segal, I., Hovers, E., 2017. Local and nonlocal procurement of raw
+material in Amud Cave, Israel: the complex mobility of late Middle Paleolithic
+groups. Geoarchaeology: An International Journal 32, 189–2014.
+El-Kassem, M., 2001. Das Jabrudien von Jabrud (Syrien): Felsdach I, 25. Master's thesis
+Institute of Prehistoric Archaeology, University of Cologne, Köln.
+d'Errico, F., Henshilwood, C., Lawson, G., Vanhaeren, M., Tillier, A.-M., Soressi, M.,
+Bresson, F., Maureille, B., Nowell, A., Lakarra, J., Backwell, L., Julien, M., 2003.
+Archaeological evidence for the emergence of language, symbolism, and music — an
+alternative multidisciplinary Perspective. J. World Prehist. 17, 1–70.
+d'Errico, F., Henshilwood, C., Vanhaeren, M., van Niekerk, K., 2005. Nassarius kraussianus
+shell beads from Blombos Cave: evidence for symbolic behaviour in the Middle Stone
+Age. J. Hum. Evol. 48, 3–24.
+Farrand, W., 1970. Geology, climate and chronology of Yabroud Shelter I. In: Gripp, K.,
+Schütrumpf, R., Schwabedissen, H. (Eds.), Frühe Menschkeit und Umwelt: Teil I:
+Archäologische Beiträge. Böhlau Verlag, pp. 212–223.
+Ferguson, J.R., 2012. Chapter 12: X-ray fluorescence of obsidian: approaches to
+calibration and the analysis of small samples. In: Shugar, A.N., Mass, J.L. (Eds.),
+Handheld XRF for Art and Archaeology. Leuven University Press, Leuven, pp.
+401–422.
+Ferguson, J.R., Skinner, C.E., 2003. Colorado obsidian? Preliminary results of a statewide
+database of trace element analysis. Southwestern Lore: Journal of Colorado
+Archaeology 69, 35–50.
+Finlayson, C., Brown, K., Blasco, R., Rosell, J., Negro, J.J., Bortolotti, G.R., Finlayson, G.,
+Sánchez Marco, A., Giles Pacheco, F., Rodríguez Vidal, J., Carrión, J.S., Fa, D.A.,
+Rodríguez Llanes, J.M., 2012. Birds of a feather: Neanderthal exploitation of raptors
+and corvids. PLoS One 7 (9), e45927.
+Frahm, E., 2010. The Bronze-Age Obsidian Industry at Tell Mozan (Ancient Urkesh) Syria.
+Ph.D. dissertation. Department of Anthropology, University of Minnesota Published
+online through the University of Minnesota's Digital Conservancy http://purl.umn.
+edu/99753.
+Frahm, E., 2012a. Non-destructive sourcing of Bronze-Age Near Eastern obsidian
+artefacts: redeveloping and reassessing electron microprobe analysis for obsidian
+sourcing. Archaeometry 54 (4), 623–642.
+Frahm, E., 2012b. Distinguishing Nemrut Dağ and Bingöl A obsidians: geochemical and
+landscape differences and the archaeological implications. J. Archaeol. Sci. 39,
+1435–1444.
+Frahm, E., 2014a. Characterizing obsidian sources with portable XRF: accuracy,
+reproducibility, and field relationships in a case study from Armenia. J. Archaeol. Sci.
+49, 105–125.
+Frahm, E., 2014b. Buying local or ancient outsourcing? Locating production of prismatic
+obsidian blades in Bronze-Age Northern Mesopotamia. J. Archaeol. Sci. 41, 605–621.
+Frahm, E., Feinberg, J.M., 2013a. Empires and resources: Central Anatolian obsidian at
+Urkesh (Tell Mozan, Syria) during the Akkadian period. J. Archaeol. Sci. 40 (2),
+1122–1135.
+Frahm, E., Feinberg, J.M., 2013b. Environment and collapse: Eastern Anatolian obsidians
+at Urkesh (Tell Mozan, Syria) and the third-millennium Mesopotamian urban crisis. J.
+Archaeol. Sci. 40 (4), 1866–1878.
+Frahm, E., Feinberg, J.M., 2015. Reassessing obsidian field relationships at glass buttes,
+Oregon. J. Archaeol. Sci. Rep. 2, 654–665.
+Frahm, E., Campbell, S., Healey, H., 2016a. Caucasus connections? New data and
+interpretations for Armenian obsidian in Northern Mesopotamia. J. Archaeol. Sci.
+Rep. 9, 543–564.
+Frahm, E., Feinberg, J.M., Schmidt-Magee, B., Wilkinson, K.N., Gasparyan, B., Yeritsyan,
+B., Adler, D.S., 2016b. Middle Palaeolithic lithic procurement behaviors at Lusakert
+Cave 1, Hrazdan Valley, Armenia. J. Hum. Evol. 91, 73–92.
+Frahm, E., Goldstein, S.T., Tryon, C.A., 2017. Late Holocene forager-fisher and pastoralist
+interactions along the Lake Victoria shores, Kenya: perspectives from portable XRF of
+obsidian artifacts. J. Archaeol. Sci. Rep. 11, 717–742.
+Frank, T., 2004. Die Levallois-Spitzen von Jabrud, Felsdach I, Schichten 2–4. Master's
+thesis Institute of Prehistoric Archaeology, University of Cologne, Köln.
+Freund, K.P., 2014. Obsidian exploitation in chalcolithic Sardinia: a view from Bingia 'e
+Monti'. J. Archaeol. Sci. 41, 242–250.
+Gamble, C., 1999. The Palaeolithic Societies of Europe. Cambridge University Press.
+Garrod, D.A.E., 1930. The Palaeolithic of Southern Kurdistan: excavations in the caves of
+Zarzi and Hazar Merd. Bulletin of the American School of Prehistoric Research 6,
+8–43.
+Geneste, J.-M., 1985. Analyse lithique d'industries Moustériennes du Périgord: une
+approche technologique du comportement des groupes humains au Paléolithique
+moyen. Ph.D. dissertation University of Bordeaux I.
+Gilead, I., 1981. Upper Paleolithic Tool Assemblages from the Negev and Sinai. In:
+Cauvin, J., Sanlaville, P. (Eds.), Préhistoire du Levant : chronologie et organisation de
+l’espace depuis les origines jusqu’au VIe millénaire. Éditions du CNRS, Paris, pp.
+331–342.
+Gilead, I., 1991. The Upper Paleolithic period in the Levant. J. World Prehist. 5, 105–154.
+Glascock, M.D., 2011. Chapter 8: comparison and contrast between XRF and NAA: used
+for characterization of obsidian sources in central Mexico. In: Shackley, M.S. (Ed.), Xray Fluorescence Spectrometry (XRF) in Geoarchaeology. Springer, pp. 161–192.
+Glascock, M.D., Speakman, R., Neff, H., 2007. Archaeometry at the University of Missouri
+Research Reactor and the provenance of obsidian artefacts in North America.
+Archaeometry 49 (2), 343–357.
+Glascock, M.D., Beyin, A., Coleman, M.E., 2008. X-ray fluorescence and neutron
+activation analysis of obsidian from the Red Sea coast of Eritrea. Bulletin of
+International Association for Obsidian Studies 38, 6–10.
+Golitko, M., 2011. Provenience investigations of ceramic and obsidian samples using laser
+ablation inductively coupled plasma mass spectrometry and portable X-ray
+fluorescence. Fieldiana Anthropol. 42, 251–287.
+Hancock, R.G.V., Carter, T., 2010. How reliable are our published Archaeometric
+analyses? Effects of analytical techniques through time on the elemental analysis of
+obsidians. J. Archaeol. Sci. 37 (2), 243–250.
+Hauck, T.C., Domnina, M., Ceyinkaya, J., Molden, C., 2014. Yabroud II — Layer 4: A New
+Dataset and chaîne opératoire Reconstruction for the Early Upper Palaeolithic.
+Institute for Prehistoric Archaeology. University of Cologne Online article. http://dx.
+doi.org/10.5880/SFB806.6.
+Heginbotham, A., Bezur, A., Bouchard, M., Davis, J.M., Eremin, K., Frantz, J.H.,
+Glinsman, L., Hayek, L.-A., Hook, D., Kantarelou, V., Germanos Karydas, A., Lee, L.,
+Mass, J., Matsen, C., McCarthy, B., McGath, M., Shugar, A., Sirois, J., Smith, D.,
+Speakman, R.J., 2010. An evaluation of inter-laboratory reproducibility for
+quantitative XRF of historic copper alloys. In: Mardikian, P. (Ed.), Metal 2010.
+Proceedings of the International Conference on Metal Conservation, Charleston,
+South Carolina, USA, October 11–15, 2010. Clemson University Press, pp. 244–255.
+Heinzelin, J., 1966. Revision du site de Yabroud. Annales Archéologiques Arabes
+Syriennes 16 (2), 157–165.
+Hole, F., Flannery, K.V., 1967. The prehistory of Southwestern Iran: a preliminary report.
+Proceedings of the Prehistoric Society 33, 147–206.
+Hughes, R.E., 1984. Obsidian Studies in the Great Basin. Contributions of the University
+of California Archaeological Research Facility. Vol. 45 University of California.
+Hughes, R.E., 1988. The Coso volcanic field reexamined: implications for obsidian
+sourcing and hydration dating research. Geoarchaeology 3 (4), 253–265.
+Ibáñez, J.J., Ortega, D., Campos, D., Khalidi, L., Méndez, V., 2015. Testing complex
+networks of interaction at the onset of the Near Eastern Neolithic using modelling of
+obsidian exchange. J. R. Soc. Interface 12, 20150210.
+Keller, J., Seifried, C., 1990. The present status of obsidian source identification in
+Anatolia and the Near East. PACT 25: Volcanology and Archaeology. In: Proceedings
+of the European Workshops of Ravello. 25. pp. 57–87.
+Khalaily, H., Valla, F.R., 2013. Obsidian in Natufian context: the case of Eynan (Ain
+Mallaha), Israel. In: Bar-Yosef, O., Valla, F.R. (Eds.), Natufian Foragers in the Levant:
+Terminal Pleistocene Social Changes in Western Asia. International Monographs in
+Prehistory, pp. 193–202.
+Khalidi, L., Gratuze, B., Stein, G., McMahon, A., Al-Quntar, S., Carter, R., Cuttler, R.,
+Drechsler, P., Healey, E., Inizan, M.-I., Mouralis, D., Pernicka, E., Robin, A.-K., 2016.
+The growth of early social networks: new geochemical results of obsidian from the
+Ubaid to Chalcolithic period in Syria, Iraq and the Gulf. J. Archaeol. Sci. Rep. 9,
+743–757.
+Klein, R., 2003. Whither the Neanderthals? Science 299, 1525–1527.
+Kobayashi, K., Mochizuki, A., 2007. Source Identification of Obsidian Projectile Points
+from Kaman-Kalehöyük. Anatolian Archaeological Studies 16, 177–182.
+Kuhn, L.S., Stiner, M.C., Kerry, K.W., Erksin, G., 2003. The early Upper Palaeolithic at
+Ücagizli Cave (Hatay, Turkey). In: Goring-Morris, A.N., Belfer-Cohen, A. (Eds.), More
+Than Meets the Eye: Studies on Upper Paleolithic Diversity in the Near East. Oxford,
+pp. 106–117.
+Kuhn, S.L., Dinçer, B., Balkan-Atlı, N., Erturaç, M.H., 2015. Paleolithic occupations of the
+Göllü Dağ, Central Anatolia, Turkey. J. Field Archaeol. 40 (5), 581–602.
+Marean, C.W., Assefa, Z., 1999. Zooarchaeological evidence for the faunal exploitation
+behavior of Neanderthals and early modern humans. Evol. Anthropol. 8, 22–37.
+Marks, A.E., 1981. The Middle Paleolithic of the Negev, Israel. In: Cauvin, J., Sanlaville,
+P. (Eds.), Préhistoire du Levant. CNRS, Lyon, pp. 287–298.
+Marks, A.E., 2003. Reflections on Levantine Upper Paleolithic studies: past and present.
+In: Goring-Morris, A.N., Belfer-Cohen, A. (Eds.), More Than Meets the Eye. Studies on
+Upper Paleolithic Diversity in the Near East. Oxbow Books, Oxford, pp. 249–264.
+Martinetto, P., 1996. Sur la Provenance de l'Obsidienne de Quelques Sites Archdologiques
+des IXe-VIIIe Milldnaires B.P. de la Haute Vallde de l'Euphrate: Une Approche par
+ICP/AES-MS. Memoire de DESS, Universite de Bordeaux III.
+McBrearty, S., Brooks, A.S., 2000. The revolution that wasn’t: a new interpretation of the
+origin of modern human behavior. J. Hum. Evol. 39, 453–563.
+Mellars, P., 1989. Major issues in the emergence of modern humans. Curr. Anthropol. 30,
+349–385.
+Mellars, P., 1996. The Neanderthal Legacy: An Archaeological Perspective from Western
+Europe. Princeton University Press, Princeton, New Jersey.
+Mellars, P., 1998. Neanderthals, modern humans and the archaeological evidence for
+language. In: Jablonski, N.G., Aiello, L.C. (Eds.), The Origin and Diversification of
+Language. Vol. 24. California Academy of Sciences, pp. 89–115.
+Milić, M., 2014. PXRF characterisation of obsidian from central Anatolia, the Aegean and
+central Europe. J. Archaeol. Sci. 41, 285–296.
+Moutsiou, T., 2012. Changing scales of obsidian movement and social networking. In:
+Ruebens, K., Bynoe, R., Romanowska, I. (Eds.), Unravelling the Palaeolithic: Ten
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+426Years of Research at the Centre for the Archaeology of Human Origins (CAHO).
+University of Southampton, pp. 85–95 British Archaeological Reports.
+Oddone, M., Yeğingil, Z., Bigazzi, G., Ercan, T., 1997. Chemical Characterisations of
+Anatolian Obsidians by Instrumental and Epithermal Neutron Activation Analysis. J.
+Radioanal. Nucl. Chem. 224 (1), 27–38.
+Ogburn, D.E., Connell, S., Gifford, C., 2009. Provisioning of the Inka army in wartime:
+obsidian procurement in Pambamarca, Ecuador. J. Archaeol. Sci. 36, 740–751.
+Ohnuma, K., 1988. Ksar Akil, Lebanon: A Technological Study of the Earlier Upper
+Palaeolithic Levels at Ksar Akil. vol. III British Archaeological Reports International
+Series 426, Oxford Levels XXV-XIV.
+Orange, M., Carter, T., Le Bourdonnec, F.-X., 2013. Sourcing obsidian from Tell Aswad
+and Qdeir 1 (Syria) by SEM-EDS and EDXRF: methodological implications. Comptes
+Rendus Palevol 12 (3), 173–180.
+Ortega, D., Ibanez, J.J., Khalidi, L., Mendez, V., Campos, D., Teira, L., 2014. Towards a
+multi-agent-based modelling of obsidian exchange in the Neolithic Near East. J.
+Archaeol. Method Theory 21 (2), 461–485.
+Özdoğan, M., 1994. Obsidian in Anatolia: an archaeological perspective on the status of
+the research. In: Archaeometry 94: The Proceedings of the 29th International
+Symposium on Archaeometry; Ankara, 9–14 May 1994, pp. 423–431.
+Pastoors, A., Weniger, G.-C., Kegler, J.F., 2008. The Middle-Upper Palaeolithic transition
+at Yabroud II (Syria). A re-evaluation of the lithic material from the Rust excavation.
+Paléorient 34, 47–65.
+Peresani, M., Fiore, I., Gala, M., Romandini, M., Tagliacozzo, A., 2011. Late Neandertals
+and the intentional removal of feathers as evidenced from bird bone taphonomy at
+Fumane Cave 44 ky B.P., Italy. Proc. Natl. Acad. Sci. 108, 3888–3893.
+Poidevin, J.-L., 1998. Les Gisements d'Obsidienne de Turquie et de Transcaucasie:
+Géologie, Géochimie et Chronométrie. In: Cauvin, M.-C., Gourgaud, A., Gratauze, B.,
+Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L'obsidienne au Proche
+et Moyen-Orient: Du vVolcan à l'Outil. British Archaeological Reports. Maison de
+l'Orient Méditerranéen, Archaeopress, Oxford, pp. 105–167.
+Poupeau, G., Delerue, S., Carter, T., Pereira, C.D.B., Miekeley, N., Bellot-Gurlet, L., 2005.
+How homogeneous is the “East Göllü Dağ” (Cappadocia, Turkey) obsidian “Source”
+composition? IAOS Bulletin 32, 3–7.
+Poupeau, G., Le Bourdonnec, F.-X., Carter, T., Delerue, S., Shackley, M.S., Barrat, J.A.,
+Dubernet, S., Moretto, P., Calligaro, T., Milić, M., Kobayashi, K., 2010. The use of
+SEM-EDS, PIXE and EDXRF for obsidian provenance studies in the Near East: a case
+study from Neolithic Çatalhöyük (central Anatolia). J. Archaeol. Sci. 37 (11),
+2705–2720.
+Renfrew, C., 1969. Trade and culture process in European Prehistory. Curr. Anthropol. 10
+(2/3), 151–169.
+Renfrew, C., Cann, J., Dixon, J., 1965. Obsidian in the Aegean. Annual of the British
+School at Athens 60, 225–247.
+Renfrew, C., Dixon, J., Cann, J., 1966. Obsidian and early cultural contact in the Near
+East. Proceedings of the Prehistoric Society 2, 30–72.
+Renfrew, C., Dixon, J., Cann, J., 1968. Further analysis of Near Eastern obsidians.
+Proceedings of the Prehistoric Society 34, 319–331.
+Ridout-Sharpe, J., 2015. Changing lifestyles in the northern Levant: Late Epipalaeolithic
+and early Neolithic shells from Tell Abu Hureyra. Quat. Int. 390 (10), 102–116.
+Roebroeks, W., Villa, P., 2011. On the earliest evidence for habitual use of fire in Europe.
+Proc. Natl. Acad. Sci. 108, 5209–5214.
+Roebroeks, W., Sier, M.J., Nielsen, T.K., De Loecker, D., Parés, J.M., Arps, C.E.S., Mücher,
+H.J., 2012. Use of red ochre by early Neandertals. Proc. Natl. Acad. Sci. 109,
+1889–1894.
+Rust, A., 1933. Beitrag zur Erkenntnis der Abwicklung der vorgeschichtlichen
+Kulturperioden in Syrien. Praehist. Z. 24, 205–282.
+Rust, A., 1950. Die Höhlenfunde von Jabrud (Syrien). Karl Wachholtz Verlag,
+Neumünster.
+Schyle, D., 1992. Near Eastern Upper Paleolithic Cultural Stratigraphy. (Wiesbaden).
+Shackley, M.S., 1988. Sources of archaeological obsidian in the Southwest: an
+archaeological, petrological, and geochemical study. Am. Antiq. 53 (4), 752–772.
+Shackley, M.S., 1995. Sources of archaeological obsidian in the greater American
+Southwest: an update and quantitative analysis. Am. Antiq. 60 (3), 531–551.
+Shackley, M.S., 1998. Gamma rays, X-rays and stone tools: some recent advances in
+archaeological geochemistry. J. Archaeol. Sci. 25, 259–270.
+Shackley, M.S., 2008. Archaeological petrology and the archaeometry of lithic materials.
+Archaeometry 50 (2), 194–215.
+Shackley, M.S., 2011. Chapter 2: an introduction to X-ray fluorescence (XRF) analysis in
+archaeology. In: Shackley, M.S. (Ed.), X-ray Fluorescence Spectrometry (XRF) in
+Geoarchaeology. Springer, pp. 7–44.
+Shea, J.J., 2002. Modern human origins and Neanderthal extinctions in the Levant.
+Athena Review 2 (4), 21–32.
+Shea, J.J., 2003. The Middle Paleolithic of the East Mediterranean Levant. J. World
+Prehist. 17 (4), 313–394.
+Shimelmitz, R., Barkai, R., Gopher, A., 2016. Regional variability in late Lower Paleolithic
+Amudian blade technology: analyzing new data from Qesem, Tabun and Yabrud I.
+Quat. Int. 398, 37–60.
+Slimak, L., 2004. Implantations humaines et exploitation des obsidiennes en Anatolie
+centrale durant le Pléistocène. Paléorient 30 (2), 7–20.
+Slimak, L., Kuhn, S.L., Roche, H., Mouralis, D., Buitenhuis, H., Balkan-Atli, N., Binder, D.,
+Kuzucuoğlu, C., Guillou, H., 2008. Kaletepe Deresi 3 (Turkey): archaeological
+evidence for early human settlement in Central Anatolia. J. Hum. Evol. 54, 99–111.
+Solecki, R.S., 1963. Prehistory in Shanidar Valley, Northern Iraq. Science 139, 179–193.
+Solecki, R.S., Solecki, R.L., 1966. New data from Yabroud, Syria. Preliminary report of the
+Columbia University archaeological investigations. Les Annales Archéologiques
+Arabes Syriennes 16, 121–153.
+Solecki, R.S., Solecki, R.L., 1986. A reappraisal of Rust's cultural stratigraphy of Yabroud
+shelter I. Paléorient 12 (1), 53–59.
+Solecki, R.L., Solecki, R.S., 1995. The Mousterian industries of Yabroud Shelter I: a
+reconsideration. In: Dibble, H.L., Bar-Yosef, O. (Eds.), The Definition and
+Interpretation of Levallois Technology. Prehistory Press, Madison, pp. 381–397.
+Solecki, R.L., Solecki, R.S., 2007. Use of raw material at Yabrud Rockshelter I. In: Delage,
+C. (Ed.), Chert Availability and Prehistoric Exploitation in the Near East. British
+Archaeological Reports, Oxford, pp. 117–129.
+Speakman, R., Holmes, C.E., Glascock, M.D., 2007. Source determination of obsidian
+artifacts from swan point (XBD-156), Alaska. Current Research in the Pleistocene 24,
+143–145.
+Stiner, M.C., 1994. Honor Amongst Thieves: A Zooarchaeological Study of Neandertal
+Ecology. Princeton University Press, Princeton.
+Turnbull, P.F., Reed, C.A., 1974. The fauna from the terminal Pleistocene of Palegawra
+Cave, a Zarzian occupation site in Northeastern Iraq. Fieldiana: Anthropology 63,
+81–146.
+Turq, A., 1988. Le Paléolithique inférieur et moyen en Haut-Agenais: état des recherches.
+Revue de l'Agenais 115, 83–112.
+Twomey, T., 2013. The cognitive implications of controlled fire use by early humans.
+Camb. Archaeol. J. 23 (1), 113–128.
+Villa, P., Roebroeks, W., 2014. Neandertal demise: an archaeological analysis of the
+modern human superiority complex. PLoS One 9 (4), e96424.
+Villa, P., Soto, E., Santonja, M., Pérez-González, A., Mora, R., Parcerisas, J., Sesé, C.,
+2005. New data from Ambrona: closing the hunting versus scavenging debate. Quat.
+Int. 126-128, 223–250.
+Wadley, L., 2013. Recognizing complex cognition through innovative technology in Stone
+Age and Palaeolithic Sites. Camb. Archaeol. J. 23 (2), 163–183.
+Wadley, L., Prinsloo, L.C., 2014. Experimental heat treatment of silcrete implies
+analogical reasoning in the Middle Stone Age. J. Hum. Evol. 70, 49–60.
+Wadley, L., Hodgskiss, T., Grant, M., 2009. Implications for complex cognition from the
+hafting of tools with compound adhesives in the Middle Stone Age, South Africa.
+Proc. Natl. Acad. Sci. U. S. A. 106 (24), 9590–9594.
+Whallon, R., 1989. Elements of cultural change in the Later Palaeolithic. In: Mellars, P.,
+Stringer, C. (Eds.), The Human Revolution: Behavioural and Biological Perspectives
+on the Origin of Modern Humans. Vol. 1. Edinburgh University Press, Edinburgh, pp.
+433–454.
+Williams, J.K., Bergman, C.A., 2010. Upper Paleolithic levels XIII-VI (A and B) from the
+1937-1938 and 1947-1948 Boston College excavations and the Levantine
+Aurignacian at Ksar Akil, Lebanon. Paléorient 36, 117–161.
+Wolfart, R., 1966. Zur Geologie und Hydrogeologie von Syrien unter besonderer
+Berücksichtigung der süd-und nordwestlichen Landesteile. Bundesanstalt für
+Bodenforschung, Hannover.
+Wreschner, E., 1967. The Geula caves, Mount Carmel: excavations, finds, and summary.
+Quaternaria 9, 69–90.
+Wynn, T., Coolidge, F.L., 2008. A Stone-Age meeting of minds. Am. Sci. 96, 44–51.
+Yellin, J., 1995. Trace Element Characteristics of Central Anatolian Obsidian Flows and
+their Relevance to Pre-History. Israel Journal of Chemistry 35 (2), 175–190.
+Ziffer, D., 1981. Yabrud shelter II — a reconsideration of its cultural composition and its
+relevance to the Upper Paleolithic of the Levant. Quartär 32, 69–94.
+Zilhão, J., Angelucci, D.E., Badal-García, E., d'Errico, F., Daniel, F., Dayet, L., Douka, K.,
+Higham, T.F., Martínez-Sánchez, M.J., Montes-Bernárdez, R., Murcia-Mascarós, S.,
+Pérez-Sirvent, C., Roldán-García, C., Vanhaeren, M., Villaverde, V., Wood, R., Zapata,
+J., 2010. Symbolic use of marine shells and mineral pigments by Iberian Neandertals.
+Proc. Natl. Acad. Sci. 107 (3), 1023–1028.
+E. Frahm, T.C. Hauck Journal of Archaeological Science: Reports 13 (2017) 415–427
+427
