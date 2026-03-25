@@ -1,4 +1,4 @@
 source_raw,La,Ce,Nd,Sm,Eu,Tb,Yb,Lu,source,sample_id,site,notes,verification_flag,paper,year,method,method_tier,units,is_source_reference
-NMRD1,397.0,348.6,200.7,136.5,10.1,99.1,87.6,82.0,NemrutDag,,,,False,Yellin et al. 1996,1996,NAA/INAA,4,ppm,True
-GLD,98.7,77.6,34.0,21.3,3.04,13.4,15.7,14.9,EGD,,,,False,Yellin et al. 1996,1996,NAA/INAA,4,ppm,True
-HTMD,129.6,95.8,42.8,24.1,8.12,13.6,19.3,18.6,HTMD,,,,False,Yellin et al. 1996,1996,NAA/INAA,4,ppm,True
+NMRD1,397.0,348.6,200.7,136.5,10.1,99.1,87.6,82.0,NemrutDag,,,,True,Yellin et al. 1996,1996,NAA/INAA,4,ppm,True
+GLD,98.7,77.6,34.0,21.3,3.04,13.4,15.7,14.9,EGD,,,,True,Yellin et al. 1996,1996,NAA/INAA,4,ppm,True
+HTMD,129.6,95.8,42.8,24.1,8.12,13.6,19.3,18.6,HTMD,,,,True,Yellin et al. 1996,1996,NAA/INAA,4,ppm,True

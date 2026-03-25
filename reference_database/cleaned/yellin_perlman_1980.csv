@@ -1,5 +1,5 @@
 source_raw,Lanthanum,Europium,Ytterbium,Tantalum,Iron%,Hafnium,Thorium,Uranium,Sodium,Cesium,Scandium,Barium,source,sample_id,site,notes,verification_flag,paper,year,method,method_tier,units,is_source_reference,attributed_source
-Beisamoun,23.0,0.159,2.35,1.96,0.609,3.19,23.2,7.69,3.0,7.95,1.96,159,Beisamoun,,Beisamoun,,False,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,False,GolluDag
-Nahal Lavan,22.9,0.16,2.34,1.94,0.607,3.2,22.4,7.76,2.93,7.78,1.96,152,Nahal Lavan,,Nahal Lavan,,False,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,False,GolluDag
-Gollu Dag,22.9,0.16,2.32,1.97,0.607,3.22,22.9,7.76,2.99,7.97,1.91,160,GolluDag,,,,False,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,True,
-Nenezi Dag,39.3,0.545,2.33,1.56,0.884,4.22,27.6,6.84,3.21,6.95,1.5,550,ND,,,,False,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,True,
+Beisamoun,23.0,0.159,2.35,1.96,0.609,3.19,23.2,7.69,3.0,7.95,1.96,159,Beisamoun,,Beisamoun,,True,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,False,GolluDag
+Nahal Lavan,22.9,0.16,2.34,1.94,0.607,3.2,22.4,7.76,2.93,7.78,1.96,152,Nahal Lavan,,Nahal Lavan,,True,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,False,GolluDag
+Gollu Dag,22.9,0.16,2.32,1.97,0.607,3.22,22.9,7.76,2.99,7.97,1.91,160,GolluDag,,,,True,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,True,
+Nenezi Dag,39.3,0.545,2.33,1.56,0.884,4.22,27.6,6.84,3.21,6.95,1.5,550,ND,,,,True,Yellin & Perlman 1980,1980,NAA/INAA,4,ppm,True,

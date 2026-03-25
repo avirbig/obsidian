@@ -1,236 +1,236 @@
 Source,sample_id,Nb,Zr,Sr,Rb,Fe,source,site,notes,verification_flag,paper,year,method,method_tier,units,is_source_reference
-Acıgöl,ca08p2,29.427795,61.72424999999999,0.0,271.076826,5695.645622,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca09p1,31.043628,65.07562499999999,0.0,270.745431,5965.060283,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca09p2,30.441114,64.43775,0.0,274.390776,5740.359443,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca09p3,31.664400000000004,64.74149999999999,0.0,275.318682,5761.738946,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca11p1,29.455182,70.42162499999999,0.0,263.830322,5745.990682,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca11p2,31.746561000000003,63.86062499999999,0.0,270.36985,5844.081241,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca11r1,29.911632,65.67299999999999,0.0,271.01054700000003,5906.491281999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca13r1,28.852668000000005,65.86537499999999,0.0,269.066363,6082.404055,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca33w1,30.413727000000005,65.44012499999998,0.0,268.248922,5730.022929999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca33w3,29.838600000000003,69.96599999999998,0.0,266.94543500000003,5830.226060999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca33w4,31.290111000000007,63.121500000000005,0.0,267.100086,5795.258879,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl,ca33w5,28.971345,59.992875000000005,0.0,267.011714,5753.028015999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05p1,18.080448000000004,134.19899999999998,90.633716,169.86879299999998,8806.270712,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05p2,20.16186,136.315125,90.872561,172.71878999999998,8883.640231999998,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05p3,18.682962000000003,150.4395,89.31210700000001,174.57460199999997,8768.669674,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r1a,18.509511,145.731375,89.32803,172.29902299999998,9029.099045,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r3a,17.286225,137.489625,88.69111000000001,171.63623299999998,8891.665261999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r4b,15.980778,142.572375,91.923479,178.97110899999996,9074.937741999998,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r4c,16.738485,133.014375,89.55095200000001,171.68041899999997,8857.308530999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r4e,19.468056,140.031,95.155848,170.44321099999996,9043.111982,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r5a,17.569224000000002,137.06437499999998,91.23879,177.80017999999995,9021.012284,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r5b,16.163358000000002,148.47525,92.544476,175.392043,9031.19104,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r5d,18.509511,134.685,88.961801,166.46647099999998,8913.449445999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl2,ca05r5e,16.300293000000003,146.997,96.620764,175.23739199999997,8933.03875,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca01r1,19.43154,101.5155,76.44632299999999,186.19552,7353.82259,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca03p1,17.377515000000002,102.943125,78.611851,181.11413,7385.325977,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca04p1,17.961771,100.897875,74.48779400000001,186.924589,7298.148087,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06p1,18.774252,102.10275,77.417626,190.83505,7331.448531999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06p2,18.345189,100.249875,74.854023,187.476914,7358.21235,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06p4,16.820646,104.259375,79.08954100000001,183.721104,7355.036633,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06p7b,18.673833,98.1945,77.990854,191.27691,7465.788906,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06p8a,19.623249,103.92525,73.277646,185.930404,7280.513598,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06r1,19.860603,102.06225,76.382631,187.167612,7305.548947999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06r2a,16.099455000000003,104.82637499999998,72.306343,183.036221,7258.187553,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca06r2b,17.158419000000002,98.802,73.309492,185.024591,7240.264986,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca12p1,19.641507,105.109875,73.134339,194.436209,7564.393889999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Acıgöl3,ca12r1a,18.135222,103.327875,76.46224600000001,183.389709,7295.315319999999,AciGol,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-artifact,Jabroud II,19.640256,59.162125,10.274319,188.862629,5606.7932,artifact,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
-artifact,Jabroud II,19.761312000000004,59.1725,10.559277,191.18227700000003,5531.868208,artifact,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
-artifact,Jabroud II,18.895296,59.61862500000001,10.036854,192.946176,5589.519516,artifact,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
-artifact,Jabroud II,20.478336,58.20762500000001,11.034207,190.699017,5538.427245999999,artifact,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
-artifact,Jabroud II,19.919616,59.44225,11.39832,190.191594,5602.99423,artifact,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
-Bingöl B,ea52b2,17.185806000000003,309.067875,53.453511,223.400132,11856.61891,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Bingöl B,ea52b3,16.391583,306.37462500000004,52.784745,219.136183,11835.095368,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Bingöl B,ea53b1,16.674582,302.50687500000004,54.806966,220.307112,11647.337102,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Bingöl B,ea53b2,13.844592000000002,307.123875,51.972672,214.47456,11648.455118999998,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Bingöl B,ea54b1,16.674582,305.04825,48.549227,227.95129,11711.653944999998,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Bingöl B,ea55b1,17.934384,310.10062500000004,57.625337,226.802454,12038.965425,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Bingöl B,ea55b2,14.949201000000002,302.73975,55.25281,212.132702,11620.559566,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Bingöl B,ea56b1,16.473744,302.972625,58.469256,220.748972,11741.812968,BingolB,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca22p1,18.536898000000004,119.03175,91.461712,176.607158,7537.458597,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca22p3,20.180118000000004,116.4195,87.719807,174.92808999999997,7479.788124999999,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca22r1,16.647195000000004,107.377875,88.53188,171.19437299999998,7475.350352,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca23p1,18.97509,119.7,92.544476,174.08855599999998,7482.867815999999,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca23p3a,17.605740000000004,114.54637499999998,91.461712,174.79553199999998,7502.621736,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca23r1a,17.42316,110.44575,88.99364700000001,174.48622999999998,7359.234340999999,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca23r1b,17.140161000000003,111.114,89.566875,174.839718,7233.625474,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ1,ca24r1,14.620557,111.14437499999998,90.251564,177.49087799999995,7592.646111,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ2,ca14p1,17.669643000000004,63.20250000000001,47.116157,174.464137,6045.145967,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ2,ca14p1a,18.682962000000003,66.564,45.937855000000006,173.66878899999998,5941.918017,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ2,ca14p2,17.076258000000003,65.41987499999999,45.651241000000006,168.94088699999998,6257.630928,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ2,ca21p2,15.661263000000002,80.41499999999999,44.441093,141.65603199999998,6241.855227999999,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ2,ca21r1a,13.278594000000002,65.61224999999999,42.641794,141.89905499999998,5955.786915,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ2,ca21r1b,14.556654000000004,62.13937500000001,43.915634,137.657199,5703.499177,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ2,ca21r1b,15.341748000000004,72.770625,44.695861,142.849054,6059.817368,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ3,ca16r2,18.783381,61.876125,11.416791,206.786196,5473.626651,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ3,ca17p2,21.394275,60.6915,8.009269000000002,213.193166,5497.413662999999,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ3,ca18r1,18.199125,59.020875,7.48381,210.122239,5498.572834,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Göllü Daǧ3,ca18r2,21.759435,61.44074999999999,9.617492,212.04433,5445.086351999999,GolluDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca28p1,13.871979000000003,39.297375,72.163036,131.913019,5194.904327,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca28p2,11.662761,42.0615,74.51964,130.47697399999998,5075.907536,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca28p4,13.242078,43.934625,74.86994600000001,133.41534299999998,5080.914606,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca28p5,14.556654000000004,41.869125,73.978258,134.18859799999998,5148.633512999999,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca28r1b,13.488561,40.836375,78.34116,136.331619,5055.598037,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29p1a,12.411339000000002,35.6625,70.88919600000001,122.61186599999998,4865.356812999999,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29p2a,13.452045000000002,38.730375,76.74886000000001,135.55836399999998,5039.774324,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29p3a,12.265275,46.557,78.834773,126.94209399999998,5086.628153,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29p4,13.972398000000002,44.55225,78.787004,128.356046,5274.72251,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29p5a,15.706908000000002,44.319375,73.93048900000001,134.27696999999998,4972.871638,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29p6,10.11996,42.24375,77.688317,130.454881,5143.091441,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29r1,11.142408,36.381375,74.53556300000001,127.11883799999998,5076.751193,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca29r2,13.169046000000002,42.16275,75.490943,135.889759,5129.771263,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca30p1,13.123401,43.934625,73.56426,127.27348899999998,5172.207896,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca30p2,13.205562,43.803,74.8381,130.87464799999998,5143.941956999999,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca30p4,13.169046000000002,42.60825,73.64387500000001,134.453714,5016.055902,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca30p5,12.67608,49.037625,77.736086,133.481622,5343.737768,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca30r1b,14.520138,43.225875,74.901792,134.343249,5073.801823,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca31p1,12.721725,46.425375,75.15656000000001,134.69673699999998,5144.476959,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca31p2,12.201372,42.314625,73.89864299999999,124.07000399999998,4890.145239,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Hasan Daǧ,ca31r1,14.273655000000002,42.9525,74.631101,134.82929499999997,5001.768604999999,HasanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea39r3a,27.419415000000004,203.828625,8.232191,143.02579799999998,6893.803178,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r1,26.990352,195.708375,9.71303,138.054873,7136.001327,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r2b,25.109778,195.607125,12.388094,141.34672999999998,6874.213874,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r3b,25.319745,195.5565,10.970947,135.978131,6991.125528999999,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r3c,26.880804000000005,198.766125,8.582497,135.116504,6943.530927999999,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r3e,29.948148,205.549875,11.162023,140.48510299999998,7188.033700999999,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r4a,26.862546,196.34625,9.824491,136.04441,7052.726208,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r4b,27.090771,198.604125,9.219417,139.42463899999998,7207.890506,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r4c,30.696726,202.725,11.607867,138.45254699999998,7317.346428,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r4d,29.354763,206.420625,11.607867,139.62347599999998,7118.524594999999,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Arpaçay,ea40r4e,28.597056,201.12525,9.585646,138.18743099999998,6993.347844999999,KarsArpacay,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36p2,17.094516000000002,176.30887499999997,137.97279500000002,109.86420499999998,7924.964661,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36p3,15.980778,166.50787499999998,137.60656600000002,108.80374099999996,7898.612383,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36p4a,17.112774,164.543625,139.071482,109.35606599999998,7949.890266999999,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r1,17.112774,163.571625,137.43141300000002,107.566533,7899.997900999999,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r2,16.081197000000003,174.07124999999996,135.393269,110.526995,8057.521694999999,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r3a,13.570722000000002,178.7895,138.768945,113.13396899999998,7974.520936,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r3b,14.967459000000002,164.62462499999998,138.418639,113.95141,7867.342202,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r3c,16.428099,170.79075,133.307356,112.84676,8069.915908,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r3d,16.41897,180.08549999999997,132.925204,106.66071999999998,7987.024893,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r3e,17.560095000000004,162.77174999999997,142.35162000000005,108.781648,7898.269433,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r4a,17.888739,186.778125,144.42161000000002,109.70955399999998,8088.737004,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r4b,15.633876000000004,172.45125,129.390298,110.946762,7913.942247999999,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r4d,16.437228,165.27262499999998,135.042963,109.068857,7854.070036999999,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor,ea36r4e,18.016545,184.145625,140.854858,115.144432,8023.734261,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37p2,14.538396,113.97937499999998,62.434083,120.888612,6901.156026,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37p3,15.916875,113.53387499999998,58.32594900000001,124.158376,6843.691324,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37p4,11.936631000000002,115.62975,57.00434,125.59442099999998,6945.307409,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37p5b,12.803886000000002,106.84125,55.491655,120.910705,6687.690228,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37p7a,13.315110000000002,102.234375,55.31650200000001,122.56767999999998,6890.442268,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37p7b,15.040491,106.41599999999998,57.927874,118.944428,6857.704261,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37p8,14.529267000000004,117.65475,55.810115,123.80488799999998,6842.120612999999,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kars-Digor2,ea37r1,15.515199,112.197375,60.84178300000001,119.91651999999998,6854.459953999999,KarsDigor,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca19p1,21.53121,64.69087499999999,17.340147,189.465284,5687.552001999999,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca19r1,21.549468000000005,63.4455,17.563069,187.278077,5685.082762,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca19r2a,21.038244,65.48062499999999,13.232013000000002,188.979238,5721.325718,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca19r2b,20.189247,64.88324999999999,15.206465,193.353652,5457.727489,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca20p2,21.156921,63.374625,13.821164,188.62575,5730.647099,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca20p3,18.947703,62.25075,13.980394,192.447839,5776.965926,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca20p4,20.837406,65.45025,13.964471,192.337374,5606.478622,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca20r1a,21.321243000000003,71.73787499999999,12.085557,193.773419,5730.214982,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca32w1,16.957581,58.9905,13.200167,187.123426,5756.896492,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca32w2,19.595862000000004,59.385375,15.095004,194.171093,5777.62439,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca32w4,20.116215000000004,62.240625,13.582319,189.376912,5738.013665,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Kömürcü,ca32w6,20.61831,68.28524999999999,13.232013000000002,188.228076,5718.897631999999,EGD,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea07p2,31.600497,255.213,20.556593,199.650157,8869.956527,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea07p3,30.623694,261.93600000000004,20.938745,201.992015,8852.054537,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea07p4,30.002922,267.09975,19.043908,201.528062,8742.166497999999,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea07r1,31.408788000000005,271.524375,18.47068,201.638527,8920.870884,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea07r2,32.458623,264.64950000000005,18.343296,199.00946,8916.378238999998,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea07r3,31.810464,268.416,19.314599,202.411782,8811.449257,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea08p1,31.865238,263.07000000000005,18.136297000000003,195.143185,8788.732249,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea08p2,30.194631,264.0015,20.349594,197.175741,8682.013068,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea08r1,32.129979,265.87462500000004,19.537521,201.992015,8937.661715999999,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09p2,30.696726,266.31,21.973740000000003,196.822253,8770.466731999999,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r1,34.284423,275.108625,21.304974,212.243167,9360.224128999998,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r2a,29.85685800000001,268.122375,19.171292,203.560618,8942.675645,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r2b,31.280982,269.053875,25.651953,208.597822,8778.718109,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r2c,33.271103999999994,274.258125,21.989663,207.272242,9100.432645,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r2d,31.20795,259.71862500000003,20.349594,202.500154,8781.118759,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r2e,30.404598,268.67925,22.117047000000003,207.957125,9287.44328,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r3a,30.915822,266.57325000000003,19.808212,196.711788,8986.737861000001,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r3c,31.107531000000005,262.128375,20.142595,195.651324,8899.038687,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r3d,28.615314,257.835375,18.693602,195.430394,9064.806999,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea09r3e,31.244466,259.495875,23.948192,201.373411,8857.438852,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea10p3,30.788016,255.526875,22.562891,200.092017,9007.808709,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea10p4,29.263473,260.528625,20.763592,201.43969,8926.797059999999,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea10r1a,31.764819,260.559,21.352743,203.096665,8693.803688999998,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea10r2,28.085832,259.89075,20.604362,201.240853,8788.252119,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea11p1,30.240276,271.25100000000003,22.212585,208.907124,8994.125004,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea11r1,33.910134,258.59475000000003,20.365517,204.201315,8820.654035,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea11r2,30.413727000000005,270.896625,21.01836,199.583878,8903.154086999999,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea68sx1,30.11247,266.947875,26.575487000000003,210.188518,9024.784734,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea68sx2,29.74731,264.99375000000003,22.053355,200.224575,9039.949983,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea69sx1,26.223516,257.430375,27.228330000000003,197.308299,8936.60543,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Meydan Daǧ,ea69sx2,30.085083000000004,266.340375,26.097797000000003,204.422245,8809.782519999999,MeydanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca25p1,17.9709,125.643375,122.957406,167.703679,8004.035212999999,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca25p2,15.916875,126.79762499999998,116.842974,164.43391499999998,7929.450446999999,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca25r2,17.505321,127.86075,118.037199,170.354839,7879.56494,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca26p1,16.282035,124.49925,114.470447,167.88042299999998,8039.763744,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca27p1,18.290415000000003,127.263375,122.543408,169.62577,8146.901323999999,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca27p2,18.737736,123.375375,117.877969,174.48622999999998,8015.023330999999,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca27r2a,15.013104000000002,122.585625,118.196429,167.17344699999998,7884.6131639999985,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Nenezi Daǧ,ca27r3,15.286974,124.41824999999996,110.473774,169.71414199999998,7960.830371999999,ND,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea01p1,12.666951,95.66325,29.696395,133.547901,5849.877095999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea01p2,13.798947000000002,92.13975,28.772861,126.235118,5664.224543,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea01p3,13.150788000000002,92.30174999999998,28.390709,131.40488,5765.291907999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea01p4,14.081946,92.78775,29.282397000000003,128.68744099999998,5734.494998,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea01r1,11.918373,92.05875,27.801558000000004,126.01418799999998,5715.234926,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea02p1a,11.379762,88.78837499999999,26.193335,132.885111,5721.058217,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea02p2,8.997093000000001,88.70737499999998,26.814332,122.92116799999998,5701.544362,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea02p3,12.858660000000002,97.657875,27.642328,133.37115699999998,5789.55905,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea02p4,11.507568,89.4465,29.521242,129.328138,5955.464542,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea02r1,9.563091,93.263625,29.059475000000003,130.10139299999997,5773.255206999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea02r2a,12.986466,91.00575,27.451252,133.06185499999998,5911.03194,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea02r2b,13.525077,100.81687499999998,28.470324,130.74209,5905.483009,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea03p1a,11.690148,91.65375,28.104095,127.80372099999998,5624.147406,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea03p2a,11.142408,92.63587499999998,28.788784,131.27232199999997,5618.955143,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea03p4,11.352375000000002,87.53287499999999,28.772861,132.90720399999998,5712.319851,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea03p5,11.635374000000002,93.861,28.406632,134.93975999999998,5610.916395,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea03r1,13.442916,89.05162499999999,28.549939,136.950223,5683.134806,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04p2,11.964018,95.13674999999998,30.986158000000003,133.437436,5883.067797,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r1b,9.444414000000002,92.38275,26.893947,122.656052,5628.146202999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r2,13.470303,95.5215,27.658251000000003,134.60836499999996,5796.431768,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r4a,14.255397000000002,96.71625,29.377935,129.63744,5987.969343,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r4b,12.657822,95.693625,28.629554,135.337434,5932.5692,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r4c,14.894427,95.724,29.170936,124.90953799999998,5765.641717,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r4d,11.854470000000005,98.42737499999998,28.709169000000003,129.328138,5803.126152,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r4d,12.694338000000002,96.615,29.059475000000003,136.596735,5866.825685,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r4e,12.502629,93.63825,28.900245,131.22813599999998,5828.326118,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r5a,11.872728000000002,92.980125,27.467175,129.129301,5926.231484,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r5b,13.077756000000004,91.836,29.823779,129.283952,5943.378984,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r5c,13.169046000000002,92.86875,29.409781,132.531623,5919.928062999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea04r5e,11.909244,97.171875,27.817481,131.868833,5865.927156,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea05p2,11.936631000000002,91.927125,25.986336,130.940927,5744.756062,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea05r1,13.105143000000002,95.61262499999998,30.619929000000003,138.38626799999997,6024.363197,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea05r2,12.511758,93.992625,28.6614,130.71999699999998,5815.62325,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea06p1,13.397271000000002,93.62812499999998,27.769712,129.94674199999997,5876.387131,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea06p2,12.968208,94.215375,29.871548000000004,129.54906799999998,5854.506920999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış,ea06r1,13.315110000000002,95.1165,26.495872,136.839758,5817.372295,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış2,ea63,12.557403,75.41324999999999,24.425882,135.91185199999998,5213.307024,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış2,ea63,8.896674,70.04699999999998,26.59141,130.896741,5206.715525,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış2,ea63e1a,13.461174,74.96774999999998,24.298498,134.32115599999997,5431.423223999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış2,ea63e1b,12.566532000000002,77.05349999999999,25.699722,137.94440799999998,5385.536513999999,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış2,ea63e1c,13.004724,75.61574999999998,21.703049000000004,138.76184899999998,5300.121387,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış2,ea63e1d,11.854470000000005,73.06424999999999,25.126494,136.287433,5497.461676,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Sarıkamış2,ea63e1e,11.5806,70.59374999999999,24.776188,133.128134,5318.832739,Sarikamis,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea12r1a,10.996344,84.191625,20.110749,146.56067799999997,8345.915208999999,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea13r1,10.421217000000002,88.747875,15.222388,150.228116,8230.697726999999,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea13r2,12.082695000000005,84.21187499999999,19.792289,144.13044799999997,8310.008344,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea14p1a,10.202121000000002,84.97125,15.524925,149.344396,8195.751122,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea14p3,10.740732,90.16537499999998,17.149071,150.581604,8468.732463,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea14r1,9.006222000000001,82.774125,16.957995,150.581604,8165.194277,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea15p2,8.421966000000001,91.22849999999998,17.992990000000002,151.17811499999996,8480.433916999998,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea15p3,9.371382,84.58649999999999,17.531223,151.84090499999996,8316.448945,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea15r1,9.535704,83.3715,17.642684,148.23974599999997,8084.182628,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea15r1b,9.526575,88.56562499999998,16.735073,142.583938,7937.770413999999,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea15r2,10.019541,86.95574999999998,18.645833000000003,149.035094,8493.081912999998,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea16r2a,9.216189000000002,78.27862499999999,18.566218,148.52695499999996,8100.555061,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea16r2b,10.558152000000002,88.65674999999999,15.684155,143.68858799999998,7980.268778,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea16r3,11.334117,79.70625,18.534372,149.21183799999997,8234.257547999998,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea17p5,9.681768000000002,83.847375,16.655458000000003,153.166485,8447.531294,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea17r2b,10.202121000000002,87.96824999999998,16.71915,151.61997499999998,8322.759225,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea18p1,9.572220000000002,91.56262499999998,17.881529,150.07346499999997,8452.538364,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
-Suphan Daǧ,ea19r1,11.854470000000005,81.38699999999999,18.62991,150.89090599999997,8344.289625999998,SuphanDag,,,False,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca08p2,29.427795,61.72424999999999,0.0,271.076826,5695.645622,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca09p1,31.043628,65.07562499999999,0.0,270.745431,5965.060283,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca09p2,30.441114,64.43775,0.0,274.390776,5740.359443,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca09p3,31.664400000000004,64.74149999999999,0.0,275.318682,5761.738946,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca11p1,29.455182,70.42162499999999,0.0,263.830322,5745.990682,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca11p2,31.746561000000003,63.86062499999999,0.0,270.36985,5844.081241,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca11r1,29.911632,65.67299999999999,0.0,271.01054700000003,5906.491281999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca13r1,28.852668000000005,65.86537499999999,0.0,269.066363,6082.404055,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca33w1,30.413727000000005,65.44012499999998,0.0,268.248922,5730.022929999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca33w3,29.838600000000003,69.96599999999998,0.0,266.94543500000003,5830.226060999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca33w4,31.290111000000007,63.121500000000005,0.0,267.100086,5795.258879,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl,ca33w5,28.971345,59.992875000000005,0.0,267.011714,5753.028015999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05p1,18.080448000000004,134.19899999999998,90.633716,169.86879299999998,8806.270712,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05p2,20.16186,136.315125,90.872561,172.71878999999998,8883.640231999998,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05p3,18.682962000000003,150.4395,89.31210700000001,174.57460199999997,8768.669674,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r1a,18.509511,145.731375,89.32803,172.29902299999998,9029.099045,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r3a,17.286225,137.489625,88.69111000000001,171.63623299999998,8891.665261999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r4b,15.980778,142.572375,91.923479,178.97110899999996,9074.937741999998,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r4c,16.738485,133.014375,89.55095200000001,171.68041899999997,8857.308530999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r4e,19.468056,140.031,95.155848,170.44321099999996,9043.111982,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r5a,17.569224000000002,137.06437499999998,91.23879,177.80017999999995,9021.012284,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r5b,16.163358000000002,148.47525,92.544476,175.392043,9031.19104,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r5d,18.509511,134.685,88.961801,166.46647099999998,8913.449445999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl2,ca05r5e,16.300293000000003,146.997,96.620764,175.23739199999997,8933.03875,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca01r1,19.43154,101.5155,76.44632299999999,186.19552,7353.82259,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca03p1,17.377515000000002,102.943125,78.611851,181.11413,7385.325977,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca04p1,17.961771,100.897875,74.48779400000001,186.924589,7298.148087,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06p1,18.774252,102.10275,77.417626,190.83505,7331.448531999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06p2,18.345189,100.249875,74.854023,187.476914,7358.21235,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06p4,16.820646,104.259375,79.08954100000001,183.721104,7355.036633,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06p7b,18.673833,98.1945,77.990854,191.27691,7465.788906,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06p8a,19.623249,103.92525,73.277646,185.930404,7280.513598,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06r1,19.860603,102.06225,76.382631,187.167612,7305.548947999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06r2a,16.099455000000003,104.82637499999998,72.306343,183.036221,7258.187553,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca06r2b,17.158419000000002,98.802,73.309492,185.024591,7240.264986,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca12p1,19.641507,105.109875,73.134339,194.436209,7564.393889999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Acıgöl3,ca12r1a,18.135222,103.327875,76.46224600000001,183.389709,7295.315319999999,AciGol,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+artifact,Jabroud II,19.640256,59.162125,10.274319,188.862629,5606.7932,artifact,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
+artifact,Jabroud II,19.761312000000004,59.1725,10.559277,191.18227700000003,5531.868208,artifact,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
+artifact,Jabroud II,18.895296,59.61862500000001,10.036854,192.946176,5589.519516,artifact,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
+artifact,Jabroud II,20.478336,58.20762500000001,11.034207,190.699017,5538.427245999999,artifact,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
+artifact,Jabroud II,19.919616,59.44225,11.39832,190.191594,5602.99423,artifact,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,False
+Bingöl B,ea52b2,17.185806000000003,309.067875,53.453511,223.400132,11856.61891,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Bingöl B,ea52b3,16.391583,306.37462500000004,52.784745,219.136183,11835.095368,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Bingöl B,ea53b1,16.674582,302.50687500000004,54.806966,220.307112,11647.337102,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Bingöl B,ea53b2,13.844592000000002,307.123875,51.972672,214.47456,11648.455118999998,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Bingöl B,ea54b1,16.674582,305.04825,48.549227,227.95129,11711.653944999998,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Bingöl B,ea55b1,17.934384,310.10062500000004,57.625337,226.802454,12038.965425,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Bingöl B,ea55b2,14.949201000000002,302.73975,55.25281,212.132702,11620.559566,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Bingöl B,ea56b1,16.473744,302.972625,58.469256,220.748972,11741.812968,BingolB,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca22p1,18.536898000000004,119.03175,91.461712,176.607158,7537.458597,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca22p3,20.180118000000004,116.4195,87.719807,174.92808999999997,7479.788124999999,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca22r1,16.647195000000004,107.377875,88.53188,171.19437299999998,7475.350352,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca23p1,18.97509,119.7,92.544476,174.08855599999998,7482.867815999999,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca23p3a,17.605740000000004,114.54637499999998,91.461712,174.79553199999998,7502.621736,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca23r1a,17.42316,110.44575,88.99364700000001,174.48622999999998,7359.234340999999,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca23r1b,17.140161000000003,111.114,89.566875,174.839718,7233.625474,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ1,ca24r1,14.620557,111.14437499999998,90.251564,177.49087799999995,7592.646111,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ2,ca14p1,17.669643000000004,63.20250000000001,47.116157,174.464137,6045.145967,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ2,ca14p1a,18.682962000000003,66.564,45.937855000000006,173.66878899999998,5941.918017,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ2,ca14p2,17.076258000000003,65.41987499999999,45.651241000000006,168.94088699999998,6257.630928,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ2,ca21p2,15.661263000000002,80.41499999999999,44.441093,141.65603199999998,6241.855227999999,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ2,ca21r1a,13.278594000000002,65.61224999999999,42.641794,141.89905499999998,5955.786915,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ2,ca21r1b,14.556654000000004,62.13937500000001,43.915634,137.657199,5703.499177,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ2,ca21r1b,15.341748000000004,72.770625,44.695861,142.849054,6059.817368,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ3,ca16r2,18.783381,61.876125,11.416791,206.786196,5473.626651,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ3,ca17p2,21.394275,60.6915,8.009269000000002,213.193166,5497.413662999999,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ3,ca18r1,18.199125,59.020875,7.48381,210.122239,5498.572834,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Göllü Daǧ3,ca18r2,21.759435,61.44074999999999,9.617492,212.04433,5445.086351999999,GolluDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca28p1,13.871979000000003,39.297375,72.163036,131.913019,5194.904327,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca28p2,11.662761,42.0615,74.51964,130.47697399999998,5075.907536,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca28p4,13.242078,43.934625,74.86994600000001,133.41534299999998,5080.914606,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca28p5,14.556654000000004,41.869125,73.978258,134.18859799999998,5148.633512999999,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca28r1b,13.488561,40.836375,78.34116,136.331619,5055.598037,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29p1a,12.411339000000002,35.6625,70.88919600000001,122.61186599999998,4865.356812999999,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29p2a,13.452045000000002,38.730375,76.74886000000001,135.55836399999998,5039.774324,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29p3a,12.265275,46.557,78.834773,126.94209399999998,5086.628153,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29p4,13.972398000000002,44.55225,78.787004,128.356046,5274.72251,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29p5a,15.706908000000002,44.319375,73.93048900000001,134.27696999999998,4972.871638,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29p6,10.11996,42.24375,77.688317,130.454881,5143.091441,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29r1,11.142408,36.381375,74.53556300000001,127.11883799999998,5076.751193,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca29r2,13.169046000000002,42.16275,75.490943,135.889759,5129.771263,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca30p1,13.123401,43.934625,73.56426,127.27348899999998,5172.207896,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca30p2,13.205562,43.803,74.8381,130.87464799999998,5143.941956999999,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca30p4,13.169046000000002,42.60825,73.64387500000001,134.453714,5016.055902,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca30p5,12.67608,49.037625,77.736086,133.481622,5343.737768,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca30r1b,14.520138,43.225875,74.901792,134.343249,5073.801823,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca31p1,12.721725,46.425375,75.15656000000001,134.69673699999998,5144.476959,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca31p2,12.201372,42.314625,73.89864299999999,124.07000399999998,4890.145239,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Hasan Daǧ,ca31r1,14.273655000000002,42.9525,74.631101,134.82929499999997,5001.768604999999,HasanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea39r3a,27.419415000000004,203.828625,8.232191,143.02579799999998,6893.803178,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r1,26.990352,195.708375,9.71303,138.054873,7136.001327,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r2b,25.109778,195.607125,12.388094,141.34672999999998,6874.213874,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r3b,25.319745,195.5565,10.970947,135.978131,6991.125528999999,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r3c,26.880804000000005,198.766125,8.582497,135.116504,6943.530927999999,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r3e,29.948148,205.549875,11.162023,140.48510299999998,7188.033700999999,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r4a,26.862546,196.34625,9.824491,136.04441,7052.726208,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r4b,27.090771,198.604125,9.219417,139.42463899999998,7207.890506,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r4c,30.696726,202.725,11.607867,138.45254699999998,7317.346428,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r4d,29.354763,206.420625,11.607867,139.62347599999998,7118.524594999999,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Arpaçay,ea40r4e,28.597056,201.12525,9.585646,138.18743099999998,6993.347844999999,KarsArpacay,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36p2,17.094516000000002,176.30887499999997,137.97279500000002,109.86420499999998,7924.964661,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36p3,15.980778,166.50787499999998,137.60656600000002,108.80374099999996,7898.612383,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36p4a,17.112774,164.543625,139.071482,109.35606599999998,7949.890266999999,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r1,17.112774,163.571625,137.43141300000002,107.566533,7899.997900999999,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r2,16.081197000000003,174.07124999999996,135.393269,110.526995,8057.521694999999,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r3a,13.570722000000002,178.7895,138.768945,113.13396899999998,7974.520936,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r3b,14.967459000000002,164.62462499999998,138.418639,113.95141,7867.342202,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r3c,16.428099,170.79075,133.307356,112.84676,8069.915908,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r3d,16.41897,180.08549999999997,132.925204,106.66071999999998,7987.024893,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r3e,17.560095000000004,162.77174999999997,142.35162000000005,108.781648,7898.269433,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r4a,17.888739,186.778125,144.42161000000002,109.70955399999998,8088.737004,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r4b,15.633876000000004,172.45125,129.390298,110.946762,7913.942247999999,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r4d,16.437228,165.27262499999998,135.042963,109.068857,7854.070036999999,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor,ea36r4e,18.016545,184.145625,140.854858,115.144432,8023.734261,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37p2,14.538396,113.97937499999998,62.434083,120.888612,6901.156026,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37p3,15.916875,113.53387499999998,58.32594900000001,124.158376,6843.691324,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37p4,11.936631000000002,115.62975,57.00434,125.59442099999998,6945.307409,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37p5b,12.803886000000002,106.84125,55.491655,120.910705,6687.690228,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37p7a,13.315110000000002,102.234375,55.31650200000001,122.56767999999998,6890.442268,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37p7b,15.040491,106.41599999999998,57.927874,118.944428,6857.704261,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37p8,14.529267000000004,117.65475,55.810115,123.80488799999998,6842.120612999999,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kars-Digor2,ea37r1,15.515199,112.197375,60.84178300000001,119.91651999999998,6854.459953999999,KarsDigor,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca19p1,21.53121,64.69087499999999,17.340147,189.465284,5687.552001999999,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca19r1,21.549468000000005,63.4455,17.563069,187.278077,5685.082762,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca19r2a,21.038244,65.48062499999999,13.232013000000002,188.979238,5721.325718,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca19r2b,20.189247,64.88324999999999,15.206465,193.353652,5457.727489,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca20p2,21.156921,63.374625,13.821164,188.62575,5730.647099,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca20p3,18.947703,62.25075,13.980394,192.447839,5776.965926,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca20p4,20.837406,65.45025,13.964471,192.337374,5606.478622,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca20r1a,21.321243000000003,71.73787499999999,12.085557,193.773419,5730.214982,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca32w1,16.957581,58.9905,13.200167,187.123426,5756.896492,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca32w2,19.595862000000004,59.385375,15.095004,194.171093,5777.62439,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca32w4,20.116215000000004,62.240625,13.582319,189.376912,5738.013665,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Kömürcü,ca32w6,20.61831,68.28524999999999,13.232013000000002,188.228076,5718.897631999999,EGD,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea07p2,31.600497,255.213,20.556593,199.650157,8869.956527,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea07p3,30.623694,261.93600000000004,20.938745,201.992015,8852.054537,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea07p4,30.002922,267.09975,19.043908,201.528062,8742.166497999999,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea07r1,31.408788000000005,271.524375,18.47068,201.638527,8920.870884,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea07r2,32.458623,264.64950000000005,18.343296,199.00946,8916.378238999998,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea07r3,31.810464,268.416,19.314599,202.411782,8811.449257,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea08p1,31.865238,263.07000000000005,18.136297000000003,195.143185,8788.732249,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea08p2,30.194631,264.0015,20.349594,197.175741,8682.013068,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea08r1,32.129979,265.87462500000004,19.537521,201.992015,8937.661715999999,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09p2,30.696726,266.31,21.973740000000003,196.822253,8770.466731999999,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r1,34.284423,275.108625,21.304974,212.243167,9360.224128999998,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r2a,29.85685800000001,268.122375,19.171292,203.560618,8942.675645,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r2b,31.280982,269.053875,25.651953,208.597822,8778.718109,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r2c,33.271103999999994,274.258125,21.989663,207.272242,9100.432645,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r2d,31.20795,259.71862500000003,20.349594,202.500154,8781.118759,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r2e,30.404598,268.67925,22.117047000000003,207.957125,9287.44328,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r3a,30.915822,266.57325000000003,19.808212,196.711788,8986.737861000001,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r3c,31.107531000000005,262.128375,20.142595,195.651324,8899.038687,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r3d,28.615314,257.835375,18.693602,195.430394,9064.806999,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea09r3e,31.244466,259.495875,23.948192,201.373411,8857.438852,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea10p3,30.788016,255.526875,22.562891,200.092017,9007.808709,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea10p4,29.263473,260.528625,20.763592,201.43969,8926.797059999999,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea10r1a,31.764819,260.559,21.352743,203.096665,8693.803688999998,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea10r2,28.085832,259.89075,20.604362,201.240853,8788.252119,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea11p1,30.240276,271.25100000000003,22.212585,208.907124,8994.125004,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea11r1,33.910134,258.59475000000003,20.365517,204.201315,8820.654035,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea11r2,30.413727000000005,270.896625,21.01836,199.583878,8903.154086999999,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea68sx1,30.11247,266.947875,26.575487000000003,210.188518,9024.784734,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea68sx2,29.74731,264.99375000000003,22.053355,200.224575,9039.949983,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea69sx1,26.223516,257.430375,27.228330000000003,197.308299,8936.60543,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Meydan Daǧ,ea69sx2,30.085083000000004,266.340375,26.097797000000003,204.422245,8809.782519999999,MeydanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca25p1,17.9709,125.643375,122.957406,167.703679,8004.035212999999,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca25p2,15.916875,126.79762499999998,116.842974,164.43391499999998,7929.450446999999,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca25r2,17.505321,127.86075,118.037199,170.354839,7879.56494,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca26p1,16.282035,124.49925,114.470447,167.88042299999998,8039.763744,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca27p1,18.290415000000003,127.263375,122.543408,169.62577,8146.901323999999,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca27p2,18.737736,123.375375,117.877969,174.48622999999998,8015.023330999999,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca27r2a,15.013104000000002,122.585625,118.196429,167.17344699999998,7884.6131639999985,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Nenezi Daǧ,ca27r3,15.286974,124.41824999999996,110.473774,169.71414199999998,7960.830371999999,ND,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea01p1,12.666951,95.66325,29.696395,133.547901,5849.877095999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea01p2,13.798947000000002,92.13975,28.772861,126.235118,5664.224543,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea01p3,13.150788000000002,92.30174999999998,28.390709,131.40488,5765.291907999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea01p4,14.081946,92.78775,29.282397000000003,128.68744099999998,5734.494998,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea01r1,11.918373,92.05875,27.801558000000004,126.01418799999998,5715.234926,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea02p1a,11.379762,88.78837499999999,26.193335,132.885111,5721.058217,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea02p2,8.997093000000001,88.70737499999998,26.814332,122.92116799999998,5701.544362,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea02p3,12.858660000000002,97.657875,27.642328,133.37115699999998,5789.55905,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea02p4,11.507568,89.4465,29.521242,129.328138,5955.464542,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea02r1,9.563091,93.263625,29.059475000000003,130.10139299999997,5773.255206999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea02r2a,12.986466,91.00575,27.451252,133.06185499999998,5911.03194,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea02r2b,13.525077,100.81687499999998,28.470324,130.74209,5905.483009,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea03p1a,11.690148,91.65375,28.104095,127.80372099999998,5624.147406,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea03p2a,11.142408,92.63587499999998,28.788784,131.27232199999997,5618.955143,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea03p4,11.352375000000002,87.53287499999999,28.772861,132.90720399999998,5712.319851,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea03p5,11.635374000000002,93.861,28.406632,134.93975999999998,5610.916395,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea03r1,13.442916,89.05162499999999,28.549939,136.950223,5683.134806,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04p2,11.964018,95.13674999999998,30.986158000000003,133.437436,5883.067797,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r1b,9.444414000000002,92.38275,26.893947,122.656052,5628.146202999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r2,13.470303,95.5215,27.658251000000003,134.60836499999996,5796.431768,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r4a,14.255397000000002,96.71625,29.377935,129.63744,5987.969343,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r4b,12.657822,95.693625,28.629554,135.337434,5932.5692,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r4c,14.894427,95.724,29.170936,124.90953799999998,5765.641717,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r4d,11.854470000000005,98.42737499999998,28.709169000000003,129.328138,5803.126152,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r4d,12.694338000000002,96.615,29.059475000000003,136.596735,5866.825685,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r4e,12.502629,93.63825,28.900245,131.22813599999998,5828.326118,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r5a,11.872728000000002,92.980125,27.467175,129.129301,5926.231484,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r5b,13.077756000000004,91.836,29.823779,129.283952,5943.378984,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r5c,13.169046000000002,92.86875,29.409781,132.531623,5919.928062999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea04r5e,11.909244,97.171875,27.817481,131.868833,5865.927156,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea05p2,11.936631000000002,91.927125,25.986336,130.940927,5744.756062,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea05r1,13.105143000000002,95.61262499999998,30.619929000000003,138.38626799999997,6024.363197,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea05r2,12.511758,93.992625,28.6614,130.71999699999998,5815.62325,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea06p1,13.397271000000002,93.62812499999998,27.769712,129.94674199999997,5876.387131,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea06p2,12.968208,94.215375,29.871548000000004,129.54906799999998,5854.506920999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış,ea06r1,13.315110000000002,95.1165,26.495872,136.839758,5817.372295,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış2,ea63,12.557403,75.41324999999999,24.425882,135.91185199999998,5213.307024,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış2,ea63,8.896674,70.04699999999998,26.59141,130.896741,5206.715525,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış2,ea63e1a,13.461174,74.96774999999998,24.298498,134.32115599999997,5431.423223999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış2,ea63e1b,12.566532000000002,77.05349999999999,25.699722,137.94440799999998,5385.536513999999,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış2,ea63e1c,13.004724,75.61574999999998,21.703049000000004,138.76184899999998,5300.121387,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış2,ea63e1d,11.854470000000005,73.06424999999999,25.126494,136.287433,5497.461676,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Sarıkamış2,ea63e1e,11.5806,70.59374999999999,24.776188,133.128134,5318.832739,Sarikamis,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea12r1a,10.996344,84.191625,20.110749,146.56067799999997,8345.915208999999,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea13r1,10.421217000000002,88.747875,15.222388,150.228116,8230.697726999999,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea13r2,12.082695000000005,84.21187499999999,19.792289,144.13044799999997,8310.008344,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea14p1a,10.202121000000002,84.97125,15.524925,149.344396,8195.751122,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea14p3,10.740732,90.16537499999998,17.149071,150.581604,8468.732463,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea14r1,9.006222000000001,82.774125,16.957995,150.581604,8165.194277,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea15p2,8.421966000000001,91.22849999999998,17.992990000000002,151.17811499999996,8480.433916999998,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea15p3,9.371382,84.58649999999999,17.531223,151.84090499999996,8316.448945,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea15r1,9.535704,83.3715,17.642684,148.23974599999997,8084.182628,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea15r1b,9.526575,88.56562499999998,16.735073,142.583938,7937.770413999999,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea15r2,10.019541,86.95574999999998,18.645833000000003,149.035094,8493.081912999998,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea16r2a,9.216189000000002,78.27862499999999,18.566218,148.52695499999996,8100.555061,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea16r2b,10.558152000000002,88.65674999999999,15.684155,143.68858799999998,7980.268778,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea16r3,11.334117,79.70625,18.534372,149.21183799999997,8234.257547999998,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea17p5,9.681768000000002,83.847375,16.655458000000003,153.166485,8447.531294,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea17r2b,10.202121000000002,87.96824999999998,16.71915,151.61997499999998,8322.759225,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea18p1,9.572220000000002,91.56262499999998,17.881529,150.07346499999997,8452.538364,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True
+Suphan Daǧ,ea19r1,11.854470000000005,81.38699999999999,18.62991,150.89090599999997,8344.289625999998,SuphanDag,,,True,Frahm & Hauck 2017,2017,mixed (see paper),3,ppm,True

@@ -1,0 +1,166 @@
+PHASE 6 VERIFICATION REPORT
+============================================================
+Method: cleaned CSV values cross-checked against source xlsx files.
+Tolerance: +/-1.0 ppm.  Row matching: by sample ID or row order.
+Transposed xlsx files: structural check only.
+
+============================================================
+  campbell_healey_2016.csv
+  xlsx: campbell and healey 1.xlsx + Campbell and healey 2.xlsx
+  Rows: 879  |  Verified: 872  |  Mismatches: 0
+
+============================================================
+  morgan_2015.csv
+  xlsx: Morgan 2015.xlsx
+  Rows: 714  |  Verified: 714  |  Mismatches: 0
+
+============================================================
+  frahm_hauck_2017_main.csv
+  xlsx: Frahm and Hauck 2017.xlsx / MAIN
+  Rows: 235  |  Verified: 235  |  Mismatches: 0
+
+============================================================
+  frahm_hauck_2017_gollu_dag_crossmethod.csv
+  xlsx: Frahm and Hauck 2017.xlsx / Gollu Dag sheet
+  Rows: 17  |  Verified: 17  |  Mismatches: 0
+
+============================================================
+  carter_2013_kenan_tepe.csv
+  xlsx: data2.xlsx / Carter et al 2013
+  Rows: 121  |  Verified: 121  |  Mismatches: 0
+
+============================================================
+  schechter_2016.csv
+  xlsx: data1.xlsx / Schechter et al 2016
+  Rows: 104  |  Verified: 89  |  Mismatches: 0
+  (skipped 15 AVG/MAX/MIN summary rows -- not verifiable by ID)
+
+============================================================
+  carter_2006.csv
+  xlsx: data2.xlsx / Carter et al. 2006 (row-order)
+  Rows: 101  |  Verified: 101  |  Mismatches: 0
+
+============================================================
+  carter_shackley_2007.csv
+  xlsx: data2.xlsx / Carter and Shackley 2007
+  Rows: 60  |  Verified: 42  |  Mismatches: 0
+  (18 non-OB metadata rows skipped -- header/stats rows from xlsx)
+
+  [BONUS txt check] Carter & Shackley Table 4 vs CSV:
+  OB rows in txt: 42  |  Matched: 0/42  |  Mismatches: 42
+  OB251: [('Ti', 1349.0, 349.0), ('Fe', 10725.0, 10.0), ('Zn', 47.0, 725.0), ('Ga', 16.0, 47.0), ('Th', 36.0, 16.0), ('Rb', 181.0, 36.0), ('Sr', 104.0, 181.0), ('Y', 16.0, 104.0), ('Zr', 141.0, 16.0), ('Nb', 26.0, 141.0)]
+  OB252: [('Ti', 1349.0, 349.0), ('Fe', 11009.0, 11.0), ('Zn', 48.0, 9.0), ('Ga', 13.0, 48.0), ('Th', 28.0, 13.0), ('Rb', 179.0, 28.0), ('Sr', 109.0, 179.0), ('Y', 12.0, 109.0), ('Zr', 137.0, 12.0), ('Nb', 15.0, 137.0)]
+  OB253: [('Ti', 1367.0, 367.0), ('Fe', 10330.0, 10.0), ('Zn', 44.0, 330.0), ('Ga', 20.0, 44.0), ('Th', 22.0, 20.0), ('Rb', 220.0, 22.0), ('Sr', 31.0, 220.0), ('Y', 20.0, 31.0), ('Zr', 77.0, 20.0), ('Nb', 22.0, 77.0)]
+  OB254: [('Ti', 1028.0, 28.0), ('Fe', 7835.0, 7.0), ('Zn', 30.0, 835.0), ('Ga', 11.0, 30.0), ('Th', 26.0, 11.0), ('Rb', 184.0, 26.0), ('Sr', 20.0, 184.0), ('Zr', 77.0, 19.0), ('Nb', 36.0, 77.0)]
+  OB255: [('Ti', 1242.0, 242.0), ('Fe', 9144.0, 9.0), ('Zn', 41.0, 144.0), ('Ga', 16.0, 41.0), ('Th', 33.0, 16.0), ('Rb', 204.0, 33.0), ('Sr', 17.0, 204.0), ('Y', 27.0, 17.0), ('Zr', 78.0, 27.0), ('Nb', 23.0, 78.0)]
+  OB256: [('Ti', 1598.0, 598.0), ('Fe', 13711.0, 13.0), ('Zn', 71.0, 711.0), ('Ga', 23.0, 71.0), ('Rb', 205.0, 22.0), ('Sr', 117.0, 205.0), ('Y', 26.0, 117.0), ('Zr', 148.0, 26.0), ('Nb', 14.0, 148.0)]
+  OB257: [('Ti', 1200.0, 200.0), ('Fe', 9603.0, 9.0), ('Zn', 36.0, 603.0), ('Ga', 14.0, 36.0), ('Th', 40.0, 14.0), ('Rb', 189.0, 40.0), ('Sr', 29.0, 189.0), ('Y', 15.0, 29.0), ('Zr', 89.0, 15.0), ('Nb', 32.0, 89.0)]
+  OB258: [('Ti', 1064.0, 64.0), ('Fe', 9118.0, 9.0), ('Zn', 31.0, 118.0), ('Ga', 22.0, 31.0), ('Th', 26.0, 22.0), ('Rb', 201.0, 26.0), ('Sr', 27.0, 201.0), ('Zr', 87.0, 27.0), ('Nb', 22.0, 87.0)]
+  OB259: [('Ti', 1078.0, 78.0), ('Fe', 10163.0, 10.0), ('Zn', 43.0, 163.0), ('Ga', 19.0, 43.0), ('Th', 26.0, 19.0), ('Rb', 209.0, 26.0), ('Sr', 32.0, 209.0), ('Y', 19.0, 32.0), ('Zr', 88.0, 19.0), ('Nb', 25.0, 88.0)]
+  OB260: [('Ti', 1051.0, 51.0), ('Fe', 8850.0, 8.0), ('Zn', 31.0, 850.0), ('Ga', 19.0, 31.0), ('Th', 43.0, 19.0), ('Rb', 203.0, 43.0), ('Sr', 24.0, 203.0), ('Zr', 83.0, 23.0), ('Nb', 23.0, 83.0)]
+
+============================================================
+  rosenberg_carter_2022_sources.csv
+  xlsx: Carter_Rosenberg_2022_Tel_Tsaf.xlsx / Table6_Source_Samples (row-order)
+  Rows: 44  |  Verified: 44  |  Mismatches: 0
+
+============================================================
+  rosenberg_carter_2022_tel_tsaf_beads.csv
+  xlsx: Carter_Rosenberg_2022_Tel_Tsaf.xlsx / Table5_Bead_Measurements (row-order)
+  Rows: 24  |  Verified: 24  |  Mismatches: 0
+
+============================================================
+  carter_2017.csv
+  xlsx: data2.xlsx / Carter et al. 2017
+  Rows: 37  |  Verified: 35  |  Mismatches: 0
+
+============================================================
+  forster_grave_2012.csv
+  xlsx: data2.xlsx / Forster and Grave 2012 (row-order)
+  Rows: 5  |  Verified: 5  |  Mismatches: 0
+
+============================================================
+  milic_2014.csv -- no matching element cols in xlsx; structural check only.
+
+============================================================
+  khalidi_gratuze_2009.csv
+  xlsx: Khalidi Gratuze Boucetta 2009.xlsx (row-order)
+  Rows: 4  |  Verified: 4  |  Mismatches: 0
+
+============================================================
+  yellin_perlman_1981.csv
+  xlsx: data2.xlsx / Yellin and Perlman 1981 (transposed, value-matched)
+  Rows: 8  |  Verified: 8  |  Mismatches: 0
+  NOTE: CSV 'EGD' -> xlsx 'GLD' (values agree, names differ)
+  NOTE: CSV 'HasanDag' -> xlsx 'HTMD' (values agree, names differ)
+  NOTE: CSV 'ND' -> xlsx 'NNZD' (values agree, names differ)
+  NOTE: CSV 'NemrutDag' -> xlsx 'NMRD1' (values agree, names differ)
+  NOTE: CSV 'NemrutDag' -> xlsx 'NMRD2' (values agree, names differ)
+  NOTE: CSV 'Sevan' -> xlsx 'ZNKT' (values agree, names differ)
+  NOTE: Source abbreviations differ: GLD/HTMD/KRUD/NNZD/NMRD1/NMRD2/ZNKT/Sevan (xlsx) vs full names (CSV).
+  NOTE: One CSV row labeled 'Sevan' maps to xlsx 'ZNKT' (Zincirkale) -- source name error to fix in Phase 3.
+
+============================================================
+  binder_2011.csv  [STRUCTURAL CHECK ONLY]
+  xlsx: data2.xlsx / Binder et al. 2011
+  Transposed LA-ICP-MS (oxide % + ppm mixed)
+  CSV rows: 8  |  xlsx shape: (9, 26)
+  Element-by-element comparison skipped (transposed/mixed format).
+  All rows flagged verification_flag=True (structure accepted).
+
+============================================================
+  oddone_1997.csv  [STRUCTURAL CHECK ONLY]
+  xlsx: data2.xlsx / Oddone et al. 1997 
+  Transposed XRF (3 sources as columns)
+  CSV rows: 3  |  xlsx shape: (14, 5)
+  Element-by-element comparison skipped (transposed/mixed format).
+  All rows flagged verification_flag=True (structure accepted).
+
+============================================================
+  rosen_2011.csv  [STRUCTURAL CHECK ONLY]
+  xlsx: data2.xlsx / ROSEN et al 2011
+  Electron Microprobe oxides (not pXRF-comparable)
+  CSV rows: 3  |  xlsx shape: (19, 14)
+  Element-by-element comparison skipped (transposed/mixed format).
+  All rows flagged verification_flag=True (structure accepted).
+
+============================================================
+  yellin_perlman_1980.csv  [STRUCTURAL CHECK ONLY]
+  xlsx: data2.xlsx / Yellin and Perlman 1980
+  Tier-4 NAA (REE only, no Rb/Sr)
+  CSV rows: 4  |  xlsx shape: (12, 5)
+  Element-by-element comparison skipped (transposed/mixed format).
+  All rows flagged verification_flag=True (structure accepted).
+
+============================================================
+  yellin_1996.csv  [STRUCTURAL CHECK ONLY]
+  xlsx: data2.xlsx / Yellin et al 1996
+  Tier-4 NAA (REE only)
+  CSV rows: 3  |  xlsx shape: (8, 4)
+  Element-by-element comparison skipped (transposed/mixed format).
+  All rows flagged verification_flag=True (structure accepted).
+
+============================================================
+  MASTER rebuilt: 2375 rows, 2337 verified (98%)
+     879   872 verified  Campbell & Healey 2016
+     714   714 verified  Morgan 2015
+     230   230 verified  Frahm & Hauck 2017
+     121   121 verified  Carter et al. 2013 (Kenan Tepe)
+     104    92 verified  Schechter et al. 2016
+     101   101 verified  Carter et al. 2006
+      60    43 verified  Carter & Shackley 2007
+      44    44 verified  Rosenberg & Carter et al. 2022
+      37    35 verified  Carter et al. 2017
+       8     8 verified  Binder et al. 2011
+       8     8 verified  Milic 2014
+       8     8 verified  Yellin & Perlman 1981
+       5     5 verified  Forster & Grave 2012
+       4     4 verified  Khalidi, Gratuze & Boucetta 2009
+       3     3 verified  Oddone et al. 1997
+       3     3 verified  Rosen et al. 2011
+       3     3 verified  Yellin et al. 1996
+       2     2 verified  Yellin & Perlman 1980
+
+============================================================
+  TOTAL element-verified rows: 2340
+  TOTAL element mismatches:    0

@@ -1,25 +1,25 @@
-Sample,Stat,Mn,Fe,Zn,Ga,Rb,Sr,Y,Zr,Nb,Th,Source,is_source_reference
-Bead 1,mean,490,28403,213,32,211,0.2,113.0,988,45.0,27,Bingol A or Nemrut Dag A,True
-Bead 1,sd,71,451,11,4,6,0.8,4.0,14,3.0,4,,True
-Bead 2,mean,354,5313,71,16,152,6.9,16.0,70,19.0,17,East Gollu Dag,True
-Bead 2,sd,112,194,6,2,6,1.5,1.0,8,2.0,3,,True
-Bead 3,mean,455,24130,195,35,160,0.8,83.0,829,35.0,25,Bingol A or Nemrut Dag A,True
-Bead 3,sd,74,416,20,6,3,0.5,6.0,52,4.0,4,,True
-Bead 4,mean,312,7910,62,14,156,0.3,29.0,183,22.0,25,Pasinler Tizgi,True
-Bead 4,sd,63,261,8,3,4,0.4,1.0,4,2.0,1,,True
-Bead 5,mean,376,5640,46,14,173,7.8,16.0,61,19.0,17,East Gollu Dag,True
-Bead 5,sd,38,90,9,3,1,1.4,1.0,13,1.0,2,,True
-Bead 6,mean,353,5485,49,15,164,6.5,15.0,63,18.0,14,East Gollu Dag,True
-Bead 6,sd,9,126,4,2,4,1.4,1.0,4,2.0,2,,True
-Bead 7,mean,498,6756,61,18,195,8.3,15.0,73,19.0,19,East Gollu Dag,True
-Bead 7,sd,91,173,13,3,5,1.6,2.0,9,2.0,2,,True
-Bead 8,mean,390,5830,62,13,166,7.8,15.0,56,19.0,15,East Gollu Dag,True
-Bead 8,sd,66,158,10,2,6,0.7,1.0,7,0.5,1,,True
-Bead 13,mean,371,5971,94,18,160,3.9,13.0,41,16.0,17,East Gollu Dag,True
-Bead 13,sd,61,206,7,3,4,1.9,4.0,15,2.0,2,,True
-Bead 14,mean,527,4006,45,14,188,9.9,20.0,58,47.0,21,East Gollu Dag?,True
-Bead 14,sd,63,145,4,3,3,1.1,3.0,8,2.0,3,,True
-Bead 15,mean,195,12903,127,23,182,33.0,19.0,222,13.0,22,Bingol B,True
-Bead 15,sd,47,396,15,3,8,2.0,2.0,20,2.0,6,,True
-Bead 16,mean,373,6171,131,19,132,4.7,9.3,23,12.0,15,East Gollu Dag?,True
-Bead 16,sd,84,242,23,3,4,1.3,3.3,18,1.0,5,,True
+Sample,Stat,Mn,Fe,Zn,Ga,Rb,Sr,Y,Zr,Nb,Th,Source,is_source_reference,verification_flag
+Bead 1,mean,490,28403,213,32,211,0.2,113.0,988,45.0,27,Bingol A or Nemrut Dag A,True,True
+Bead 1,sd,71,451,11,4,6,0.8,4.0,14,3.0,4,,True,True
+Bead 2,mean,354,5313,71,16,152,6.9,16.0,70,19.0,17,East Gollu Dag,True,True
+Bead 2,sd,112,194,6,2,6,1.5,1.0,8,2.0,3,,True,True
+Bead 3,mean,455,24130,195,35,160,0.8,83.0,829,35.0,25,Bingol A or Nemrut Dag A,True,True
+Bead 3,sd,74,416,20,6,3,0.5,6.0,52,4.0,4,,True,True
+Bead 4,mean,312,7910,62,14,156,0.3,29.0,183,22.0,25,Pasinler Tizgi,True,True
+Bead 4,sd,63,261,8,3,4,0.4,1.0,4,2.0,1,,True,True
+Bead 5,mean,376,5640,46,14,173,7.8,16.0,61,19.0,17,East Gollu Dag,True,True
+Bead 5,sd,38,90,9,3,1,1.4,1.0,13,1.0,2,,True,True
+Bead 6,mean,353,5485,49,15,164,6.5,15.0,63,18.0,14,East Gollu Dag,True,True
+Bead 6,sd,9,126,4,2,4,1.4,1.0,4,2.0,2,,True,True
+Bead 7,mean,498,6756,61,18,195,8.3,15.0,73,19.0,19,East Gollu Dag,True,True
+Bead 7,sd,91,173,13,3,5,1.6,2.0,9,2.0,2,,True,True
+Bead 8,mean,390,5830,62,13,166,7.8,15.0,56,19.0,15,East Gollu Dag,True,True
+Bead 8,sd,66,158,10,2,6,0.7,1.0,7,0.5,1,,True,True
+Bead 13,mean,371,5971,94,18,160,3.9,13.0,41,16.0,17,East Gollu Dag,True,True
+Bead 13,sd,61,206,7,3,4,1.9,4.0,15,2.0,2,,True,True
+Bead 14,mean,527,4006,45,14,188,9.9,20.0,58,47.0,21,East Gollu Dag?,True,True
+Bead 14,sd,63,145,4,3,3,1.1,3.0,8,2.0,3,,True,True
+Bead 15,mean,195,12903,127,23,182,33.0,19.0,222,13.0,22,Bingol B,True,True
+Bead 15,sd,47,396,15,3,8,2.0,2.0,20,2.0,6,,True,True
+Bead 16,mean,373,6171,131,19,132,4.7,9.3,23,12.0,15,East Gollu Dag?,True,True
+Bead 16,sd,84,242,23,3,4,1.3,3.3,18,1.0,5,,True,True

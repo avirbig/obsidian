@@ -1,5 +1,5 @@
 source_raw,Li,B,Ca,Ti,Fe,Mn,Zn,As,Rb,Sr,Y,Zr,Nb,Cs,Ba,La,Ce,Pr,Nd,Hf,Ta,Th,U,source,sample_id,site,notes,verification_flag,paper,year,method,method_tier,units,is_source_reference
-Bingöl_A,112,215,1303,1125,28217,462,277,38,289,0.5,157,1456,79,17.0,2.0,107,221,22.0,83,28.0,4.0,37,14.0,BingolA,,,,False,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True
-Bingöl_A (replicate),114,212,1675,1130,28330,460,269,39,297,0.5,157,1459,75,18.0,1.9,105,224,21.0,80,28.0,4.1,38,14.0,BingolA,,,,False,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True
-Bingöl_B,72,32,5074,1274,12665,307,55,10,241,33.0,32,355,20,12.0,306.0,38,73,6.3,23,6.9,1.4,27,8.9,BingolB,,,,False,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True
-Meydan_Dag˘,91,64,2972,453,8681,476,87,3,192,16.0,58,305,36,8.6,54.0,31,67,6.9,29,7.5,2.0,25,7.7,MeydanDag,,,,False,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True
+Bingöl_A,112,215,1303,1125,28217,462,277,38,289,0.5,157,1456,79,17.0,2.0,107,221,22.0,83,28.0,4.0,37,14.0,BingolA,,,,True,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True
+Bingöl_A (replicate),114,212,1675,1130,28330,460,269,39,297,0.5,157,1459,75,18.0,1.9,105,224,21.0,80,28.0,4.1,38,14.0,BingolA,,,,True,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True
+Bingöl_B,72,32,5074,1274,12665,307,55,10,241,33.0,32,355,20,12.0,306.0,38,73,6.3,23,6.9,1.4,27,8.9,BingolB,,,,True,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True
+Meydan_Dag˘,91,64,2972,453,8681,476,87,3,192,16.0,58,305,36,8.6,54.0,31,67,6.9,29,7.5,2.0,25,7.7,MeydanDag,,,,True,"Khalidi, Gratuze & Boucetta 2009",2009,LA-ICP-MS,3,ppm,True

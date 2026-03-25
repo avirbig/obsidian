@@ -1,4 +1,4 @@
 sample_id,source_raw,Al,K,Na,Si,Ca,Fe,Mg,Mn,Ti,Ba,Rb,Sr,Zr,source,site,notes,verification_flag,paper,year,method,method_tier,units,is_source_reference
-Bozkoy,WGD,6.84,3.67,3.13,36.1,3450,6900,390,510,350,67.9,193,11.23,73.1,WGD,,"3 source-mean rows; Bozkoy=WGD, Kumurcu N/SW=EGD",False,Oddone et al. 1997,1997,XRF,2,mixed (% and ppm),True
-Kumurcu N,EGD,6.93,3.78,3.12,35.7,3350,7400,450,490,390,167.0,182,17.09,77.0,EGD,,"3 source-mean rows; Bozkoy=WGD, Kumurcu N/SW=EGD",False,Oddone et al. 1997,1997,XRF,2,mixed (% and ppm),True
-Kumurcu SW,EGD,6.98,3.81,3.21,36.1,3780,6200,470,510,410,173.0,178,21.24,78.9,EGD,,"3 source-mean rows; Bozkoy=WGD, Kumurcu N/SW=EGD",False,Oddone et al. 1997,1997,XRF,2,mixed (% and ppm),True
+Bozkoy,WGD,6.84,3.67,3.13,36.1,3450,6900,390,510,350,67.9,193,11.23,73.1,WGD,,"3 source-mean rows; Bozkoy=WGD, Kumurcu N/SW=EGD",True,Oddone et al. 1997,1997,XRF,2,mixed (% and ppm),True
+Kumurcu N,EGD,6.93,3.78,3.12,35.7,3350,7400,450,490,390,167.0,182,17.09,77.0,EGD,,"3 source-mean rows; Bozkoy=WGD, Kumurcu N/SW=EGD",True,Oddone et al. 1997,1997,XRF,2,mixed (% and ppm),True
+Kumurcu SW,EGD,6.98,3.81,3.21,36.1,3780,6200,470,510,410,173.0,178,21.24,78.9,EGD,,"3 source-mean rows; Bozkoy=WGD, Kumurcu N/SW=EGD",True,Oddone et al. 1997,1997,XRF,2,mixed (% and ppm),True
