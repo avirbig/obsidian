@@ -19,6 +19,28 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 ---
 
+## 2025-07-15
+
+[2025-07-15] | USER_PROMPT | — | "continuing from previous session — run remaining extraction notebook cells, fix unmapped source labels, extract all data2.xlsx papers"
+
+[2025-07-15] | DATA_ADD | reference_database/extracted_raw/ | Phase 1 extraction complete. 21 CSVs saved, 2467 rows total. New CSVs added this session vs prior summary: carter_2006.csv (101 rows, ICP-MS, EGD=55 ND=45 AciGolWest=1), oddone_1997.csv (3 rows, XRF, WGD+EGD), forster_grave_2012.csv (5 rows, EDXRF, ND+EGD+HotamisDag+AciGol), rosen_2011.csv (3 mean rows, Electron Microprobe, BingolA), binder_2011.csv (8 rows, LA-ICP-MS, all EGD sub-outcrops Göllüdag1-7/4a/4b), rosenberg_carter_2022_sources.csv (44 rows, EDXRF, EGD/BingolA/B/Mus/Pasinler/Sarikamis/SuphanDag), rosenberg_carter_2022_tel_tsaf_beads.csv (24 rows, bead data), frahm_hauck_2017_main.csv (252 rows, pXRF/EDXRF/NAA/WDXRF mixed methods), frahm_hauck_2017_gollu_dag_crossmethod.csv (17 rows, cross-method reference), khalidi_gratuze_2009.csv (4 source-mean rows, LA-ICP-MS) | Phase 1 execution; data2.xlsx remaining sheets extracted
+
+[2025-07-15] | DATA_EDIT | reference_database/extracted_raw/carter_2013_kenan_tepe.csv | Source labels corrected: 'Bingöl' → 'Bingol' (generic; article does not split A/B), 'Nemrut' → 'NemrutDag', 'Mus¸' (garbled encoding) → 'Mus'. 121 rows: Bingol=104, NemrutDag=15, Mus=1 | SOURCE_MAP update + re-run of extraction cell; unicode artifact 'mus¸' → ş resolved
+
+[2025-07-15] | DATA_ADD | reference_database/extracted_raw/yellin_perlman_1980.csv; yellin_1996.csv; yellin_perlman_1981.csv | Yellin NAA papers extracted from data2.xlsx (Tier 4). 4+3+4 rows of source-mean values. | Previously logged but now confirmed in final summary
+
+[2025-07-15] | BUG_FIX | analysis/notebooks/01_data_extraction.ipynb — normalise_source() | Added unicodedata.normalize('NFC', ...) to normalise_source() before dict lookup. Fix resolves NFD-encoded characters from Excel files (e.g. Kömürcü stored as 'o'+combining-diaeresis instead of precomposed ö). Source map now correctly maps Kömürcü→EGD, Nenezi Daǧ→ND, Göllü Daǧ variants→GolluDag, Sarıkamış→Sarikamis, Süphan Daǧ→SuphanDag | reproduced by checking hex codepoints; unicodedata.normalize applied
+
+[2025-07-15] | DATA_EDIT | analysis/notebooks/01_data_extraction.ipynb — SOURCE_MAP | Expanded source map from 81 to 122 entries. New entries added: east golu dag/golu dag variants (single-l spelling), bingôl a (caret artifact), acıgöl2/3 (Frahm & Hauck sub-outcrops), nenezi daǧ (ǧ variant), sarıkamış/2 → Sarikamis, suphan dag/daǧ → SuphanDag, kömürcü → EGD, hotamış/acıgöl/hasan daǧ variants → HotamisDag/AciGol/HasanDag. | Source label variants discovered during cell-by-cell extraction
+
+[2025-07-15] | NOTE | reference_database/extracted_raw/frahm_2013.csv | IMPORTANT: This file contains pXRF measurements of Tell Mozan archaeological artefacts (obsidian debitage), NOT geological source reference samples. Do NOT use for building source reference ellipses. Source = EGD for all 65 rows (from provenance assignment in article). | Confirmed by reading article abstract; Frahm 2013 is a pXRF validity study, not a source reference paper
+
+[2025-07-15] | NOTE | reference_database/extracted_raw/carter_2013_kenan_tepe.csv | 'Bingol' label (104 rows) is generically attributed to Bingöl volcanic complex without splitting into A/B. Cannot split from this dataset alone. Flagged for Phase 2 review — may need to map to BingolA or BingolB using chemistry in Phase 2 (Rb/Sr discriminant). | Campbell & Healey 2016 article shows BingolA/B are distinguishable by Rb/Sr
+
+[2025-07-15] | NOTE | reference_database/extracted_raw/rosen_2011.csv; carter_2006.csv; binder_2011.csv; forster_grave_2012.csv | These CSVs contain oxide wt% columns (Al2O3, Fe2O3, K2O, etc.) not converted to elemental ppm. In Phase 2 data cleaning, decide whether to convert (e.g. Fe2O3 → Fe) or keep as oxides with appropriate column naming. | Data formats noted during extraction
+
+[2025-07-15] | STRUCTURE | analysis/notebooks/01_data_extraction.ipynb | Added new cells for remaining data2.xlsx papers: 4B-i Oddone 1997, 4B-ii Forster & Grave 2012, 4B-iii Rosen 2011, 4B-iv Carter 2006, 4B-v Binder 2011. Skipped: Gratuze 1999 (empty sheet), Acquafredda 2018 (Italian/Sardinian — irrelevant for Levantine analysis), Multiple sheet (compilation of data already in source papers — would cause duplicates). | data2.xlsx sheet inspection
+
 ## 2026-03-25
 
 [2026-03-25] | STRUCTURE | analysis/notebooks/01_data_extraction.ipynb | Created Phase 1 extraction notebook. Covers Tier 1 papers (Schechter 2016, Frahm 2013, Milic 2014, Campbell & Healey 2016, Morgan 2015), Tier 2 (Carter & Shackley 2007, Carter 2017, Carter 2013 Kenan Tepe, Rosenberg & Carter 2022), Tier 3 (Khalidi 2009, Frahm & Hauck 2017), Tier 4 (Yellin & Perlman 1980/1981, Yellin 1996). Outputs to reference_database/extracted_raw/. | Phase 1 execution per PLAN.md
