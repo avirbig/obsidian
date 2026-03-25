@@ -1,0 +1,466 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/264002663
+The Emergence of Pressure Blade Making
+Chapter · January 2013
+DOI: 10.1007/978-1-4614-2003-3_6
+CITATIONS
+4
+READS
+255
+1 author:
+Some of the authors of this publication are also working on these related projects:
+It's an article View project
+Jacques Chabot
+Laval University
+20 PUBLICATIONS 143 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Jacques Chabot on 17 July 2014.
+The user has requested enhancement of the downloaded file. All in-text references underlined in blue are added to the original document
+and are linked to publications on ResearchGate, letting you access and read them immediately.181P. Desrosiers (ed.), The Emergence of Pressure Blade Making: From Origin
+to Modern Experimentation, DOI 10.1007/978-1-4614-2003-3_6,
+© Springer Science+Business Media, LLC 2012
+6.1 Introduction
+Techniques of blade production by pressure, especially with the aid of levers, are
+subjects of great potential in archaeology since they represent a highly effective and
+refi ned means of producing blades. These techniques are, however, optional (as one
+could do without them and they are therefore not ubiquitous) in contrast with direct
+percussion techniques which are simpler to perform and very widely practised.
+Blade production through application of pressure implies a specific knowledge
+regarding the use of special tools and knapping methods and a high degree of knowhow, especially in the preparatory shaping of cores. As an elaborate evolution of
+tool-making techniques, pressure-related blade production can be usefully regarded
+as a marker of particular cultural traditions and of the diffusion of technical innovation (Inizan 1991) .
+Accordingly, it is important to identify these techniques in each archaeological
+tradition or period where they were practised and to determine if they were locally
+invented, acquired by imitation or transferred by craftsmen. In doing so, archaeologists studying blade technology can contribute to the building of a phylogeny or
+cultural genealogy of the specialized tool-making techniques, a project which is
+still at its beginning. Although this goal is beyond the scope of the present study,
+these particular production techniques permit archaeologists to demonstrate the
+J. Chabot (*)
+CELAT (Laboratoires d’archéologie), Université Laval ,
+1030 av. des Sciences humaines , Québec G1V 0A6 , Canada
+e-mail: jacques.chabot@hst.ulaval.ca
+J. Pelegrin
+Laboratoire “Préhistoire et Technologie” , CNRS et Université Paris
+Ouest Nanterre, MAE , Nanterre , France
+e-mail: jacques.pelegrin@mae.u-paris10.fr
+Chapter 6
+Two Examples of Pressure Blade
+Production with a Lever: Recent Research
+from the Southern Caucasus (Armenia)
+and Northern Mesopotamia (Syria, Iraq)
+Jacques Chabot and Jacques Pelegrin182 J. Chabot and J. Pelegrin
+presence of specialized craftsmen (Pelegrin 1988) and craft specialization, essential
+for socio-economic studies in prehistory.
+In this chapter, we detail the results of two recent studies from the Near East and
+the Southern Caucasus that identifi ed the production of blades by a pressure technique with the help of a lever.
+The first part of our chapter concerns the Southern Caucasus during the sixth
+millennium B.C., a time where we view the origins of a Neolithic economy, socioeconomic practices that probably came from Northern Mesopotamia. This is an
+obsidian-rich region, but one that is poorly known archaeologically, and our identification of a pressure technique with a lever represents new information alongside
+the recognition of contemporaneous use of indirect percussion and an ordinary
+standing pressure technique.
+The second part of our chapter deals with so-called Canaanean flint blades from
+Northern Mesopotamia at the turn of the fourth to third millennium B.C. These distinctive, large blades are long known, but as they are known to have been produced in
+different types of flint, and throughout various regions, for about one and a half millennia, it cannot be assumed that they were all made using the same techniques. From
+the study presented here, two variants of a pressure technique with a lever and a copper point are identified, together with other blades detached by indirect percussion.
+6.2 Obsidian Blades from the Late Neolithic Southern
+Caucasus (5900–5300 cal. B.C.)
+From 1999 to 2004, different archaeological investigations were conducted on and
+around the site of Aratashen in the Ararat plain by an international team under the
+direction of Christine Chataigner from the ‘Maison de l’Orient Méditerranéen’
+(Mission Caucase/Université de Lyon 2), including French, Armenian and Canadian
+specialists.
+The site of Aratashen lies 25 km from Yerevan, the capital of Armenia, and 5 km
+southwest of Vagharshapat (Echmiadzin). It is situated near a bend of the Kasakh
+river a few kilometres ahead of its confluence with the Araxe river (Fig. 6.1 ). The
+site’s stratigraphy includes two Neolithic layers (between 5900 and 5300 B.C.) and
+one Chalcolithic layer (4800–4500 B.C.), which are typical of the cultural phases of
+the Ararat plain region (Fig. 6.2 ). The site was excavated by R. Badalyan (University
+of Erevan) and P. Lombard (Université de Lyon 2), with J. Chabot being in charge
+of the lithic material.
+The study of the lithic material, including more than 20,000 obsidian artefacts,
+demonstrated that agricultural tools made from large blades comprised a significant
+part of the assemblage in keeping with what one views in other regions of the Near
+East. From 2005, new excavations were initiated on the neighbouring site of
+Aknashen, providing a similar lithic assemblage. Preliminary chemical analysis of
+the obsidian artefacts demonstrated that they were made of raw material from eight
+different regional volcanic sources (Fig. 6.1 ).1836 Two Examples of Pressure Blade Production with a Lever...
+Fig. 6.1 Map of Southern Armenia showing the location of Aratashen and the many sources of
+obsidian exploited at the site
+Fig. 6.2 Location of Aratashen within the regional chrono-cultural scheme184 J. Chabot and J. Pelegrin
+Our aim in the first part of this chapter is to describe and identify the techniques
+used for the production of these obsidian blades, the first such study in an armenian
+context.
+Three techniques have been identified at Aratashen for the débitage of long
+blades: pressure with a crutch (standing position represented by 64 well-preserved
+diagnostic specimens), pressure with a lever (24 clear specimens) and indirect percussion (29 specimens). All the diagnostic blades came from well-preserved
+Neolithic levels. Here we provide a description of each of these techniques as reconstructed from the diagnostic blades (for terminology, see Inizan et al. 1999) .
+6.2.1 Pressure Technique with a Crutch (in a Standing Position)
+Clear evidence of this technique is provided by several almost complete blades, and
+a few cores, left in a good state after the last series of blade detachments (Fig. 6.3 ).
+As Crabtree (1968) and Tixier (1984) stated respectively about obsidian and flint,
+the ‘triad’ of arguments: regularity, (almost) straight profile and thinness (or lightness) all together constitute a strong argument for the identification of a pressure
+technique. With obsidian, a mechanical argument can even be added regarding the
+fragility of this glassy material. It would be impossible to detach such regular, thin
+and almost straight columns of glass by a percussion technique. Only a very regular
+and prolonged time compression can do it. The few blades shown (Fig. 6.3 ) are no
+exception because there are several cores with scars that indicate similar blades had
+been produced repeatedly.
+The core shown in Fig. 6.3 was probably abandoned because it was considered
+to be exhausted. This indicates that the minimal length of the expected blades was
+about 12 cm. Because of its pointed tip, the next series of blades would almost certainly overpass and rapidly shorten the core. Scars from larger removals are preserved on one side of the core, which indicate a shaping of the pre-core with axial
+removals, using direct stone percussion or indirect percussion from a large, flat
+platform opened by a large flake. Another core (Fig. 6.4 ) is even longer, with an
+obtuse base allowing for the detachment of pressure blades up to 17 cm long. This
+long, barrel-shaped core is certainly not exhausted, although it bears some irregularities at the back of the last productive side (see profile Fig. 6.4 ). By its shape, it
+resembles some Mesoamerican obsidian cores (Hirth 2003 ; Hester 1978) and similarly involves the same question: how could such a long pre-core be shaped? Here
+we see a few opposite and oblique scars from the obtuse tip, which could complete
+a possible axial shaping with heavy percussion blades (see infra). The width of these
+pressure blades and of the last blade scars on the cores seems to be about 15–20 mm
+(Fig. 6.4), data that fits quite well with Pelegrin’s mode 4 of pressure blade production (see Pelegrin, Chap. 18, this volume), that is using a long crutch in a standing
+position.
+The platform preparation consists of removing the overhang left by previous
+detachment by scratching with a fine-grained stone so that the remnant platform or1856 Two Examples of Pressure Blade Production with a Lever...
+butt of the blades is rather small, with an edge angle ca. 80°–90°. A small lip is visible at the back of the best preserved butts, and no concentrated impact mark. This
+is indicative of the use of an organic material, presumably antler for the pressure
+point.
+Fig. 6.3 Three slender blades – a possible reason for their discard – and a corresponding conical
+blade core bearing evidence of having been reduced by a sitting or standing pressure technique186 J. Chabot and J. Pelegrin
+Fig. 6.4 A long barrel shape core and three corresponding blade fragments. The width of the blade
+fragments and that of the blade scars on the core indicate a standing pressure technique. But the
+core, considering its diameter, was possibly reduced earlier by lever pressure1876 Two Examples of Pressure Blade Production with a Lever...
+6.2.2 Pressure Technique with a Lever
+Alongside these medium width blades are blades which are significantly wider (well
+over 30 mm) and much longer, yet are also quite regular and thin (Fig. 6.5). They are
+without doubt detached by pressure, but the width of these blades cannot be achieved
+by the standing pressure technique described previously. As Crabtree stated, referring to his great experience with pressure obsidian blade production, the maximum
+size of the obsidian blades he could produce using his standing technique was ‘one
+inch wide and 8 in. long’, that is about 25 mm wide and 20 cm long (Crabtree 1968:
+468, see also Sheets 1978 about archaeological prismatic blades with a maximum
+width of 2.6 cm and thickness of 0.4). Using a different standing technique, Pelegrin
+was able to manufacture blades up to 27 mm wide and 28 cm long from a crested
+core with a plain platform (neither pecked and ground nor sawn), but except for an
+extraordinarily heavy craftsman, it seems difficult to exceed a blade width of 3 cm
+when working with a plain platform and using the standing pressure technique.
+The conclusion is that the wide and regular obsidian blades excavated at
+Aratashen were detached by a technique that involved some reinforced pressure,
+that is with a lever (see Pelegrin, Chap. 18, this volume for experimental reproduction). The nature of the pressure tool tip, however, cannot be ascertained.
+Armenia, which is so rich in obsidian, was a consistent source of large and regular obsidian blades produced as early as the sixth millennium and possibly earlier,
+depending on expected discoveries from new sites under excavation, or via the technical analysis of existing collections. Altinbilek et al. (this volume) report pressure
+blades produced in Anatolia as early as the eighth millennium (probably using
+obsidian from Nemrut Dag and/or Bingöl, that is about 250 km southwest of the
+Armenian sites under discussion).
+From the blades detached by lever pressure, it is possible to define the main
+characteristics of the cores they came from, with a plain fl at or flat-facetted platform
+forming an orthogonal (about 90°) edge angle, which leads us to imagine a core
+shape similar to that prepared for the production of medium length and width pressure blades. It is therefore possible to imagine that some of the cores may have been
+initially shaped and/or reduced by lever pressure until they could be further exploited
+by standing pressure, which could be the case for the core from Fig. 6.4 .
+At the moment, it is difficult to elucidate the specific raw blank type chosen (prismatic/tabular or nodular shape) and the subsequent means by which these large cores
+were pre-shaped. The dimensions of the blade fragments indicate an average shape
+of 10–15 cm for the width of the core at the platform and up to a length of 25 cm or
+possibly even 30 cm. As for the very large 25–30 cm Mesoamerican pressure cores
+from the ‘preclassic’ period initially presented by Hester (1978), two possibilities can
+be evoked. If the raw material consists of regular prismatic fragments, it might be
+possible to correct the pre-core with limited shaping and to start directly on the
+corner(s) with the detachment of very large cortical and semi-cortical blades by lever
+pressure. If not, the whole volume has to be shaped by percussion removals, which is
+certainly not possible with axial flaking only, once a large platform has been opened,
+but has to be done by transversal flaking, that is by the way of several crests.188 J. Chabot and J. Pelegrin
+Fig. 6.5 One near-complete blade and five blade fragments, their regularity and width (32–38 mm)
+indicate a lever pressure technique. On three of the plain orthogonal butts a crack is visible which
+indicates the use of a copper tipped pressure tool1896 Two Examples of Pressure Blade Production with a Lever...
+6.2.3 Indirect Percussion
+Blades of a respectable size, but lacking some of the pressure features, were also
+recovered from the excavations at Aratashen. Two examples are presented here for
+description and diagnosis (Fig. 6.6 ). They are less than regular, with undulating
+scars (dorsal arises) and a wavy ventral side. Their butt is quite thick (clearly thicker
+than pressure blades which usually have a more careful overhang reduction) and
+again fl at and orthogonal that is detached from a large plain platform. We do not
+believe that such blades can be detached in a series considering their previous dorsal
+scars by direct stone percussion, neither by organic nor by soft stone percussion
+(which would deserve an acute platform angle and a more refined edge rounding).
+These two blades in particular, on the left side of Fig. 6.6 , are much more typical of
+indirect percussion. They could originate from a workshop where the pressure technique would not be known or used, which is doubtful, or they could probably be
+some end-selected by-products from the shaping of medium size pressure cores.
+It has indeed been shown, as a technical possibility, that medium size conical cores
+can be shaped by indirect percussion (Pelegrin 2003) ; however, more evidence of
+this ‘punch technique’ would be welcome to prove this hypothesis.
+Fig. 6.6 Two blades probably detached by indirect percussion looking at the mediocre regularity
+of the profi le and dorsal ridges190 J. Chabot and J. Pelegrin
+A lot of information is still missing in order for us to reconstruct a general view
+of the chrono-cultural sequence related to the blade production of the Armenian
+Late Neolithic. We are also hindered by the fact that so little is known of the
+Neolithic in the Southern Caucasus and that we know practically nothing of the
+detachment techniques known from the same period (or earlier) in regions to the
+north and to the east.
+We do at least know that the culture represented in the Araxe basin by the sites
+of Aratashen and Aknashen-Khatunarkh shows very close links with the ShulaveriShomutepe culture, which developed throughout the sixth millennium to the North
+in the Kura basin. Architecture, as well as ceramics, bone and lithic industries, testifi es to the fact that these two cultures share a common root, and it could be amongst
+this common stock that the technique of pressure with a lever developed (Arimura
+et al. 2010 ).
+However, it is currently considered that the introduction of domestication into
+the Southern Caucasus (in particular the culture of the hexaploïd naked wheat,
+which was largely widespread in both the Araxe and Kura basins in the sixth millennium) could in fact have been brought into the region by populations coming from
+Northern Mesopotamia (Zohary and Hopf 2004) . This could constitute an interesting route to explain the transfer to the Caucasus of the lever pressure technology, the
+technique possibly coming from Eastern Anatolia, where it is attested during the
+second half of the eighth millennium and into the seventh millennium as well
+(Altınbilek et al., Chap. 5, this volume).
+The production of similar large blades seems to continue in Armenia into the
+Chalcolithic period during the fifth millennium and the first half of the fourth millennium (Badalyan et al. 2009) . It is noteworthy that the Araxe basin is located only
+250 km from the southeast bank of the Black Sea and the Kura basin is only 100 km
+away. It is then possible that this tradition might be the source of some of the
+Eneolithic technological traditions of North-Eastern Bulgaria, where pressure with
+a lever technique on flat pressure platforms appears as early as 4900 B.C.
+(Manolakakis 1996, 2005) .
+6.3 Canaanean Blades from Early Third Millennium
+Northern Mesopotamia (Northeast Syria, North Iraq,
+Southeast Turkey)
+The so-called Canaanean flint blades were first distinguished on the basis of their
+large size and regularity in the Levant by R. Neuville (1930) and were subsequently
+described by J. Cauvin at Byblos, Lebanon, where they were imported from the
+Early Eneolithic before increasing in size in the Early Bronze Age.
+More recently, similar flint blades have been described in Northern Mesopotamia
+by I. Caneva (1993) , C. Edens (2000) , J. Chabot (2002) , J. Chabot and P. Eid (2003) ,
+Y. Nishiaki (2003) and A. van Gijn (2003) (Fig. 6.7 ).
+These large and regular blades are usually found as 5–7 cm long fragments with
+one or two glossy edges and sometimes bitumen residue from hafting, following1916 Two Examples of Pressure Blade Production with a Lever...
+their use as sickles or threshing sledge elements (Collin 1992 ; Anderson and Inizan
+1994 ; Anderson et al. 2004 ; Chabot 2002) . From here on, we will call such fragments ‘Canaanean elements’.
+There is evidence for the production of such long blades amongst a few southeastern Anatolian settlements of the Upper Euphrates, including Hassek Höyük
+(Behm-Blancke 1992) , Hacinebi (Edens 2000 ; Stein 2000) and Titris Höyük
+(Hartenberger et al. 1999; Matney et al. 1999). Other areas of production are now
+known in Israel and Palestine, albeit with some differences in the butts of these
+blades that probably relate to local traditions of platform preparation (Shimelmitz
+2009) .
+In general, these Canaanean blades have an exceedingly wide geographic distribution, having been recovered from sites throughout Northern Mesopotamia and the
+Levant down to the northern Neguev. Temporally, their production extends from
+about 4000 to 2500 cal. B.C. in the North (from Late Chalcolithic to Uruk and
+Nineveh V – Early Bronze II) and 3600 to 1950 cal. B.C. in the South (from the Early
+Bronze to Middle Bronze I; Rosen 1997), though a recent reference suggests a somewhat earlier appearance before the Early Bronze Age (Bar and Winter 2010).
+6.3.1 Lever Pressure Technique with a Copper Point
+Judging from the different collections that we could examine, a significant number
+of these large Canaanean blades seem to have been detached by pressure, which,
+given their width (usually over 2.5 cm), had to have involved the use of a lever (see
+Pelegrin, Chap. 18, this volume).
+Fig. 6.7 Sites in Northern Mesopotamia where Canaanean blades have been identified192 J. Chabot and J. Pelegrin
+With the proximal fragments of wide and regular blades having a dihedral butt
+that slopes forward (forming an obtuse platform and flaking surface angle), it is
+further possible to argue that the lever pressure tool had a copper point. The use of
+a copper tip can frequently, but not always, result in the production of a discrete
+transversal crack or micro-crushing on the ridge of the butt (see below, and Fig. 6.8b ).
+A decade of experimental work by one of us (J.P.) from 1986 to 1995 (mainly at the
+Lejre Research Centre) has demonstrated that both indirect percussion and lever
+pressure using organic materials fail to detach blades with an obtuse dihedral butt
+because the tool slips forward, whereas copper as a soft, plastic metal offers sufficient ‘grip’ on a grainy enough flint. However, lever pressure with an organic point
+can work well on a dihedral non-obtuse platform, while indirect percussion on such
+a platform preparation provides no advantage (cf. Pelegrin, forthcoming article).
+Unfortunately convex, or fl at-facetted, or plain blade butts that form an average
+orthogonal angle are much less technologically diagnostic; they can relate to both
+indirect percussion and lever pressure, unless they display a distinctive crack on the
+butt (see below).
+Fortunately, the recent excavations by M. Fortin at Tell ‘Atij and Tell Gudeda
+(North Syria, Early Bronze Age/Nineveh V) have generated several hundred
+Canaanean elements, including long and/or well-preserved proximal fragments,
+many of them with the aforementioned crack in their butts (Fig. 6.8 ). The recurrent
+combination of regular form and almost straight profile, plus a wide but not so thick
+section (the critical associations for the recognition of pressure blades [cf. Tixier
+1984] ), together with dihedral butts (some obtuse [Fig. 6.8 ]), demonstrates that
+many of the Canaanean elements from Tell ‘Atij and Tell Gudeda were detached by
+lever pressure using a copper point which was used for the detachment of many of
+the Canaanean elements from Tell ‘Atij and Tell Gudeda (Chabot 2002 ; Pelegrin
+2006) . Incidentally, further evidence for the use of a copper-tipped punch could be
+observed on some crested blades bearing very small and clear circular cracks, obviously produced by a very pointed tool that is necessarily metallic.
+Another technologically indicative feature on one of the Tell Gudeda blade fragments is a specific form of edge damage (called ‘counterflaking’ by Healan and
+Kerley 1984 [also ‘spontaneous retouch’ by Mark Newcomer]) that results from the
+edge of the blade being detached by coming into contact with a hard or firm material, likely the device that had been used to immobilize the core (Pelegrin 2006 :
+52–53). This data provides additional evidence for the use of a pressure technique
+(specifi cally a lever, given the blade width), as the immobilization of the core for
+blade detachment is something that one does not associate with percussion techniques. Finally, our experiments have proven that lever pressure can produce some
+ripples on the bulb, or shortly thereafter (due to micro-movements of the core in its
+immobilizing device during compression and early detachment). Such ripple marks
+are visible on some of the archaeological blades or on some of their previous blade
+scars on the upper side.
+It is worth noting that a substantial fraction of similar ‘Canaanean’ elements from
+Tell ‘Atij and Tell Gudeda are fragments of blades that had been detached by indirect
+percussion (or ‘punch’ technique). This is clearly the case with some of the proximal1936 Two Examples of Pressure Blade Production with a Lever...
+Fig. 6.8 Seven proximal
+Canaanean elements from
+Tell ‘Atij, with dihedral butt
+and frequent ripple marks
+under the bulb194 J. Chabot and J. Pelegrin
+fragments that show a plain orthogonal thick butt without a crack, indicating the use
+of an antler punch (Fig. 6.9), and it is also suggested by some medial or distal elements that are irregular in form. Some of these could be ‘secondary products’ struck
+from the same core during the core shaping sequence (a few with residual cortex) or
+from its further reduction following the main production sequence by lever pressure.
+But one cannot rule out that some of these ‘punch-detached’ blades came from specific cores or even workshops that were primarily, if not exclusively, employing
+percussion techniques (this might particularly be the case if the raw material available is smaller in size).
+From a similar context, one of us (J.P.) examined two regular proximal Canaanean
+elements from a group of about 20 pieces (4–7 cm long, most of them between 3 and
+4 cm wide) from the site of Kutan in Northern Iraq (Nineveh V context, excavated
+by L. Bachelot), a collection that has been previously studied and published by
+Anderson and Inizan (1994, Fig. 3, pp. 91; here Fig. 6.10). Fortunately, the butts of
+these two pieces are well preserved (these Canaanean elements were often simply
+broken without preliminary retouch or truncation, and not further reused); here the
+platform preparation is somewhat different from that of Tell ‘Atij and Tell Gudeda,
+Fig. 6.9 A ‘Canaanean element’ from Tell ‘Atij made from a wide and short shaping blade with a
+thick orthogonal plain butt: detached by indirect percussion1956 Two Examples of Pressure Blade Production with a Lever...
+consisting mainly of faceting (except for a small removal towards the flaking
+surface for both of the pieces, in order to facilitate the platform faceting). Each butt
+thus looks convex facetted, forming an orthogonal edge angle, but the pressure
+occurred on an obtuse ridge in the middle of the butt surface (note that this ridge is
+much less prominent than that of the Tell ‘Atij proximal blade fragments). The diagnostic character is that a minute crack is visible, forming a half circle or a ‘^’ over
+the ridge only 2 mm in front of the back edge of the butt (Fig. 6.10). This indicates
+a limited contact over a few square millimetres, meaning the use of a hard and
+pointed material. This is subtle, but significant, evidence for the use of a copper
+point, because any organic material would spread on the platform and determine a
+much larger area of contact (and would not usually produce a crack, according to our
+experiments). In this case, with regard to wide flint blades, such a crack is indicative
+of a small contact area and is thus by itself an argument for a pressure technique
+because experiments proved that using a copper-tipped punch to detach large heavy
+blades by indirect percussion seems less efficient than using an antler punch.
+We also note that, depending on the regions and possibly the periods, different
+varieties of fl int are represented amongst these Canaanean blades and elements (as
+was originally reported in the Levant by Cauvin [1968] ). This might signify the
+existence of different workshops or production areas, amongst which might have
+developed subtly (or overtly) different technical traditions. Presently, it seems that
+most of the Canaanean elements from Tell ‘Atij and Tell Gudeda were made from a
+rather fine-grain fl int, from light yellow to yellowish or pinkish grey in colour,
+which could possibly correspond to some of the varieties from the Upper Euphrates
+(200 km to the northeast) as worked in Hassek-Höjük (see colour photos in BehmBlancke 1992) , while those from Kutan and other Tigris valley sites were generally
+Fig. 6.10 Two proximal fragments from Kutan (K 258-23/10, K 249-9) (Courtesy of Anderson
+and Inizan 1994. Drawings: M. Reduron)196 J. Chabot and J. Pelegrin
+made from a coarse beige or whitish-grey flint, the origin of which is unknown to
+our knowledge.
+Regarding Hassek-Hüyük, we now regard the claim that the Canaanean blades
+from the site had been produced by indirect percussion using a copper point as premature (Pelegrin and Otte 1992) , the study having been undertaken at a time (1989)
+when J.P. had little practical experience concerning the detachment techniques for
+large blades and their technologically diagnostic features. Through a reconsideration of the well-illustrated blades and cores (Behm-Blancke 1992) , we now believe
+that most of the blades were in fact detached by lever pressure. Discussing the material of the pressure point would, however, require a new first-hand examination of
+the archaeological material.
+6.4 Conclusion
+These observations, together with others (this volume), represent the building
+blocks for reconstructing a ‘genealogy’ of specific lithic technologies in this broad
+region during the Neolithic and Chalcolithic. We cannot, however, complete a general framework as long as so many pieces of the puzzle remain missing from the
+whole of the Near-Middle East and neighbouring regions.
+At the very least, we can say that the origin of the South Caucasian obsidian pressure blade production techniques may well be found in Eastern Anatolia, amongst
+communities around the Bingöl and/or Nemrut Dağ volcanoes that lie only about
+250 km southwest of the Araxe basin. However, it remains to be determined if the
+known period of Anatolian pressure with the lever technology, which at present
+ranges from the second half of the eighth millennium through the second half of the
+seventh (Altinbilek et al., this volume), continued until the beginning of the sixth
+millennium, a pre-requisite for this region being a viable candidate for the origin of
+this technique in the Southern Caucasus.
+The phenomenon of the Canaanean blades was dealt with only briefly here.
+Long-lived and associated with several areas of production, it may take on an
+increasingly variable nature as more collections become the subject of specialized
+technological studies, documenting the modes of preparation and techniques of
+detachment. Currently, it is thought to have developed in Northern Mesopotamia,
+reaching the Southern Levant some centuries later, but it is premature to discuss
+with any confidence its origin and transfer/diffusion or indigenous development in
+other distant regions.
+Acknowledgements The author would like to thank Ruben Badalyan (University of Erevan),
+Christine Chataigner (MOM/Université de Lyon 2), Michel Fortin (Laval University), Harry Lerner
+(Postdoc Laval University), James Woollett (Laval University) and Shirley Schreider.
+Illustrations of Figs. 6.3 , 6.4 , 6.5 , 6.6 and 6.9 were provided by Julie Leclerc under the supervision of J. Chabot and J. Pelegrin, with the participation of Gérard Monthel (UMR 7055).
+The map of Fig. 6.1 was provided by Christine Chataigner and that of Fig. 6.7 by Andrée
+Héroux.1976 Two Examples of Pressure Blade Production with a Lever...
+References
+Anderson, Patricia C., and Marie-Louise Inizan 1994 Utilisation du tribulum au début du IIIe
+millénaire: des lames « cananéennes » lustrées à Kutan (Ninive V) dans la région de Mossoul,
+Iraq. Paléorient 20(2): 85–103.
+Anderson, Patricia C., Jacques Chabot, and Annelou van Gijn 2004 The Functional Riddle of
+‘Glossy’ Canaanean Blades: The Apogee of the Mesopotamian Threshing Sledge. Journal of
+Mediterranean Archaeology 17(1): 87–132.
+Arimura, Makoto, Ruben S. Badalyan, Boris Gasparyan, and Christine Chataigner 2010 Current
+Neolithic Research in Armenia. Neo-Lithics 1/10: 77–85.
+Badalyan, Ruben S., Pavel Avetisyan, and Adam T. Smith 2009 Periodization and chronology of
+southern Caucasia: from the Early Bronze Age through the Iron IV period. In The Archaeology
+and Geography of Ancient Transcaucasian Societies I The foundations of Research and
+Regional Survey in the Tsaghkahovit Plain Armenia, edited by Adam T. Smith, Ruben S.
+Badalyan and Pavel Avetisyan, pp. 33–93. Oriental Institute Publications 134. University of
+Chicago Press, Chicago.
+Bar, Shay, and Haim Winter 2010 Canaanean Flint Blades in Chalcolithic Context and the Possible
+Onset of the Transition to the Early Bronze Age: A Case Study from Fazael 2. TEL AVIV 37: 33–47.
+Behm-Blancke, Manfred R. (editor) 1992 Hassek-Höyük: Naturwissenschaftliche Untersuchungen
+und lithische Industrie . Istanbuler Forschungen 38. Ernst Wasmuth Verlag, Tübingen.
+Caneva, I 1993 From Chalcolithic to Early Bronze Age III at Arslantepe: a lithic perspective.
+In Between the rivers and over the mountains: Archaeologia Anatolica et Mesopotamica, Alba
+Palmieri Dedicata. edited by Marcella Frangipane, Andreas Hauptman, Mario Liverani, Paolo
+Matthiae, Machted J. Mellink, pp 319–339. Universita di Roma “La Sapienza” Dipartimento di
+Scienze Storiche Archeologiche e Anthropologiche dell Antichita, Roma.
+Cauvin, Jacques 1968 Fouilles de Byblos IV: les outillages néolithiques de Byblos et du littoral
+libanais . Maisonneuve, Paris.
+Chabot, Jacques 2002 Tell’Atij, Tell Gudeda : Industrie lithique; Analyse technologique et fonctionnelle. Avec une annexe de Jacques Pelegrin (CNRS, France) sur la reconnaissance du
+débitage par pression au levier. Cahiers d’archéologie du CELAT no13, Série archéométrie
+n°3. Université Laval, Laval.
+Chabot, Jacques, and Patrick Eid 2003 Le phénomène des lames cananéennes : état de la question
+en Mésopotamie du nord et au Levant Sud. In Le traitement des récoltes : un regard sur la
+diversité du Néolithique au présent, edited by Patricia C. Anderson, Linda S. Cummings,
+Thomas K. Schippers and Bernard Simonel, pp 401–415. Editions APDCA, Antibes.
+Collin, Fernand 1992 Analyse tracéologique de l’industrie lithique d’Hassek Höyük. In HassekHöyük: Naturwissenschaftliche Untersuchungen und lithische Industrie, edited by Manfred R.
+Behm-Blancke, pp. 248–260. Istanbuler Forschungen 38. Ernst Wasmuth Verlag, Tübingen.
+Crabtree, Donald E. 1968 Meso-American polyhedral cores and prismatic blades. American
+Antiquity 33(4): 446–478.
+Edens, Christopher 2000 The chipped stone industry at Hacinebi: technological styles and social
+identity. Paléorient 25(1): 23–33.
+Gijn, Annelou van 2003 The Ninevite 5 chipped stone assemblage from Tell Leilan: preliminary
+results. In The origins of North Mesopotamian civilization: Ninevite 5 chronology, economy,
+society, edited by Elena Rova and Harvey Weiss, pp. 401–416. Subartu IX. Brepols, Brussels.
+Hartenberger, Britt, Steven A. Rosen, and Timothy Matney 1999 The Early Bronze Age Blade
+Workshop at Titris Höyük: Lithic Specialization in an Urban Context. Near Eastern Archaeology
+63(1): 51–58.
+Healan, Dan M., and Janet M. Kerley 1984 Edge Damage Induced by Core Immobilization in
+Prismatic Blade Manufacture. Lithic Technology 13(1): 1–10.
+Hester, Thomas R. 1978 Preliminary notes on the technological analysis of obsidian artifacts from
+Villa Morelos, Michoacan, Mexico. In Archaeological studies of Mesoamerican obsidian,
+edited by Thomas R. Hester, pp. 131–158. Ballena Press Studies in Mesoamerican Art,
+Archaeology and Ethnohistory n°3. Ballena Press, Socorro.198 J. Chabot and J. Pelegrin
+Hirth, Kenneth G. (editor) 2003 Experimentation and Interpretation in Mesoamerican Lithic
+Technology. The University of Utah Press, Salt Lake City.
+Inizan, Marie-Louise 1991 Le débitage par pression : des choix culturels. In 25 ans d’études technologiques en préhistoire. Bilan et perspectives. XIèmes Rencontres Internationales d’Archéologie
+et d’Histoire d’Antibes 18–20 octobre 1990, pp. 367–377. A.P.D.C.A., Juan-les-Pins.
+Inizan, Marie-Louise, Michèle Reduron-Ballinger, Hélène Roche, and Jacques Tixier 1999 Technology
+and Terminology of Knapped Stone. Préhistoire de la Pierre taillée 5. CREP, Nanterre.
+Manolakakis, Laurence 1996 Production lithique et émergence de la hiérarchie sociale: l’industrie
+lithique de l’Enéolithique en Bulgarie (première moitié du IVème millénaire non cal.). Bulletin
+de la Société Préhistorique Française 93(1): 119–123.
+Manolakakis, Laurence 2005 Les industries lithiques énéolithiques de Bulgarie. Coll. Internationale
+Archäologie, Bd 88. Rahden/Westf, Leidorf.
+Matney, Timothy, Guillermo Algaze, and Steve A. Rosen 1999 Early Bronze Age Urban Structure
+at Titris Höyük, Southeastern Turkey: the 1998 season. Anatolica 25: 185–201.
+Neuville, René 1930 Notes de Préhistoire palestinienne. Journal of the Palestine Oriental Society
+10: 193–221.
+Nishiaki, Yoshihiro 2003 Chronological developments of the Chalcolithic flaked stone industries
+at Tell Kosak Shamali. In Tell Kosak Shamali, edited by Yoshihiro Nishiaki and Toshio
+Matsutani, Vol. II, pp. 15–112. The University Museum and the University of Tokyo, Tokyo.
+Pelegrin, J. 1988 Débitage expérimental par pression: “Du plus petit au plus grand”. In Technologie
+préhistorique, edited by J. Tixier, pp. 37–53. Notes et Monographies Techniques du CRA
+No.25. CNRS, Paris.
+Pelegrin, Jacques 2003 Blade making techniques from the Old World: insights and applications to
+Mesoamerican obsidian lithic technology. In Experimentation and Interpretation in
+Mesoamerican Lithic Technology, edited by Kenneth G. Hirth, pp. 55–71. The University of
+Utah Press, Salt Lake City.
+Pelegrin, Jacques 2006 Long blade technology in the Old World: an experimental approach and
+some archaeological results. In Skilled Production and Social Reproduction , edited by Jan Apel
+and Kjel Knutsson, pp. 37–68. Stone Studies 2. Societas Archaeologica Upsaliensis, Upsalla.
+Pelegrin, Jacques, and Marcel Otte 1992 Einige Bemerkungen zur Präparations- und Ausbeuttechnik
+der Kernsteine aus Raum 29. In Hassek-Höyük: Naturwissenschaftliche Untersuchungen und
+lithische Industrie edited by Manfred R. Behm-Blancke, pp. 219–224. Istanbuler Forschungen
+38. Ernst Wasmuth Verlag, Tübingen.
+Rosen, SA 1997 Lithics after the stone age: a handbook of stone tools from the Levant. AltaMira
+Press (A Division of Sage Publications Inc), Wallnut Creek, London & New Delhi.
+Sheets, Payson D. 1978 A model of Mesoamerican obsidian technology based on Preclassic workshop debris in El Salvador. In Archaeological studies of Mesoamerican obsidian, edited by
+Thomas R. Hester pp 159–170. (Studies in Mesoamerican Art, Archaeology and Ethnohistory
+no3). Ballena Press, Socorro.
+Shimelmitz, Ron 2009 Variability in Specialized Canaanean Blade Production of the Early Bronze Age
+Levant. In Techniques and People. Anthropological perspectives on technology in the Archaeology
+of the Proto-historic and Early Historic periods in the southern Levant. edited by Steve A. Rosen,
+Valentine Roux. pp. 135–156 (Mémoires et Travaux du Centre de Recherche Français à Jérusalem,
+Archéologie et Sciences de l’Antiquité et du Moyen Age, no 9), De Boccard, Paris.
+Stein, Gil J. 2000 Material culture and social identity: the evidence for a fourth millennium BC
+mesopotamian Uruk colony at Hacinebi, Turkey. Paléorient 25(1): 11–22.
+Tixier, Jacques 1984 Le débitage par pression. In Préhistoire de la pierre taillée 2. Economie du
+débitage laminaire: technologie et expérimentation (IIIe table ronde de technologie lithique,
+Meudon-Bellevue, oct. 1982), edited by Jacques Tixier, pp. 57–70. CREP, Paris.
+Zohary, Daniel, and Maria Hopf 2004 Domestication of Plants in the World - The origin and
+spread of cultivated plants in West Asia, Europe and the Nile Valley. Third edition. Oxford
+University Press, Oxford.View publication statsView publication stats

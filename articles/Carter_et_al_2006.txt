@@ -1,0 +1,1046 @@
+A new programme of obsidian characterization
+at C ̧ atalho ̈yu ̈k, Turkey
+Tristan Carter a, *, Ge ́rard Poupeau b , Ce ́line Bressy c , Nicholas J.G. Pearce d
+a Department of Cultural and Social Anthropology/Archaeology Center, Stanford University, Stanford, CA 94305-2145, USA
+b Institut de Recherche sur les Arche ́omate ́riaux, UMR 5060, CNRS-Universite ́ Bordeaux 3,
+Centre de Recherche de Physique Applique ́e a` l’Arche ́ologie, Maison de l’Arche ́ologie, Esplanade des Antilles, Pessac, France
+c UMR 6636, CNRS-Institut Dolomieu, Grenoble, France
+d Institute of Geography and Earth Sciences, University of Wales, Aberystwyth, SY23 3DB Wales, UK
+Received 1 May 2005; received in revised form 15 October 2005; accepted 17 October 2005
+Abstract
+This paper details the chemical sourcing of 135 obsidian artefacts from C ̧ atalho ̈yu ̈k, a Neolithic site in central Anatolia, the trace-elemental
+analyses being undertaken in two laboratories using ICP-MS, ICP-AES and LA-ICP-MS. The material is assigned to three sources in Cappadocia: Go ̈llu ̈ Dag ̆-east, Nenezi Dag ̆ and Acıgo ̈l West. The various interrelationships of technology, raw material and date are considered, the data
+suggesting an increased reliance upon the Nenezi Dag ̆ source in the latter part of the Early Neolithic, a shift that coincides with, and is related to,
+the introduction of new blade technologies.
+Ó 2005 Elsevier Ltd. All rights reserved.
+Keywords: Obsidian sourcing; ICP-AES; ICP-MS; Laser ablation; C ̧ atalho ̈yu ̈k; Neolithic; Central Anatolia
+1. Introduction
+Located in central Anatolia’s Konya Plain the famous Neolithic community of C ̧ atalho ̈yu ̈k lacked a local supply of conchoidally fracturing stone, whereby its large and varied lithic
+industry is based on resources procured from afar [15,25]. Most
+of the chipped stone tools were made of obsidian (Table 1),
+despite the fact that the nearest sources lay 120 miles to
+the north-east amongst the volcanoes of Cappadocia
+(Fig. 1). While the origin of C ̧ atalho ̈yu ̈k’s limnic quartzites,
+radiolarites and flint continues to be debated, there have
+been recent advances in the location and characterization
+of Anatolia’s numerous obsidian sources, providing a solid
+basis for archaeological provenience studies and the
+investigation of prehistoric exchange and other forms of cultural interaction [20]. This work inspired our sourcing
+project, which in turn forms part of a ‘new wave’ of Mediterranean, Anatolian and Near Eastern obsidian sourcing
+studies (cf. [30,35,56]).
+In 1999 a major programme of obsidian characterization
+was initiated to investigate the long-term use of obsidian at
+C ̧ atalho ̈yu ̈k. This is an ongoing project, involving more than
+one laboratory and analytical technique; this paper presents
+our first set of results from the trace-elemental analysis of
+135 pieces of worked obsidian.
+This is an ongoing project, involving more than one laboratory and analytical technique. This paper presents our first set
+of results from the trace-elemental analysis of 135 pieces of
+worked obsidian, that have provided important new data concerning the diachronic relationship between lithic technology
+and raw material at C ̧ atalho ̈yu ̈k. We also forward a methodology that integrally locates a characterization study within the
+overarching chaıˆne ope ́ratoire analysis of a site’s obsidian
+* Corresponding author. Tel.: þ1 650 736 2839; fax: þ1 650 725 0605.
+E-mail addresses: stringy@stanford.edu (T. Carter), gerard.poupeau@
+u-bordeaux3.fr (G. Poupeau), cbressy@ujf-grenoble.fr (C. Bressy), nick.pearce@
+aber.ac.uk (N.J.G. Pearce).
+0305-4403/$ - see front matter Ó 2005 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2005.10.023
+Journal of Archaeological Science 33 (2006) 893e909
+http://www.elsevier.com/locate/jasassemblage. The artefacts came from the 1995e1999 excavations, with 128 from the Neolithic east mound (henceforth
+C ̧ atalho ̈yu ̈k East) and seven from the Early Chalcolithic west
+mound (henceforth C ̧ atalho ̈yu ̈k West). The analyses were undertaken at two laboratories in France and Britain, employing
+three analytical techniques, namely: (1) Poupeau and Bressy
+of the Groupe de Ge ́ophysique Nucle ́aire, UMR 5025 of the
+Centre National de la Recherche Scientifique [CNRS], Universite ́ Joseph Fourier, Grenoble employing solution
+nebulisation Inductively Coupled Plasma Mass Spectroscopy
+(ICP-MS) and Inductively Coupled Plasma Atomic Emission
+Spectroscopy (ICP-AES), and (2) Pearce of the Institute of
+Geography and Earth Sciences, University of Wales, Aberystwyth, employing Laser Ablation Inductively Coupled Plasma
+Mass Spectroscopy (LA-ICP-MS).
+2. Background
+This is not the first provenance study involving C ̧ atalho ̈yu ̈k’s obsidian, with 20 artefacts characterised in the past
+35 years by three different projects (Table 2). In the 1960s
+Renfrew analysed four blades by Optical Emission Spectroscopy, three of which fell within his ‘Group 1e-f’, associated
+with the northern Cappadocian source of Acıgo ̈l [49]. The
+fourth artefact was sourced to Armenia (‘Group 1g’), a result
+considered to be counterintuitive by the analysts, who cautioned that it might ‘conceivably be an anomalous and exceptional product of a nearer source’ [49, p. 33]. Using the same
+technique, Wright analysed three pieces of obsidian from C ̧ atalho ̈yu ̈k East and three from C ̧ atalho ̈yu ̈k West [58]. Four artefacts, including all the Chalcolithic material, were sourced to
+Acıgo ̈l, while the obsidian employed for two of the East
+mound blanks was claimed to be from C ̧ iftlik in southern Cappadocia. Lastly, Keller and Seifried characterised 10 artefacts
+from C ̧ atalho ̈yu ̈k (contexts unknown), the obsidian again being sourced to the C ̧ iftlik region [34]. More specifically, their
+technique of X-ray Fluorescence allowed them to determine
+that six were made of obsidian from the mountain of Nenezi
+Dag ̆ , while four originated from nearby ‘Go ̈llu ̈dag ̆ -Ko ̈mu ̈rcu ̈’
+(Fig. 1). Chataigner has since argued that the six artefacts attributed to Acıgo ̈l by Renfrew and Wright could in fact be
+from Nenezi Dag ̆ , as both sources fell within their Group
+1e-f [22, pp. 279e285]. We return to this issue below.
+Traditionally obsidian sourcing has been employed to gain
+a clearer image of cultural interaction and the socio-economic
+complexity of prehistoric societies (cf. [48 (pp. 38e
+51),50,58]). Yet more often than not, interpretations have
+been forwarded on the basis of a handful of samples, whose
+descriptions rarely extend beyond an object/lab number,
+Fig. 1. Map showing main sites mentioned in text (M. Milic ́).
+Table 1
+Relative proportion of raw materials in C ̧ atalho ̈yu ̈k chipped stone assemblages
+from the 1995e1999 excavations (by count)
+Level Total Obsidian % of total ‘Flint’ % of total
+Pre-XII.D 893 867 97.1 26 2.9
+Pre-XII.C 1487 1373 92.3 114 7.7
+Pre-XII.B 4809 4566 95 243 5
+Pre-XII.A 5648 5355 94.8 293 5.2
+XII 972 924 94.4 55 5.6
+XI 248 238 96 10 4
+X 6110 5907 96.7 203 3.3
+IX 11,476 11,070 96.5 406 3.5
+VIII 25,142 24,835 98.8 307 1.2
+VII 5870 5793 98.7 77 1.3
+North VIIIeVII 1543 1517 98.3 26 1.7
+North VIIeVI 113 110 97.4 3 2.6
+KOPAL 306 291 95.1 15 4.9
+894 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909largely ignoring their context, form, or technological characteristics. It is extremely important to appreciate the potential
+distinctions in how these obsidians were exchanged, transformed, conceptualised and valued through time (cf.
+[28,51]). To talk about the trade or consumption of ‘obsidian’
+alone is problematic; as archaeologists we need to document
+the nature of our samples: raw material, preform, or end product. One recent set of studies has started to bring some of
+these issues together in a most informative way, namely the
+work of archaeologists and archaeometrists at the Kaletepe
+blade workshop (Aceramic Neolithic) located atop the
+Ko ̈mu ̈rcu ̈ obsidian outcrop of the Go ̈llu ̈ Dag ̆ -East source
+[8,17]. This research has produced a techno-typological characterization of the workshop’s industries (naviform and unipolar prismatic blades) and the geo-chemical signature of the
+source material. When these data are integrated with traceelement analysis of obsidian artefacts from contemporary Levantine sites such as Mureybet and Cheikh Hasan, one can
+start to discuss the trade of large, black, shiny, razor-sharp
+projectiles (amongst other products), rather than talking simply about the exchange and movement of Go ̈llu ̈ Dag ̆ -East ‘obsidian’ [2,8 (p. 244, fig. 6),22 (pp. 288e289)]. It is this type
+of analytical strategy, where archaeometric data are located
+within a chaıˆne ope ́ratoire framework, that we wish to
+forward.
+3. Aims
+The aims of our programme are manifold, with samples selected to examine a number of variables relating to raw material, time, space and modes of consumption. We wish to
+document C ̧ atalho ̈yu ̈k’s relationship with the obsidian sources
+through time (level-by-level), and to search for spatial patterning in consumption (building-by-building), as rights of access
+to an outcrop could have been based on household, or kinship
+affiliations (cf. [32 (pp. 227e228),55 (pp. 52e57)]). A further
+line of enquiry is to investigate if distinct knapping traditions
+relate to specific outcrops; for this reason, each artefact chosen
+for analysis has been described in detail and illustrated for
+publication alongside the results, an unfortunately all too
+rare occurrence in provenience studies; a representative
+sample is presented here (Fig. 2), with all line-drawings available online [59]. Finally, we are also interested in the potential
+for visually discriminating between the obsidians, on the basis
+of the sample’s colour, banding, translucency, inclusions and
+texture. Such a broad range of questions has necessarily involved taking a large number of samples, following recent
+trends elsewhere, as for example with c. 400 pieces from the
+La Mana Pre-Hispanic site in Ecuador [45] and the thousands
+from Puerto Escondido in Honduras (S. Shackley pers.
+comm.). To consider each of the questions outlined above is
+beyond the scope of a single paper; we here focus on the diachronic interrelationship between technology and source.
+4. Sampling strategy
+The occupation sequence at C ̧ atalho ̈yu ̈k East spans the
+Aceramic (Level Pre-XII.AeD) to Early Neolithic (Levels
+XIIe0), a duration of approximately 1200 years, from c.
+7400 to 6200 cal BC (Level Pre-XII.DeLevel II, Levels I
+and 0 are not dated yet [21,53]). The C ̧ atalho ̈yu ̈k East material
+that forms the basis of this paper comes from the North, South
+and Summit Areas (Fig. 3), spanning Levels IXeIII (Table 3),
+a period of approximately 500 years [21]. Seven distinct obsidian industries have thus far been defined in the Neolithic assemblages (see below); unfortunately it was not possible to
+sample each of them in this study. For instance, most of the
+finely retouched material, such as projectiles, was not selected
+for analysis, as such pieces are e understandably e not allowed to be exported for destructive analysis. To this end we
+are investigating the possibility of sub-sampling on-site and
+the use of portable non-destructive techniques (cf. [39]), so
+that we may eventually source C ̧ atalho ̈yu ̈k’s mirrors, spearheads, beads and other ‘museum pieces’.
+5. ICP-MS and ICP-AES analyses of
+100 samples at CNRS
+5.1. Analytical procedure
+Regarding the 100 artefacts analysed at CNRS (Grenoble),
+major and trace element concentrations were determined
+Table 2
+Obsidian from C ̧ atalho ̈yu ̈k sourced prior to 1999
+Sample Level Context Object Source Method Analysts
+41 Neolithic East Mound Blade Armenia (Group 1g) OES Renfrew et al.
+42 Neolithic East Mound Blade Acigo ̈l (Group 1e-f) OES Renfrew et al.
+43 Neolithic East Mound Blade Acigo ̈l (Group 1e-f) OES Renfrew et al.
+280 Neolithic East Mound Blade Acigo ̈l (Group 1e-f) OES Renfrew et al.
+643 Chalcolithic West Mound ? Acigo ̈l (Group 1e-f) OES Wright
+644 Chalcolithic West Mound ? Acigo ̈l (Group 1e-f) OES Wright
+645 Chalcolithic West Mound ? Acigo ̈l (Group 1e-f) OES Wright
+646 Neolithic East Mound ? C ̧ iftlik (Group 2b?) OES Wright
+647 Neolithic East Mound ? Acigo ̈l (Group 1e-f) OES Wright
+648 Neolithic East Mound ? C ̧ iftlik (Group 2b?) OES Wright
+6 pieces ? ? ? Nenezi Dag ̆ XRF Keller and Seifried
+4 pieces ? ? ? Go ̈llu ̈dag ̆-Ko ̈mu ̈rcu ̈ XRF Keller and Seifried
+OES e Optical Emission Spectroscopy; XRF e X-ray Fluorescence; data from Refs.[34,49,58].
+895T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909using, respectively, ICP-AES and ICP-MS, following the procedure described by Barrat et al. [9]. The accuracy of major
+and trace element concentrations is better than 5% (probably
+better than 3% for all REEs), except for W and Cs (10e30%
+for the lowest concentrations) based on various standards
+and sample duplicates. Small slices were taken from each
+piece using either a thin diamond saw or a diamond wire
+saw. To minimize eventual surface contamination/alteration
+Fig. 3. Plan of C ̧ atalho ̈yu ̈k showing areas of excavation mentioned in text.
+Fig. 2. Representative sample of obsidian industries sampled; source-by-source (G. Der Aprahamian, M. Milic ́ and J.G.H. Swogger).
+896 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909biases in analyses, each slice was crushed between thick books
+of paper sheets in order to obtain internal fragments. To ensure
+a representative sample was taken, about 100 mg of such millimetre-sized chips were carefully selected under a stereomicroscope, checking the freshness of their surfaces. In order to
+obtain a mother solution they were then dissolved in Teflon
+beakers with high-purity hydrofluoric acid under controlledatmosphere conditions.
+For ICP-AES analyses of Al, Fe, Mn, Mg, Ca, Na, K, Ti
+and P, daughter solutions with different degrees of dilution
+were prepared. Four solutions of appropriate dilutions were
+prepared from pure element solutions for calibration purposes.
+Twenty-seven trace elements: Co, Rb, Sr, Y, Zr, Nb, Cs, Ba,
+La, Ce, Pr, Nd, Sm, Eu, Gd, Tb, Dy, Ho, Er, Tm, Yb, Lu,
+Hf, Ta, Pb, Th, U were measured by ICP-MS from a single
+diluted daughter solution. Several solutions of geo-chemical
+standard reference materials (RGM-1, BIR-1, BHVO-1,
+SRM-278) were prepared in the same way. All these solutions
+were spiked with a thulium reference solution [10]. In order to
+take into account interferences in the REE, pure solutions of
+SmeEueGdeTb, PreNd, Ce and Ba were also analysed. Finally, to compensate for instrumental drift, one unspiked standard (BHVO-1) was analysed after each set of four samples.
+Element contents were then calculated following Bellot-Gurlet
+et al. [11].
+For provenance determination the data generated from the
+artefacts were compared with those previously obtained in
+the laboratory from obsidian samples of various geological
+sources. The trace element data are presented conventionally
+in diagrams of normalized element abundances (cf. [22,46]);
+the norm selected is the composition of the upper continental
+crust [52].
+5.2. Data
+The trace element normalized abundances of the 100 artefacts are presented in Fig. 4. It is clear that two compositional
+groups are present comprising 55 and 45 samples, respectively.
+In Fig. 4a, the compositions of the 55 artefacts defining the
+largest group are reported along with geological obsidians
+from the ‘Go ̈llu ̈ Dag ̆ -East’ region (four and five samples
+from the Ko ̈mu ̈rcu ̈ and Kayırlı-East outcrops, respectively);
+the artefacts show a clear affinity with the ‘Go ̈llu ̈ Dag ̆ -East’
+type compositional group of Cauvin et al. [18,19]. The major
+element contents of the artefacts (Table 4) are also in agreement with that of the Go ̈llu ̈ Dag ̆ -East obsidians. As it is not
+possible from the 36 element contents to discriminate obsidians of the Ko ̈mu ̈rcu ̈ outcrops from those of Kayırlı-East,
+we attribute a Go ̈llu ̈ Dag ̆ -East origin to the 55 artefacts analysed. In Fig. 4b, the compositions of the 45 artefacts with another composition are compared to that of one geological
+sample from the Nenezi Dag ̆ volcano. As above, from both
+the similarity of trace (Fig. 4) and major elemental (Table 4)
+contents of these obsidians with that measured from Nenezi
+Dag ̆ (see also [20]), we assign them an origin from this
+volcano.
+6. LA-ICP-MS analysis of 35 samples at Aberystwyth
+6.1. Analytical procedure
+The analysis of 35 samples performed by laser ablation
+(LA)-ICP-MS at Aberystwyth involved each flake of obsidian
+having five separate spectra acquired from it for 40 separate
+elements. Spectra are acquired by burning a small volume of
+material from the sample (‘ablating’) using a high-intensity
+ultraviolet pulsed laser beam and analysing the vaporised
+material in the ICP-MS. The resulting ablation craters are
+Table 3
+Temporal and spatial distribution of the 135 artefacts analysed by CNRS and
+Aberystwyth
+Mound Level Samples Area Building Space
+East IX 5 South 2
+East VIII 16 South 114, 115, 150
+East VIIIeVII 10 North 1/5, 5 154e157
+East VII 15 South e 105e109, 112e113
+East VIIeVI 79 North 1 Various
+East VIB 1 South e 160
+East III 2 Summit 10 Various
+West E. Chalcolithic IeII 7 e 25 Various
+Fig. 4. Relative trace element abundances for 100 artefacts analysed at CNRS.
+(a) Relative trace element abundances for artefacts with a Go ̈llu ̈ Dag ̆-east composition. (b) Relative trace element abundances for artefacts with a Nenezi
+Dag ̆ composition.
+897T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909Table 4
+Element contents determined by CNRS using ICP-MS and ICP-AES for the 55 artefacts associated with a Go ̈llu ̈ Dag ̆-east-type compositional group, the 45 artefacts associated with a Nenezi Dag ̆-type compositional group and sample OBC 38 of Acıgo ̈l West affinity
+OB 99 1 OB 99 6 OB 99 7 OB 99 8 OB 99 9 OB 99 10OB 99 11OB 99 12OB 99 13OB 99 14OB 99 16OB 99 18OB 99 19OB 99 20OB 99 23OB 99 30OB 99 31OB 99 32OB 99 33OB 99 34
+Al2 O 3 13.07 12.96 12.86 12.87 12.69 12.60 12.59 12.58 12.65 12.89 12.65 12.68 12.41 12.54 12.50 12.49 12.68 12.57 12.60 12.58
+Fe2 O 3 0.78 0.73 0.73 0.73 0.76 0.72 0.71 0.73 0.73 0.74 0.75 0.73 0.72 0.75 0.75 0.77 0.76 0.76 0.73 0.75
+MnO 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.07 0.06 0.06 0.07 0.06 0.06 0.06
+MgO 0.09 0.09 0.08 0.07 0.07 0.07 0.07 0.07 0.07 0.06 0.06 0.06 0.06 0.05 0.05 0.06 0.06 0.06 0.05 0.05
+CaO 0.56 0.59 0.58 0.55 0.59 0.58 0.61 0.58 0.61 0.58 0.57 0.56 0.60 0.55 0.57 0.57 0.56 0.56 0.56 0.55
+Na 2 O 3.59 3.50 3.63 3.65 3.56 3.54 4.13 4.15 4.12 4.15 4.10 3.97 3.92 3.96 3.93 3.97 3.92 3.87 3.93 4.18
+K2 O 4.25 4.35 4.19 4.23 4.31 4.25 4.52 4.28 4.20 4.63 4.42 4.44 4.51 4.33 4.48 5.31 4.53 4.46 4.27 4.40
+TiO2 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05 0.05
+Co 0.20 0.17 0.19 0.17 0.18 0.19 0.18 0.19 0.21 0.19 0.16 0.16 0.24 0.16 0.15 0.16 0.16 0.15 0.21 0.13
+Rb 180 177 185 185 175 178 181 179 175 179 176 170 178 183 177 177 171 172 177 177
+Sr 12.7 12.2 12.9 14.5 12.4 11.4 12.3 12.8 12.3 12.8 12.5 12.4 13.2 10.4 13.0 12.7 10.6 12.3 9.81 12.8
+Y 22.5 22.6 23.0 23.1 21.9 22.5 22.7 22.5 22.1 22.5 22.8 22.0 23.4 24.5 23.0 23.2 22.5 22.2 23.2 22.3
+Zr 78.1 76.1 78.7 79.0 75.8 76.0 76.7 77.1 76.1 75.6 77.2 75.8 77.8 77.6 77.4 78.2 74.6 76.7 74.4 75.6
+Nb 23.6 23.9 25.4 25.4 23.8 22.9 24.6 24.1 24.1 23.1 25.0 23.7 25.7 26.9 24.1 25.7 24.6 24.4 25.5 23.6
+Cs 8.06 8.01 8.27 8.38 7.81 8.03 8.02 8.00 7.92 8.21 7.86 7.66 7.27 7.62 7.31 7.32 7.10 7.07 7.48 7.25
+Ba 170 157 173 176 165 139 158 167 161 170 162 164 167 113 174 166 128 164 102 170
+Hf 3.17 3.17 3.12 3.11 3.05 3.04 3.14 3.17 3.14 3.03 3.08 3.08 3.12 3.22 3.12 3.19 3.04 3.04 3.12 2.97
+Ta 2.07 2.27 2.35 2.33 2.15 1.98 2.30 2.23 2.27 1.73 2.30 2.22 2.38 2.51 1.92 2.44 2.33 2.33 2.44 1.90
+W 3.35 3.51 3.64 3.60 3.30 3.18 3.42 3.51 3.58 3.03 3.31 3.17 3.46 3.62 3.03 3.57 3.46 3.43 3.61 2.82
+21.8 21.3 22.4 22.7 21.4 21.4 22.0 22.1 21.6 22.7 21.6 21.2 22.0 22.1 22.8 22.5 20.6 21.2 21.4 21.6
+Th 20.6 20.7 20.8 21.1 19.9 19.6 19.9 20.3 20.2 19.8 19.4 19.2 19.8 19.7 19.6 20.0 19.3 19.6 19.5 19.3
+U 7.86 7.86 7.95 7.97 7.80 7.95 7.95 7.78 7.77 7.79 7.73 7.57 7.86 8.17 8.00 7.90 7.48 7.43 7.89 7.60
+La 22.5 21.7 22.9 23.4 21.7 21.5 22.3 22.1 21.6 22.9 22.2 21.6 22.8 22.5 23.5 23.1 21.3 22.2 21.0 22.9
+Ce 43.3 42.0 44.4 45.2 42.3 42.3 43.7 42.9 41.8 44.9 43.5 42.3 44.0 44.0 46.4 44.9 41.3 42.9 41.5 44.8
+Pr 4.33 4.23 4.43 4.50 4.24 4.19 4.31 4.27 4.25 4.53 4.31 4.20 4.36 4.44 4.58 4.45 4.18 4.28 4.19 4.48
+Nd 13.1 13.0 13.4 13.7 12.7 12.8 13.0 12.8 12.9 13.6 13.3 12.8 13.4 13.6 14.0 13.5 12.8 13.2 13.0 13.6
+Sm 2.69 2.64 2.69 2.76 2.53 2.55 2.57 2.63 2.63 2.70 2.64 2.58 2.75 2.79 2.79 2.75 2.54 2.67 2.62 2.71
+Eu 0.16 0.15 0.15 0.16 0.15 0.14 0.15 0.15 0.15 0.16 0.15 0.16 0.16 0.13 0.16 0.16 0.13 0.15 0.12 0.17
+Gd 2.59 2.58 2.62 2.65 2.55 2.61 2.62 2.65 2.62 2.71 2.70 2.63 2.70 2.70 2.73 2.68 2.59 2.68 2.68 2.67
+Tb 0.49 0.48 0.50 0.50 0.49 0.49 0.50 0.49 0.48 0.49 0.50 0.48 0.49 0.52 0.50 0.50 0.48 0.47 0.49 0.49
+Dy 3.03 2.99 3.00 3.02 2.93 2.97 2.94 2.95 2.94 3.01 3.03 2.93 3.07 3.17 3.09 3.05 3.01 2.91 3.06 2.91
+Ho 0.66 0.66 0.66 0.65 0.63 0.64 0.65 0.65 0.65 0.64 0.65 0.63 0.66 0.68 0.67 0.66 0.65 0.64 0.68 0.64
+Er 1.96 2.00 1.96 1.99 1.93 2.01 1.97 1.93 1.94 1.87 1.96 1.90 1.97 2.05 1.99 2.03 1.90 1.91 1.98 1.88
+Yb 2.19 2.15 2.18 2.16 2.17 2.18 2.19 2.15 2.20 2.17 2.15 2.10 2.26 2.35 2.22 2.24 2.17 2.14 2.24 2.16
+Lu 0.35 0.35 0.35 0.34 0.34 0.35 0.34 0.34 0.34 0.34 0.34 0.33 0.36 0.37 0.36 0.36 0.34 0.34 0.35 0.34
+Çatal Höyük-Gollu Dag East
+898 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909OB 99 35OB 99 36OB 99 37OB 99 41OB 99 51OB 99 67OB 99 72OB 99 73OB 99 78OB 99 80OB 99 81OB 99 88OB 99 89 OB 3 OB 4 OB 5 OB 6 OB 8 OB 9 OB 10
+Al2 O 3 12.64 11.59 12.61 12.65 12.82 12.76 12.80 12.89 13.00 12.63 12.45 12.25 12.63 12.50 12.44 12.67 10.17 11.66 12.73 12.82
+Fe2O 3 0.74 0.68 0.73 0.87 0.79 0.81 0.78 0.81 0.79 0.81 0.82 0.77 0.81 0.72 0.66 0.66 0.69 0.64 0.80 0.74
+MnO 0.06 0.06 0.06 0.06 0.05 0.05 0.05 0.05 0.05 0.05 0.06 0.05 0.05 0.06 0.06 0.06 0.08 0.05 0.06 0.06
+MgO 0.06 0.05 0.05 0.05 0.03 0.03 0.03 0.02 0.02 0.03 0.03 0.02 0.03 0.03 0.02 0.03 0.03 0.03 0.04 0.05
+CaO 0.59 0.52 0.58 0.56 0.54 0.57 0.55 0.56 0.56 0.55 0.53 0.53 0.56 0.50 0.57 0.50 0.50 0.64 0.79 0.69
+Na 2 O 4.07 3.19 3.41 5.04 4.38 4.36 4.41 4.43 4.33 4.39 4.37 4.34 4.32 4.28 3.96 3.89 3.02 3.66 3.84 3.95
+K2O 4.47 3.97 3.92 4.84 4.32 4.67 4.75 4.45 4.63 4.46 4.39 4.42 4.77 4.20 4.35 4.40 3.14 3.37 4.32 3.82
+TiO2 0.05 0.04 0.05 0.05 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.04 0.06 0.05 0.05 0.05 0.07 0.06 0.06 0.06
+Co 0.17 0.14 0.11 0.18 0.15 0.22 0.15 0.16 0.17 0.20 0.31 0.19 0.27 0.11 0.11 0.11 0.09 0.09 0.09 0.13
+Rb 177 184 186 190 192 200 190 185 199 185 183 171 177 183 177 181 181 185 190 182
+Sr 12.8 9.57 10.0 11.6 9.74 13.6 9.58 12.9 9.85 11.9 13.6 11.8 13.3 9.15 11.7 12.2 12.3 10.3 10.7 9.16
+Y 23.2 24.2 24.1 21.9 22.8 22.7 22.4 21.6 24.6 23.4 22.7 21.9 21.9 22.7 21.7 22.2 21.8 22.5 23.5 22.6
+Zr 78.7 75.8 74.1 77.2 74.3 81.3 73.7 78.1 77.6 79.0 80.2 73.3 77.8 75.7 77.3 79.0 78.2 76.8 75.3 73.1
+Nb 25.3 26.2 24.8 24.5 25.0 25.0 24.4 23.8 26.1 25.6 25.1 23.5 24.6 25.2 24.1 24.7 24.5 24.8 26.0 25.0
+Cs 7.63 8.08 8.13 8.26 7.77 8.17 7.47 7.14 8.24 7.40 7.09 8.20 8.29 7.63 7.31 7.49 7.52 7.70 8.17 7.67
+Ba 168 98 103 143 105 181 104 174 85 108 176 152 171 104 161 168 171 130 78 98
+Hf 3.14 3.16 3.13 3.14 3.11 3.07 3.10 3.07 3.00 3.10 2.99 2.95 2.97 3.07 3.04 3.03 3.03 3.04 3.05 3.02
+Ta 2.29 2.39 2.02 2.25 2.40 2.22 2.39 2.27 2.15 2.33 2.19 2.16 2.21 2.41 2.25 2.27 2.25 2.32 2.48 2.39
+W 3.48 3.58 3.03 3.55 3.27 3.83 3.77 3.60 2.98 3.28 3.10 3.24 3.29 3.50 3.35 3.37 3.35 3.49 3.66 3.46
+Pb 22.1 22.0 22.5 22.5 22.8 21.4 22.3 22.5 22.9 23.2 22.9 22.5 22.6 22.1 22.0 21.9 22.0 21.5 21.6 21.8
+Th 20.4 20.0 19.8 20.7 20.2 20.5 19.8 20.3 19.3 19.4 19.5 19.7 19.7 22.8 23.4 22.9 23.0 22.7 22.8 22.0
+U 7.88 8.27 8.47 8.11 8.36 7.76 8.50 8.10 8.20 7.95 7.51 7.55 7.55 8.48 8.08 8.01 8.01 8.09 8.54 8.39
+La 22.8 22.0 22.4 22.9 22.3 23.8 21.6 22.7 22.5 22.2 22.9 22.2 22.5 22.1 23.5 23.6 23.4 22.8 22.2 21.6
+Ce 44.1 43.0 44.9 44.0 43.4 46.1 42.1 43.6 43.7 43.2 44.3 41.9 43.2 42.0 43.8 43.9 43.9 42.9 42.7 41.1
+Pr 4.38 4.33 4.50 4.42 4.35 4.53 4.25 4.35 4.34 4.32 4.39 4.29 4.30 4.30 4.45 4.44 4.44 4.35 4.35 4.23
+Nd 13.4 13.3 13.9 13.4 13.3 13.6 13.1 13.2 13.3 13.2 13.2 12.9 13.1 13.3 13.7 13.7 13.7 13.5 13.5 13.1
+Sm 2.65 2.66 2.75 2.70 2.67 2.68 2.69 2.58 2.76 2.71 2.62 2.61 2.63 2.83 2.77 2.79 2.78 2.85 2.90 2.77
+Eu 0.16 0.12 0.13 0.15 0.14 0.17 0.14 0.17 0.12 0.14 0.18 0.16 0.18 0.14 0.16 0.17 0.16 0.15 0.13 0.13
+Gd 2.78 2.80 2.86 3.04 3.20 3.12 3.15 3.05 3.16 3.13 3.04 3.06 2.98 2.76 2.73 2.77 2.79 2.80 2.86 2.83
+Tb 0.49 0.51 0.52 0.48 0.51 0.49 0.50 0.48 0.52 0.52 0.50 0.51 0.49 0.49 0.48 0.48 0.48 0.50 0.52 0.51
+Dy 2.96 3.14 3.22 2.99 3.07 2.98 3.10 2.96 3.06 3.08 2.92 2.97 2.88 3.11 3.00 3.01 3.00 3.11 3.22 3.13
+Ho 0.65 0.69 0.69 0.64 0.66 0.64 0.66 0.64 0.67 0.66 0.63 0.64 0.62 0.68 0.65 0.64 0.65 0.67 0.70 0.69
+Er 1.97 2.07 2.07 1.96 2.02 1.90 2.01 1.94 1.97 1.97 1.86 1.89 1.82 2.07 2.00 2.03 2.02 2.05 2.17 2.11
+Yb 2.23 2.36 2.37 2.21 2.28 2.19 2.29 2.21 2.26 2.26 2.15 2.18 2.14 2.34 2.24 2.24 2.24 2.26 2.37 2.28
+Lu 0.35 0.37 0.37 0.35 0.35 0.34 0.35 0.35 0.36 0.34 0.33 0.34 0.34 0.36 0.34 0.34 0.34 0.35 0.36 0.35
+(continued on next page)
+Çatal Höyük-Gollu Dag East
+899T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909OB 11 OB 12 OB 13 OB 14 OB 16 OB 17 OB 18 OB 20 OB 26 OB 29 OB 40 OB 42 OB 44 OB 45 OB 50 OB15 OB17 OB 99 39OB 99 40OB 99 44
+Al2O 3 12.68 12.52 12.40 12.63 12.66 12.64 12.45 12.54 12.61 12.50 12.58 12.61 12.70 13.15 12.71 13.68 13.72 13.80 13.95 14.04
+Fe2 O 3 0.70 0.77 0.78 0.78 0.89 0.68 0.80 0.85 0.68 0.67 0.69 0.70 0.80 0.78 0.76 1.15 1.16 1.28 1.28 1.32
+MnO 0.06 0.06 0.06 0.07 0.07 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.07 0.07 0.07 0.07 0.07 0.06 0.06 0.06
+MgO 0.04 0.04 0.03 0.04 0.04 0.04 0.04 0.04 0.03 0.04 0.04 0.04 0.04 0.04 0.04 0.17 0.17 0.17 0.18 0.18
+CaO 0.61 0.63 0.65 0.49 0.50 0.49 0.50 0.52 0.50 0.52 0.49 0.49 0.49 0.50 0.49 1.15 1.14 1.15 1.22 1.23
+Na 2 O 3.79 3.93 4.02 4.05 4.11 4.02 4.06 4.00 3.47 4.19 4.09 4.10 4.12 4.08 4.00 4.23 4.41 5.32 5.19 5.07
+K2O 4.50 3.47 4.52 4.22 3.82 4.23 3.81 4.10 4.38 3.83 3.96 4.06 3.43 4.25 3.40 4.45 4.26 4.81 4.63 4.60
+TiO2 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.06 0.12 0.12 0.12 0.14 0.15
+Co 0.10 0.09 0.09 0.19 0.09 0.15 0.18 0.17 0.17 0.16 0.11 0.14 0.14 0.10 0.11 0.62 0.63 0.71 0.68 0.66
+Rb 177 182 180 195 181 174 175 187 191 185 185 182 179 185 179 148 151 188 165 165
+Sr 12.0 10.8 8.7 12.9 12.1 11.2 10.8 12.5 10.2 12.4 12.1 12.6 11.8 12.1 10.8 91.2 92.4 108 95.3 95.7
+Y 21.7 22.1 22.3 22.6 20.4 20.7 20.1 22.3 22.9 22.0 22.0 21.7 21.1 22.0 21.4 20.1 20.4 22.7 19.8 20.0
+Zr 77.6 75.3 73.6 81.4 73.7 73.5 73.8 80.2 76.8 78.2 78.2 76.7 75.8 78.5 74.3 137 140 158 142 144
+Nb 24.0 24.5 25.1 25.9 23.2 23.7 24.0 25.6 25.8 25.2 24.7 24.1 24.0 24.7 24.1 19.9 19.9 22.4 20.3 19.9
+Cs 7.33 7.57 7.98 8.27 7.38 7.12 7.17 7.42 7.87 7.60 7.74 7.73 7.23 7.37 6.91 6.46 6.61 7.47 6.97 6.29
+Ba 167 128 98 179 171 159 160 176 125 170 169 167 170 171 141 526 532 597 556 567
+Hf 2.95 2.96 3.02 3.03 3.01 3.01 2.93 3.10 3.15 3.10 3.05 2.99 3.02 3.09 3.00 4.08 4.19 4.08 4.32 4.27
+Ta 2.23 2.30 2.42 2.22 1.97 2.29 2.24 2.30 2.36 2.35 2.17 2.16 2.27 2.26 2.29 1.77 1.75 1.62 1.83 1.80
+W 3.34 3.38 3.45 4.01 3.48 3.62 3.62 3.74 4.11 4.03 3.51 3.41 3.53 3.62 3.72 2.91 2.85 2.84 3.25 3.29
+Pb 21.5 21.5 22.0 21.7 23.6 22.2 21.7 21.7 22.8 22.9 22.7 22.5 21.6 21.9 21.3 25.8 25.7 28.4 27.7 27.6
+Th 23.4 22.2 22.6 20.8 23.0 22.2 21.6 20.4 21.4 22.0 21.0 21.0 20.8 20.7 20.7 22.8 23.1 25.1 25.2 24.5
+U 7.91 8.04 8.54 7.61 8.75 8.20 8.30 7.53 8.37 8.21 8.08 7.99 7.85 7.86 7.84 6.73 6.77 6.95 7.09 7.26
+La 24.4 22.3 21.8 23.8 22.7 22.5 21.1 23.4 22.6 23.5 23.3 23.0 23.0 23.4 22.2 36.2 36.4 41.8 38.6 38.5
+Ce 45.3 42.1 41.4 44.8 43.7 42.4 42.0 43.9 43.1 44.3 43.9 43.2 43.2 44.1 41.7 63.3 64.0 71.6 66.7 66.7
+Pr 4.56 4.28 4.23 4.49 4.36 4.27 4.04 4.43 4.42 4.48 4.41 4.32 4.39 4.42 4.27 6.07 6.09 6.69 6.43 6.31
+Nd 13.9 13.2 13.2 13.6 13.2 13.2 12.4 13.6 13.6 13.8 13.5 13.3 13.4 13.5 13.3 18.5 18.5 20.1 19.4 19.2
+Sm 2.77 2.73 2.79 2.77 2.71 2.68 2.55 2.77 2.86 2.81 2.72 2.70 2.74 2.79 2.77 2.92 2.89 3.13 3.02 3.01
+Eu 0.17 0.14 0.13 0.16 0.16 0.15 0.15 0.17 0.14 0.15 0.15 0.15 0.16 0.16 0.15 0.53 0.53 0.60 0.58 0.59
+Gd 2.77 2.77 2.78 2.70 2.56 2.67 2.53 2.75 2.91 2.73 2.71 2.72 2.57 2.63 2.54 3.10 3.14 3.39 3.29 3.43
+Tb 0.48 0.49 0.50 0.47 0.47 0.46 0.44 0.46 0.49 0.47 0.47 0.47 0.47 0.49 0.48 0.47 0.47 0.46 0.46 0.47
+Dy 2.97 3.02 3.11 2.99 2.96 2.95 2.85 3.01 3.16 3.05 2.99 3.00 2.94 3.00 3.03 2.69 2.73 2.73 2.67 2.70
+Ho 0.64 0.66 0.68 0.64 0.63 0.63 0.61 0.64 0.67 0.66 0.64 0.64 0.64 0.66 0.65 0.59 0.59 0.59 0.59 0.59
+Er 1.98 1.99 2.10 1.97 1.94 1.92 1.87 1.96 2.08 2.03 1.98 1.94 1.97 2.03 1.98 1.79 1.85 1.75 1.87 1.80
+Yb 2.17 2.22 2.30 2.15 2.13 2.15 2.08 2.17 2.27 2.18 2.21 2.15 2.16 2.23 2.20 2.10 2.12 2.22 2.19 2.18
+Lu 0.33 0.34 0.35 0.34 0.34 0.34 0.33 0.35 0.37 0.36 0.34 0.34 0.33 0.34 0.34 0.35 0.34 0.37 0.35 0.36
+Çatal Höyük-Gollu Dag East Çatal Höyük-Nenezi Dag
+Table 4 (continued)
+900 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909OB 99 45OB 99 46OB 99 47OB 99 48OB 99 49OB 99 59OB 99 75OB 99 76OB 99 77OB 99 79OB 99 82OB 99 83 OB 1 OB 2 OB 7 OB 15 OB 19 OB 21 OB 22 OB 23
+Al 2 O 3 13.86 14.60 13.95 13.76 13.99 13.99 14.07 13.88 13.97 13.80 13.86 13.66 13.99 14.08 13.75 13.26 13.61 13.82 13.79 13.82
+Fe 2O 3 1.23 1.26 1.18 1.23 1.23 1.20 1.26 1.24 1.21 1.23 1.25 1.22 1.26 1.28 1.29 1.23 1.29 1.25 1.09 1.10
+MnO 0.06 0.06 0.06 0.06 0.06 0.05 0.07 0.06 0.05 0.05 0.06 0.06 0.07 0.06 0.06 0.07 0.07 0.07 0.07 0.07
+MgO 0.16 0.16 0.15 0.15 0.15 0.14 0.14 0.14 0.13 0.14 0.15 0.14 0.17 0.16 0.16 0.15 0.16 0.16 0.15 0.15
+CaO 1.15 1.16 1.15 1.12 1.15 1.14 1.12 1.13 1.14 1.13 1.12 1.19 1.03 1.54 1.17 1.11 1.17 1.16 1.18 1.18
+Na 2 O 5.11 4.81 4.70 4.80 4.60 4.49 4.76 4.72 4.51 4.61 4.63 4.61 4.35 4.08 4.02 4.29 4.30 4.30 4.32 4.43
+K 2 O 4.61 4.53 4.29 4.42 4.42 4.27 4.58 4.38 4.19 4.03 4.11 4.31 4.72 4.42 4.29 4.11 3.75 4.16 4.06 3.83
+TiO 2 0.11 0.12 0.12 0.11 0.10 0.10 0.12 0.11 0.12 0.12 0.12 0.12 0.12 0.13 0.12 0.13 0.13 0.13 0.13 0.13
+Co 0.60 0.72 0.73 0.69 0.56 0.72 0.67 0.63 0.65 0.73 0.76 0.68 0.68 0.67 0.59 0.70 0.76 0.73 0.78 0.70
+Rb 167 166 168 171 165 166 167 156 158 160 163 153 171 170 158 169 164 160 168 162
+Sr 98.9 98.0 99.1 101 96.5 98.2 98.5 95.6 97.5 98.8 100.6 94.0 98.5 97.6 92.8 92.9 95.5 93.6 98.2 94.3
+Y 20.5 20.4 20.3 20.7 20.2 20.3 20.1 20.2 20.2 20.6 21.1 19.9 21.3 21.1 20.0 19.9 20.5 20.1 20.8 20.2
+Zr 144 145 145 148 141 143 149 143 144 146 149 142 154 153 145 147 148 145 151 145
+Nb 19.6 20.6 20.3 21.2 18.5 20.4 20.6 20.6 20.8 21.1 21.1 20.4 22.2 22.1 19.8 21.5 21.2 20.7 21.7 20.7
+Cs 7.16 7.22 7.22 7.40 6.38 6.44 6.36 6.39 6.43 6.09 6.26 5.88 6.83 6.83 6.35 7.15 6.42 6.30 6.57 6.23
+Ba 568 570 570 580 556 560 574 548 558 561 572 552 598 599 558 581 574 565 585 572
+Hf 4.15 4.22 4.18 4.20 4.15 4.19 4.31 4.09 4.12 4.16 4.08 4.08 4.03 4.06 4.13 4.12 4.23 4.18 4.21 4.26
+Ta 1.60 1.83 1.77 1.77 1.57 1.77 1.79 1.76 1.78 1.89 1.78 1.75 1.76 1.77 1.74 1.83 1.85 1.79 1.83 1.79
+W 2.68 3.16 3.07 3.12 2.39 2.82 3.33 3.12 3.13 3.04 2.86 3.04 3.08 3.09 3.00 3.72 3.46 3.40 3.48 3.50
+Pb 27.8 27.8 27.6 27.5 27.9 27.4 27.4 27.9 28.3 28.8 28.3 28.0 26.0 25.9 26.9 26.4 27.4 27.4 26.9 27.4
+Th 24.4 25.0 24.3 24.3 24.1 23.9 24.0 24.0 24.1 23.9 23.9 23.9 27.4 27.1 28.2 25.6 25.6 25.9 25.2 26.2
+U 7.09 7.19 6.99 7.01 6.97 6.96 7.14 6.99 7.06 6.78 6.82 6.84 6.90 6.80 7.13 6.82 6.99 7.07 6.85 7.19
+La 39.5 38.9 39.1 39.9 38.4 38.2 39.2 37.4 37.8 37.8 38.5 37.7 41.3 41.3 38.5 38.4 39.3 38.7 40.1 39.1
+Ce 67.8 66.9 67.5 67.9 67.3 66.4 67.5 65.0 64.8 65.6 67.1 65.4 68.4 68.3 64.9 66.0 66.3 65.5 67.5 66.4
+Pr 6.49 6.41 6.43 6.46 6.36 6.37 6.43 6.14 6.17 6.22 6.38 6.22 6.56 6.53 6.28 6.26 6.39 6.32 6.54 6.41
+Nd 19.6 19.2 19.3 19.4 19.2 19.2 19.4 18.8 18.7 18.9 19.0 18.6 19.9 19.8 19.1 18.8 19.4 19.2 19.6 19.5
+Sm 3.03 3.01 3.00 3.03 3.07 3.01 3.05 2.96 2.98 2.95 2.99 2.95 3.22 3.24 3.20 3.06 3.13 3.09 3.17 3.20
+Eu 0.58 0.59 0.59 0.58 0.59 0.59 0.59 0.57 0.57 0.58 0.59 0.58 0.58 0.58 0.57 0.59 0.61 0.63 0.66 0.64
+Gd 3.39 3.40 3.34 3.39 3.45 3.41 3.53 3.40 3.37 3.43 3.45 3.41 2.97 3.02 2.98 3.11 3.14 3.16 3.23 3.23
+Tb 0.46 0.46 0.47 0.46 0.47 0.46 0.47 0.47 0.47 0.48 0.49 0.48 0.46 0.46 0.47 0.43 0.44 0.44 0.44 0.45
+Dy 2.73 2.66 2.68 2.68 2.70 2.68 2.74 2.67 2.67 2.71 2.67 2.65 2.74 2.77 2.78 2.69 2.79 2.77 2.80 2.79
+Ho 0.59 0.59 0.59 0.58 0.58 0.58 0.61 0.58 0.59 0.59 0.58 0.59 0.60 0.60 0.60 0.58 0.59 0.59 0.60 0.60
+Er 1.87 1.86 1.80 1.85 1.80 1.83 1.82 1.76 1.78 1.79 1.80 1.79 1.90 1.90 1.92 1.82 1.86 1.86 1.86 1.89
+Yb 2.20 2.21 2.20 2.21 2.20 2.14 2.19 2.10 2.16 2.17 2.18 2.13 2.22 2.20 2.22 2.11 2.20 2.15 2.17 2.21
+Lu 0.36 0.36 0.36 0.36 0.35 0.35 0.36 0.35 0.34 0.34 0.34 0.35 0.35 0.35 0.35 0.35 0.35 0.36 0.36 0.36
+Çatal Höyük-Nenezi Dag
+(continued on next page)
+901T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909Acigöl W
+OB 24 OB 25 OB 27 OB 28 OB 30 OB 31 OB 32 OB 33 OB 34 OB 35 OB 36 OB 37 OB 38 OB 39 OB 41 OB 43 OB 46 OB 47 OB 48 OB 49 OB 38
+Al2 O 3 13.61 13.63 13.77 13.86 13.78 13.34 12.95 13.15 12.77 13.65 13.45 13.53 13.29 14.05 13.56 14.09 13.84 13.71 13.76 13.60
+Fe2O 3 1.21 1.04 1.14 1.08 1.04 1.07 1.08 1.09 1.09 1.09 1.10 1.02 1.12 1.06 1.13 1.20 1.05 1.17 1.17 1.10
+MnO 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.07 0.08 0.07 0.07
+MgO 0.15 0.15 0.15 0.15 0.14 0.16 0.16 0.16 0.16 0.16 0.16 0.15 0.16 0.15 0.16 0.17 0.16 0.17 0.16 0.16
+CaO 1.17 1.14 1.16 1.22 1.15 1.16 1.24 1.25 1.23 1.20 1.20 1.18 1.20 1.20 1.17 1.13 1.13 1.16 1.12 1.16
+Na 2 O 3.98 3.89 4.43 4.37 4.40 4.40 4.48 4.44 4.48 4.44 4.45 4.40 4.41 4.34 4.36 4.24 4.51 4.56 4.37 4.39
+K2 O 3.85 4.00 4.22 3.99 3.49 3.86 3.92 3.93 3.83 3.80 4.01 3.94 3.98 4.00 4.01 3.28 3.84 4.28 3.76 3.83
+TiO2 0.13 0.13 0.13 0.13 0.12 0.13 0.14 0.13 0.14 0.13 0.13 0.13 0.13 0.13 0.13 0.13 0.14 0.14 0.14 0.13
+Co 0.73 0.75 0.74 0.79 0.72 0.65 0.61 0.67 0.67 0.62 0.59 0.65 0.64 0.68 0.66 0.65 0.63 0.60 0.65 0.71
+Rb 160 162 166 165 164 162 167 155 161 155 160 158 156 168 166 176 162 162 164 170 167
+Sr 94.1 95.3 97.0 97.0 95.9 93.5 95.8 90.5 92.6 90.2 91.5 91.3 90.3 97.0 95.7 99.9 94.4 94.5 96.0 99.7 1.47
+Y 19.9 20.5 20.6 20.3 20.4 20.3 20.5 19.4 19.9 19.4 19.7 19.7 19.4 20.6 20.5 20.8 20.3 20.3 20.3 21.1 19.9
+Zr 144 147 149 149 147 147 149 140 143 139 141 141 139 149 147 150 147 145 147 152 47.1
+Nb 20.7 20.8 21.5 21.6 21.5 21.3 21.6 20.3 20.5 19.8 20.3 20.2 19.8 21.6 21.0 21.8 20.6 20.6 21.0 21.5 20.9
+Cs 6.18 6.26 6.58 6.60 6.20 6.68 6.95 6.29 6.42 6.30 6.64 6.57 6.57 6.81 6.76 7.03 6.34 6.31 6.37 6.54
+Ba 565 571 580 584 580 564 582 556 565 555 558 553 553 586 579 590 568 560 570 579 2.96
+Hf 4.21 4.22 4.29 4.26 4.18 4.13 4.13 4.17 4.17 4.18 4.21 4.20 4.22 4.20 4.26 4.01 4.19 4.20 4.06 4.18 2.04
+Ta 1.81 1.78 1.85 1.87 1.84 1.85 1.81 1.82 1.80 1.80 1.77 1.79 1.78 1.84 1.82 1.82 1.81 1.75 1.78 1.79 1.50
+W 3.53 3.46 3.64 3.73 3.71 3.24 3.19 3.28 3.17 3.14 3.18 3.19 3.20 3.32 3.28 3.40 3.32 3.20 3.26 3.26
+Pb 28.2 27.3 27.8 28.5 27.5 26.9 27.7 28.4 27.9 27.9 27.8 27.8 27.4 28.1 28.1 27.0 27.2 27.2 27.5 27.2 27.6
+Th 26.4 26.1 25.9 26.8 26.1 26.4 26.5 26.5 25.9 26.2 25.8 25.8 25.9 25.9 25.9 25.8 24.9 25.3 25.2 24.9 13.5
+U 7.29 7.11 7.14 7.39 7.29 7.14 7.20 7.20 7.20 7.18 7.17 7.11 7.12 7.38 7.36 7.16 6.97 7.06 7.10 6.92 6.09
+La 38.6 39.3 40.1 39.7 39.7 39.3 40.0 38.8 39.0 38.4 38.6 38.4 38.6 40.2 39.8 40.5 39.7 38.7 39.2 39.9 7.83
+Ce 65.9 66.3 67.7 68.1 67.5 65.7 67.3 65.7 66.1 64.8 65.4 64.9 65.1 68.1 67.7 69.1 66.5 65.5 66.4 68.2 16.5
+Pr 6.36 6.42 6.55 6.50 6.47 6.37 6.50 6.33 6.37 6.29 6.31 6.29 6.28 6.52 6.52 6.56 6.44 6.31 6.37 6.58 2.04
+Nd 19.5 19.9 19.7 19.6 19.3 19.4 19.2 19.3 19.2 19.2 19.2 19.3 19.8 19.7 19.8 19.6 19.3 19.4 19.9 7.35
+Sm 3.12 3.18 3.22 3.20 3.21 3.10 3.13 3.13 3.13 3.12 3.11 3.10 3.09 3.20 3.18 3.14 3.22 3.10 3.13 3.17 2.00
+Eu 0.65 0.65 0.63 0.62 0.62 0.53 0.53 0.53 0.53 0.53 0.54 0.52 0.52 0.55 0.55 0.56 0.57 0.57 0.56 0.57 0.022
+Gd 3.21 3.21 3.11 2.96 2.99 2.97 2.99 2.99 3.05 3.11 3.08 3.08 3.07 3.21 3.16 2.81 2.75 2.81 2.79 2.82 2.14
+Tb 0.45 0.45 0.44 0.45 0.45 0.44 0.44 0.44 0.44 0.44 0.44 0.43 0.43 0.45 0.45 0.44 0.45 0.45 0.45 0.45 0.41
+Dy 2.71 2.78 2.79 2.79 2.80 2.70 2.69 2.75 2.76 2.76 2.70 2.73 2.71 2.76 2.75 2.66 2.75 2.71 2.70 2.77 2.86
+Ho 0.60 0.60 0.61 0.61 0.60 0.59 0.59 0.60 0.60 0.60 0.59 0.59 0.58 0.60 0.60 0.59 0.61 0.60 0.60 0.62 0.62
+Er 1.88 1.88 1.92 1.91 1.87 1.85 1.85 1.87 1.90 1.89 1.87 1.86 1.86 1.88 1.89 1.86 1.90 1.85 1.84 1.88 1.86
+Yb 2.19 2.22 2.20 2.21 2.21 2.15 2.17 2.21 2.20 2.20 2.15 2.18 2.18 2.21 2.21 2.19 2.24 2.20 2.15 2.20 2.20
+Lu 0.37 0.37 0.37 0.37 0.36 0.35 0.35 0.35 0.36 0.36 0.36 0.35 0.35 0.36 0.35 0.34 0.35 0.35 0.34 0.35 0.35
+Çatal Höyük-Nenezi Dag
+Table 4 (continued)
+902 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909typically 25 mm in diameter and about 50 mm deep, and are
+virtually invisible to the naked eye. The analysis of each sample requires no preparation with the flakes of obsidian being
+placed directly into the ablation chamber of the laser ablation
+system. The analysis of each flake takes approximately 5 min.
+Full details of the analytical methods are given in Pearce
+et al. [43] and references therein.
+Analyses were calibrated against the NIST 610 ‘Trace elements in Glass’ reference material using concentrations taken
+from Pearce et al. [42]. To produce quantitative trace-element
+analyses, LA-ICP-MS requires the knowledge of at least one
+element in the unknown to act as an internal standard (usually
+SiO 2 in rhyolitic materials). As no concentrations were known
+for any elements in the obsidian flakes analysed, a value of
+69.895% was assumed for SiO 2 (the same concentration as
+in the NIST 610 reference material) to act as the internal standard, and to give approximate concentrations. Because of this
+estimate of the internal standard, the reported concentrations
+cannot be used directly for comparison (as they are calculated
+using this assumed value of the internal standard, and not the
+true concentration). Ratios of one element to another (e.g. Zr/
+Y, Zr/Nb or any other element pair), however, are correct (as
+the ratios are independent of the actual concentration), and
+these can be used in identifying groups within the data
+(Fig. 5). Similarly triangular discrimination diagrams plot
+the relative proportions of three elements, and can also be
+used in provenance/correlation studies (Fig. 6). To avoid any
+possible confusion, here only plots of the data are presented,
+the approximate concentration data from which they are derived is not presented, but would be available from the authors
+if needed.
+LA-ICP-MS offers one advantage over solution analytical
+methods in that it is easy to identify in the analysis the presence of any mineral inclusions. Analyses that have ablated
+into invisible sub-surface micro-phenocryst phases (such as
+feldspar, zircon or apatite) in the obsidian can be easily recognised because of anomalous concentrations of Sr, Zr and
+LREE for example [41,43]. These analyses can be removed
+from the data sets so that only the glassy component of the obsidian is considered in the comparisons.
+6.2. Data
+Two distinct groups can be observed in the data, representing the southern Cappadocian sources of Nenezi Dag ̆ (n ¼ 6)
+and Go ̈llu ̈ Dag ̆ -East (n ¼ 28), while a third chemical type is
+represented by one sample alone (Figs. 5 and 6). The first
+group comprises seven samples that form a clear grouping
+with high Zr/Nb and high Zr/Y ratios (Fig. 5), and correlate
+directly with the Nenezi Dag ̆ group as identified at CNRS
+by Poupeau and Bressy: OB27, OB54, OB57, OB65, OB70,
+OB74, OB85. The second group of samples form the main
+cluster of analyses with 28 samples, and correlate with the
+Go ̈llu ̈ Dag ̆ -East analyses of CNRS: OB2, OB3, OB4, OB5,
+OB21, OB22, OB24, OB25, OB26, OB28, OB29, OB42,
+OB43, OB50, OB52, OB53, OB55, OB56, OB58, OB61,
+OB62, OB63, OB64, OB66, OB68, OB69, OB71, OB90.
+There are some minor subdivisions evident in this second
+group that may merit further investigations, for example samples OB71, OB87 and OB4 often cluster together on many of
+the discriminant diagrams, having relatively low Ba. These
+variations form the cluster at the low Ba end of the main group
+of samples in Fig. 6. These may be subtle variations on the
+main groupings, but at present with only a few of each group
+present it is hard to be precise in defining these groups, if indeed they are real. These sub groups are clearly related geochemically (similar trace element ratios, etc.) and are likely
+to have originated from a very similar source, such as a series
+of lava flows from the same volcano, and may thus be a reflection of subtle compositional differences between such flows.
+Without comparative material from individual sources, it is
+not possible to be certain about the causes of this variation.
+Finally, sample OB38-ABER identified initially by the LAICP-MS analyses at Aberystwyth stands alone in having the
+lowest Zr/Y and Zr/Nb ratios (Fig. 5), and having high Rb
+and Zr relative to low Ba (Fig. 6). It is clearly distinct from
+all other samples analysed by LA-ICP-MS and does not correlate with the Nenezi Dag ̆ or Go ̈llu ̈ Dag ̆ -East sources. Further
+analyses by solution ICP-MS (Delerue, Milton and Poupeau)
+confirm the low Zr/Y and Zr/Nb of this sample. The sole
+Fig. 5. Element/element ratio discrimination diagrams using Zr/Y vs. Zr/Nb
+determined by LA-ICP-MS at Aberystwyth.
+903T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909origin, with which this artefact shows strong affinities, in particular from its Sr, Zr and Ba contents, is with the geological
+obsidians of the Acıgo ̈l West area (Table 5).
+7. Discussion
+Perhaps invariably, the data generated by our analyses have
+spawned more questions than they answered. Focusing for the
+time being on what we have learnt, it can be stated that all of
+the samples thus far analysed have a chemical signature congruent with a Cappadocian source (Tables 5 and 6). At present,
+the trace-elemental data allow us to assign the vast majority of
+them with some confidence to the ‘two’ southern sources of
+Go ̈llu ̈ Dag ̆ -East (n ¼ 83) and Nenezi Dag ̆ (n ¼ 51), while
+one piece is believed to have come from Ac ̧igo ̈l West in northern Cappadocia (OB38-ABER). We refer to ‘two’ southern
+sources, but the Go ̈llu ̈ Dag ̆ -East signature, as defined by Poidevin in 1998 [46, pp. 115e121] actually represents three
+separate obsidian flows (Kayırlı-East, Ko ̈mu ̈rcu ̈ and Sirc ̧a Deresi) that could not be geochemically discriminated by the participant laboratories employing the analytical techniques
+described above (though see [29]).
+Our new data thus corroborate Keller and Seifried’s assertions that C ̧ atalho ̈yu ̈k was procuring obsidian from Go ̈llu ̈
+Dag ̆ -East and Nenezi Dag ̆ [34], as indeed were numerous
+other Aceramic and Early Neolithic settlements in central
+Anatolia and beyond. These include Canhasan III (Konya
+plain), Asxıklı Ho ̈yu ̈k and Musular (Cappadocia), Mersin
+(Cilicia), Shillourokambos (Cyprus), Byblos and Halula
+(Syria), Beisamoun (southern Jordan) and Mevorakh (coastal
+Israel) [22, pp. 285e292, figs. 5a-b, 7a-b]. For the (Late)
+Chalcolithic, the Aphrodisias in southwest Turkey has also
+produced obsidian from Go ̈llu ̈ Dag ̆ -East and Nenezi Dag ̆
+[13]. The issues of exactly how and when these sources were
+exploited, and C ̧ atalho ̈yu ̈k’s position within the various modes
+of procurement and exchange, are crucially important questions that unfortunately lie beyond this paper’s scope and will
+be dealt with elsewhere.
+While only one artefact is sourced to Acıgo ̈l West (OB38ABER) the piece is significant, not least for perhaps serving to
+rescue the earlier assignation of artefacts to the north Cappadocian outcrops [49,58]. It remains the case, however, that
+limited evidence exists for the exploitation of this obsidian,
+with only a handful of artefacts sourced tentatively to Acıgo ̈l
+West, from Aceramic Neolithic Asxıklı Ho ̈yu ̈k (Cappadocia),
+Late Chalcolithic Aphrodisias (SW Turkey) and Bronze Age
+Fig. 6. Trace element discrimination diagram for obsidian flakes using Rb, Zr
+and Ba determined by LA-ICP-MS at Aberystwyth.
+Table 5
+Source of C ̧ atalho ̈yu ̈k obsidian by level
+Level Samples Go ̈llu ̈ Dag ̆-east Nenezi Dag ̆ Ac ̧igo ̈l West
+E. Chalcolithic IeII 7 3 4 e
+III 2 e 2 e
+VIB 1 1 e e
+VIIeVI 79 38 40 1
+VII 15 13 2 e
+VIIIeVII 10 8 2 e
+VIII 16 15 1 e
+IX 5 5 e e
+Total 135 83 (61.5%) 51 (37.8%) 1 (0.7%)
+Table 6
+Source of C ̧ atalho ̈yu ̈k obsidian by level and industry
+Level Obsidian industries
+1 2 3 4 5 6 7
+IX C e e ns ns ns C
+VIII C e e C : e C
+VIIIeVII ns e e ns ns e C
+VII C e e :? :? e C
+VIIeVI C : e e C : C : e C :?
+VIB C? e e ns ? e ns
+III ? e e ns : e ns
+Early Chalcolithic IeII ? e e ns C : e ?
+C e Go ̈llu ̈ Dag ̆-east; : e Nenezi Dag ̆; industries 2 and 3 not represented
+after Pre-Level XII.A, industry 6 not sampled/not represented after Level
+IX; uncertain whether industries 1 and 7 continue in later levels.
+904 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909Hassek Hu ̈yu ̈k (Middle Euphrates [22, pp. 279e285, Table 2]).
+As with Go ̈llu ̈ Dag ̆ -East, the Acıgo ̈l West geo-chemical
+‘source’ currently subsumes a number of distinct outcrops,
+namely: Karnıyarık, Kuzeytepe, Kalecitepe, Gu ̈ney Dag ̆ ,
+Koru Dag-North/South and ‘‘Acıgo ̈l crater’’ [46, p. 113, fig. 6].
+Turning to the negative evidence, we still lack evidence for
+obsidian coming from C ̧ atalho ̈yu ̈k’s closest source, Hasan Dag ̆
+(Fig. 1), the mountain occasionally visible from the site, its
+double-peaks allegedly represented in a wall painting from
+Shrine VII, 14 [38, pp. 176e177, pl. 59e60]. Mellaart claimed
+that the mountain’s depiction symbolized the significance
+accorded the source of C ̧ atalho ̈yu ̈k’s obsidian, ‘from which
+the site probably derived much of its wealth’ [38, p. 177]. It
+has since become clear, however, that the obsidian at Hasan
+Dag ̆ is difficult to access and possesses a poor conchoidal fracture habit; moreover, analyses have failed to link any archaeological obsidian to this mountain, suggesting that it may
+never have been exploited [17 (p. 252),22 (pp. 292e293)].
+Nor have our analyses provided any corroborative evidence
+for Renfrew’s alleged piece of Armenian obsidian, though
+we have little problem with the idea that such material might
+be recovered at C ̧ atalho ̈yu ̈k (particularly from the later levels).
+Since our analyses were run, matters have become somewhat more complicated, with renewed work at the sources
+demonstrating that at least 10 spatially and geologically distinct outcrops exist on the Go ̈llu ̈ Dag ̆ massif [31], as opposed
+to the six discussed originally by Poidevin (Go ̈llu ̈ Dag ̆ -East
+and West [46, pp. 115e121]). Furthermore, it is claimed that
+a more fine-tuned discrimination of the sources can be
+achieved through combined geo-chemical, geo-chronological
+and structural analyses, with four groups distinguished thus
+far. Of significance to this paper, is the claim that KaletepeEriklidere Birtlikeler and Ekinlik can now be discriminated,
+outcrops that were previously subsumed in the Go ̈llu ̈ Dag ̆ -
+East field; most of the known Neolithic workshops cluster
+around these outcrops (two of which were once termed ‘Ko ̈mu ̈rcu ̈’ [31]). Some of the current authors have subsequently
+interrogated our data further, the results provisionally suggesting a potential separation of our old Go ̈llu ̈ Dag ̆ -East field,
+however we need an increased compositional data-bank of
+geological samples (not least matching the newly mapped outcrops), before we can further develop these important lines of
+enquiry [47].
+7.1. The relationship between technology
+and source through time
+The above statements offer only the simplest appraisal of
+our new data, for there are far more nuanced patterns that
+one can observe in C ̧ atalho ̈yu ̈k’s consumption of these obsidians, particularly when one considers the artefacts’ technology
+and date. Studies of the chipped stone from the 1995e1999
+excavations, spanning Level Pre-XII.DeLevel VeIV, have
+demonstrated that obsidian was circulating in different forms
+and being worked by various techniques at any one time
+[15]. This evidence for parallel chaıˆnes ope ́ratoires is a recurrent feature of C ̧ atalho ̈yu ̈k’s obsidian assemblages; the nature
+of production and tool-types change through time, but technological variability is a constant throughout the site’s history.
+Seven industries have thus far been documented, a proportion
+of which were sampled in the current analysis (data summarised in Tables 5 and 6).
+7.1.1. Industry 1
+C ̧ atalho ̈yu ̈k’s dominant industry from its basal levels (Level
+Pre-XII.D), up to at least Level VI.B; the manufacture of
+small, un-standardized blades and blade-like flakes from opposed platform cores (Fig. 2aee), a relatively low-skilled percussive technique that was performed locally. The tradition is
+documented at other central Anatolian sites, including Canhasan III (Aceramic Neolithic [15]). Many pieces from this industry were characterised, including end-products, cores and
+rejuvenation material, from Level IX (OB31, OB 33, OB34),
+Level VIII (OB3, OB20, OB21, OB23, OB24, OB90), Level
+VII (OB6, OB7, OB9, OB10, OB14, OB16), Level VIIeVI
+(OB5, OB8, OB56, OB42-ABER, OB43-ABER, inter alia)
+and Level VI.B (OB1), all being sourced to Go ̈llu ̈ Dag ̆ -East.
+Only Level VIIeVI produced industry 1 blades and cores
+made from Nenezi Dag ̆ obsidian (OB37-CNRS2, OB38CNRS2).
+7.1.2. Industry 2
+Regular prismatic microblades/microliths manufactured onsite during Level Pre-XII.BeD, part of a central Anatolian
+Aceramic Neolithic tradition (cf. [3 (pp. 142e143),5 (p. 82 &
+fig. 2.4e6)]), albeit one that ultimately has an Epi-Palaeolithic
+heritage [14,33]. None of these products were analysed.
+7.1.3. Industry 3
+Long blade-like burin spalls flaked from the margins of
+non-local scrapers and projectiles; similar material is reported
+from Asxıklı Ho ̈yu ̈k in Cappadocia (Aceramic Neolithic [4, p.
+211 & fig. 11.10]). None of these ‘edge blades’ were sourced.
+7.1.4. Industry 4
+Bipolar prismatic blades of non-local manufacture. This
+‘industry’ subsumes a number of different knapping traditions
+through time, the lack of associated cores making it difficult
+to offer further subdivisions. Examples made from Go ̈llu ̈
+Dag ̆ -East obsidian are attested in Level VIII (OB2, OB26
+[Fig. 2f]), while in Level VIIeVI we have evidence that
+both south Cappadocian obsidians were used to make bipolar
+blades (Go ̈llu ̈ Dag ̆ -East e OB36-CNRS1, OB20), with the Nenezi Dag ̆ samples (e.g. OB25) including large fine naviform
+products from a hoard (OB15/OB44, OB49-CNRS1 [Fig. 2u,
+v]); the latter raw material is further represented by an industry
+4 rejuvenation flake from Level VII (OB15).
+During the Aceramic Neolithic we know that bipolar blades
+were being produced at both settlements (e.g. Asxıklı Ho ̈yu ̈k [1])
+and quarries, the latter evidenced by excavations at Kaletepe
+sector P, atop Go ̈llu ̈ Dag ̆ ’s Ko ̈mu ̈rcu ̈ outcrop [6 (pp. 194e
+199),7 (p. 136)]. For the Early Neolithic period things are
+less clear due to a lack of excavated data. Surface surveys
+have, however, recorded concentrations of opposed platform
+905T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909cores on Nenezi Dag ̆ and at Bitlikeler (Go ̈llu ̈ Dag ̆ ), an apparently long-lived workshop on the Kayırlı flow [7, pp. 135e
+137, figs. 4.1 & 12]; the new C ̧ atalho ̈yu ̈k characterization
+data suggest that these assemblages may, in part, date to the
+7th millennium BC (Level VIIIeVII). Arguably our results
+take on a further significance at this juncture, as they allow
+us to start to indirectly describe the nature of production at
+the sources, offering information as to what was being manufactured and when.
+7.1.5. Industry 5
+Unipolar prismatic blades (pressure and skilled percussion)
+whose manufacture is almost certainly non-local up to Level
+VI.A [24]; the varying widths of these products suggests that
+this ‘industry’ again includes a number of different techniques.
+Analysis indicates industry 5 blades are represented in both
+obsidians, their lips usually removed by flaking, suggesting
+that certain knapping traditions were not raw material specific.
+Samples sourced to Go ̈llu ̈ Dag ̆ -East (Fig. 2gei) came from
+Level VIII (rejuvenation flake [OB27]), Level VIIeVI (rejuvenation flake and blades [OB3, OB5, OB29, OB63]) and C ̧ atalho ̈yu ̈k West (Early Chalcolithic II [OB81-CNRS1]). Most of
+the Level VIIeVI examples were made of Nenezi Dag ̆ obsidian (OB47-CNRS2, OB28, OB23, OB31, inter alia), while
+Level III (OB75) and C ̧ atalho ̈yu ̈k West (Early Chalcolithic I
+(OB77-CNRS1, OB 79-CNRS1]) produced unipolar blades
+made from the same raw material (Fig. 2met).
+As with the opposed platform blade technologies, our best
+(excavated) evidence for unipolar blade production in central
+Anatolia comes from Aceramic Neolithic sites, both settlement (e.g. Asxıklı Ho ̈yu ̈k [1]) and quarry workshops, not least
+Kaletepe sector P on Go ̈llu ̈ Dag ̆ [6 (pp. 199e200),8 (p. 249 &
+253, figs. 7 & 11.1)]. Surface concentrations of single platform
+regular prismatic blade cores have also been found at Bitlikeler (Kayırlı outcrop) and Nenezi Dag ̆ [4, 135e137, Table 1].
+7.1.6. Industry 6
+Level Pre-XII.DeB (Aceramic Neolithic) produced a series
+of large, flat flakes used to make scrapers. These pieces may
+derive from a distinct reduction sequence, or could be byproducts from a large bipolar blade industry. Parallels are
+known from Asxıklı Ho ̈yu ̈k and other Cappadocian sites of similar date (cf. [14, p. 215 & figs. 4, 5 & 7]); none were sampled.
+7.1.7. Industry 7
+Up to Level VI.B, most of C ̧ atalho ̈yu ̈k’s obsidian entered the
+site in the form of thick part-worked flakes e some worked into
+side-scrapers e that were likely knapped at the quarries; most
+complete examples come from hoards [26]. These ‘quarry
+flakes’ again embody more than one chaıˆne ope ́ratoire, with
+some representing biface preforms, while others became the
+cores for industry 1. Most of the industry 7 samples were characterised as being made of Go ̈llu ̈ Dag ̆ -East obsidian (Fig. 2jel),
+with a possible biface preform from Level IX (OB30), possible
+biface thinning flakes from Levels VIII and VIIIeVII (OB4,
+OB58, OB 66), fragmentary ‘quarry flakes’ from Level VII
+(OB11, OB13, OB19, OB89), biface thinning flakes (OB64)
+and broken ‘quarry flakes’ (OB10, OB40-CNRS2, OB35CNRS1) from Level VIIeVI. These results were perhaps to
+be expected. Large flakes/scrapers have been recovered found
+on the surface at the Kayırlı (Bitlikeler workshop) and Ko ̈mu ̈rcu ̈ outcrops [17, pp. 257e264, figs. 7 & 12], while a workshop producing biface preforms has been investigated at
+Kaletepe sector M (Ko ̈mu ̈rcu ̈) has long been suggested at the
+source of the C ̧ atalho ̈yu ̈k hoard material [6 (pp. 200e201,
+fig. 7),17 (p. 270)]; we have now provided the archaeometric
+data to prove the link. Interestingly, Level VIIeVI also produced a few possible industry 7 ‘quarry flakes’ sourced to
+Nenezi Dag ̆ (OB35-CNRS2, OB33, OB49-CNRS2).
+8. Conclusions
+Even allowing for the fact that the 135 artefacts neither represent all of the industries thus far defined, nor all of the excavated levels, it remains apparent that significant temporal and
+technological differences existed in C ̧ atalho ̈yu ̈k’s exploitation
+of Cappadocia’s raw materials (Tables 5 and 6). Firstly, Go ̈llu ̈
+Dag ̆ -East obsidian enjoys a long history of use and dominates
+the earlier assemblages, almost 90% of those artefacts analysed
+from Levels IX to VII (n ¼ 41/46, 89%). In contrast, there is
+a marked upswing in the use of Nenezi Dag ̆ obsidian approximately half-way through the Early Neolithic occupation sequence, constituting just over half of the samples from Level
+VIIeVI and later (n ¼ 46/89, 52%). Moreover, there is a technological component to this pattern, because the increased consumption of Nenezi Dag ̆ obsidian correlates directly with
+unipolar pressure-flaked blade technology (industry 5) becoming the mainstay industry at C ̧ atalho ̈yu ̈k. Significantly, this shift
+coincides with a number of other changes at the site around
+Level VI.B in lithic, ceramic and building technologies [24,
+36 (pp. 295e296),37 (p. 172)]; we return to this issue below.
+8.1. Modes of consumption: Levels IXeVII
+During Levels IX to VII the Go ̈llu ̈ Dag ̆ -East obsidian(s)
+embody a number of distinct chaıˆnes ope ́ratoires, the raw material entering the site in different forms and being consumed
+in different ways. Much of C ̧ atalho ̈yu ̈k’s obsidian arrived as
+large, thick, largely decorticated flakes that had been knapped
+at the Kayırlı and Ko ̈mu ̈rcu ̈ outcrops [17, pp. 257e264, figs. 7
+& 12] and then transported in bulk to the site (industry 7),
+where they were buried in intramural hoards [26]. When retrieved from their sub-floor caches the flakes were knapped
+to produce the small blades and blade-like flakes of industry 1,
+our dominant ‘in house’ tradition at pre-Level VI.B C ̧ atalho ̈yu ̈k. The biface preforms almost certainly came from Kaletepe sector M [6, pp. 200e201, fig. 7], their final shaping
+into spearheads occurring within the houses. While none of
+our industry 7 samples came from hoards, we feel confident
+that future analyses will demonstrate that most of these ‘quarry
+flakes’ are made of Go ̈llu ̈ Dag ̆ -East obsidian; indeed, most of
+the related industry 1 material from Levels IX to VII contexts
+were provenanced to this source.
+906 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909While industry 1 represents the primary mode of consuming
+Go ̈llu ̈ Dag ̆ -East obsidian(s) during this period, the raw material
+was also being used in other traditions, as evidenced by the two
+bipolar prismatic blades (industry 4) from Level VIII. The lack
+of associated manufacturing debris suggests that these blades
+arrived ready-made, having possibly been knapped at the quarries; the Bitlikeler workshop is perhaps the likeliest origin
+given that Kaletepe seems to have mainly operated at an earlier
+date [7 (pp. 136e138, fig. 12),36]. The only diagnostic piece of
+Nenezi Dag ̆ obsidian from Levels IX to VII is a rejuvenation
+flake from a bipolar prismatic blade core (Level VIII); the
+nucleus itself had almost certainly been prepared and reduced
+at a quarry workshop (see [7, pp. 135e136, fig. 4.1]).
+8.2. Modes of consumption: Levels VIIeVI
+to Early Chalcolithic IeII
+We turn now to the major changes in obsidian procurement
+post Level VII, specifically C ̧ atalho ̈yu ̈k’s increased reliance
+upon the Nenezi Dag ̆ source. Only 11% (n ¼ 5/46) of the Levels IX to VII artefacts analysed were characterised as being
+made of Nenezi Dag ̆ obsidian, a figure that leaps to just
+over 50% of the Level VIIeVI to Early Chalcolithic samples
+(Tables 5 and 6). Significantly, this period not only witnesses
+a major change in source exploitation, but also a radical shift
+in knapping traditions [24]. It is contended that these changes
+in procurement and production were related integrally.
+In 1999 Conolly discussed a ‘profound change’ in obsidian
+consumption at C ̧ atalho ̈yu ̈k after Level VI.B, with a shift from
+flake- to blade-based assemblages and a concurrent transformation in blade technology from percussion to pressure-flaking,
+with manufacture furthermore becoming a more exclusive affair [24]. It was claimed that the shift to pressure-flaked blade
+production related to contemporary agricultural intensification
+(which required a more appropriate toolkit), while at the same
+time representing a medium for the creation of social distinction in the community. The latter argument drew on a wealth
+of literature that has documented this technology’s highly
+skilled nature (cf. [27,54]) and the potential social ramifications for the adoption of a craft that patently lends itself to specialization (cf. [23]). Our programme of obsidian sourcing has
+produced data that require a reappraisal of these arguments.
+The first point to make is that we are no longer talking about
+just a change in knapping technology; this is a dual shift, a new
+tradition based on a raw material that had previously witnessed
+little use at C ̧ atalho ̈yu ̈k. Ergo, we have here evidence for a radical realignment of procurement and production strategies, involving greater interaction with those people working at the
+Nenezi Dag ̆ quarry workshops. Secondly, it is now clear that
+we are not dealing with a simple ‘early: flake industry/late ::
+blade industry’ dichotomy, as numerous industries existed in
+tandem at any one time (blades also being a component of
+our Aceramic Neolithic assemblages). Thirdly, while unipolar
+prismatic blade industries do indeed become the mainstay
+mode of production in C ̧ atalho ̈yu ̈k’s later levels, the situation
+is more complex than envisaged originally, with recent work
+indicating that these blades were being made not only by
+pressure-flaking, but also percussion techniques [16]. While
+both sets of end-products are of similar size and share technical
+features such as lip removal by flaking, their manufacture
+would have involved different tool kits, motor habits and arguably levels of skill (cf. [44]). In future we have to distinguish
+these traditions, where possible. Fourthly, the 2004 excavations
+further suggested that the new technology’s introduction may
+have a spatial as much as a temporal character, i.e. that there
+may have been ‘hot spots’ in terms of where these blade industries were first introduced at C ̧ atalho ̈yu ̈k, with other parts of the
+community lagging behind [16].
+These more nuanced perspectives on technical change halfway through C ̧ atalho ̈yu ̈k’s Early Neolithic sequence do not in
+themselves answer why the shifts occurred in the first place. It
+is at this point that we rapidly become frustrated by the lack of
+excavation data pertaining to this period from the Cappadocian
+sources and other central Anatolian sites, as research in these
+areas tends to have been biased towards the Aceramic Neolithic
+and the region’s links with the Near East (cf. [12]). Ultimately
+we may be witnessing the effect of some form of ‘‘external
+dynamism’’ [53, p. 18], with the emergence of a new form of
+interaction between central Anatolian populations (not least
+members of the C ̧ atalho ̈yu ̈k community) and peoples living
+in Cilicia, south-eastern Anatolia and the northern Levant,
+where unipolar blade technologies were well established prior
+to their major impact at post Level VI.B C ̧ atalho ̈yu ̈k (cf. [40]).
+9. Final comments
+While one of this project’s strengths is its sample size, there
+remains room for improvement with regard to the sampling
+strategy itself. Some of these issues can be rectified relatively
+easily, for instance filling the chronological lacunae and sampling each of the industries. In turn, one could have a more
+even distribution of material amongst the various buildings
+within each level. Arguably, these are all minor considerations
+in the context of what we claim should be the structuring principle of a meaningful sampling strategy: it is only after one
+has undertaken a full technological and typological analysis
+and gained an in-depth understanding of an assemblage that
+one is justified in selecting artefacts for sourcing.
+There has been a habit in obsidian provenience studies to
+select relatively insignificant debris for export to laboratories,
+largely due to limitations on the movement and/or destruction
+of ‘museum quality’ finds. We essentially followed this tradition, our samples dominated by relatively inconspicuous,
+small and broken flakes, albeit selected carefully on the basis
+of their date, context and visual characteristics. Unfortunately,
+many of these artefacts are technologically undiagnostic and
+cannot be assigned to specific industries. With hindsight, we
+appreciate that this approach was flawed and that we need to
+target samples that can be related directly to our various traditions. The amount of time and money spent undertaking
+a sourcing project is not insignificant, from the selection of
+the obsidian, its recording and illustration, via the paperwork
+associated with exporting the material, the time expended in
+sample preparation, the running costs of the instrumentation,
+907T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909to the analysis and presentation of the data. As such the
+archaeologist shoulders a great responsibility in making sure
+that the intellectual return on this investment is maximised.
+It was stressed at the outset that this paper represents the
+results from our first set of analyses and deals with only
+some of our research foci; much work remains. Indeed, the
+next stage of C ̧ atalho ̈yu ̈k’s obsidian characterization programme has already commenced, involving new laboratories
+and analytical techniques. The ramifications for an interlaboratory approach, and the use of more than one analytical
+technique, are important issues that do not fit the remit of
+this paper and will, in due course, be explored more fully elsewhere. We note, however, that while the application of LAICP-MS (see also [41,45,57]) cannot produce quantitative
+trace element concentrations in the absence of an internal standard, accurate trace element data can be produced to give accurate element/element ratios for sourcing and discrimination.
+Incompatible trace element ratios (e.g Zr/Y, Zr/Nb) determined by LA-ICP-MS at Aberystwyth are in the same range
+as those obtained at Grenoble, particularly when the possibility of contamination of the bulk obsidian analyses by mineral
+inclusions is considered (see above). Pearce et al. [41,43] discuss the issues surrounding the comparison of bulk glass analyses with microanalyses. LA-ICP-MS is also a rapid and
+essentially non-destructive method technique (the analysis of
+each flake takes about 5 min) and requires no sample preparation (grinding, acid digestion, dilution, etc.) and thus has great
+value in archaeological studies where material is precious.
+Thus, with permission to export samples, we should be able
+to characterise each of our traditions; until such inclusive analyses have been undertaken, the reader should be aware of the
+biases in the data presented in this paper.
+Acknowledgements
+The authors acknowledge the C ̧ atalho ̈yu ̈k Research Project’s support of this venture. For valuable feedback and practical assistance we are indebted to Nur Balkan-Atlı, Didier
+Binder, Marie-Claire Cauvin, Tom Cawdron, Craig Cessford,
+Dan Contreras, Sarah Delerue, Shahina Farid, Catriona
+Gibson, Ian Hodder, Vassilis Kilikoglou, Wendy Matthews,
+Marina Milic ́ plus our on-site representatives from the Turkish
+Ministry of Culture and Konya Museum. John G.H. Swogger,
+Ge ́rard Der Aprahamian and Marina Milic ́ drew the objects
+and prepared the maps. We also thank the four anonymous
+reviewers for their critical insight; all mistakes remain our
+own.
+References
+[1] F. Abbe`s, N. Balkan-Atlı, D. Binder, M.-C. Cauvin, Gestion de la matie`re
+premie`re et e ́conomie du de ́bitage. Rapport pre ́liminaire sur l’industrie
+d’Asikli, Tu ̈ba-Ar 2 (1999) 117e137.
+[2] F. Abbe`s, L. Bellot-Gurlet, M.-C. Cauvin, B. Gratuze, G. Poupeau, Nouvelles recherches sur l’obsidienne de Cheikh Hasan (Valle ́e de l’Euphrate, Syrie) au Ne ́olithique PPNA et PPNB, Syria 78 (2001) 1e13.
+[3] D. Baird, Early Holocene settlement in Central Anatolia: problems and
+prospects as seen from the Konya Plain, in: F. Ge ́rard, L. Thissen (Eds.),
+The Neolithic of Central Anatolia: Internal Developments and External Relations During the 9the6th Millennia Cal BC, British Institute of Archaeology at Ankara/Malcolm and Carolyn Wiener Laboratory for Aegean and
+Near Eastern Dendrochronology at Cornell University, 2002, pp. 139e152.
+[4] N. Balkan-Atlı, The typological characteristics of the Asxıklı Ho ̈yu ̈k chipped stone’, in: H.G. Gebel, S.K. Kozlowski (Eds.), Neolithic Chipped
+Stone Industries of the Fertile Crescent. Proceedings of the First Workshop on PPN Chipped Lithic Industries. Studies in Early Near Eastern
+Production, Subsistence, and Environment 1, Ex Oriente, Berlin, 1994,
+pp. 209e221.
+[5] N. Balkan-Atlı, The Aceramic Neolithic of Central Anatolia: recent finds
+in the chipped stone industry, in: G. Arsebu ̈k, M.J. Mellink, W. Schirmer
+(Eds.), Light on Top of the Black Hill. Studies Presented to Halet C ̧ ambel, Ege Yayınları, Istanbul, 1998, pp. 81e94.
+[6] N. Balkan-Atlı, D. Binder, Les ateliers de taille d’obsidienne. Fouilles de
+Ko ̈mu ̈rcu ̈-Kaletepe 2000, Anatolia Antiqua IX (2001) 193e205.
+[7] N. Balkan-Atlı, D. Binder, M.-C. Cauvin, Obsidian: sources, workshops
+and trade in Central Anatolia, in: M. O ̈ zdog ̆an, N. Basxgelen (Eds.), Neolithic in Turkey: The Cradle of Civilization. New Discoveries, Arkeoloji
+ve Sanat Yayınları, Istanbul, 1999, pp. 133e145.
+[8] N. Balkan-Atlı, G. Der Aprahamian, Les nucle ́us de Kaletepe et deux
+ateliers de taille en Cappadoce, in: M.-C. Cauvin, A. Gourgaud,
+B. Gratauze, N. Arnaud, G. Poupeau, J.L. Poidevin, C. Chataigner
+(Eds.), L’Obsidienne au Proche et Moyen Orient: Du Volcan a` l’Outil.
+Maison de l’Orient Me ́diterrane ́en, British Archaeological Reports, International Series 738, Archaeopress, Oxford, 1998, pp. 241e257.
+[9] J.A. Barrat, J. Blichert-Toft, Ph. Gillet, F. Keller, The differentiation
+of eucrites: the role of in-situ crystallization, Meteoritics and Planetary
+Science 35 (5) (2000) 1087e1100.
+[10] J.A. Barrat, F. Keller, J. Amosse, R.N. Taylor, R.W. Nesbitt, T. Hirata,
+Determination of rare earth elements in sixteen silicate reference by
+ICP-MS after Tm addition and ion exchange separation, Geostandards
+Newsletter 20 (1) (1996) 133e139.
+[11] L. Bellot-Gurlet, F. Keller, G. Poupeau, Description of the procedures for
+ICP-AES and ICP-MS analysis at Grenoble, France, in: M.D. Glascock
+(Ed.), An inter-laboratory comparison of element compositions for two
+obsidian sources, International Association for Obsidian Studies Bulletin,
+23 (1999), pp. 13e25.
+[12] D. Binder, Stones making sense: what obsidian could tell us about the
+origins of the Central Anatolian Neolithic, The Neolithic of Central Anatolia: Internal Developments and External Relations During the 9the6th
+Millennia Cal BC, British Institute of Archaeology at Ankara/Malcolm
+and Carolyn Wiener Laboratory for Aegean and Near Eastern Dendrochronology at Cornell University, 2002, pp. 279e285.
+[13] M.J. Blackman, The provenience of obsidian artifacts from Late Chalcolithic levels at Aphrodisias, in: M. Joukowsky (Ed.), Prehistoric Aphrodisias: An Account of the Excavations and Artifact Studies, Archaeologia
+Transatlantica III, Brown University Centre for Old World Archaeology
+and Art Louvain-la-Neuve: Institute Supe ́rieur d’Arche ́ologie et d’Histoire de l’Art, College Erasmus, Providence, 1989, pp. 279e285.
+[14] E.Y. Bostancı, The Mesolithic facies of Beldibi and Belbasxı and the relation with the other findings in Anatolia, Antropoloji 3 (1965) 55e91.
+[15] T. Carter, J. Conolly, A. Spasojevic ́, The chipped stone, in: I. Hodder
+(Ed.), Changing Materialities at C ̧ atalho ̈yu ̈k: Reports From the 1995e
+1999 Seasons, McDonald Institute Monographs and British Institute at
+Ankara, Cambridge, 2005, pp. 221e283.
+[16] T. Carter, S. Delerue, M. Milic ́, Chipped stone report, C ̧ atalho ̈yu ̈k 2004
+Archive Report, <http://catal.arch.cam.ac.uk/catal/Archive_rep04/ar04_
+27.html>.
+[17] M.-C. Cauvin, N. Balkan-Atlı, Rapport sur les recherches sur l’obsidienne en Cappadoce, 1993e1995, Anatolica Antiqua IV (1996) 249e271.
+[18] M.-C. Cauvin, N. Balkan, Y. Besnus, F. Saroglu, Origine de l’obsidienne de
+Cafer Ho ̈yu ̈k (Turquie): Premiers re ́sultats, Pale ́orient 12 (1986) 87e97.
+[19] M.-C. Cauvin, Y. Besnus, J. Tripier, R. Montigny, Nouvelles analyses
+d’obsidiennes du Proche-Orient: Mode`le de ge ́ochimie des magmas utilise ́ pour la recherche arche ́ologique, Pale ́orient 17 (1991) 5e19.
+908 T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909[20] M.-C. Cauvin, A. Gourgaud, A. Gratuze, N. Arnaud, G. Poupeau,
+J.-L. Poidevin, C. Chataigner (Eds.), L’Obsidienne au Proche et Moyen
+Orient: Du Volcan a` l’Outil, Maison de l’Orient Me ́diterrane ́en, British
+Archaeological Reports, International Series 738, Archaeopress, Oxford,
+1998.
+[21] C. Cessford, A new dating sequence for C ̧ atalho ̈yu ̈k, Antiquity 75 (2001)
+717e725.
+[22] C. Chataigner, Sources des artefacts ne ́olithiques, in: M.-C. Cauvin,
+A. Gourgaud, B. Gratauze, N. Arnaud, G. Poupeau, J.L. Poidevin,
+C. Chataigner (Eds.), L’Obsidienne au Proche et Moyen Orient: Du Volcan
+a` l’Outil. Maison de l’Orient Me ́diterrane ́en, British Archaeological Reports, International Series 738, Archaeopress, Oxford, 1998, pp. 273e324.
+[23] J.E. Clark, Politics, prismatic blades, and Mesoamerican civilisation, in:
+J.K. Johnson, C.A. Morrow (Eds.), The Organisation of Core Technology,
+Westview Press, Boulder and London, 1987, pp. 259e284.
+[24] J. Conolly, Technical strategies and technical change at Neolithic C ̧ atalho ̈yu ̈k, Turkey, Antiquity 73 (1999) 791e800.
+[25] J. Conolly, The C ̧ atalho ̈yu ̈k Flint and Obsidian Industry, Technology and
+Typology in Context, in: BAR International Series 787, Oxford, 1999.
+[26] J. Conolly, The C ̧ atalho ̈yu ̈k obsidian hoards: a contextual analysis of
+technology, in: N. Moloney, M. Shott (Eds.), Lithic Studies for the
+New Millennium, Archtype Books, Institute of Archaeology, UCL,
+London, 2003, pp. 55e78.
+[27] D.E. Crabtree, Mesoamerican polyhedral cores and prismatic blades,
+American Antiquity 33 (4) (1968) 446e478.
+[28] J.-C. Decourt, L’obsidienne dans les sources anciennes: notes sur
+l’histoire du mot et l’utilisation de la roche dans l’Antiquite ́, in:
+M.-C. Cauvin, A. Gourgaud, B. Gratauze, N. Arnaud, G. Poupeau,
+J.L. Poidevin, C. Chataigner (Eds.), L’Obsidienne au Proche et Moyen
+Orient: Du Volcan a` l’Outil. Maison de l’Orient Me ́diterrane ́en, British
+Archaeological Reports, International Series 738, Archaeopress, Oxford,
+1998, pp. 363e377.
+[29] B. Gratuze, Obsidian characterization by laser ablation ICP-MS and its
+application to prehistoric trade in the Mediterranean and the Near East:
+sources and distribution of obsidian with the Aegean and Anatolia,
+Journal of Archaeological Science 26 (10) (1999) 869e881.
+[30] B. Gratuze, J.N. Barrandon, K. Al Isa, M.-C. Cauvin, Non-destructive
+analysis of obsidian artefacts using nuclear techniques: investigations of
+provenance of Near Eastern artefacts, Archaeometry 35 (1) (1994) 1e11.
+[31] B. Gratuze, S. Boucetta, D. Binder, N. Balkan-Atlı, L. Bellot-Gurlet,
+D. Mouralis, New investigations of the Go ̈llu ̈ Dag ̆ obsidian lava flows system: comparison between chemical, mineralogical and fission track data,
+International Association of Obsidian Studies Bulletin 33 (2005) 18e19.
+[32] O.W. Hampton, Culture of Stone: Sacred and Profane Use of Stone
+Among the Dani, Texas A&M University Press, Austin, 1999.
+[33] M. Kartal, The microliths of O ̈ ku ̈zini Cave, in: I. Yalc ̧inkaya, M. Otte,
+J. Kozlowski, O. Bar-Yosef (Eds.), O ̈ ku ̈zini: Final Palaeolithic Evolution
+in Southwest Anatolia, ERAUL 96, Lie`ge (2002), pp. 235e252.
+[34] J. Keller, C. Seifried, The present state of obsidian source identification
+in Anatolia and the Near East, in: C. Albore Livadie, F. Wideman (Eds.),
+Volcanologie et Arche ́ologie PACT 25, Conseil de l’Europe, Strasbourg,
+1990, pp. 58e87.
+[35] V. Kilikoglou, Y. Bassiakos, R.C. Doonan, J. Stratis, NAA and ICP analysis of obsidian from Central Europe and the Aegean: source characterisation and provenance determination, Journal of Radioanalytical and
+Nuclear Chemistry 216 (1) (1997) 87e93 Articles.
+[36] W. Matthews, S. Farid, Exploring the 1960’s surface: the stratigraphy of
+C ̧ atalho ̈yu ̈k, in: I. Hodder (Ed.), On the Surface: C ̧ atalho ̈yu ̈k 1993e95,
+McDonald Institute for Archaeological Research and British Institute
+of Archaeology at Ankara, Cambridge, 1996, pp. 271e300.
+[37] J. Mellaart, Excavations at C ̧ atal Hu ̈yu ̈k, fourth preliminary report, 1965,
+Anatolian Studies XVI (1966) 165e191.
+[38] J. Mellaart, C ̧ atal Hu ̈yu ̈k: A Neolithic Town in Anatolia, Thames and
+Hudson, London, 1967.
+[39] P. Moioli, C. Seccaroni, Analysis of art objects using a portable X-ray
+fluorescence spectrometer, X-ray Spectrometry 29 (1) (2000) 48e52.
+[40] M. O ̈ zdog ̆an, C ̧ ayo ̈nu ̈: The chipped stone industry of the Pottery
+Neolithic layers, in: H.G. Gebel, S.K. Kozlowski (Eds.), Neolithic
+Chipped Stone Industries of the Fertile Crescent. Proceedings of the First
+Workshop on PPN Chipped Lithic Industries. Studies in Early Near
+Eastern Production, Subsistence, and Environment 1, Ex Oriente, Berlin,
+1994, pp. 267e277.
+[41] N.J.G. Pearce, W.J. Eastwood, J.A. Westgate, W.T. Perkins, Traceelement composition of single glass shards in distal Minoan tephra
+from SW Turkey, Journal of the Geological Society 159 (5) (2002)
+545e556.
+[42] N.J.G. Pearce, W.T. Perkins, J.A. Westgate, M.P. Gorton, S.E. Jackson,
+C.R. Neal, S.P. Chenery, A compilation of new and published major
+and trace element data for NIST SRM 610 and NIST SRM 612 glass reference materials, Geostandards Newsletter 21 (1997) 115e144.
+[43] N.J.G. Pearce, J.A. Westgate, W.T. Perkins, S.J. Preece, The application
+of ICP-MS methods to tephrochronological problems, Applied Geochemistry 19 (2004) 289e322.
+[44] J. Pelegrin, De ́bitage expe ́rimental par pression ‘Du plus petit au plus
+grand’’, Technologie Pre ́historique, E ́ ditions du CNRS, Paris, 1988 Notes
+et Monographies Techniques No. 25, pp. 37e53.
+[45] C.E. de B. Pereira, N. Miekeley, G. Poupeau, I.L. Ku ̈chler, Determination
+of minor and trace elements in obsidian rock samples and archaeological
+artefacts by laser ablation inductively coupled plasma mass spectrometry
+using synthetic obsidian standards, Spectrochimica Acta Part B 56 (2001)
+1927e1940.
+[46] J.-L. Poidevin, Les gisements d’obsidienne de Turquie et de Transcaucasie: ge ́ologie, ge ́ochemie et chronome ́trie, in: M.-C. Cauvin,
+A. Gourgaud, B. Gratauze, N. Arnaud, G. Poupeau, J.L. Poidevin,
+C. Chataigner (Eds.), L’Obsidienne au Proche et Moyen Orient: Du Volcan a` l’Outil. Maison de l’Orient Me ́diterrane ́en, British Archaeological
+Reports, International Series 738, Archaeopress, Oxford, 1998,
+pp. 105e203.
+[47] G. Poupeau, S. Delerue, T. Carter, C.E. de B. Pereira, N. Miekeley,
+L. Bellot-Gurlet, How homogeneous is the ‘‘East Go ̈llu ̈ Dag ̆’’ (Cappadocia Turkey) obsidian ‘source’ composition? International Association
+of Obsidian Studies Bulletin 32 (2005) 3e8.
+[48] C. Renfrew, Trade as action at a distance: questions of integration and
+communication, in: J.A. Sabloff, C.C. Lamberg-Karlovsky (Eds.), Ancient Civilisation and Trade, University of New Mexico Press, Albuquerque, 1975, pp. 3e60.
+[49] C. Renfrew, J.E. Dixon, J.R. Cann, Obsidian and early culture contact in
+the Near East, Proceedings of the Prehistoric Society 32 (1966) 30e72.
+[50] C. Renfrew, J.E. Dixon, J.R. Cann, Further analysis of Near Eastern obsidians, Proceedings of the Prehistoric Society 34 (1968) 319e331.
+[51] N. Saunders, A dark light: reflections on obsidian in Mesoamerica, World
+Archaeology 33 (2001) 220e236.
+[52] S.R. Taylor, S.M. McLennan, The Continental Crust: Its Composition
+and Evolution: An Examination of the Geochemical Record Preserved
+in Sedimentary Rocks, Blackwell, Oxford, 1985.
+[53] L. Thissen, Time trajectories for the Neolithic of Central Anatolia, in:
+F. Ge ́rard, L. Thissen (Eds.), The Neolithic of Central Anatolia: Internal
+Developments and External Relations During the 9the6th Millennia Cal
+BC, British Institute of Archaeology at Ankara/Malcolm and Carolyn
+Wiener Laboratory for Aegean and Near Eastern Dendrochronology at
+Cornell University, 2002, pp. 13e26.
+[54] J. Tixier, Le de ́bitage par pression, Pre ́histoire de la Pierre Taille ́e 2:
+E ́ conomie du De ́bitage Laminaire: Technologie et E ́ xpe ́rimentation,
+Cercle de Recherches et d’ E ́ tudes Pre ́historiques, Paris, 1984, pp. 57e70.
+[55] R. Torrence, Production and Exchange of Stone Tools, Cambridge
+University Press, Cambridge, 1986.
+[56] R.H. Tykot, Obsidian procurement and distribution in the central and
+western Mediterranean, Journal of Mediterranean Archaeology 9 (1996)
+39e82.
+[57] R.H. Tykot, T. Setzer, M.D. Glascock, R.J. Speakman, Identification and
+characterization of the obsidian sources on the island of Palmarola, Italy,
+Geoarchaeological and Bioarchaeological Studies 3 (2005) 107e111.
+[58] G.A. Wright, Obsidian Analyses and Prehistoric Near Eastern Trade:
+7500 to 3500 B.C. Anthropological Papers Museum of Anthropology,
+University of Michigan, No. 37, Ann Arbor, 1969.
+[59] <http://www.catalhoyuk.com/downloads/JAS_Figures.pdf>.
+909T. Carter et al. / Journal of Archaeological Science 33 (2006) 893e909

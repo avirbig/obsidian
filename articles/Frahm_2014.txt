@@ -1,0 +1,1358 @@
+Buying local or ancient outsourcing? Locating production of prismatic
+obsidian blades in Bronze-Age Northern Mesopotamia
+Ellery Frahm*
+Department of Archaeology, The University of Sheffield, Northgate House, West Street, Sheffield S1 4ET, United Kingdom
+a r t i c l e i n f o
+Article history:
+Received 20 May 2013
+Received in revised form
+30 September 2013
+Accepted 4 October 2013
+Keywords:
+Bronze Age
+Northern Mesopotamia
+Obsidian sourcing
+Lithic analysis
+Craft specialisation
+Organisation of production
+Prismatic blades
+Canaanean blades
+a b s t r a c t
+It is widely held that crafting prismatic chert and obsidian blades was extremely specialised in the
+Bronze-Age Near East. The prevalent narrative holds that there were just a few dedicated workshops in
+Anatolia’s Upper Euphrates Valley, from which blade segments were exported to Northern Mesopotamia.
+Due to the challenges of chert sourcing, obsidian has been incorporated into the narrative. Recently, Tell
+Mozan was added to the proponents’ list of Mesopotamian sites with blades imported from Anatolian
+workshops. Two issues are addressed in this paper. First, does archaeological evidence regarding the
+spatial organisation of blade production support an interpretation that incomplete reduction sequences
+imply off-site production? It is shown here that, at known workshop sites, the reduction sequence occurs
+only in small portions of large urban centres, and even there certain reduction products are underrepresented. Second, do obsidians at Tell Mozan and other sites originate from sources near the proposed blade workshops? Highly diverse obsidians at Tell Mozan are inconsistent with a reliance on
+Anatolian workshops, and a reassessment of prior sourcing studies reveals a regional “sourcescape” more
+variable than generally thought. The result is a very different picture of lithic craft specialisation in
+Northern Mesopotamia: diverse obsidian cores and preforms reaching the cities’ specialists involved in
+household production principally for the local market.
+Ó 2013 Elsevier Ltd. All rights reserved.
+1. Introduction
+Five decades of obsidian sourcing have established basic spatial
+distribution trends across Anatolia, Mesopotamia, and the Levant.
+Large-scale, supra-temporal patterns identified by Renfrew and
+colleagues (Fig. 1; Cann and Renfrew, 1964; Renfrew et al., 1965,
+1966, 1968) have been upheld by subsequent regional syntheses
+(Cauvin and Chataigner, 1998; Chataigner et al., 1998). More often
+than not, however, the forms in which obsidian was distributed
+(e.g., finished tools, cores) are ambiguous. In an article titled “The
+Phantom Obsidian Traders of the Jazirah,” Copeland (1995: 5) lists a
+variety of outstanding questions:
+How did the obsidian arrive at the sites? Are we certain that it
+was imported? Who, exactly, collected the material? Were they
+the same people as those who brought it to the Jazirah settlements? In what form did they transport it: natural lumps,
+debited cores, finished artifacts? Was it brought directly to each
+user/destination or to an intermediate spot?
+Two decades later, organisation of production has received greater
+attention (e.g., Astruc et al., 2007; Khalidi et al., 2009; al Quntar
+et al., 2011; Khalidi, in press); however, Copeland’s issues remain
+largely unanswered. These issues are arguably even more ambiguous for cherts, given methodological and interpretive challenges
+in identifying their geological origins (see Shackley, 2008: 197e
+198).
+Across Northern Mesopotamia, the Early Bronze Age (EBA, circa
+3300e2100 BCE) was a period of increasing urbanism and societal
+complexity, largely attributed to agricultural surpluses that enabled
+labour mobilisation and craft specialisation. During the mid-EBA
+(circa 2600e2500 BCE), urban centres in Syria’s Upper Khabur
+Basin (UKB; Fig. 2) grew markedly. Tell Leilan and Tell Hamoukar,
+for example, expanded from 15 to 90 ha (Weiss and Courty, 1993;
+Ur, 2002). Drawing upon satellite agricultural settlements, cities
+attained populations as high as 14,000 (Wilkinson, 1997, 2000;
+Wilkinson et al., 2007).
+Flaked stone tools, frequently made of chert and obsidian,
+remained an important aspect of Northern Mesopotamian material culture, even in urban settings. These sites’ lithic assemblages
+Abbreviations: EBA, Early Bronze Age; LBA, Late Bronze Age; MBA, Middle
+Bronze Age; MKB, Middle Khabur Basin; SBE, specialised blade export; UEV, Upper
+Euphrates Valley; UKB, Upper Khabur Basin.
+* Tel.: þ44 74 0299 0202.
+E-mail addresses: e.frahm@sheffield.ac.uk, elleryfrahm@gmail.com.
+Contents lists available at ScienceDirect
+Journal of Archaeological Science
+j o u r n a l h o m e p a g e : h t t p : / / w w w . e l s e v i e r . c o m / l o c a t e / j a s
+0305-4403/$ e see front matter Ó 2013 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2013.10.007
+Journal of Archaeological Science 41 (2014) 605e621are largely composed of (1) prismatic blades, blade segments, and
+blade-based tools (Fig. 3) and (2) ad hoc flake tools. The latter are
+simple flakes, commonly little modified, used as expedient tools
+for purposes that required no particular morphology. In the UKB,
+ad hoc flake production involved, as aptly described by Akkermans
+and Schwartz (2003), “smashing a nodule. with a heavier rock
+into many smaller, irregular pieces” (169). Consequently, these
+expedient tools pose interpretive challenges (Johnson, 1996),
+largely lacking indicators of varied social and technological
+choices. Thus, attention has focused principally on prismatic
+blades, crafted of both chert and obsidian, that are products of
+sophisticated, yet variable, chaînes opératoire. Such blades were
+used for various cutting and scraping purposes, including agricultural activities, food and hide processing, and crafts such as
+pottery and textile production (al Quntar et al., 2011; GromanYaroslavski et al., 2013).
+A prevalent hypothesis holds that production of one type of
+prismatic chert blade, called Canaanean blades, was extremely
+specialised during the EBA (especially the Ninevite V period, 3000e
+2500 BCE). It is argued that there were only a few dedicated
+workshops in Anatolia’s Upper Euphrates Valley (UEV; Fig. 2), from
+which Canaanean blade sections were exported throughout
+Northern Mesopotamia (e.g., Anderson and Inizan, 1994; Chabot,
+1999, 2002; Chabot et al., 2001; Chabot and Pelegrin, 2006, 2012;
+Chabot and Eid, 2003, 2009) “and perhaps beyond” (Anderson
+et al., 2004:123, Chabot and Eid, 2007:23).
+Recently, Chabot and Eid (2009) added Tell Mozan (Figs. 1 and 2)
+to their list of UKB sites with blades imported from Anatolian
+workshops. This is based, in large part, on chert appearance:
+This type of flint has been identified only in the Bingöl area in
+southeastern Turkey, where the only Cananaean workshops
+known to-date in Northern Mesopotamia were discovered. We
+thus come to the conclusion that the flint blades of Mozan come
+from the Anatolian workshops, as concluded for others sites in
+the region. (810; translated)
+Furthermore, they argue that Tell Mozan attests to the continuity of
+this specialised exchange from the EBA into the Middle Bronze Age
+(MBA, 2100e1600 BCE):
+This had already been evidenced by the site of Tell Leilan, but the
+singularity of this discovery, however, called for caution. Mozan
+would thus confirm this conclusion and come to show, during
+the Middle Bronze Age, workshops specialised in the manufacture of Canaanean blades and the exchange networks
+necessary to redistribute them were always active. (819; translated)
+Given the challenges of chert sourcing, obsidian sourcing has
+become an important feature of this narrative (e.g., Chabot et al.,
+2001:253e254, Chabot, 2002:62). Regarding obsidian prismatic
+blades recovered at Tell Mozan, Chabot and Eid (2009) conclude that
+Fig. 1. Near Eastern obsidian sources and the four obsidian interaction zones, circa 5000e3000 BCE (i.e., Late Neolithic to Early Bronze Age [EBA] I), proposed by Renfrew and Dixon
+(1976). Sources of obsidian artefacts found at Tell Mozan are marked by filled black circles and labelled, whereas obsidian sources not currently represented at Tell Mozan are
+marked by open circles. The locations marked for each source were chosen to represent the central locations of the obsidian, the primary source (if known), or the “type site” for
+which a source is named. No endeavour is made here to precisely represent the full primary and secondary distribution of the obsidians.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621606these small blades are also the work of specialists. Are the
+manufacturers of these products the same as for the Canaanean
+blades? It is too early to answer this question, but chemical
+analyses performed on obsidian pieces from the sites of Tell ‘Atij
+and Tell Gudeda helped locate the geological origin of these
+elements in the Bingöl region of Turkey, the same area from
+which the Canaanean blades most likely come. (820; translated)
+Therefore, they link specialised production of obsidian prismatic
+blades at Tell Mozan to that of Canaanean blades, suggesting the
+same specialists or workshops may have made both. This, in turn,
+enables hypothesis testing using geochemical “fingerprints” of
+obsidian rather than visual classifications of chert.
+Two key issues are considered here. First, does archaeological
+evidence regarding the organisation of Canaanean blade production and the spatial arrangement of its products at known workshop sites support an argument that incomplete blade reduction
+sequences connote off-site production activities? A review of the
+site literature reveals that urban household-scale blade production
+yields irregular debitage distributions, and the reduction sequence
+is complete in only small areas of large urban centres. Second, do
+the obsidian artefacts at Tell Mozan and other archaeological sites
+(including the Canaanean workshop sites in Anatolia) originate, as
+claimed, from the Bingöl area? A majority of the sourced Tell Mozan
+obsidian artefacts (77%) originated from sources other than the
+Bingöl deposits (Nemrut Dag, Mus ̧ , Tendürek Dag, and Meydan Dag
+in Eastern Anatolia and Göllü Dag in Central Anatolia). Furthermore, reassessments of earlier studies reveal a regional obsidian
+“sourcescape” more complex and nuanced than widely thought.
+When combined with the reduction products found at Tell
+Mozan (Fig. 3), diverse obsidian sources and archaeological evidence regarding the potential socio-spatial organisation of production (i.e., the spatial distribution of Canaanean production and
+debitage at known workshop sites) do not support the importation
+of obsidian blade segments from workshops in the UEV. It is argued
+here that local production of obsidian (and perhaps chert) prismatic blades is a viable counter-narrative. The result is a different
+picture of lithic craft specialisation in Bronze-Age Northern Mesopotamia: obsidian cores and/or preforms from throughout Anatolia
+reaching cities’ specialists involved in household production principally for the local market.
+2. Background: Canaanean vs. non-Canaanean blades
+Obsidian sourcing has been used to link the production and
+specialisation of “Canaanean” prismatic blades and obsidian prismatic blades at Tell Mozan and other sites (e.g., Chabot et al.,
+2001:253e254, Chabot, 2002:62, Chabot and Eid, 2009:820). It is
+worth briefly discussing what is labelled as a “Canaanean” blade,
+reasons why obsidian blades may be excluded from this type, and
+the validity of associating production and specialisation of prismatic blades made from distinct raw materials.
+Fig. 2. Upper Khabur Basin (UKB), Middle Khabur Basin (MKB), and Upper Euphrates Valley (UEV) archaeological sites discussed in the text (black squares). Sources of obsidian
+artefacts found at Tell Mozan are marked by filled black circles, while obsidian sources not represented at Tell Mozan but discussed here are marked by open circles. The annual
+migration route of an Alikan nomadic group during the 1960s, as mapped by Bes ̧ ikçi (1969) and redrawn in Cribb (1991), is shown, and the Bingöl province is highlighted.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 607“Canaanean” describes certain prismatic blades and blade segments with trapezoidal cross-sections. First described by Neuville
+(1930, 1934) at EBA Levant sites, they are known across southeastern Anatolia and Northern Mesopotamia from the Late Chalcolithic through the EBA. Neuville’s type specimens were all chert
+(obsidian is uncommon in the southern Levant; Renfrew et al.,
+1966, 1968; Rosen et al., 2005), but the cross-section was the
+defining trait. To this definition, Crowfoot (1948) added a narrow,
+prepared platform and a negative bulb of percussion from earlier
+removals; however, often only blade segments are recovered,
+meaning these characteristics are commonly absent (Rosen, 1983;
+Edens, 1999). Another oft-mentioned trait is that Canaanean
+blades are “large” (e.g., Edens, 1999; Anderson et al., 2004).
+It is frequently suggested that Canaanean blades were made by
+pressure flaking with a lever, indirect percussion with a punch, or a
+combination of both (Pelegrin and Otte, 1992; Anderson and Inizan,
+1994; Bar and Winter, 2010; Pelegrin, 2012). Local variants in
+platform-preparation and pressure-application practices have been
+reported (Shimelmitz et al., 2000; Shimelmitz, 2009), revealing
+regional technological differences in their production. That is,
+Levantine “Canaanean” blades differ somewhat from Northern
+Mesopotamian “Canaanean” blades. Chabot and Pelegrin (2012)
+note that different workshops and production areas might have
+developed distinct technological practices, perhaps leaving quite
+subtle indicators. Evidently, a single “Canaanean” chaîne opératoire
+was not used exclusively throughout the Near East.
+It is also widely held that Canaanean blades exhibit an
+extraordinary degree of standardisation (e.g., Anderson and Chabot,
+2001; Chabot and Eid, 2007, 2009), having “standard width and
+thickness” (Anderson et al., 2004:103). Standardisation is
+straightforward to assess. At Hacınebi (Fig. 2), a recognised Canaanean workshop, Edens (1999) studied Canaanean blades and
+non-Canaanean “simple” prismatic blades, defined largely by
+width. Table 1 shows summary statistics for width, thickness, and
+striking platform angle. Not only do the two blade types overlap for
+every measure, but also their ranges and standard deviations
+exhibit comparable variation. Even for width, their differences in
+range and standard deviation is just 2 mm. Edens concluded that
+the locals crafted Canaanean blades, whereas Southern Mesopotamian Uruk colonists made the “simple” ones. The disparity
+between these types, he proposed, may have been a minor one in
+knapping tools, body techniques, or other technological choice. For
+example, he documented higher variability in the “simple” blades’
+raw materials, which must be a cultural choice (given the same
+constraints on raw-material access at the site) and may account for
+the subtle standardisation differences.
+Raw-material constraints and morphology should be considered
+a potential factor in size as well as variables such as platform
+Fig. 3. Examples of obsidian artefacts from areas A and B (Fig. 4) at Tell Mozan. (a) Prismatic blade, A12 q901 f382 k27. (b) Prismatic blade segment, A14 q433 f182 k5. (c) Prismatic
+blade core, A7 q173 f49 k8. (d) Use-wear scratches on a blade segment, A7 q1721I f42 k6. Bottom row: reduction products with terms from Hirth (2006). (e) Macroflake, A5 q30. (f)
+Macroblade, B4 q148 f418. (g) Percussion blade, A9 q658 f207 k11. (h) First-series blade, A18 q189 f44 k15. (iej) Second-series blades, B4 q131 and A17 q168 f100 k12. (kel) Early
+prismatic blades, A17 q210-1 and A13 q26 f4 k5.
+Table 1
+Edens’ (1999) geometric data for Canaanean and “simple” prismatic blades from
+Hacınebi (Fig. 3). The two blade populations overlap in all three measures, and their
+degrees of standardisation (i.e., ranges and standard deviations) are largely
+commensurate.
+Canaanean “Simple”
+Platform angle (deg.) MaxeMin 80e110 70e100
+Range 30 30
+Mean  s.d. 96  7 83  7
+Width (mm) MaxeMin 14e45 6e35
+Range 31 29
+Mean  s.d. 29  6 19  8
+Thickness (mm) MaxeMin 4e13 1e14
+Range 9 13
+Mean  s.d. 7  2 5  3
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621608preparation and striking angle. Rosen (1997) observed that
+Levantine Canaanean blades are usually fine-grained brown chert,
+whereas non-Canaanean blades tend to be “striped medium- to
+fine-grained flint occurring in small- to medium-sized cobbles”
+(33). Thus, he suggested that raw-material qualities and sizes
+“would have affected blade production and proportions” (46) and,
+consequently, limited Canaanean blade production to high-quality
+cherts available as large nodules.
+In addition to size, function has also been used to define Canaanean blades. Specifically, the blades are often described as
+exhibiting sickle gloss (i.e., polished surfaces after processing cereals; e.g., Anderson and Chabot, 2001; Anderson et al., 2004;
+Chabot and Eid, 2007, 2009; see discussion in Rosen, 1997:57).
+This implies chert blades that were employed in other applications
+(e.g., pottery production, Groman-Yaroslavski et al., 2013) or that
+were unused are less likely to be labelled as “Canaanean.”
+Obsidian blades are not given the “Canaanean” label. Obsidian
+rarely exhibits sickle polish like that of cherts due to differences in
+the rocks’ microstructures (but may exhibit other types of usewear; e.g., Fig. 2, Hurcombe, 1992). In addition, obsidian blades
+tend to be smaller, perhaps due to the flaking properties or material
+morphology. Brittleness or nodule/block size may have precluded
+its use to make larger blades. In the American Southwest, for
+example, obsidian is primarily available as small nodules, constraining artefact sizes (Shackley, 1986). Most striking are miniaturised obsidian Clovis points, just 4 cm in length. Although half
+the size of chert points, obsidian points still receive the “Clovis”
+label.
+Recent studies in the Caucasus further obscure distinctions between Canaanean blades and obsidian prismatic blades. Badalyan
+et al. (2007, 2010) conclude that obsidian blades from Late
+Neolithic and Early Chalcolithic Armenian sites were made using
+the same flaking techniques as Canaanean blades in Northern
+Mesopotamia (i.e., pressure flaking with a lever). Thomalsky (2013)
+asserts obsidian blades in Chalcolithic Nakhchivan and Neolithice
+Chalcolithic Dagestan possess all the attributes of Canaanean blade
+technology. Furthermore, similar to Cauvin (1996), she contends
+that Canaanean knapping techniques were developed to make
+obsidian blades and were subsequently transferred to chert.
+Additionally, recent work by Pelegrin, Chabot, and colleagues
+recognise a “genealogy” (Chabot and Pelegrin, 2012:196) among
+Canaanean blades, Armenian obsidian blades, and other lithic
+technologies in the region. For example, Chabot and Pelegrin (2006,
+2012) conclude that Northern Mesopotamian Canaanean blades
+and Neolithic Armenian obsidian blades are examples of pressure-
+flaked prismatic blade production using a lever. Specifically, Chabot
+et al. (2009) state that Late Neolithic obsidian blades at Aratashen, a
+site in the Ararat Depression of Armenia, were crafted much like
+“blade assemblages made by pressure lever in Northern Mesopotamia (Canaanean blades)” two millennia later (156).
+Given local technological variations, precursors in the Caucasus,
+and the inclusion of function and material to define an ostensibly
+technological type, Canaanean blades seem (arguably) not a single,
+discrete type of prismatic blade. Rather, it appears that blades given
+the “Canaanean” label lie along fuzzy portions of a technological
+continuum with both chert and obsidian prismatic blades. It is a
+mistake to interpret this as a claim that the obsidian prismatic
+blades at Tell Mozan and Canaanean blades represent the same
+chaîne opératoire. As noted earlier, not even all Canaanean blades
+share the same chaîne opératoire. Rather, these blades share a
+common lithic heritage and, in turn, involve related “know-how.”
+Therefore, at least on a theoretical level, it appears valid to link
+the production and specialisation of “Canaanean” blades and
+obsidian prismatic blades. Furthermore, as will be considered in
+Section 4.4, chert and obsidian debitage and cores occur together in
+a household knapping workspace at Tell Brak, providing archaeological justification for associating their production and
+specialisation.
+3. Predominant narrative and its arguments
+The predominant narrative e here called the specialised blade
+export (SBE) hypothesis e holds that Canaanean blades were
+crafted in a few UEV workshops and exported to Northern Mesopotamia during the EBA (e.g., Anderson and Inizan, 1994; Chabot,
+1999, 2002; Chabot et al., 2001; Anderson et al., 2004; Chabot
+and Pelegrin, 2006, 2012; Chabot and Eid, 2003, 2007, 2009).
+Here I summarise their arguments. Many of the proponents’ quotations refer to Tell ’Atij and Tell Gudeda in the Middle Khabur Basin
+(MKB); however, they propose that their observations are widely
+applicable in Northern Mesopotamia (Chabot et al., 2001:247) and
+imply similar patterns exist at dozens of sites (e.g., Chabot and Eid,
+2007: Fig. 1).
+Anderson et al. (2004) argue that Canaanean blades were made
+using levered pressure flaking and “this very specific technique might
+point to. particular workshops” (95). Consequently, Chabot and Eid
+(2007) claim these blades “were made in specialised workshops,
+probably in the Anatolian region, and were then sent to northern
+Mesopotamian agricultural settlements” (23). After finding few distal
+blade segments at Mesopotamian sites, Chabot and Pelegrin (2006)
+suggest that the blades were “fragmented into segments and then
+exported” (103). Accordingly, Anderson et al. (2004) propose “a dynamic network involved in the production of agricultural products
+throughout northern Mesopotamia” (123).
+This hypothesis has two components. First, it is proposed that
+lithic workshops tend to lie near raw-material sources and that, for
+Canaanean blades, the workshops and sources occur in southeastern Anatolia. Anderson et al. (2004) list three UEV sites with
+known Canaanean workshops e Hassek Höyük, Hacınebi, and Titris ̧
+Höyük e as likely origins of the blades found in Northern
+Mesopotamia.
+Given the raw material on which pressure-knapped blades are
+made using a lever (for example, a grayish-pink fine-grained
+flint), it would seem that the workshops furnishing the Ninevite
+V sites may be sought in the Bingöl area of Turkey, near Hassek
+Höyük. their raw material strongly suggests that the workshop
+sites will be found in southeastern Turkey. (95, 123)
+It is worth noting that Hassek Höyük is not particularly “near” the
+Bingöl province (Fig. 2). Chabot and Eid (2009) similarly argue that
+the Canaanean blades at Tell Mozan
+were also manufactured on a flint of generally good quality and
+often grey-rosy colour. This type of flint has been identified only
+in the Bingöl area in southeastern Turkey, where the only Canaanean workshops known to date in Northern Mesopotamia
+were discovered: Hacınebi Tepe, Titris ̧ Höyük and Hassek
+Höyük. We thus come to the conclusion that the flint blades of
+Mozan come from the Anatolian workshops. (810; translated)
+Two points must be made. First, these sites and Tell Mozan are
+equidistant from the Bingöl region (Fig. 2). Second, their chert
+classes are entirely visual. The researchers appear aware of this
+limitation and, thus, link the narrative to obsidian sourcing.
+Regarding Tell Gudeda and Tell ’Atij, Chabot (2002) states
+physicochemical analysis of pieces of obsidian found that eight
+of the ten tested pieces come from the Bingöl region. This
+obsidian source is located 200 km east of Hassek Höyük. However, obsidian uncovered at Hassek also originated from the
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 609Bingöl A deposit. Without being able to determine that the ’Atij
+and Gudeda Cananaean blades originated from the site of Hassek Höyük, it remains that the macroscopic analysis of siliceous
+raw material and the obsidian demonstrate without a doubt a
+link between the material found in this region and the Khabur
+valley. (62, translated)
+Chabot et al. (2001) similarly argue
+research has already shown that the raw material from which
+the large flint blades were made probably corresponds to that
+found not far from the Cananaean knapping workshops in
+southeastern Turkey. It is interesting to note that the physicochemical analyses reveal that eight of ten obsidian artefacts
+analysed came from the Bingöl area where residents supplied at
+least one of two Cananaean workshops known to date in this
+area: Hassek Höyük (253e254, translated).
+Thus, Bingöl obsidians (Fig. 2) at these MKB sites and Hassek Höyük
+in the UEV purportedly establish a link between them. The overall
+result is an interpretation that UEV workshops furnished chert (and
+perhaps obsidian) blades to MKB and UKB settlements (e.g., Chabot
+et al., 2001:253e254; Chabot, 2002:62; Anderson et al., 2004:123;
+Chabot and Eid, 2007:11e12, 23, 2009:810, 819e820).
+Second, it is argued the reduction sequence is incomplete at
+Mesopotamian sites and that segments, not blades, arrived at these
+settlements. Regarding Tell ’Atij and Tell Gudeda, Chabot et al.
+(2001) argue
+the virtual absence of cores or reduction products associated
+with this activity seems to suggest that the production of these
+artefacts did not take place at our sites. [Instead] specialised
+workshops that had the expertise and the raw material then
+exported their finished products to agricultural sites. (253e254;
+translated)
+Besides finding too few cortical flakes, they identified more medial
+blade segments than distal blade ends at UKB and MKB sites.
+Anderson et al. (2004:92) state “distal fragments (which are often
+curved) are almost always missing from these sites,” suggesting
+that truncation occurred elsewhere.
+These two aspects of the SBE hypothesis are evaluated by
+considering (1) the spatial organisation of prismatic blades and
+their reduction debris at four Cananaean workshop sites and (2)
+obsidian source data for key sites, including Tell Mozan and the
+workshop sites (when available).
+4. Spatial organisation of blade production
+The SBE narrative presumes, in large part, that knowledge of
+Canaanean blade workshops represents reality rather than sampling biases. Specifically, it assumes the social organisation of
+workshops and spatial distributions of their products at urban
+centres are compatible with the excavation strategy and sampling.
+It is not necessarily a matter of excavation bias per se. Rather it is a
+problem inherent to sampling large multi-period urban sites that
+cannot be completely excavated. Unlike sites such as Tell Mozan
+and Tell Brak, most key sites of the SBE hypothesis (i.e., Tell Gudeda
+and Tell ’Atij in the MKB; Titris ̧ Höyük, Hassek Höyük, and Cafer
+Höyük in the UEV) were rescue excavations ahead of dam
+construction.
+There is an expansive theoretical and archaeological literature
+on the social and technological links between spatial organisation
+and craft specialisation in the Near East (e.g., Stone, 1991; Stein and
+Blackman, 1993; Stein, 1996; Wright, 2008; Rosen, 2010; Lehner
+and Yener, in press) and worldwide (e.g., Arnold, 1991; Santley
+and Kneebone, 1993; Stone, 1996; Janusek, 1999; Inomata and
+Triadan, 2000; Bayman and Nakamura, 2001; Liu, 2004;
+Patterson, 2005; Day and Doonan, 2007). Costin (2007) states the
+core organising aspects of craft production systems are their spatial
+and social organisation:
+From these two elements e the locations of production activities in
+geographic space and the location of production personnel in social space e key aspects of organisation are inferred: the relative
+nucleation or dispersal of manufacturing activities and the
+sociopolitical context in which production occurs. The identifi-
+cation of production loci is important because it provides information on the physical arrangement of crafting activities and helps
+in the reconstruction of the social contexts of production. (293)
+Here I specifically consider three UEV Canaanean workshops recognised by SBE proponents (i.e., Hassek Höyük, Hacınebi, and Titris ̧
+Höyük; e.g., Anderson et al., 2004:95, Chabot and Eid, 2009:810) and a
+fourth at Tell Brak in the UKB. Based on the archaeological evidence, it
+is clear that prismatic blade production in urban households yields
+irregular debitage distributions, and the reduction sequence appears
+complete, if at all, only in small areas of large cities, yielding sampling
+and visibility issues.
+4.1. Hacınebi
+As mentioned in Section 2, Edens (1999) studied Canaanean and
+“simple” prismatic blades at Late Chalcolithic Hacınebi. Canaanean
+blades were spatially linked with the local Anatolian inhabitants,
+whereas simple prismatic blades were associated with the Uruk
+colonists. He claims both communities had specialist knappers
+with their own production techniques and that Anatolian knappers
+likely crafted Canaanean blades for both Anatolian and Uruk consumers. This implies local market exchange. Edens (1999) proposes
+craftsmen at Hacınebi probably worked outside institutional
+frameworks and produced for a relatively local market, not
+interregional exchange. These points assume that blade production was a specialized craft, the skills for which relatively
+few people at Hacınebi possessed. The very irregular spatial
+distribution of blade workshop debris through the Hacınebi
+sequence (Phases A-B2) supports this view. (33)
+Four further observations from Edens (1999) are also relevant. First,
+at this proposed Canaanean workshop site, chert blades and their
+debitage comprise 15e20% of the assemblage, whereas blades and
+their reduction products comprise roughly half of the obsidian artefacts at Tell Mozan. Second, obsidian is less than 1% of the known
+Hacınebi assemblage, so production on the scale required to equip
+even one urban centre the size of Tell Mozan seems improbable.
+Third, Canaanean cores were reused as ad hoc flake cores at
+Hacınebi. If this practice occurred at other sites, such reuse could
+diminish evidence of Canaanean production occurring there. Lastly,
+Edens (1999) observes that distal blade segments are “persistently
+under-represented or under-identified (about one-third as frequent
+as proximal segments)” (28). That is, there is only one distal
+segment for every three proximal segments and for every six
+medial segments. At Northern Mesopotamian sites, SBE proponents
+maintain that missing distal segments are evidence of off-site
+production and segmentation (e.g., Anderson et al., 2004:92), but
+this phenomenon occurs at a recognised workshop site.
+4.2. Titris ̧ Höyük
+The EBA Canaanean workshop at Titris ̧ Höyük is located in a
+house with different rooms for craft and domestic activities
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621610(Hartenberger, 2003). It lies in a suburb near the northeastern edge
+of the settlement. Production debris was present in select rooms,
+and hundreds of blade cores were discovered in several trash pits.
+Hartenberger (2003) contends, based on archaeological and textual
+evidence, the workshop functioned independently of elite or palace
+control, offering an example of household-level specialisation.
+About 1600 Canaanean cores were recovered from this workshop
+area, but just one core was found in the other 3000 m 2 excavated. It
+must be emphasised that the Canaanean reduction sequence is
+complete only within a 20  20 m excavation unit at a 43-ha urban
+centre (i.e., <1% of the site area).
+4.3. Hassek Höyük
+The spatial organisation of blade production at Hassek Höyük is
+very similar to that of Titris ̧ Höyük (Behm-Blancke et al., 1984; Otte
+and Behm-Blanke, 1992). In one room of House 3, 28 Canaanean
+cores lay in a pile near a wall, while an additional dozen cores, as
+well as blades and debris, were scattered throughout the room. This
+stratum dates to the Late Uruk/EBA. Elsewhere at the site, however,
+Canaanean blades and their production materials are rare, much
+like Titris ̧ Höyük.
+4.4. Tell Brak
+SBE proponents have implied that Tell Brak was one of the
+urban centres supplied with Canaanean blade segments by
+Anatolian workshops (Chabot and Eid, 2007: Fig. 1; Chabot and
+Pelegrin, 2012: Fig. 6.7). Excavations at Tell Brak (Fig. 3), however, show that Canaanean and obsidian blades were crafted
+together. Canaanean blades are abundant in fourth- and thirdmillennia strata (Oates, 1993; Oates and Oates, 1993). About
+50e60% of blades in those levels are obsidian, a higher proportion than at Hassek Höyük or Hacınebi (Wright, 1999). The cores
+are principally chert, but obsidian cores are also present. Oates
+and Oates (1993) argues that the Canaanean cores are like
+those at Hassek Höyük and that production activities occurred at
+Tell Brak.
+Excavators found a structure with a courtyard, an adjacent room
+with knapping debris, and a series of small rooms evocative of
+workspaces or a souq (Oates and Oates, 1993; Oates and McMahon,
+2008). The structure dates to the Late Uruk/EBA and has been
+interpreted as a large house. Chert and obsidian debitage were
+concentrated in a room adjacent to the courtyard, and several
+Canaanean cores were also found in the workspace with a 2-kg
+block of obsidian. This spatiotemporal association suggests that
+knappers either used both raw materials to craft blades or specialised in one material but shared the same space. Debitage is rare
+outside the structure, and Wright (1999) attributes this to specialised production in an urban context:
+This fourth-millennium stone-tool assemblage from Tell Brak
+does have some surprising features that merit emphasis. First, in
+contrast to all other assemblages known to me, is the scarcity of
+primary industrial debris. It is likely that this is an indication of
+the degree of urban occupational specialization at the large
+centre of Brak. (37)
+Elsewhere only finished products are found, including a clay bladelet holder (with bladelets still in situ) in a house nearby (Wright,
+2002; Oates, 2004). Therefore, there is evidence of local production
+and consumption of chert and obsidian blades during the EBA. The
+associated spatial organisation implies that, regardless of material,
+prismatic blades may have had similar social organisation of
+production.
+5. Obsidians at Tell Mozan and other sites
+A core argument of the SBE hypothesis is that the specialised
+Anatolian workshop sites used cherts only found in the Bingöl region (e.g., Chabot et al., 2001:253e254; Anderson et al., 2004:95,
+123; Chabot and Eid, 2009:810) and that these sites principally, if
+not exclusively, used obsidians from the same region (e.g., Chabot
+et al., 2001:253e254; Chabot, 2002:62, Chabot and Eid,
+2009:820). Chemical analyses of Tell Mozan obsidian artefacts
+revealed a great diversity of sources, very different from the Canaanean workshop sites of southeastern Anatolia. Furthermore,
+reassessing prior obsidian sourcing studies at key sites reveals a
+much more complex regional “sourcescape” than is put forward by
+SBE proponents.
+5.1. Tell Mozan
+Tell Mozan was Urkesh, the religious and political capital of
+Hurrian culture in the UKB. Hurrians lived in a transitional zone
+along the border between highland Turkey and lowland Syria by
+the mid-third millennium BCE. Textual evidence suggests that
+Hurrians were a minority in UKB cities during the EBA and MBA, so
+Urkesh is one of few conclusively Hurrian settlements. It was
+among the largest cities in the UKB at the time. The high mound is
+28 m tall and 20 ha (Fig. 4), and its surrounding outer city was
+110 ha during its greatest extent. The site and its inhabitants are
+worthy of more attention than, unfortunately, can be included here.
+Readers are directed to Frahm (2010:165e214) as well as Buccellati
+and Kelly-Buccellati (1997, 2002, 2005, 2009, inter alia) for further
+discussion of Urkesh and the Hurrians.
+From 1984 to 2010, Tell Mozan was excavated by Giorgio Buccellati and Marilyn Kelly-Buccellati with the International Institute
+for Mesopotamian Area Studies (IIMAS). At the site, I examined
+circa 820 obsidian and 1740 chert artefacts from the IIMAS excavation units (Fig. 4). Obsidian accounts for about a third (32%) of the
+site’s lithic assemblage, and the other two-thirds are cherts. From
+1998 to 2004, the site was also excavated by a University of
+Tübingen team, led by Peter Pfälzner and Heike Dohmann-Pfälzner.
+The team found about 300 obsidian and 500 chert artefacts in their
+excavation units (Fig. 4.). Chabot and Eid’s (2009) interpretations
+are based on lithics excavated by the Tübingen team.
+A new programme of lithic analysis was planned for the 2011
+season, but all foreign archaeological projects have been halted as a
+result of the current security situation in Syria. Thus, it is not
+possible at this time to give detailed lithic assemblage breakdowns
+(i.e., precise numbers of distal, proximal, and medial segments).
+There is evidence for obsidian prismatic blade production on-site
+(Fig. 2); however, at present, that evidence cannot be considered
+in a quantitative context. Additionally, elucidation of subtle variations in production (e.g., Pelegrin’s, 2012 different “modes” of
+pressure blade production techniques; Astruc et al.’s, 2007 core
+shaping practices) requires on-site assemblage studies. Functional
+analysis of the obsidian tools is also of considerable interest;
+however, due to taphonomic factors like the depositional sediment
+chemistry (al Quntar et al., 2011), future use-wear studies also
+necessitate fieldwork.
+After this on-site survey of the lithic assemblage, a sample of 97
+obsidian artefacts, all chip debris, was approved for export by the
+Syrian Directorate General of Antiquities and Museums. Thus, 12%
+of the obsidian assemblage was chemically sourced. The spatiotemporal span of these artefacts reflects the site’s recent excavations: 81 artefacts from area A, 3 from B, and 13 from J (Fig. 4),
+spanning the late EBA III to LBA II. Artefacts were compared to over
+900 geological specimens from 200 sampling loci in Anatolia and
+the Caucasus (Fig. 1; Frahm, 2010:257e269). All artefacts and
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 611geological specimens were analysed using electron microprobe
+analysis (EMPA), as detailed in Frahm (2010:302e364; 2012a).
+Accuracy, repeatability, and reproducibility were evaluated using
+international reference standards (e.g., VG-568 obsidian) and XRF
+and NAA data from the University of Missouri Research Reactor
+(MURR). These compatibility evaluations are detailed elsewhere
+(Frahm, 2010:365e484, 2012a). All data are published online and
+downloadable from stable archives (Frahm, 2010, 2012b; Frahm
+and Feinberg, 2013b).
+The chemical analyses reveal that Bingöl A and B obsidians account for less than one fourth (23%) of the sourced artefacts from
+Tell Mozan. The rest (77%) originate from five sources: 60% from
+Nemrut Dag, 6% from Tendürek Dag, 6% from Mus ̧ , 3% from Göllü
+Dag, and 2% from Meydan Dag. Therefore, Tell Mozan has the most
+diverse assemblage known in Mesopotamia to date (Frahm,
+2010:590e629). There is a conflict between a hypothesis that the
+residents of Tell Mozan relied on blade workshops using Bingöl
+obsidians (e.g., Chabot et al., 2001:253e254; Chabot, 2002:62,
+Chabot and Eid, 2009:820) and evidence that most obsidian originated from other sources, some hundreds of kilometres away.
+Chabot and Eid (2009) argue that Tell Mozan provides evidence
+for their model continuing from the EBA Ninevite V (3000e2500
+BCE) into the MBA (2100e1600 BCE), spanning approximately a
+millennium. In contrast, recent studies highlight centennial,
+perhaps decadal, shifts in obsidian source-use at Tell Mozan,
+including quarrying changes at the sources themselves (Frahm and
+Feinberg, 2013a,b,c).
+5.2. Reassessing “unknown” sources
+Obsidians play a key role in the SBE narrative, so it is worth
+reexamining the source attributions on which it is based, especially
+when artefacts have unidentified sources. The reason to reconsider
+past source assignments is not that the measurements are inaccurate, imprecise, or otherwise erroneous. Instead, I hold that these
+data are generally compatible, at least for the purposes of sourcing
+artefacts, with newer datasets. Rather, the issue is incomplete
+geochemical data for Eastern Anatolian sources. Only recently have
+certain lesser known sources been properly characterised (e.g.,
+Frahm, 2010; Chataigner et al., 2013; Chataigner and Gratuze,
+2013a,b). Rapp and Hill (1998) assert that, at the time, Anatolian
+obsidian studies had misleading results “for two reasons: not all
+potential source deposits have been sampled, and many deposits
+were not sampled systematically e with full knowledge and
+coverage of the geology” (137; also see Özdogan, 1994: 423). Thus,
+studies crucial to the SBE hypothesis were conducted with insuf-
+ficient data.
+Integrating numerous datasets in an endeavour to create a
+coherent obsidian reference database can result in diffuse “fingerprints” (Poidevin, 1998; Glascock, 1999). Here, however, I compare
+just two datasets: artefact data from prior sourcing publications
+and my geological dataset. The comparisons need only reveal
+overall patterns for the artefacts and sources, and this may be done
+because accuracy has been rigorously demonstrated for the EMPA
+data. Specifically, agreement has been shown with data from MURR
+(Frahm, 2010:365e484, 2012a; Darabi and Glascock, 2013) and
+other labs (Le Bourdonnec et al., 2012; Chataigner et al., 2013). The
+comparisons are also validated by replicating unambiguous identifications. If Hassek Höyük artefacts that Cauvin et al. (1991) assign
+to Bingöl B also match the EMPA measurements for Bingöl B, that
+reproducibility supports using the datasets together to identify
+unknown artefacts.
+5.3. Nemrut Dag or Bingöl A?
+There are two principal obsidian varieties: calcalkaline and
+peralkaline. Peralkaline obsidians occur in Southwest Asia at
+Nemrut Dag volcano and in deposits of the Bingöl province (Fig. 3).
+Peralkaline and calcalkaline obsidians both exist in Bingöl and are
+known as Bingöl A and Bingöl B, respectively. Nemrut Dag and
+Bingöl A obsidians are geochemically similar, and many researchers
+report struggles to distinguish them (e.g., Gratuze et al., 1993, 1995;
+Abbès et al., 2001, 2003; Rosen et al., 2005; Bellot-Gurlet and
+Poupeau, 2006; Carter et al., 2008; Khalidi et al., 2009; Forster and
+Grave, 2012). Previously, though, EMPA data have revealed six
+Nemrut Dag obsidians and two Bingöl A obsidians (Frahm, 2012b).
+Problems discerning Nemrut Dag and Bingöl A obsidians may
+stem from sampling. For example, Carter et al. (2008) relied on
+three Nemrut Dag specimens and one Bingöl A specimen, while
+Bressy et al. (2005) analysed five from Nemrut Dag and two from
+Fig. 4. Excavation units of sourced artefacts relative to the palace excavations (left) and areas A, B, and J on the tell (right). The IIMAS excavation units included in the study are
+labelled: units in bold have sourced obsidian artefacts, while other units had artefacts included in the on-site lithic survey. Tübingen excavation squares are shaded grey (right).
+Compiled and redrawn from various expedition maps.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621612Bingöl A. In contrast, the findings in Frahm (2012b) and here are
+based on a collection of 100 Nemrut Dag and 40 Bingöl specimens.
+When compiling data from so few specimens, researchers may
+be comparing obsidians with distinct compositions and attributing
+the variations to analytical error, not actual differences among
+multiple flows. In reality, several elements (e.g., Zr, Ti, Fe, Al) vary
+more among the Nemrut Dag obsidians than among all calcalkaline
+Anatolian obsidians combined, so it seems unlikely analytical error
+is the main issue. If it was, sourcing calcalkaline Anatolian obsidians
+would not be so successful. While error is an issue, incomplete
+sampling poses a greater problem (Glascock et al., 1998:20).
+Inadequate sampling is also a problem for studies apparently
+able to differentiate Nemrut Dag and Bingöl A obsidians. Notably,
+Poidevin (1998) first used a CNK/A vs. NK/A plot (i.e., a peralkalinity
+graph) to do so. Based on the available data, Poidevin (1998) reported Bingöl A obsidian fell between two groups of Nemrut Dag
+obsidians: one with high peralkalinity and one with low. It was not
+until Bressy et al. (2005) that a third Nemrut Dag group, one with
+intermediate peralkalinity, was added to such plots. This casts into
+doubt source attributions for Tell Gudeda and Tell ’Atij artefacts in
+Chabot et al. (2001).
+5.4. Implications for lithic analysis
+Bingöl A and B obsidians are among the oldest in Anatolia (3.2e
+5.1 and 4.3e6.1 Ma, respectively; Chataigner et al., 1998; Bigazzi
+et al., 1998), whereas Nemrut Dag obsidians are among the youngest (310 ka on its slopes and <30 ka in the caldera; Notsu et al.,
+1995; Yılmaz et al., 1998). The Bingöl obsidians were millions of
+years old even before the Nemrut Dag volcano started forming circa
+1.2 Ma (Pearce et al., 1990). As a result of these sources’ disparate
+ages (and other factors such as eruption type and soil chemistry),
+their raw-material morphologies can differ markedly, yielding
+consequences for lithic analysis.
+Obsidian often forms during the eruption of rhyolitic lava domes
+(Fig. 5). Where exposed, it occurs as angular blocks without cortex
+due to fractures along porous layers and naturally occurring cracks.
+Thus, Nemrut Dag obsidians occur as blocks with largely
+Fig. 5. Angular obsidian blocks (c and e) with no cortex and parallel surfaces due to fractures along flow bands. These blocks are available atop (b) and around the perimeter (d) of a
+young obsidian-bearing lava flow (a). These examples come from the Newberry volcano caldera, very similar to the Nemrut Dag caldera (Frahm, 2012b,c). Fresh angular blocks will
+have initial reduction stages and products different from chert river cobbles. Top illustration based on figures in Fink and Manley (1987), Hughes and Smith (1993), and Stevenson
+et al. (1996); redrawn and modified by the author. Photographs by the author.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 613unweathered surfaces (Özdemir et al., 2006; Ulusoy et al., 2008).
+After millions of years, obsidian blocks become rounded nodules
+through weathering and transport by water and mudflows
+(Shackley, 2005). Bingöl A obsidian in the Çavus ̧ lar locality, for
+example, occurs as rounded nodules, 10e25 cm in diameter
+(Poidevin, 1998). Over time these nodules developed cortex, and
+streams and lahars scattered them across distances of 20 km
+(Cauvin et al., 1986).
+Cauvin (1996) considers how such differences in morphology
+affect reduction processes. A nodule of Bingöl A obsidian and one of
+chert will yield similar patterns of cortical flakes. As the nodule is
+encased by cortex, the initial flake removed has an entirely cortical
+dorsal surface and striking platform, and cortex decreases in subsequent removals. A source like Nemrut Dag, however, yields blocks
+without cortex. Thus, abundance of cortical flakes is not always a
+valid measure of the form in which obsidian was transported. It is
+important to determine the volcanic sources before applying such a
+metric.
+All Tell Mozan artefacts from Nemrut Dag match obsidians in the
+caldera (Frahm, 2012b). Thus, the artefacts were crafted of obsidians two orders of magnitude younger than Bingöl obsidians. Other
+obsidians at the site have intermediate ages between 60 ka (Meydan Dag) and 1.9 Ma (Mus ̧ ; Bigazzi et al., 1994, 1997; Yılmaz et al.,
+1998). While cortical flakes are uncommon at Tell Mozan, most
+artefacts are made of obsidian from young sources, for which chertlike cortex should not be expected.
+5.5. Cafer Höyük
+Twelve artefacts from Cafer Höyük established the idea that
+obsidian at UEV sites originated in the Bingöl province (Cauvin
+et al., 1986; republished in Cauvin et al., 1991). According to
+Cauvin et al. (1986), seven artefacts are Bingöl B obsidian, and the
+other five are Bingöl A obsidian. Fig. 6 shows the artefacts with my
+geological data. The two datasets exhibit sufficient agreement to
+corroborate the artefacts’ original attributions to Bingöl A and B.
+Thus, based on the available data, Cafer Höyük inhabitants drew
+primarily on the Bingöl obsidian sources. Cauvin (1998) suggests
+that they collected cobbles transported by the Murat River, and she
+reports some artefacts exhibit cortex and evidence of water
+transport (263).
+5.6. Hassek Höyük
+Of the three UEV settlements with known Canaanean workshops, only Hassek Höyük has published obsidian sourcing results.
+No artefacts have been sourced from Titris ̧ Höyük. A “small sample”
+of Hacınebi artefacts were analysed by M. Blackman at the Smithsonian, but his results are unpublished. There is only a mention in
+Edens (1999): “most pieces derive from Bingöl and [Lake] Van
+sources, but. a few pieces come from the Göllüdag source in
+central Anatolia and the Gutansar source in Armenia” (25).
+Cauvin et al. (1991) sourced 10 Hassek Höyük artefacts and
+attributed seven artefacts to Bingöl B, one to Bingöl A, one to an
+unknown peralkaline source, and one to an unknown calcalkaline
+source. Fig. 7 plots the artefacts and my geological data. The artefacts assigned to Bingöl B match my data, establishing dataset
+compatibility. One artefact has a best match to Bingöl A, while the
+unidentified peralkaline artefact matches Nemrut Dag. The unidentified calcalkaline artefact matches Pasinler. All artefacts but
+one date to the Late Uruk (3300e3100 BCE). The only Bingöl A
+artefact dates to the EBA.
+Pernicka (1992) sourced 17 artefacts from Hassek Höyük. Ten
+artefacts were assigned to Bingöl B, and Fig. 8 corroborates this
+result (despite few elements in common between datasets). Pernicka assigns the other seven artefacts to Nemrut Dag, but the
+comparison suggests that one is actually Bingöl A obsidian. All 17
+artefacts date to the Late Chalcolithic (i.e., fourth millennium BCE).
+5.7. Tell ’Atij and Tell Gudeda
+Ten sourced artefacts from Tell Gudeda and Tell ’Atij have key
+roles in the SBE narrative (Section 3). These sites, both small (<1 ha)
+villages, are 700 m apart along the Khabur River. Collectively, their
+assemblages are only 0.4% obsidian: ten obsidian artefacts were
+found at Tell Gudeda and 19 at Tell ’Atij. Chabot et al. (2001) propose that their conclusions are widely applicable because “these
+two sites are quite representative of this whole region of Northern
+Mesopotamia” (247; translated).
+To attribute peralkaline artefacts to Bingöl A or Nemrut Dag,
+Chabot et al. (2001) used Poidevin’s (1998) peralkalinity approach
+(Section 5.3). Four artefacts from each site fell into the intermediate
+range, so they attributed all eight artefacts to Bingöl A. The
+Fig. 6. Data for twelve Cafer Höyük artefacts (black symbols) from Cauvin et al. (1986) plotted with EMPA data for peralkaline (left) and calcalkaline (right) Eastern Anatolian
+obsidians. The datasets exhibit sufficient agreement to corroborate the artefacts’ original attributions to Bingöl A and B. Thus, based on the available data, the Cafer Höyük inhabitants drew largely on the Bingöl obsidian sources.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621614intermediate Nemrut Dag cluster, added by Bressy et al. (2005), was
+absent from their data analysis, casting this source attribution into
+doubt. Additionally, two Tell ’Atij artefacts had unknown sources.
+Fig. 9 shows these artefacts with my geological dataset. Chabot
+et al. (2001) correctly identified the peralkaline artefacts as Bingöl A obsidian, showing compatibility of the datasets. The unidentified Tell ’Atij artefacts match Pasinler, about 100 km northeast
+of the Bingöl sources (Fig. 2). Of the two Pasinler artefacts, one is a
+small fragment from an undated context. The other, however, is a
+prismatic blade segment, and it was discovered in an EBA stratum
+with Ninevite V sherds (Fortin, 1998).
+5.8. Tell Brak
+Section 4.4 considers the spatial organisation of chert and
+obsidian blade production at Tell Brak, so it is worth considering
+the obsidian sources represented among its artefacts. Over half
+(53%) of the sourced Tell Brak artefacts have no context
+(Francaviglia and Palmieri, 1998; Forster and Grave, 2012), and
+none are securely dated to the EBA or MBA. Khalidi et al. (2009),
+though, sourced eight Late Chalcolithic obsidian fragments, and
+they assigned one fragment to Meydan Dag, three to Bingöl B, and
+four to Bingöl A. Fig. 10 corroborates their source attributions to
+Meydan Dag and Bingöl B, establishing data compatibility. The
+published peralkaline artefact matches Nemrut Dag, not Bingöl A.
+Thus, just over one third (38%) of the obsidian originated in the
+Bingöl area. Although these results predate the focus of the SBE
+hypothesis (i.e., the EBA and, to a lesser extent, MBA), as discussed
+in Section 2, recent studies in the Caucasus suggest that Canaaneanlike technology already existed at this time. A forthcoming chapter
+on Tell Brak may offer new insights more relevant to the period in
+question (Khalidi, in press).
+5.9. Summary of obsidian data
+Fig. 11 summarises the obsidian sources represented at Tell
+Mozan, Cafer Höyük, Hassek Höyük, Tell Gudeda, Tell ’Atij, and Tell
+Brak. This graph also highlights a considerable change in obsidian
+source-use at Tell Mozan between Phases 2 and 3 (see discussion in
+Frahm and Feinberg, 2013b). Of these sites (and all Mesopotamian
+Fig. 7. Data for ten Hassek Höyük artefacts (black symbols) from Cauvin et al. (1991) plotted with EMPA data for peralkaline (left) and calcalkaline (right) Eastern Anatolian obsidians. Cauvin et al. (1991) attributed seven artefacts to Bingöl B, one to Bingöl A, one to an unknown peralkaline source, and one to an unknown calcalkaline source. The artefacts
+assigned to Bingöl A and B match these data, establishing data compatibility. The unidentified peralkaline artefact matches Nemrut Dag, and the unidentified calcalkaline artefact
+matches Pasinler.
+Fig. 8. Data for seventeen Hassek Höyük artefacts (black symbols) from Pernicka (1992) plotted with EMPA data for peralkaline (left) and calcalkaline (right) Eastern Anatolian
+obsidians. Despite few elements in common between these datasets, this comparison corroborates the attribution of ten artefacts to Bingöl B, establishing dataset compatibility.
+Pernicka (1992) attributes seven peralkaline artefacts to Nemrut Dag, but this comparison strongly suggests that one is actually Bingöl A obsidian.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 615sites with obsidian sourcing data), Tell Mozan has the most diverse
+obsidian assemblage, which exhibits the greatest overall similarity
+to nearby Tell Brak. Notably, Tell Gudeda and Tell ’Atij are not
+representative of other sites, including the UEV sites to which they
+are often compared.
+Fig. 12 simplifies the results in Fig. 11, reconceptualising them as
+a dichotomy between Bingöl and non-Bingöl obsidians. Tell Mozan
+has the lowest overall fraction of Bingöl obsidian, followed closely
+by Tell Brak. In the UEV, based on the available data, Cafer Höyük
+inhabitants relied heavily, perhaps even exclusively, on Bingöl obsidians. The only UEV site with a Canaanean workshop and obsidian
+data, Hassek Höyük, has 20e35% non-Bingöl obsidian based on two
+independent sourcing studies.
+5.10. Rejecting maximal efficiency (again)
+It is worth noting that these reassessed data undermine assumptions regarding “efficient” origins of lithic materials. The SBE
+hypothesis associates chert and obsidian sources in the Bingöl region because, at least in part, it simply seems efficient that, if a
+settlement’s inhabitants used chert from that area, they would also
+use obsidian from there (and vice versa). This is similar to a common approach to deal with analytical inabilities to distinguish
+Nemrut Dag and Bingöl A obsidians (Section 5.3).
+Unable to differentiate among peralkaline obsidians, Gratuze
+et al. (1993) suggested the following: “if, at one archaeological
+site, we find the artefacts have the two compositions of the Bingöl
+area, we may suppose that the artefacts come from Bingöl” (16).
+That is, if calcalkaline Bingöl B obsidian is found at a site, one may
+presume that the peralkaline obsidian originated from Bingöl A, not
+Nemrut Dag. If Bingöl B obsidian does not occur at the site, the
+peralkaline obsidian may have originated from either Nemrut Dag
+or Bingöl A. This supposition was followed in subsequent studies.
+For example, Khalidi et al. (2009) assigns peralkaline artefacts at
+Tell Brak (Section 5.8) to Bingöl A, not Nemrut Dag, due to the
+occurrence of Bingöl B obsidian there. Their hypothesis essentially
+presumes humans choose to act with maximum utility for the cost.
+Specifically, it holds that, if people had access to Bingöl B obsidian,
+they would not also have Nemrut Dag obsidian when it is maximally efficient to obtain nearby Bingöl A obsidian.
+Fig. 9. Data for ten Tell Gudeda and Tell ’Atij artefacts (black symbols) from Chabot et al. (2001) plotted with EMPA data for peralkaline (left) and calcalkaline (right) Eastern
+Anatolian obsidians. This comparison corroborates the attribution of eight artefacts to Bingöl A, establishing compatibility of these datasets. Two unidentified calcalkaline artefacts
+match Pasinler.
+Fig. 10. Data for five of eight Tell Brak artefacts (black symbols) sourced by Khalidi et al. (2009) plotted with EMPA data for peralkaline (left) and calcalkaline (right) Eastern
+Anatolian obsidians. This comparison corroborates the original attribution of three artefacts to Bingöl B and one to Meydan Dag, establishing data compatibility. The one published
+peralkaline artefact matches Nemrut Dag rather than Bingöl A.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621616Previously, the Tell Mozan obsidian results established that this
+assumption of maximal efficiency is incorrect (Frahm, 2012b). The
+site has three features with Bingöl B and Nemrut Dag obsidians
+together, one feature with Bingöl A and Nemrut Dag obsidians, and
+one feature with only Bingöl A and B obsidians. The reassessment of
+earlier studies’ data reveals that, of these five sites, only one e Cafer
+Höyük e is consistent with the “Bingöl A and B together” archetype
+of Gratuze and his colleagues. In contrast, Hassek Höyük has Bingöl
+A and B obsidians with Nemrut Dag (and Pasinler) obsidians. Tell
+Gudeda has only Bingöl A, while Tell ’Atij has Bingöl A obsidian with
+calcalkaline obsidian from Pasinler, not Bingöl B. Tell Brak, however,
+has Bingöl B obsidian with peralkaline Nemrut Dag, not Bingöl A,
+obsidian. Therefore, this assumption by Gratuze et al. (1993) is also
+demonstrably false at sites other than Tell Mozan. In short, one
+cannot assume that, if Bingöl A obsidian was used, Bingöl B obsidian
+was used too and vice versa.
+The implications of these obsidian data apply as well to lithic
+assemblages of chert and obsidian. If the obsidians at a site such as
+Hassek Höyük originated from the Bingöl deposits, it is invalid to
+assume that its inhabitants relied on cherts from the same region.
+Additionally, if cherts from the Bingöl region were, in fact, used at a
+site, its obsidians cannot be assumed to have originated there too.
+Forces other than maximal efficiency moved people and materials
+throughout the Bronze-Age Near East.
+Tell Mozan - Frahm (n=97)
+Tell Mozan - Phase 2 (n=20)
+Tell Mozan - Phase 3 (n=17)
+Tell Gudeda - Chabot et al. (n=4)
+Tell Brak - Khalidi et al. (n=8)
+0% 25% 50% 75% 100%
+Nemrut Da
+Mu
+Meydan Da
+Pasinler
+UEV
+MKB
+UKB
+Fig. 11. Summary of the obsidian sources represented at Tell Mozan, Cafer Höyük, Hassek Höyük, Tell Gudeda, Tell ’Atij, and Tell Brak. Also shown is the drastic change in obsidians
+at Tell Mozan between Phases 2 and 3 (see discussion in Frahm and Feinberg, 2013b). Tell Mozan has the most diverse overall obsidian assemblage and appears to exhibit a basic
+similarity with Tell Brak. The results for Tell Gudeda and Tell ’Atij are not representative of those for the other sites, including the two UEV settlements.
+Tell Mozan - Frahm (n=97)
+Tell Mozan - Phase 2 (n=20)
+Tell Mozan - Phase 3 (n=17)
+Tell Gudeda - Chabot et al. (n=4)
+Tell Brak - Khalidi et al. (n=8)
+0% 25% 50% 75% 100%
+UEV
+MKB
+UKB
+Fig. 12. Simplification of Fig. 11 to show a dichotomy between Bingöl and non-Bingöl obsidian sources. Tell Mozan has the lowest overall proportion of Bingöl obsidian, followed
+closely by Tell Brak. In the UEV, Cafer Höyük relied heavily on Bingöl obsidians, but it has no known Canaanean blade workshop. The only UEV site here with a Canaanean workshop,
+Hassek Höyük, has 20e35% non-Bingöl obsidian.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 6176. Interpretation and discussion
+Rather than obsidian blade segments arriving at Tell Mozan
+from specialised UEV workshop sites, a likely alternative is that
+these diverse obsidians arrived as cores. Clark (1987) argues that
+cores are the most efficient form of cutting-edge storage and, thus,
+desirable to limit weight. This would be consistent with the distribution of obsidians by transhumant groups (Fig. 3; routes of an
+Alikan nomadic group during the 1960s from Bes ̧ ikçi, 1969) or via
+interactions with the Early Transcaucasian (i.e., Kura-Araxes) culture of Eastern Anatolia and the Caucasus, also attested by ceramic
+evidence at Tell Mozan (red-and-black burnished ware in the
+palace complex; Kelly-Buccellati, 2005; Buccellati and KellyBuccellati, 2007).
+Khalidi et al. (2009) propose that obsidian diversity is a directness metric: one predominant source indicates direct access, while
+varied obsidians imply indirect access and exchange linked with
+other goods. Three sources are represented by eight artefacts from
+Tell Brak, so they conclude that inhabitants were not involved in
+direct procurement from the sources. Given the full reduction
+sequence occurs at the site, they propose that obsidian arrived as
+cores or preforms and that, rather than large-scale production,
+there was a “cottage industry” or household production. This is
+consistent with the household production at UEV sites. Khalidi et al.
+(2009) suggest that obsidian was likely worked by “individuals
+with the capacity to knap on a need-to-use basis, using whatever
+materials were available” (885). A household industry based on
+diverse transported raw materials seems a likely counter-narrative
+for Tell Mozan as well.
+Likely used for a variety of cutting and scraping tasks, from food
+processing to pottery production, Cauvin (1998) suggests that “the
+‘know-how’ involved in the work of obsidian [tools], much more
+vital and fundamental, should not be limited to a few tradesmen”
+(268; translated). This raises the potential for a true “cottage industry,” a term that refers to farmers and their families working
+from their homes, manufacturing a product, when there was little
+agricultural work to do. It has been argued that, based on Uruk
+assemblages at Southern Mesopotamian sites, blade production
+was widely distributed on a household scale and involved little
+market exchange (Pope and Pollock, 1995; Pollock et al., 1996).
+Evidence of exchange between the two Hacınebi communities (i.e.,
+that Anatolian knappers likely crafted Canaanean blades for both
+Anatolian and Uruk consumers, according to Edens, 1999), and
+souq-like rooms at Tell Brak support household production but
+focused on the local market (Oates and Oates, 1993; Oates and
+McMahon, 2008).
+The workshop at Tell Brak was found on the high mound, but the
+Titris ̧ Höyük workshop is located in a suburb on the city’s outskirts.
+Hartenberger et al. (2000) note that their attention was only drawn
+to this area by Canaanean cores brought to the surface by ploughing. Hence, archaeological visibility and sampling, especially of
+satellite settlements and outer cities, is a significant issue when
+considering regional and intra-site spatial patterning. Sediment
+cores show that, due to rapid sedimentation around 2800e1000
+BCE, EBA strata in the outer city of Tell Mozan lie beneath 180 cm of
+accumulation (Pustovoytov et al., 2011). Thus, a blade workshop
+located in the Urkesh suburbs would lie below plough depth. This is
+not the case throughout the UKB, and Wilkinson (2003) discusses
+the visibility of Near Eastern sites at length.
+Another visibility issue involves the oft-missing distal blade
+segments. Debitage disposal practices and reuse of distal segments
+should be considered as explanations alternative to off-site production. Even at an accepted Canaanean workshop site, Hacınebi,
+there is one distal segment found for every three proximal segments and for every six medial segments, and Canaanean cores
+were reused as ad hoc flake cores (Edens, 1999). Wright (1999)
+proposes the dearth of production debitage at Tell Brak reflects
+household production in an urban setting, suggesting disposal
+practices may differ in these contexts. At Titris Höyük, Canaanean
+cores were primarily found in pits dug for their disposal
+(Hartenberger, 2003). My study of the Tell Mozan lithic assemblage
+revealed geometric microliths (e.g., trapezes, lunates), notches, and
+transverse points made from blade segments, possibly distal ones,
+contributing to their apparent deficit.
+7. Concluding remarks
+This paper raises issues that must be considered in reconstructing the organisation of obsidian (and, to a lesser extent, chert)
+blades in Bronze-Age Northern Mesopotamia. The site literature
+reveals that urban household-scale blade production yields irregular debitage distributions, and the blade reduction sequence is
+complete in only small areas of urban centres. An incomplete
+corpus of reduction products may relate more to archaeological
+sampling and visibility than suggesting off-site production activities. Even at known blade workshops, there are absences in the
+debitage: at Hacınebi, there is one distal segment found for every
+three proximal segments and every six medial segments (Edens,
+1999). Chemical analyses of Tell Mozan obsidian artefacts
+revealed seven sources, very different from the Canaanean workshop sites of the UEV. A majority (77%) of the sourced Tell Mozan
+artefacts originated from sources other than Bingöl A and B.
+Furthermore, reassessing prior obsidian sourcing studies at key
+sites reveals a much more complex regional “sourcescape” than the
+SBE narrative suggests. The reassessed obsidian data also demonstrate that, when Nemrut Dag and Bingöl A obsidians are discerned,
+the results often undermine assumptions regarding maximal effi-
+ciency in lithic acquisition. Due to the considerable differences in
+age and, in turn, raw-material morphology of these obsidians,
+discerning them is also crucial before interpreting cortical metrics
+of reduction.
+When combined with the lithic evidence from Tell Mozan
+(Fig. 2), the obsidian sourcing results and archaeological clues
+regarding the socio-spatial organisation of blade production do not
+support importation of finished obsidian blade segments from
+workshops in the UEV or Bingöl province. Local production of
+obsidian (and perhaps also chert) blades is a viable counternarrative, resulting in a very distinct picture of lithic craft specialisation in EBA-MBA Northern Mesopotamia. Rather than imagining
+couriers transporting shipments of finished blade segments from
+UEV workshops to UKB urban centres, obsidian may instead have
+arrived as blocks, perhaps with some initial shaping, or cores
+brought by peoples from diverse areas and/or with diverse itineraries. Various obsidians, most often from sources other than the
+Bingöl deposits (Nemrut Dag, Mus ̧ , Tendürek Dag, Meydan Dag, and
+Göllü Dag), potentially reached the hands of the cities’ specialists
+involved in household-scale production principally for the local
+market.
+One future direction for this work is clear. When foreign
+archaeological projects resume, a priority will be sourcing the full
+Tell Mozan obsidian assemblage using portable X-ray fluorescence
+(pXRF), which was tested during the study at hand (Frahm, 2013;
+Frahm and Feinberg, 2013a,b). Using pXRF on-site would enable
+greater integration of obsidian sourcing and technological analysis
+based on a sample determined less by export restrictions and more
+by the intellectual framework in which the research is conceived.
+The entire Tell Mozan obsidian assemblage could be sourced in a
+week or two. The same could be done for other sites, leading to a
+particular regional context (i.e., EBA-MBA UKB) with sites that have
+been intensively sourced and a focus on the organisation of lithic
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621618production, consumption, and discard. Coupled with technological
+and functional analyses, Copeland’s (1995) questions can be
+meaningfully addressed.
+Acknowledgements
+Giorgio Buccellati and Marilyn Kelly-Buccellati are co-directors
+of the Urkesh expedition under the auspices of the International
+Institute for Mesopotamian Area Studies (IIMAS). Export of the Tell
+Mozan artifacts was approved by the Directorate General of Antiquities and Museums, Syrian Arab Republic. Michael Glascock of
+the MURR Archaeometry Laboratory is thanked for NAA and XRF
+data used to evaluate the EMPA data and establish inter-technique
+compatibility of the measurements. This research was supported by
+the Departments of Earth Sciences and Anthropology at the University of Minnesota, Department of Archaeology at the University
+of Sheffield, and Marie Curie Network FP7-PEOPLE-2010-ITN: New
+Archaeological Research Network for Integrating Approaches to
+Ancient Material Studies (NARNIA). Two anonymous reviewers
+offered comments and criticisms that improved the resulting paper.
+References
+Abbès, F., Bellot-Gurlet, L., Bressy, C., Cauvin, M.-C., Gratuze, B., Poupeau, G., 2001.
+Nouvelles recherches sur l’obsidienne de Cheikh Hassan (Vallée de l’Euphrate,
+Syrie) au Néolithique: PPNA et PPNB Ancien. Syria 78, 5e17.
+Abbès, F., Bellot-Gurlet, L., Cauvin, M.-C., Delerue, S., Dubernet, S., Poupeau, G.,
+Stordeur, D., 2003. Provenance of the Jerf el Ahmar (Middle Euphrates Valley,
+Syria) obsidians. J. Non-Cryst. Solids 323, 162e166.
+Akkermans, P.M.M.G., Schwartz, G.M., 2003. The Archaeology of Syria: from Complex Hunter-Gatherers to Early Urban Societies (c.16,000e300 BC). Cambridge
+University Press, Cambridge.
+al Quntar, S., Khalidi, L., Ur, J., 2011. Proto-urbanism in the late 5th millennium BC:
+survey and excavations at Khirbat al-Fakhar (Hamoukar), Northeast Syria.
+Paléorient 37 (2), 151e175.
+Anderson, P., Chabot, J., 2001. Functional analysis of Glossed blades from Northern
+Mesopotamia in the Early Bronze Age (3000e2500 BC): the case of Tell ’Atij. In:
+Journees d’etude du Groupe de recherches en archeometrie du CELAT, 1997e
+1999, pp. 257e276.
+Anderson, P.C., Inizan, M.-L., 1994. Utilisation du Tribulum au Début du IIIe Millénaire: Des Lames «Cananéennes» Lustrées à Kutan (Ninive V) dans la Région
+de Mossoul, Iraq. Paléorient 20, 85e103.
+Anderson, P., Chabot, J., Van Gijn, A., 2004. The functional Riddle of ‘Glossy’ Canaanean Blades: the Apogee of the Mesopotamian Threshing Sledge. J. Mediterr.
+Archaeol. 17 (1), 87e132.
+Arnold, P.J., 1991. Domestic Ceramic Production and Spatial Organization: a Mexican
+Case Study in Ethnoarchaeology. Cambridge University Press.
+Astruc, L., Gratuze, B., Pelegrin, J., Akkermans, P., 2007. From production to use: a
+parcel of obsidian bladelets at Sabi Abyad II. La diversité des systèmes techniques des communautés du Néolithique pré-céramique: vers la caractérisation
+des comportements sociaux. In: 5 e colloque international sur les industries
+lithiques du Néolithique pré-céramique sous la direction de Laurence Astruc,
+Didier Binder et François Briois. Éditions APDCA, Antibes, pp. 327e341.
+Badalyan, R., Lombard, P., Avetisyan, P., Chataigner, C., Chabot, J., Vila, E.,
+Hovsepyan, R., Willcox, G., Pessin, H., 2007. New data on the late prehistory of
+the Southern Caucasus. The excavations at Aratashen (Armenia): preliminary
+report. In: Lyonnet, B. (Ed.), Les Cultures du Caucase (VIe-IIIe millénaires avant
+notre ère). Leurs relations avec le Proche-Orient. CNRS éditions, pp. 37e61.
+Badalyan, R., Harutyunyan, A., Chataigner, C., Le Mort, F., Chabot, J., Brochier, J.-E.,
+Balasescu, A., Radu, V., Hovsepyan, R., 2010. The settlement of AknashenKhatunarkh, a Neolithic site in the Ararat Plain (Armenia): excavation results
+2004e2009. Tüba-Ar 13, 187e220.
+Bar, S., Winter, H., 2010. Canaanean flint blades in Chalcolithic context and the
+possible onset of the transition to the Early Bronze Age: a case study from
+Fazael 2. Tel Aviv 37, 33e47.
+Bayman, J.M., Nakamura, J.J.M., 2001. Craft specialization and Adze production on
+Hawai’i Island. J. Field Archaeol. 28, 239e252.
+Behm-Blancke, M.R., Hoh, M.R., Karg, N., Masch, L., Parsche, F., Weiner, K.L., von
+Wickede, A., Wiedermeyer, G., 1984. Hassek Höyük: Vorl. Bericht über die
+Grabungen in den Jahren 1981e83. Istanb. Mitt. 34, 31e150.
+Bellot-Gurlet, L., Poupeau, G., 2006. Towards a non-destructive multi-step analytical
+methodology for the provenance determination of archaeological obsidians. In:
+Young Chemists’ Workshop on Chemistry for the Conservation of Cultural
+Heritage: Present and Future Perspectives, pp. 1e4.
+Bes ̧ ikçi, I., 1969. Gocebe Alikan As ̧ iret. Dogan Yayinevi, Ankara.
+Bigazzi, G., Yegingil, Z., Ercan, T., Oddone, M., Özdogan, M., 1994. Provenance studies
+of prehistoric artifacts in Eastern Anatolian: Interdisciplinary research results.
+Mineral. Petrogr. Acta 37, 17e36.
+Bigazzi, G., Yegingil, Z., Ercan, T., Oddone, M., Özdogan, M., 1997. Age determination
+of obsidian bearing volcanics in Eastern Anatolia using the Fission Track dating
+Method. Geol. Bull. Turk. 40 (2), 57e73.
+Bigazzi, G., Poupeau, G., Yegingil, Z., Bellot-Gurlet, L., 1998. Provenance studies of
+obsidian artefacts in Anatolia using the Fission-Track dating Method: an
+Overview. In: Cauvin, M.-C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G.,
+Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au Proche et Moyen-Orient: Du
+Volcan à l’Outil. BAR, Oxford, pp. 70e89.
+Bressy, C., Poupeau, G., Yener, K., 2005. Cultural interactions during the Ubaid and
+Halaf periods: Tell Kurdu (Amuq Valley, Turkey) obsidian sourcing. J. Archaeol.
+Sci. 32, 1560e1565.
+Buccellati, G., Kelly-Buccellati, M., 1997. Urkesh: the first Hurrian capital. Biblic.
+Archaeol. 60 (2), 77e96.
+Buccellati, G., Kelly-Buccellati, M., 2002. Mozan/Urkesh: a new capital in the
+Northern Djezireh. In: Documents d’Archeologie Syrienne I: the Syrian Jezira:
+Cultural Heritage and Interrelations. Ministere de la Culture, Direction Generale
+des Antiquites et des Musees, Republique Arabe Syrienne, pp. 127e133.
+Buccellati, G., Kelly-Buccellati, M., 2005. Urkesh as a Hurrian Religious Center. In:
+Studi Micenei ed Egeo-Anatolici, vol. 47, pp. 27e59.
+Buccellati, G., Kelly-Buccellati, M., 2007. Urkesh and the Question of the Hurrian
+Homeland. Bull. Georgian Natl. Acad. Sci. 175 (2), 141e151.
+Buccellati, G., Kelly-Buccellati, M., 2009. The Great Temple Terrace at Urkesh and
+the Lions of Tish-atal. In: Wilhelm, G. (Ed.), Studies on the Civilization and
+Culture of Nuzi and the Hurrians, vol. 18. CDL Press, Bethesda, Maryland,
+pp. 33e69.
+Cann, J.R., Renfrew, C., 1964. The characterization of obsidian and its application to
+the Mediterranean Region. Proc. Prehist. Soc. 30, 111e133.
+Carter, T., Dubernet, S., King, R., Le Bourdonnec, F.-X., Milic, M., Poupeau, G.,
+Shackley, M.S., 2008. Eastern Anatolian obsidians at Çatalhöyük and the
+Reconfiguration of regional interaction in the Early Ceramic Neolithic. Antiquity
+82, 900e909.
+Cauvin, M.-C., 1996. L’obsidienne dans le Proche-Orient prehistorique: etat des
+recherches en 1996. Anatolica 22, 1e31.
+Cauvin, M.-C., 1998. L’obsidienne: Données Récentes Provenant de Sites-Habitats
+Néolithiques. In: Cauvin, M.-C., Gourgaud, A., Gratuze, B., Arnaud, N.,
+Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au Proche et
+Moyen-Orient: Du Volcan à l’Outil. BAR, Oxford, pp. 259e271.
+Cauvin, M.C., Chataigner, C., 1998. Distribution de l’obsidienne dans les sites
+archéologiques du Proche et du Moyen Orient (par phase chronologique). In:
+Cauvin, M.-C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L.,
+Chataigner, C. (Eds.), L’obsidienne au Proche et Moyen-Orient: Du Volcan à
+l’Outil. BAR, Oxford, pp. 325e350.
+Cauvin, M.-C., Balkan, N., Besnus, Y., S ̧ aroglu, F., 1986. Origine de l’Obsidienne de
+Cafer Höyük (Turquie): Premiers Résultats. Paléorient 12, 89e97.
+Cauvin, M.-C., Besnus, Y., Tripier, J., Montigny, R., 1991. Nouvelles analyses d’obsidiennes du Proche-Orient: modèle de géochimie des magmas utilisé pour la
+recherche archéologique. Paléorient 17, 5e20.
+Chabot, J., 1999. Tell ’Atij et Tell Gudeda: les artefacts en pierre taillée. Université
+Laval, thèse de doctorat. Available online at the Library and Archives Canada
+website: http://www.nlc-bnc.ca/obj/s4/f2/dsk2/ftp02/NQ39342.pdf.
+Chabot, J., 2002. Tell ’Atij Tell Gudeda: Industrie lithique. In: Cahiers d’archéologie
+du CELAT, no 13. Série d’archéométrie no 3. Université Laval, Québec.
+Chabot, J., Eid, P., 2003. Le phénomène des lames cananéennes: état de la question
+en Mésopotamie du nord et au Levant Sud. In: Le traitement des récoltes: un
+regard sur la diversité du Néolithique au présent. CNRS Éditions, Antibes,
+pp. 401e415.
+Chabot, J., Eid, P., 2007. Stone Tools from a Bronze Age Village (Tell Nusstell, Syria) in
+Their Wider Context. In: Berytus Archaeological Studies, vol. 50, pp. 7e36.
+Chabot, J., Eid, P., 2009. Tell Mozan: le matériel lithique. In: Bianchi, A., Wissing, A.
+(Eds.), Die Kleinfunde. Studien zur Urbanisierung Nordmesopotamiens. Ausgrabungen 1998e2001 in der zentralen Oberstadt von Tall Mozan/Urkes. Harrassowitz, Wiesbaden, pp. 803e820.
+Chabot, J., Pelegrin, J., 2006. Two examples of lithic industries employing pressure
+flaking with a lever: recent research from Northern Mesopotamia (Syria, Irak)
+and Southern Caucasus (Armenia). In: UISPP/IUPPS, XV Congress/XV Congrès.
+Université de Lisbonne. Abstract available online at: http://www.uispp.ipt.pt/
+UISPPprogfin/Livro4.pdf.
+Chabot, J., Pelegrin, J., 2012. Two examples of pressure blade production with a
+lever: recent research from the Southern Caucasus (Armenia) and Northern
+Mesopotamia (Syria, Iraq) (Chapter 6). In: Desrosiers, P. (Ed.), The Emergence of
+Pressure Blade Making: from Origin to Modern Experimentation. Springer,
+pp. 181e198.
+Chabot, J., Poidevin, J.L., Chataigner, C., Fortin, M., 2001. Caracterisation et provenance des artefacts en obsidienne de Tell ’Atij et de Tell Gudeda (III millenaire,
+Syrie). In: Cahiers d’Acheologie du CELAT, vol. 10, pp. 241e256.
+Chabot, J., Badalyan, R., Chataigner, C., 2009. A Neolithic obsidian industry in the
+Southern Caucasus Region: origins, technology and Traceology. In: Moreau, J.-F.,
+Auger, R., Chabot, J., Herzog, A. (Eds.), Proceedings of the 36th Symposium on
+Archaeometry, Cahiers d’archéologie du CELAT, 25; Série Archéométrie, 7.
+CELAT, pp. 151e160.
+Chataigner, C., Gratuze, B., 2013a. New data on the exploitation of obsidian in the
+Southern Caucasus (Armenia, Georgia) and Eastern Turkey, Part 1: source
+characterization. Archaeometry. http://dx.doi.org/10.1111/arcm.12006.
+Chataigner, C., Gratuze, B., 2013b. New data on the exploitation of obsidian in the
+Southern Caucasus (Armenia, Georgia) and Eastern Turkey, Part 2: Obsidian
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 619Procurement from the Upper Palaeolithic to the Late Bronze Age. Archaeometry.
+http://dx.doi.org/10.1111/arcm.12007.
+Chataigner, C., Poidevin, J.L., Arnaud, N.O., 1998. Turkish occurrences of obsidian and
+use by prehistoric peoples in the Near East from 14,000 to 6000 BP. J. Volcanol.
+Geotherm. Res. 85, 517e537.
+Chataigner, C., Is ̧ ıklı, M., Gratuze, B., Çil, V., 2013. Obsidian sources in the regions of
+Erzurum and Kars (North-East Turkey): new data. Archaeometry. http://
+dx.doi.org/10.1111/arcm.12002.
+Clark, J., 1987. Politics, prismatic blades, and Mesoamerican Civilization. In:
+Johnson, J.K., Morrow, C.A. (Eds.), The Organization of Core Technology. Westview Press, pp. 259e284.
+Copeland, L., 1995. The Phantom Obsidian Traders of the Jazirah. In: Neo-Lithics: a
+Newsletter of Southwest Asian Lithics Research, vol. 1, pp. 5e6.
+Costin, C.L., 2007. Craft production systems. In: Feinman, Gary M., Douglas Price, T.
+(Eds.), Archaeology at the Millennium: a Sourcebook. Springer, pp. 273e328.
+Cribb, R., 1991. Nomads in Archaeology. Cambridge University Press, Cambridge.
+Crowfoot, J., 1948. Some flint implements from ’Affula. J. Palest. Orient. Soc. 21, 72e
+79.
+Darabi, H., Glascock, M.D., 2013. The source of obsidian artefacts found at East Chia
+Sabz, Western Iran. J. Archaeol. Sci.. http://dx.doi.org/10.1016/j.jas.2013.04.022.
+Day, P.M., Doonan, R.C.P., 2007. Metallurgy in the Early Bronze Age Aegean. In:
+Sheffield Studies in Aegean Archaeology, vol. 7. Oxbow Books, Oxford.
+Edens, C., 1999. The chipped stone industry at Hacınebi: technological Styles and
+social Identity. Paléorient 25, 23e33.
+Fink, J.H., Manley, C.R., 1987. Origin of Pumiceous and Glassy Textures in Rhyolite
+flows and domes. In: Fink, J.H. (Ed.), The Emplacement of Silicic Domes and Lava
+Flows, Geological Society of America Special Paper 212, pp. 77e88.
+Forster, N., Grave, P., 2012. Non-destructive PXRF analysis of museum-curated
+obsidian from the Near East. J. Archaeol. Sci. 39, 728e736.
+Fortin, M., 1998. New Horizons in Ancient Syria: the view from ’Atij. Near East.
+Archaeol. 61, 15e24.
+Frahm, E., 2010. The Bronze-age Obsidian Industry at Tell Mozan (Ancient Urkesh),
+Syria (Ph.D. dissertation). Department of Anthropology, University of Minnesota. Available online at University of Minnesota’s Digital Conservancy: http://
+purl.umn.edu/99753.
+Frahm, E., 2012a. Non-destructive sourcing of Bronze-Age near Eastern obsidian
+artefacts: redeveloping and reassessing electron microprobe analysis for
+obsidian sourcing. Archaeometry 54, 623e642.
+Frahm, E., 2012b. Distinguishing Nemrut Dag and Bingöl A obsidians: geochemical
+and landscape differences and the archaeological implications. J. Archaeol. Sci.
+39, 1435e1444.
+Frahm, E., 2012c. What Constitutes an obsidian “source”?: landscape and
+geochemical considerations and their archaeological implications. Int. Assoc.
+Obsidian Stud. Bull. 46, 16e28.
+Frahm, E., 2013. Validity of “Off-the-Shelf” Handheld portable XRF for sourcing near
+Eastern obsidian chip debris. J. Archaeol. Sci. 40, 1080e1092.
+Frahm, E., Feinberg, J.M., 2013a. Empires and Resources: central Anatolian obsidian
+at Urkesh (Tell Mozan, Syria) during the Akkadian Period. J. Archaeol. Sci. 40,
+1122e1135.
+Frahm, E., Feinberg, J.M., 2013b. Environment and collapse: Eastern Anatolian obsidians at Urkesh (Tell Mozan, Syria) and the Third-Millennium Mesopotamian
+Urban Crisis. J. Archaeol. Sci. 40, 1866e1878.
+Frahm, E., Feinberg, J.M., 2013c. From flow to Quarry: magnetic properties of
+obsidian and changing the scales of archaeological sourcing. J. Archaeol. Sci..
+http://dx.doi.org/10.1016/j.jas.2013.04.029.
+Francaviglia, V., Palmieri, A., 1998. Analisi di ossidiane dell’area del Habur (Giazira
+Settentrionale). In: Pecorella, P.E. (Ed.), Tell Barri/Kahat 2: Relazione Sulle
+Campagne 1980e1993 a Tell Barri/Kahat, nel Bacino del Habur (Siria). Università degli studi di Firenze, pp. 335e344.
+Glascock, M.D., 1999. An inter-laboratory comparison of element compositions for
+two obsidian sources. Int. Assoc. Obsidian Stud. Bull. 23, 13e25.
+Glascock, M.D., Braswell, G., Cobean, R.H., 1998. A systematic approach to obsidian
+source characterization. In: Shackley, M.S. (Ed.), Archaeological Obsidian
+Studies: Method and Theory. Society for Archaeological Sciences, pp. 15e65.
+Gratuze, B., Barrandon, J., Al Isa, K., Cauvin, M.-C., 1993. Non-destructive analysis of
+obsidian artefacts using nuclear techniques: investigation of provenance of
+Near Eastern artefacts. Archaeometry 35, 11e21.
+Gratuze, B., Barrandon, J., Al Isa, K., Cauvin, M.-C., 1995. Obsidian trade in the Near
+East in Neolithic and Bronze-Age Times. PACT 45, 499e506.
+Groman-Yaroslavski, I., Iserlis, M., Eisenberg, M., 2013. Potters’ Canaanean flint
+blades during the Early Bronze Age. Mediterr. Archaeol. Archaeom. 13, 171e184.
+Hartenberger, B., 2003. A Study of Craft Specialization and the Organization of
+Chipped Stone Production at Early Bronze Age Titris ̧ Höyük, Southeastern
+Turkey (Doctoral dissertation). Boston University.
+Hartenberger, B., Rosen, S., Matney, T., 2000. The Early Bronze Age blade workshop
+at Titris Höyük: lithic specialization in an urban context. Near East. Archaeol.
+63, 51e58.
+Hirth, K.G., 2006. Obsidian Craft Production in Ancient Central Mexico: Archaeological Research at Xochicalco. The University of Utah Press, Salt Lake City.
+Hughes, R.E., Smith, R.L., 1993. Archaeology, geology, and geochemistry of obsidian
+provenance studies. In: Stein, J.K., Linse, A.R. (Eds.), Effects of Scale on
+Archaeological and Geological Perspectives, Geological Society of America,
+Special Paper, vol. 283, pp. 79e91.
+Hurcombe, L.M., 1992. Use Wear Analysis and Obsidian: Theory, Experiments, and
+Results. J.R. Collis Publications.
+Inomata, T., Triadan, D., 2000. Craft production by Classic Maya elites in domestic
+settings: data from rapidly abandoned structures at Aguateca, Guatemala.
+Mayab 13, 57e66.
+Janusek, J.W., 1999. Craft and local power: embedded specialization in Tiwanaku
+cities. Lat. Am. Antiq. 10, 107e131.
+Johnson, J.K., 1996. Lithic analysis and questions of cultural complexity (Chapter 6).
+In: Odell, G.H. (Ed.), Stone Tools: Theoretical Insights into Human Prehistory.
+Springer, pp. 159e179.
+Kelly-Buccellati, M., 2005. Urkesh and the North: recent discoveries. In: Owen, D.I.,
+Wilhelm, G. (Eds.), Studies on the Civilization and Culture of Nuzi and the
+Hurrians. CDL Press, pp. 29e40.
+Khalidi, L. Fifth millennium BC obsidian production in Area TW, Tell Brak. In:
+McMahon, A. (Ed.), Preludes to Urbanism in Mesopotamia: Festschrift in Honour of Joan Oates’ 80th Birthday and 57 Years of Archaeological Work in the
+Near East. BAR, Archaeopress, Oxford (in press).
+Khalidi, L., Gratuze, B., Boucetta, S., 2009. Provenance of obsidian excavated from
+Late Chalcolithic levels at the sites of Tell Hamoukar and Tell Brak, Syria.
+Archaeometry 51, 879e893.
+Le Bourdonnec, F.-X., Nomade, S., Poupeau, G., Guillou, H., Tushabramishvili, N.,
+Moncel, M.-H., Pleurdeau, D., Agapishvili, T., Voinchet, P., Mgeladze, A.,
+Lordkipanidze, D., 2012. Multiple origins of Bondi Cave and Ortvale Klde (NW
+Georgia) obsidians and human mobility in Transcaucasia during the Middle and
+Upper Palaeolithic. J. Archaeol. Sci. 39, 1317e1330.
+Lehner, J.W., Yener, K.A. Organization and specialization of early mining and metal
+technologies in Anatolia. In: Roberts, B.W., Thornton, C.P. (Eds.), Reader in Early
+Metallurgy: Old and New World Perspectives. Springer Verlag, New York (in press).
+Liu, L., 2004. The Chinese Neolithic. Cambridge University Press.
+Neuville, R., 1930. Notes de Préhistoire Palestinienne. J. Palest. Orient. Soc. 10, 193e221.
+Neuville, R., 1934. Objets en silex. In: Mallon, A., Koeppel, R., Neuville, R. (Eds.),
+Teleilat Ghassul I. Pontifical Biblical Institute, Rome, pp. 55e65.
+Notsu, K., Fujitani, T., Ui, T., Matsuda, J., Ercan, T., 1995. Geo-chemical features of
+collision related volcanic rocks in central and Eastern Anatolia, Turkey.
+J. Volcanol. Geotherm. Res. 64, 171e192.
+Oates, J., 1993. Trade and power in the fifth and fourth millennia BC: new evidence
+from Northern Mesopotamia. World Archaeol 24 (3), 403e422.
+Oates, J., 2004. Archaeology in Mesopotamia: Digging Deeper at Tell Brak. Albert
+Reckitt Archaeological Lecture. British Academy, 2004. Tell Brak Project Website. Online at the McDonald Institute for Archaeological Research (Last updated
+2/2006, accessed 4/2013).
+Oates, J., McMahon, A., 2008. Area TW: Archaeological Details. Tell Brak Project
+website. Online at the McDonald Institute for Archaeological Research (Last
+updated 10/2008, accessed 4/2013).
+Oates, D., Oates, J., 1993. Excavations at Tell Brak 1992e93. In: Iraq 55, pp. 155e199.
+Otte, M., Behm-Blanke, M.R., 1992. Das lithische Inventar: Rekonstrukzion technischer Verfahrensweisen. In: Behm-Blanke, M.R. (Ed.), Hasek Höyük: Naturwissenschaftliche Untersuchungen und lithische Industrie, pp. 225e247.
+Özdemir, Y., Karaoglu, Ö., Tolluoglu, A., Güleç, N., 2006. Volcanostratigraphy and
+Petrogenesis of the Nemrut Stratovolcano (East Anatolian High Plateau): the
+most recent post-collisional volcanism in Turkey. Chemical Geology 226 (3e4),
+189e211.
+Özdogan, M., 1994. Obsidian in Anatolia: an archaeological perspective on the status
+of the research. In: Archaeometry 94: the Proceedings of the 29th International
+Symposium on Archaeometry; Ankara, 9e14 May 1994, pp. 423e431.
+Patterson, T.C., 2005. Craft specialization, the reorganization of production relations, and state formation. J. Soc. Archaeol. 5, 307e337.
+Pearce, J.A., Bender, J.F., De Long, S.E., Kidd, W.S.F., Low, P.J., Güner, Y., Saroglu, F.,
+Yılmaz, Y., Moorbath, S., Mitchell, J.G., 1990. Genesis of collision volcanism in
+Eastern Anatolia, Turkey. J. Volcanol. Geotherm. Res. 44, 189e229.
+Pelegrin, J., 2012. New experimental observations for the characterization of pressure blade production techniques. In: Desrosiers, P.M. (Ed.), The Emergence of
+Pressure Blade Making: from Origin to Modern Experimentation. Springer
+Science and Business Media, pp. 465e500.
+Pelegrin, J., Otte, M., 1992. Einige Bemerkungen zur Präparations- und Ausbeuttechnik der Kernsteine aus Raum 29. In: Behm-Blancke, Manfred R. (Ed.),
+Hassek-Höyük: Naturwissenschaftliche Untersuchungen und lithische Industrie, Istanbuler Forschungen, vol. 38. Verlag, Tübingen, pp. 219e224.
+Pernicka, E., 1992. Herkunftsbestimmung späturukzeitlicher obsidianfunde vom
+Hassek Höyük. In: Istanbuler Forschungen, vol. 38, pp. 124e131.
+Poidevin, J.L., 1998. Les gisements d’obsidienne de Turquie et de Transcaucasie:
+géologie, géochimie et chronométrie. In: Cauvin, M.-C., Gourgaud, A., Gratuze, B.,
+Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au
+Proche et Moyen-Orient: Du Volcan à l’Outil. BAR, Oxford, pp. 105e167.
+Pollock, S., Pope, M., Coursey, C., 1996. Household production at the Uruk Mound,
+Abu Salabikh, Iraq. Am. J. Archaeol. 100 (4), 683e698.
+Pope, M., Pollock, S., 1995. Trade, tools, and tasks: a study of Uruk chipped stone
+industries. Res. Econ. Anthropol. 16, 227e265.
+Pustovoytov, K., Deckers, K., Goldberg, P., 2011. Genesis, age and archaeological
+significance of a pedosediment in the depression around Tell Mozan, Syria.
+J. Archaeol. Sci. 38, 913e924.
+Rapp, G.R., Hill, C.L., 1998. Geoarchaeology: the Earth-Science Approach to
+Archaeological Interpretation. Yale University Press, New Haven.
+Renfrew, C., Cann, J., Dixon, J., 1965. Obsidian in the Aegean. Annu. Br. Sch. Athens
+60, 225e247.
+Renfrew, C., Dixon, J., 1976. Obsidian in western Asia: a review. Probl. Econ. Soc.
+Archaeol. 42, 137e150.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621620Renfrew, C., Dixon, J., Cann, J., 1966. Obsidian and early cultural contact in the Near
+East. Proc. Prehist. Soc. 2, 30e72.
+Renfrew, C., Dixon, J., Cann, J., 1968. Further analysis of near Eastern obsidians. Proc.
+Prehist. Soc. 34, 319e331.
+Rosen, S., 1983. The Canaanean blade and the Early Bronze Age. Isr. Explor. J. 33, 15e
+29.
+Rosen, S., 1997. Lithics after the Stone Age: a Handbook of Stone Tools from the
+Levant. AltaMira Press.
+Rosen, S., 2010. Activity areas, workshops, and variations on the theme from a Near
+Eastern lithic perspective. J. Isr. Prehist. Soc. 40, 167e182.
+Rosen, S., Tykot, R., Gottesman, M., 2005. Long distance trinket trade: Early Bronze
+Age obsidian from the Negev. J. Archaeol. Sci. 32, 775e784.
+Santley, R.S., Kneebone, R.R., 1993. Craft specialization, refuse disposal, and the
+creation of spatial archaeological records in prehispanic Mesoamerica. In:
+Santley, R.S., Hirth, K.G. (Eds.), Prehistoric Domestic Units in Western Mesoamerica: Studies of the Household, Compound and Residence. CRC Press, Ann
+Arbor, pp. 37e63.
+Shackley, M.S., 1986. Obsidian Geochemistry and lithic technology: inferences for
+Archaic Hunter-Gatherer procurement ranges. In: Bayham, F.E., Morris, D.H.,
+Shackley, M.S. (Eds.), Prehistoric Hunter-Gatherers of South Central Arizona.
+The Picacho Reservoir Archaic Project, Anthropological Field Studies, vol. 13.
+Arizona State University, Tempe, pp. 171e190.
+Shackley, M.S., 2005. Obsidian: Geology and Archaeology in the North American
+Southwest. University of Arizona.
+Shackley, M.S., 2008. Archaeological Petrology and the Archaeometry of lithic
+materials. Archaeometry 50, 194e215.
+Shimelmitz, R., 2009. Variability in specialized Canaanean blade production of the
+Early Bronze Age Levant. In: Rosen, S., Roux, V. (Eds.), Techniques and People.
+Anthropological Perspectives on Technology in the Archaeology of the Protohistoric and Early Historic Periods in the Southern Levant. De Boccard, Paris,
+pp. 135e156.
+Shimelmitz, R., Barkai, R., Gopher, A., 2000. A Canaanean blade workshop at Mt.
+Haruvim, Israel. Tel Aviv 27, 3e22.
+Stein, G., 1996. Producers, Patrons, and Prestige: craft specialists and emergent
+elites in Mesopotamia from 5500e3100 BC. In: Wailes, Bernard (Ed.), Craft
+Specialization and Social Evolution, University Museum Monograph 93. University of Pennsylvania Museum, Philadelphia, pp. 25e38.
+Stein, G., Blackman, M.J., 1993. The Organizational context of specialized craft
+production in Early Mesopotamian States. Res. Econ. Anthropol. 14, 29e59.
+Stevenson, R., Dingwell, D., Webb, S., Sharp, T., 1996. Viscosity of microlite-bearing
+rhyolitic obsidians: an experimental study. Bull. Volcanol. 58, 298e309.
+Stone, E.C., 1991. The spatial organization of Mesopotamian cities. Aula Orient. 9,
+235e242.
+Stone, G.D., 1996. Settlement Ecology: the Social and Spatial Organization of Kofyar
+Agriculture. University of Arizona Press.
+Thomalsky, J., 2013. Large blade technologies in the Transaucasus and Northern
+Mesopotamia from 6e4th Millennium BC. In: At the Northern Frontier of Near
+Eastern Archaeology Conference, Venice, 9e11 January 2013.
+Ulusoy, I., Labazuy, P., Aydar, E., Ersoy, O., Çubukçu, E., 2008. Structure of the Nemrut
+Caldera (Eastern Anatolia, Turkey) and associated hydrothermal fluid circulation. J. Volcanol. Geotherm. Res. 174, 269e283.
+Ur, J., 2002. Surface collection and offsite studies at Tell Hamoukar, 1999. Iraq 64,
+15e43.
+Weiss, H., Courty, M.-A., 1993. The genesis and collapse of the Akkadian empire: the
+accidental refraction of historical law. In: Liverani, M. (Ed.), Akkad: the First
+World Empire. Sargon, Padua, pp. 131e155.
+Wilkinson, T.J., 1997. Environmental fluctuations, agricultural production and
+collapse: a view from Bronze Age Upper Mesopotamia. In: Dalfes, H., Kukla, G.,
+Weiss, H. (Eds.), Third Millennium BC Climate Change and Old World Collapse.
+Springer, Berlin, pp. 67e106.
+Wilkinson, T.J., 2000. Regional approaches to Mesopotamian archaeology: the
+contribution of archaeological surveys. J. Archaeol. Res. 8, 219e267.
+Wilkinson, T.J., 2003. Archaeological Landscapes of the Near East. University of
+Arizona Press.
+Wilkinson, T.J., Christiansen, J., Ur, J., Widell, M., Altaweel, M., 2007. Urbanization
+within a dynamic environment: modeling Bronze Age Communities in Upper
+Mesopotamia. Am. Anthropol. 109, 52e68.
+Wright, H.T., 1999. Middle and Late Uruk flake-stone assemblages from the 1997
+and 1998 seasons. In: Emberling, G., Pittman, H., Weber, J., Wright, H.T. (Eds.),
+Excavations at Tell Brak 1998: Preliminary Report, Iraq 61, pp. 1e41.
+Wright, H.T., 2002. In: Al-Gailani, et al. (Eds.), Arrows and Arrowheads in the Uruk
+World’, pp. 373e378.
+Wright, K.I., 2008. Craft production and the organization of ground stone technologies. In: Rowan, Y., Ebeling, J. (Eds.), New Approaches to Old Stones: Recent
+Studies of Ground Stone Artefacts. Equinox Archaeology Books, London,
+pp. 130e143.
+Yılmaz, Y., Güner, Y., S ̧ aroglu, F., 1998. Geology of the Quaternary volcanic centres of
+the East Anatolia. J. Volcanol. Geotherm. Res. 137, 177e199.
+E. Frahm / Journal of Archaeological Science 41 (2014) 605e621 621

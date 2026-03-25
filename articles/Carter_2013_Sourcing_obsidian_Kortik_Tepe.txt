@@ -1,0 +1,1043 @@
+Networks and Neolithisation: sourcing obsidian from Körtik Tepe (SE Anatolia)
+Tristan Carter a, b, *, Sarah Grant a, b
+, Metin Kartal c , Aytaç Cos ̧ kun d
+, Vecihi Özkaya d
+a Department of Anthropology, McMaster University, Chester New Hall, 524, 1280 Main Street West, Hamilton, ON L8S 4L9, Canada
+b McMaster Archaeological XRF Lab, McMaster University, Chester New Hall, 524, 1280 Main Street West, Hamilton, ON L8S 4L9, Canada
+c Department of Archaeology-Prehistory, Faculty of Letters, Ankara University, 06100 Sıhhiye, Turkey
+d Dicle Üniversitesi, Edebiyat Fakültesi, Arkeoloji Bölümü, Diyarbakır, Turkey
+a r t i c l e i n f o
+Article history:
+Received 4 April 2012
+Received in revised form
+3 August 2012
+Accepted 5 August 2012
+Keywords:
+Obsidian sourcing
+Körtik Tepe
+Anatolia
+Neolithisation
+Epi-Palaeolithic
+PPNA
+EDXRF
+Bingöl
+Nemrut Dag
+Mus ̧
+a b s t r a c t
+This paper details the use of obsidian sourcing to reconstruct networks of interaction (or ‘communities of
+practice’) amongst populations of south-eastern Anatolia and the Near East in the context of ‘Neolithisation’ during the late 11theearly 10th millennia BC. EDXRF was used to elementally characterise 120
+artefacts of Epi-Palaeolithic e Pre-Pottery Neolithic A date from Körtik Tepe in south-eastern Anatolia.
+Four eastern Anatolian sources are represented, mainly Bingöl A/B and Nemrut Dag, plus the first
+evidence for the use of Mus ̧ obsidian. When the source data is integrated with the artefacts’ technotypological attributes it is possible to locate the assemblage within an Upper Tigris tradition (with
+some interesting local differences), which stands in stark contrast to contemporary practices in northern
+Mesopotamia and the Levant. These local and regional distinctions support recent views of the Neolithic
+being much more heterogeneous, with a ‘mosaic’ of community-specific/local traditions of subsistence
+practices, raw material choices and lithic technologies during the Younger DryaseEarly Holocene.
+Ó 2012 Elsevier Ltd. All rights reserved.
+1. Introduction
+Situated on the upper reaches of the Tigris River in southeastern
+Turkey, Körtik Tepe is one of the first sedentary settlements in the
+Anatolian part of the Fertile Crescent (Fig. 1). Excavations have
+revealed a deeply stratified settlement spanning the later 11th to
+early 10th millennium BC, with six occupation strata of Pre-Pottery
+Neolithic A [PPNA] date above a series of Epi-Palaeolithic deposits
+(Özkaya, 2009; Özkaya and Cos ̧ kun, 2009, 2011). Work at the site is
+thus contributing to our knowledge of the region in the Younger
+DryaseEarly Holocene, and represents a focus of attention for those
+seeking to understand the various processes we associate with the
+origins of ‘the Neolithic’, however one interprets that term (cf.
+Binford, 1968; Cauvin, 2000; Belfer-Cohen and Goring-Morris, 2011).
+This paper details the elemental characterisation of 120 obsidian
+artefacts from Körtik Tepe, a study that was undertaken with
+a number of questions in mind. Aside from the relatively
+straightforward issues of sources represented and the means by
+which these raw materials were procured and consumed through
+time, our project forms part of a broader project employing
+obsidian characterisation as a means of defining local and supraregional cultural practices in the context of ‘Neolithisation’, i.e.
+the coming-into-being of early agricultural lifeways. With recent
+faunal and archaeobotanical studies indicating “a mosaic of
+exploitation strategies” amongst the earliest Neolithic communities of the Fertile Crescent (Arbuckle and Özkaya, 2006: 114; see
+also Asouti, 2010), we wished to see if obsidian procurement and
+technical choices also reflected such local contingencies, or
+conversely provided evidence for common modes of consumption
+across large areas. If the latter were true it could be argued that
+gifting and exchange represented foundational social processes of
+the Neolithic, practices that both connected people and provided
+the networks through which new ideas and practices e such as
+agriculture e could have circulated.
+2. Background to the site
+Körtik Tepe is a large 100  150 m artificial mound (5.5 m tall)
+located in the foothills of the southern Taurus Mountains in
+* Corresponding author. Department of Anthropology, McMaster University,
+Chester New Hall, 524, 1280 Main Street West, Hamilton, ON L8S 4L9, Canada.
+E-mail addresses: stringy@mcmaster.ca (T. Carter), grants4@mcmaster.ca
+(S. Grant), kartal@humanity.ankara.edu.tr (M. Kartal), aytaccoskun@hotmail.com
+(A. Cos ̧ kun), vozkaya@hotmail.com (V. Özkaya).
+Contents lists available at SciVerse ScienceDirect
+Journal of Archaeological Science
+j o u r n a l h o m e p a g e : h t t p : / / w w w . e l s e v i e r . c o m / l o c a t e / j a s
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2012.08.003
+Journal of Archaeological Science 40 (2013) 556e569southeastern Anatolia (Diyarbakır region) where the Batman River
+joins the Tigris (Fig. 1). The site was discovered in 1989, with Prof.
+Dr. Vecihi Özkaya of Dicle University starting excavations in 2000;
+a dam project is scheduled to flood the site in the near future
+(Özkaya, 2009; Özkaya and Cos ̧ kun, 2009, 2011 inter alia).
+As of 2011, 3425 m 2 (28%) of the site’s surface had been
+exposed (Fig. 2). At the top of the mound is a small amount of
+medieval activity, followed by a deep prehistoric sequence. The
+integration of stratigraphic analysis, 14 C dates and the nature of
+the finds has allowed at least six PPNA sub-phases to be distinguished within the 10th millennium BC, while the Epi-Palaeolithic
+deposits push the occupation back into the late 11th millennium
+BC (11,700e11,250 cal. B.P. [Benz et al., 2011, Benz et al., in press]).
+These earliest deposits, thus far located in only trenches A80 and
+A84 (Fig. 2), have yet to be fully exposed due to ground water
+levels. The site is thus one of the earliest sedentary communities
+in the Anatolian part of the Fertile Crescent, whose Younger
+DryaseEarly Holocene occupation sequence offers an important
+insight to the various processes that preceded full plant and
+animal domestication and by extent the first farming economies
+of the Near East.
+Excavations have revealed 112 structures with stone foundations, whose round and oval plans are typical for the period in
+southeastern Anatolia and the Levant, plus 73 small circular
+constructions with pebble floors interpreted as food storage units
+(Özkaya and Cos ̧ kun, 2011: 91, Fig. 7). Körtik Tepe also has by far the
+richest funerary record of any PPNA site, with 723 inhumations,
+many displaying post-mortem treatment such as plastering the
+body or painting the skeleton, plus hundreds of bead necklaces and
+stone vessels (some with human and animal engraved decorations),
+plus numerous bone and stone tools (Özkaya, 2009).
+While described as a primarily Neolithic site, evidence suggests
+that the community relied largely, if not exclusively on wild
+resources. Preliminary analysis of the faunal assemblage suggests
+that the PPNA inhabitants hunted sheep, deer, gazelle, pig, cattle,
+bird, and fished in the nearby river. The dominant species was wild
+sheep and red deer, with the intensive exploitation of juveniles
+considered to represent the beginnings of herd management, pre-
+figuring true domestication (Arbuckle and Özkaya, 2006; Özkaya
+and Cos ̧ kun, 2011: 101). These data have been juxtaposed with
+those from nearby Hallan Çemi, where pigs and cattle dominated,
+suggesting that subsistence practices were localised and variable
+(Arbuckle and Özkaya, 2006: 114). Initial archaeobotanical studies
+attest the exploitation of a broad spectrum of wild plants, including
+a significant quantity of large-seeded grasses, plus a smaller
+amount of wild progenitor species of barley and wheat, pistacia and
+legumes (Riehl et al., 2011).
+Körtik Tepe’s architecture, artefacts, iconography and burial
+practices find parallels both locally at sites along the Batman River
+and Upper Tigris, and within the Fertile Crescent more generally,
+from Beidha and Jericho in the southern Levant to Qermez Dere
+and Nemrik in Mesopotamia (Özkaya, 2009: 4 [Fig. 1]). This project
+aimed to interrogate the nature of these local and supraregional connections through a comparative analysis of obsidian
+consumption.
+3. The Körtik Tepe obsidian study
+While the chipped stone is dominated by local chert, it also
+contains a significant quantity of obsidian, an exotic raw material
+whose closest sources lay 140 km to the northeast (Fig. 1). The
+assemblage comprises mainly unipolar blade and microblade
+products, with large numbers of retouched tools, including
+geometric microliths, arch-backed blades and thumbnail scrapers.
+While projectiles are common they are Epi-Palaeolithic in tradition,
+the assemblage lacking the type of points associated with classic
+PPNA assemblages of the Levant and Zagros (Özkaya, 2009: 6;
+Özkaya et al., 2009: 90e95). Kartal’s ongoing study of this material
+leads him to conclude that the Körtik Tepe obsidian has most in
+common with local Epi-Palaeolithic/PPNA traditions (Özkaya and
+Cos ̧ kun, 2011: 95), not least the material from Hallan Çemi
+further up the Batman River (Rosenberg, 1994, 2011a). General
+Fig. 1. Location of Körtik Tepe and other Upper Tigris and Batman River sites and Lake Van obsidian sources (D. Contreras).
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569 557comparisons can also be made with the microblade/geometric
+traditions of nearby Demirköy Höyük (Rosenberg and Peasnall,
+2001; Rosenberg, 2011b), plus Gusir Höyük and Hasankeyf Höyük
+on the Tigris a few kilometres to the east (Karul, 2011; O. Maeda
+personal communication [Fig. 1]). Parallels can also be drawn with
+PPNA Çayönü, another Upper Tigris site 120 km to the west (Caneva
+et al., 1994; Erim-Özdogan, 2011: 197), as well as Zawi Chemi
+Shanidar, Nemrik, and other late Zarzian sites further to the east in
+the Zagros Mountains (Kozlowski, 1996).
+Cores and knapping debris indicate that some obsidian was
+worked on-site, with microblade production attested throughout
+the settlement. Conversely, the larger blade tradition is represented
+mainly by end-products (Özkaya et al., 2009: 91), suggesting that
+these implements were procured ready-made from another
+community, or a quarry-based workshop.
+While previous reports noted that some of the obsidian was
+‘transparent and greenish’, and thus almost certainly of eastern
+Anatolian origin (being the only region where peralkaline volcanics
+are found), precise source assignment was impossible without
+chemical analysis (Özkaya et al., 2009: 91). This project aimed to
+resolve this issue, as well as investigating: (1) raw material choices
+through time; (2) potential differences in intra-site consumption;
+(3) the relation of the Körtik Tepe results to other pertinent datasets as a means of investigating community interaction in the
+context of Neolithisation.
+4. Sampling
+To answer the above questions Kartal and Cos ̧ kun sampled
+artefacts from various trenches and strata, the material reflecting
+the perceived range of raw materials, as defined through variance
+in colour, translucency, inclusions, banding, texture, and cortex.
+While 120 artefacts admittedly represent only a tiny proportion of
+a large assemblage (>10,000 pieces), a recent study by Carter and
+Grant confirmed that these artefacts’ techno-typological characteristics were representative of the whole, i.e. dominance of bladelets (and retouched versions thereof), with a minor blade
+component. Obsidian itself comprises c. 15e20% of the total chipped stone assemblage at any one time.
+With the selection process biased towards non museum-quality
+finds, most of the artefacts comprise relatively undiagnostic flake
+debris (Table 1). The bulk of this material came from PPNA strata,
+with only two pieces from Epi-Palaeolithic levels at the base of
+Trench A80 (Table 1). Amongst the PPNA artefacts it has only been
+possible to assign specific levels to those pieces from trenches A80
+and A84 which have received the most in-depth stratigraphic
+analyses (Benz et al., 2011, in press).
+5. Analytical procedures
+The 120 artefacts were analysed whole and non-destructively at
+the McMaster Archaeological XRF Laboratory [MAX Lab] by
+a Thermo Scientific ARL Quant’X energy-dispersive x-ray fluorescence spectrometer [EDXRF], each piece having first been cleaned
+in an ultrasonic tank with distilled water for ten minutes. The
+analytical protocols and methods follow those devised by Shackley
+(2005, appendix; Poupeau et al., 2010: 2711).
+The spectrometer is equipped with a ultra-high flux peltier air
+cooled Rh x-ray target with a 125 micron beryllium (Be) window,
+an x-ray generator that operates from 4 to 50 kV/0.02 to 1.0 mA at
+0.02 increments, and a 2001 min-1 Edwards vacuum pump for the
+analysis of elements below titanium (Ti). Data is acquired with
+a pulse processor and analog to digital converter. The major
+elements titanium (Ti), manganese (Mn) and iron (Fe) are analysed
+Fig. 2. Körtik Tepe excavation plan (A. Cos ̧ kun).
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569558Table 1
+Contextual and techno-typological data for the analysed Körtik Tepe artefacts, sorted by trench and stratigraphic unit.
+Artefact Unit Trench Level (m) Stratum Context Source Debitage category
+KT.082 HBM A 46-2 089 to 119 Bingöl B Non-cortical flake
+KT.028 HEA A 46-2 128 to 138 Bingöl B Non-cortical flake
+KT.076 HGK A 46-2 138 to 158 Bingöl B Bladelet core rejuvenation flake
+KT.077 HJD A 46-2 158 to 180 Bingöl B Blade e backed
+KT.102 HKZ A 46-2 184 to 195 Bingöl B Bladelet core rejuvenation flake
+KT.037 HMN A 46-2 195 to 215 Bingöl B Non-cortical flake
+KT.042 HOR A 46-2 223 to 240 Bingöl B Non-cortical flake
+KT.013 HRD A 46-2 241 to 261 Bingöl B Non-cortical blade-like flake
+KT.079 HSK A 46-2 261 to 284 Bingöl B Bladelet core rejuvenation flake/
+thumbnail scraper
+KT.011 HUN A 46-2 288 to 311 Bingöl A Non-cortical flake
+KT.041 HYN A 46-2 315 to 340 Bingöl B Non-cortical flake
+KT.053 IAM A 46-2 344 to 370 Nemrut Dag Part-cortical flake (40%)
+KT.119 IBZ A 46-2 376 to 402 Nemrut Dag Blade
+KT.113 GKC A 61 204 to ? Bingöl B Non-cortical flake
+KT.085 GNU A 78 280 to 312 Bingöl B Bladelet core rejuvenation flake
+KT.056 GPA A 78 312 to 331 Bingöl B Blade
+KT.070 GUC A 78 363 to 379 Bingöl B Bladelet e borer
+KT.108 GSE A 80 245 to 268 II/III Bdg. 68, outside Bingöl B Non-cortical blade-like flake
+KT.084 GUJ A 80 257 to 284 III/IV Bdg. 68, inside Bingöl B Bladelet e backed
+KT.107 GYC A 80 284 to 298 IV Bdg. 68, outside Bingöl A Bladelet e part-cortical (20%)
+KT.093 HAA A 80 298 to 384 IVeVI Bdg. 68, inside Bingöl A Non-cortical blade-like flake
+KT.071 HJJ A 80 346 to 351 V/VI Bdg. 68, under floor Nemrut Dag Bladelet core
+KT.099 HLC A 80 351 to 362 V/VI Bdg. 68, under floor Bingöl B Blade e retouched
+KT.087 GSL A 80 362 to 369 V/VI Bingöl A Bladelet
+KT.044 HMT A 80 362 to 376 V/VI Bdg. 68, inside Nemrut Dag Non-cortical blade-like flake
+KT.086 HOY A 80 376 to 390 V/VI? Bdg. 68, under floor Bingöl A Bladelet
+KT.089 HBV A 80 384 to 412 V/VI? Bingöl B Non-cortical flake
+KT.023 HEL A 80 415 to 453 V/VI/VII Bingöl B Non-cortical blade-like flake
+KT.039 HGT A 80 453 to 463 VII Bingöl A Bladelet core rejuvenation flake
+KT.047 HMV A 80 504 to 534 VIII Bingöl B Non-cortical flake
+KT.054 GGK A 82 185 to 195 Bingöl B Bladelet core rejuvenation flake
+KT.078 GIF A 82 202 to 215 Bingöl B Non-cortical flake
+KT.090 GIF A 82 202 to 215 Bingöl B Non-cortical flake
+KT.116 GLG A 82 232 to 247 Bingöl B Blade e notched
+KT.114 GNI A 82 256 to 256 Bingöl A Non-cortical blade-like flake
+KT.080 GOF A 82 257 to 267 Bingöl A Non-cortical flake
+KT.115 GSO A 82 302 to 328 Bingöl B Non-cortical flake
+KT.067 GUV A 82 332 to 342 Bingöl B Bladelet core rejuvenation flake
+KT.100 INL A 83 171 to 241 Bingöl A Non-cortical blade-like flake
+KT.112 GSV A 83 182 to 200 Bingöl B Non-cortical flake
+KT.117 IKA A 83 186 to 227 Bingöl B Bladelet core rejuvenation flake
+KT.049 HAM A 83 221 to 230 Bingöl B Bladelet core rejuvenation flake
+KT.055 HJL A 83 226 to 226 Bdg. 71, inside Bingöl B Non-cortical flake
+KT.065 HLG A 83 232 to 232 Bingöl A Non-cortical flake
+KT.105 ILS A 83 246 to 244 Bingöl A Part-cortical blade-like flake (15%)
+KT.075 HPC A 83 246 to 256 Bingöl B Chunk
+KT.016 HRO A 83 256 to 260 Bingöl B Non-cortical flake
+KT.069 HSL A 83 263 to 268 Nemrut Dag Cortical flake (85%)
+KT.026 HUV A 83 268 to 285 Bingöl B Non-cortical flake e retouched
+KT.043 IAS A 83 301 to 310 Bingöl A Blade e backed/borer
+KT.001 ICK A 83 310 to 322 Bingöl A Bladelet e part-cortical (40%)
+KT.019 IEG A 83 322 to 332 Bingöl B Non-cortical flake
+KT.051 IHI A 83 332 to 337 Bingöl B Non-cortical blade-like flake
+KT.059 GVE A 84 136 to 151 I Bdg. 72, outside Bingöl A Non-cortical blade-like flake
+KT.088 HCG A 84 210 to 231 II Bingöl A Bladelet e backed
+KT.104 HEZ A 84 246 to 258 III Bingöl B Non-cortical flake
+KT.091 HHE A 84 261 to 269 III Bingöl B Bladelet core rejuvenation flake
+KT.066 HNI A 84 307 to 316 IV/V? Bingöl B Bladelet
+KT.064 HPD A 84 320 to 326 II Bingöl B Bladelet core rejuvenation flake/
+piece esquillée
+KT.032 HRR A 84 326 to 340 Bingöl B Chunk
+KT.061 HTN A 84 342 to 358 Bingöl A Bladelet
+KT.022 HVH A 84 365 to 379 Bingöl A Non-cortical flake
+KT.014 ICO A 84 402 to 408 Bingöl B Non-cortical flake
+KT.094 HAY A 85 088 to 104 Nemrut Dag Non-cortical flake
+KT.092 HCL A 85 112 to 126 Nemrut Dag Non-cortical flake
+KT.103 HFF A 85 132 to 139 Bdg. 72, outside Bingöl A Chunk
+KT.048 HHH A 85 153 to 160 Bdg. 72, outside Bingöl B Non-cortical flake
+KT.097 HJS A 85 153 to 179 Bingöl B Non-cortical flake
+KT.057 HNO A 85 191 to 207 Bingöl B Non-cortical flake
+KT.033 HRS A 85 217 to 228 Bingöl B Non-cortical flake
+KT.009 HSM A 85 228 to 242 III/IV Bingöl B Bladelet e borer
+(continued on next page)
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569 559as well as trace elements zinc (Zn), gallium (Ga), rubidium (Rb),
+strontium (Sr), yttrium (Y), zirconium (Zr), niobium (Nb), barium
+(Ba), lead (Pb), and thorium (Th). In order to evaluate these quantitative determinations, instrument data were converted to
+concentration estimates through reference to various standards,
+including those certified by the US Geological Service and
+Geological Survey of Japan (AGV-2, BCR-2, BHVO-2, BIR-1a, GSP-2,
+JR-1, JR-2, QLO-1, RGM-2, SDC-1, STM-2, TLM-1, and W-2a). In turn,
+the standard RGM-2 (USGS) is analysed during each sample run to
+check machine calibration and accuracy. The data is then translated
+directly into Excel for Windows software for manipulation and
+analysis. Very small artefacts, or those exhibiting anomalous values,
+were re-run to ensure accuracy and precision.
+6. Results: raw material sources
+The elemental concentrations of the 120 artefacts and the RGM2 standard are presented in Table 2. Source assignment was achieved through comparing the artefact chemical signatures with
+those of source samples run by the lab under the same analytical
+conditions. In choosing which geological products to compare with
+the Körtik Tepe data, we considered not only the major sources of
+the nearby Lake Van region and to the north (Bingöl, Meydan Dag,
+Mus ̧ , Nemrut Dag, Pasinler, and Suphan Dag), but also central
+Anatolian obsidians (Acıgöl, Göllü Dag, and Nenezi Dag), as Cappadocian products are known to have been exploited at distance
+from the Epi-Palaeolithic onwards (Chataigner, 1998: 285e292).
+In a zirconium vs. strontium contents plot, the artefacts are
+discriminated clearly into three groups (Figs. 3 and 4). Just over half
+of the artefacts were made of blackebrown calc-alkaline obsidian
+(n ¼ 67, 56%), with Sr mainly ranging between 37 and 63 ppm, and
+Zr values of 283 and 355 ppm. Geological samples with matching
+chemistry were collected from Alatepe, Kizilagag, Mes ̧ eli and
+Yigitler in the region of Bingöl, 145e150 km NNW of Körtik Tepe
+(Fig. 1); this compositional group is known as the ‘Bingöl B’ source
+(Cauvin et al., 1991; Poidevin, 1998: 138). Amongst this material we
+do note aberrant Sr figures for artefacts KT.046 and KT.117 at 113
+and 624 ppm respectively, significantly higher than the 37e63 ppm
+range recorded for the others, while at the same time having
+readings for the other elements that were in total accordance with
+Table 1 (continued )
+Artefact Unit Trench Level (m) Stratum Context Source Debitage category
+KT.024 HVK A 85 242 to 259 IV Bingöl A Core tablet (rejuvenation flake)
+KT.027 HZJ A 85 259 to 268 Bingöl B Non-cortical flake
+KT.106 IAV A 85 268 to 286 Nemrut Dag Non-cortical flake
+KT.008 ICR A 85 286 to 304 Bingöl B Non-cortical flake
+KT.045 IEJ A 85 304 to 322 Nemrut Dag Non-cortical blade-like flake
+KT.010 IHN A 85 322 to 334 Nemrut Dag Non-cortical flake
+KT.046 HYN A 86 144 to 160 Bingöl B Bladelet
+KT.029 HFL A 86 196 to 205 Bingöl B Non-cortical flake
+KT.118 HJZ A 86 219 to 242 Bingöl A Part-cortical flake (55%)
+KT.101 HLY A 86 242 to 258 Bingöl B Non-cortical blade-like flake
+KT.073 HPN A 86 289 to 298 Bingöl A Non-cortical flake
+KT.058 HRZ A 86 289 to 300 Bingöl A Non-cortical flake
+KT.035 HSO A 86 300 to 311 Bingöl A Non-cortical flake e arched backed
+KT.012 HUR A 86 316 to 328 Bingöl A Cortical flake (80%)
+KT.015 HVT A 86 328 to 328 Bingöl B Non-cortical blade-like flake
+KT.020 HZP A 86 328 to 339 Bingöl A Non-cortical blade-like flake
+KT.040 IBF A 86 347 to 364 Nemrut Dag Part-cortical blade-like flake (75%)
+KT.018 IDA A 86 385 to 385 Bingöl A Bladelet
+KT.063 IHY A 86 412 to 435 Bingöl B Bladelet
+KT.096 HKE A 87 175 to 200 Bingöl A Non-cortical flake
+KT.111 HMG A 87 200 to 217 Bdg. 53, outside Nemrut Dag Non-cortical flake
+KT.060 HOD A 87 217 to 233 Mus e Konuk Bekler Bladelet e part-cortical (25%)
+KT.068 HML A 87 230 to 230 Tomb 9/Bdg. 53, under floor Bingöl B Non-cortical flake e retouched
+KT.062 HPO A 87 233 to 246 Bingöl A Non-cortical flake
+KT.036 HPY A 87 246 to 246 Tomb 10/Bdg. 53, under floor Bingöl B Non-cortical flake
+KT.034 HSC A 87 246 to 255 Nemrut Dag Non-cortical flake
+KT.004 HSP A 87 255 to 256 Bingöl B Non-cortical flake
+KT.025 HZZ A 87 276 to 283 Bingöl A Bladelet
+KT.002 IDB A 87 289 to 312 Bingöl B Core/chunk (bladelet?)
+KT.005 IJF A 87 300 to 340 Bingöl B Non-cortical flake
+KT.003 IDC A 87 302 to 302 Bdg. 75, outside Bingöl A Non-cortical flake
+KT.098 IET A 87 312 to 330 Bingöl A Non-cortical flake
+KT.083 HCZ A 87 Surface Bingöl A Chunk
+KT.052 HSG A 88 106 to 120 Nemrut Dag Bladelet core rejuvenation flake
+KT.007 IDH A 88 190 to 195 Bingöl B Non-cortical flake
+KT.110 IRG A 88 204 to 238 Bingöl A Non-cortical flake
+KT.006 IJN A 88 206 to 220 Bingöl B Non-cortical blade-like flake
+KT.038 IKS A 88 227 to 227 Bingöl B Bladelet core rejuvenation flake
+KT.095 IMH A 88 240 to 260 Bingöl B Non-cortical flake
+KT.072 ISE A 88 250 to 263 Bingöl B Bladelet
+KT.120 IML A 88 260 to 260 Bdg. 35, inside Bingöl A Bladelet e retouched
+KT.031 INS A 88 260 to 275 Bingöl B Non-cortical blade-like flake
+KT.081 IPF A 88 279 to 288 Bingöl B Chunk
+KT.017 IRO A 88 288 to 296 Nemrut Dag Non-cortical flake
+KT.074 HPS A 88 Surface Bingöl A Non-cortical blade-like flake e backed
+KT.109 IMR A 89 170 to 183 Bingöl B Bladelet core rejuvenation flake
+KT.030 INV A 89 183 to 206 Bingöl B Non-cortical blade-like flake
+KT.021 IPM A 89 206 to 232 Bingöl A Part-cortical flake (15%)
+KT.050 IRS A 89 232 to 266 Bingöl B Non-cortical flake
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569560Table 2
+Elemental compositions of Körtik Tepe obsidian artefacts as determined by EDXRF.
+Sample Ti
+(ppm)
+Mn
+(ppm)
+Fe
+(ppm)
+Zn
+(ppm)
+Ga
+(ppm)
+Rb
+(ppm)
+Sr
+(ppm)
+Y
+(ppm)
+Zr
+(ppm)
+Nb
+(ppm)
+Ba
+(ppm)
+Pb
+(ppm)
+Th
+(ppm)
+Source
+KT.002 1271 371 14,594 97 24 230 46 29 329 22 536 40 26 Bingöl B
+KT.004 1432 366 14,925 66 21 233 50 34 332 22 460 40 30 Bingöl B
+KT.005 1454 383 15,992 71 25 238 53 32 641 18 500 41 33 Bingöl B
+KT.006 1391 375 14,997 105 22 231 48 39 324 18 460 35 22 Bingöl B
+KT.007 1306 404 15,212 75 25 231 51 29 335 17 470 42 31 Bingöl B
+KT.008 1442 360 16,164 69 22 248 52 32 340 20 457 44 39 Bingöl B
+KT.009 1389 396 16,666 115 22 248 52 33 339 17 488 42 28 Bingöl B
+KT.013 1548 412 17,721 121 32 273 54 34 355 26 424 51 32 Bingöl B
+KT.014 1311 365 14,903 62 16 230 46 32 332 20 518 37 32 Bingöl B
+KT.015 1150 356 13,810 53 21 209 45 30 307 20 486 37 30 Bingöl B
+KT.016 1445 327 15,487 98 19 245 50 34 341 16 507 43 30 Bingöl B
+KT.019 1457 369 15,054 82 21 218 44 32 319 21 504 36 21 Bingöl B
+KT.023 1246 385 15,408 65 21 231 46 31 328 16 501 40 27 Bingöl B
+KT.026 1444 394 16,634 78 27 248 50 29 342 22 431 39 22 Bingöl B
+KT.027 1412 360 15,635 63 18 231 48 31 337 17 547 35 29 Bingöl B
+KT.028 1437 427 16,681 103 19 240 50 34 339 19 431 39 28 Bingöl B
+KT.029 1199 318 12,871 69 16 202 42 28 299 18 541 33 24 Bingöl B
+KT.030 1700 447 18,095 82 24 249 54 34 350 19 445 40 33 Bingöl B
+KT.031 1245 372 15,159 57 21 236 48 35 343 13 498 38 27 Bingöl B
+KT.032 1352 353 14,960 72 18 232 45 34 339 21 543 41 33 Bingöl B
+KT.033 1387 388 15,251 56 22 233 47 33 336 21 494 40 32 Bingöl B
+KT.036 1410 372 16,004 51 21 239 49 29 344 16 534 45 34 Bingöl B
+KT.037 1441 385 15,952 57 31 245 54 31 347 14 497 41 35 Bingöl B
+KT.038 1363 397 15,694 79 19 241 46 33 336 22 485 40 28 Bingöl B
+KT.041 1360 371 15,065 58 19 225 48 35 326 19 536 38 24 Bingöl B
+KT.042 1457 402 16,428 56 17 245 50 30 342 16 473 40 32 Bingöl B
+KT.046 1186 360 13,607 56 19 207 113 30 306 14 432 33 32 Bingöl B
+KT.047 1389 386 15,741 70 18 236 48 36 341 19 496 39 33 Bingöl B
+KT.048 1396 370 14,677 53 19 226 49 35 332 22 484 40 31 Bingöl B
+KT.049 1285 351 14,715 54 21 225 46 31 333 18 498 37 29 Bingöl B
+KT.050 1333 363 15,159 56 21 234 49 34 335 22 474 38 27 Bingöl B
+KT.051 1127 290 12,946 72 12 197 42 29 293 18 467 29 24 Bingöl B
+KT.054 1431 360 15,041 53 19 229 48 31 335 23 487 39 29 Bingöl B
+KT.055 1193 362 14,866 55 24 233 48 30 333 22 26 31 29 Bingöl B
+KT.056 1491 410 16,409 71 29 251 50 36 343 16 489 47 31 Bingöl B
+KT.057 1423 375 15,149 64 18 231 46 33 338 16 508 42 28 Bingöl B
+KT.063 1298 382 14,836 100 20 240 54 32 327 19 467 38 29 Bingöl B
+KT.064 1085 307 12,753 55 13 193 43 34 297 21 477 29 29 Bingöl B
+KT.066 1450 380 15,960 65 24 246 52 35 348 18 475 47 35 Bingöl B
+KT.067 1200 359 14,425 56 17 218 47 34 322 18 531 35 37 Bingöl B
+KT.068 1479 394 16,356 76 24 241 51 34 342 16 514 39 30 Bingöl B
+KT.070 1457 378 15,755 72 24 244 51 34 332 20 468 42 31 Bingöl B
+KT.072 1503 383 15,756 58 23 230 48 34 339 23 488 40 27 Bingöl B
+KT.075 1289 377 14,841 54 17 229 48 32 334 15 526 37 31 Bingöl B
+KT.076 1392 366 15,265 84 19 235 48 31 332 17 495 38 25 Bingöl B
+KT.077 1412 395 15,615 59 18 239 49 34 343 20 511 38 32 Bingöl B
+KT.078 1295 357 14,814 68 18 208 42 34 310 19 480 35 27 Bingöl B
+KT.079 1422 361 15,625 58 20 230 51 33 338 21 469 38 27 Bingöl B
+KT.081 1329 352 14,889 79 12 224 45 29 319 18 514 35 23 Bingöl B
+KT.082 1283 371 14,902 50 21 224 47 31 324 17 404 42 24 Bingöl B
+KT.084 1414 391 16,214 70 26 247 50 32 343 17 517 42 40 Bingöl B
+KT.085 1279 383 14,506 55 21 218 53 29 333 19 534 36 26 Bingöl B
+KT.089 1129 304 12,016 45 17 183 41 28 285 15 477 31 27 Bingöl B
+KT.090 1411 396 17,398 70 21 242 47 34 330 21 416 41 37 Bingöl B
+KT.091 1355 362 15,346 64 21 231 50 34 335 19 496 36 29 Bingöl B
+KT.095 1379 363 15,359 66 22 231 47 29 329 15 469 36 22 Bingöl B
+KT.097 1308 359 15,365 74 27 244 50 31 337 20 483 41 22 Bingöl B
+KT.099 1177 340 13,376 43 18 209 45 28 311 19 461 31 24 Bingöl B
+KT.101 1459 387 16,351 62 17 245 50 34 336 14 472 38 27 Bingöl B
+KT.102 1339 429 16,022 70 25 256 50 32 346 20 459 44 35 Bingöl B
+KT.104 1417 373 15,322 56 23 234 47 35 328 15 479 40 32 Bingöl B
+KT.108 1288 347 14,023 50 13 220 44 28 322 18 496 36 25 Bingöl B
+KT.109 1273 361 14,798 52 19 225 42 30 321 18 504 36 27 Bingöl B
+KT.112 1486 345 15,741 64 23 233 50 31 337 20 486 42 29 Bingöl B
+KT.113 1354 360 15,484 52 21 232 51 26 338 16 486 39 30 Bingöl B
+KT.115 1098 289 11,943 48 20 180 37 30 283 14 449 32 23 Bingöl B
+KT.116 1322 362 14,396 47 22 220 47 33 322 16 445 36 21 Bingöl B
+KT.117 1298 339 13,558 47 20 207 624 30 309 18 502 36 22 Bingöl B
+KT.001 1126 459 24,886 222 32 290 6 139 1391 75 26 90 40 Bingöl A
+KT.003 1507 637 32,664 211 36 264 10 129 1237 58 12 82 31 Bingöl A
+KT.011 1199 423 22,248 199 34 244 5 125 1325 69 26 69 34 Bingöl A
+KT.012 1367 593 29,605 191 46 239 3 122 1145 56 15 78 30 Bingöl A
+(continued on next page)
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569 561the other Bingöl B artefacts. These pieces were re-cleaned and reanalysed five times but the readings remained at these levels. We
+are not entirely sure how to interpret these data; the results might
+be due to a wall rock reaction, or relate to a Bingöl B sub-source that
+has yet to be discovered (M.S. Shackley personal communication).
+The second largest group comprises green, peralkaline obsidian
+(n ¼ 51, 43%), highly distinctive in both its colour and chemistry,
+with high Zr values (1100e1350 ppm) and low Sr readings (3e
+10 ppm). These artefacts’ elemental profiles match those of
+geological samples from the Bingöl A/Nemrut Dag compositional
+group (Cauvin et al., 1991; Chataigner, 1998: 298e308; Poidevin,
+1998: 135e142). Using a ratio plot of Fe/Mn vs. Rb/Zr it is then
+possible to discriminate the products of these two volcanoes
+(Fig. 5), with the raw materials of 15 artefacts matching source
+samples from Nemrut Dag Caldera and Nemrut Dag Rim (13%),
+while the elemental signatures of 36 pieces corresponded with
+those of peralkaline obsidians collected from As ̧ agi Çavusular,
+Ortaduz and Lawe Ziyar of the Bingöl A group (30%). The Nemrut
+Dag and Bingöl A sources lay 140 km and 125 km to the north-east
+of Körtik Tepe (Fig. 1).
+While the Zr and Sr concentrations of the final artefact (KT.060)
+closely approximate those of geological samples from both Mus ̧ and
+Table 2 (continued )
+Sample Ti
+(ppm)
+Mn
+(ppm)
+Fe
+(ppm)
+Zn
+(ppm)
+Ga
+(ppm)
+Rb
+(ppm)
+Sr
+(ppm)
+Y
+(ppm)
+Zr
+(ppm)
+Nb
+(ppm)
+Ba
+(ppm)
+Pb
+(ppm)
+Th
+(ppm)
+Source
+KT.018 1379 602 30,106 211 40 243 7 132 1279 60 24 78 36 Bingöl A
+KT.020 1337 629 30,064 212 42 245 8 115 1179 59 12 75 27 Bingöl A
+KT.021 1177 545 28,590 250 42 304 4 147 1427 72 20 105 34 Bingöl A
+KT.022 1625 707 33,224 212 39 228 3 116 1101 57 23 61 25 Bingöl A
+KT.024 1007 397 23,079 202 30 256 3 133 1281 61 9 75 27 Bingöl A
+KT.025 1458 624 31,910 214 34 253 5 125 1212 63 22 76 30 Bingöl A
+KT.035 1127 487 25,798 219 29 288 4 147 1387 72 18 92 34 Bingöl A
+KT.039 1226 471 26,704 221 34 296 4 153 1417 66 23 94 41 Bingöl A
+KT.043 1418 585 28,928 191 34 243 3 121 1170 63 25 76 32 Bingöl A
+KT.058 1413 634 30,096 208 35 270 [3.1] 134 1273 60 [-30.00] 84 35 Bingöl A
+KT.059 1384 533 28,785 228 31 297 6 150 1432 66 [20] 106 36 Bingöl A
+KT.061 1294 573 27,381 201 31 230 3 116 1123 57 26 69 29 Bingöl A
+KT.062 1411 612 31,248 254 36 252 5 127 1200 60 21 73 34 Bingöl A
+KT.065 1398 655 32,141 216 37 263 5 128 1214 60 25 80 27 Bingöl A
+KT.073 1334 647 30,679 205 34 253 5 121 1199 64 18 79 27 Bingöl A
+KT.074 1551 579 32,788 267 39 294 6 139 1410 66 15 98 37 Bingöl A
+KT.080 1365 573 28,811 192 35 238 4 125 1188 52 9 69 28 Bingöl A
+KT.083 1273 525 27,513 241 29 284 6 144 1383 77 5 97 40 Bingöl A
+KT.086 1291 555 26,769 188 36 219 4 110 1082 52 13 64 24 Bingöl A
+KT.087 1337 598 29,320 185 35 241 6 120 1171 59 17 75 24 Bingöl A
+KT.088 1333 597 29,048 224 40 239 5 121 1165 52 6 73 25 Bingöl A
+KT.093 1357 473 29,804 248 42 309 8 145 1419 66 [30.00] 98 38 Bingöl A
+KT.096 1452 628 30,718 211 42 249 7 124 1191 56 26 80 35 Bingöl A
+KT.098 1482 624 30,267 195 40 243 5 118 1159 57 24 76 28 Bingöl A
+KT.100 1403 629 29,219 182 37 243 7 120 1180 54 16 72 27 Bingöl A
+KT.103 1169 506 24,364 171 29 230 3 121 1152 58 8 75 26 Bingöl A
+KT.105 1161 489 26,995 219 30 284 3 145 1363 62 26 97 41 Bingöl A
+KT.107 1236 511 28,580 242 36 296 3 147 1436 69 10 110 42 Bingöl A
+KT.110 1397 629 31,199 216 38 248 6 123 1199 62 [20] 77 33 Bingöl A
+KT.114 1382 609 28,828 179 31 235 4 119 1169 62 21 70 27 Bingöl A
+KT.118 1300 510 28,696 211 35 268 4 136 1306 66 26 85 30 Bingöl A
+KT.120 1228 468 24,288 258 36 247 3 123 1316 66 26 70 28 Bingöl A
+KT.010 1166 490 21,848 199 41 222 7 121 1251 68 26 66 31 Nemrut Dag
+KT.017 1155 481 22,111 193 27 232 3 124 1301 71 20 60 23 Nemrut Dag
+KT.034 1129 475 22,361 213 31 237 3 125 1297 70 17 67 28 Nemrut Dag
+KT.040 1258 436 21,239 174 33 226 4 115 1265 72 26 56 29 Nemrut Dag
+KT.044 1249 516 24,224 215 39 247 [3.6] 127 1316 70 [30.00] 70 26 Nemrut Dag
+KT.045 1228 489 22,501 204 34 231 8 126 1284 73 [20] 61 25 Nemrut Dag
+KT.052 1162 473 22,199 179 29 225 5 120 1242 65 26 64 26 Nemrut Dag
+KT.053 1161 491 22,292 204 25 219 4 122 1239 67 22 65 25 Nemrut Dag
+KT.069 1091 490 22,421 199 33 235 6 125 1279 70 [3] 67 31 Nemrut Dag
+KT.071 1094 461 21,333 194 31 225 4 118 1255 61 24 63 29 Nemrut Dag
+KT.092 1074 456 20,524 184 34 213 4 116 1228 68 13 57 25 Nemrut Dag
+KT.094 2150 1221 54,386 319 33 222 10 161 1546 84 21 101 25 Nemrut Dag
+KT.106 1214 464 22,543 196 29 228 [3.1] 123 1275 76 [20] 65 26 Nemrut Dag
+KT.111 1153 462 22,018 184 36 237 5 121 1297 65 [20] 67 31 Nemrut Dag
+KT.119 1102 493 21,937 189 27 219 7 120 1242 70 20 65 24 Nemrut Dag
+KT.060 806 457 12,628 142 28 195 11 65 251 84 6 60 24 Mus ̧ e Konuk
+Bekler
+RGM-2 1617 323 13,921 43 15 149 106 24 231 11 804 22 16 Standard
+RGM-2 1617 323 13,921 43 15 149 107 24 231 11 804 22 16 Standard
+RGM-2 1529 311 13,940 43 17 146 105 26 232 14 22 18 10 Standard
+RGM-2 1645 302 13,985 38 10 148 105 24 233 13 820 25 12 Standard
+RGM-2 1547 340 14,017 40 15 148 108 24 235 10 835 22 15 Standard
+RGM-2 1561 339 13,924 45 18 150 107 24 231 11 822 23 12 Standard
+RGM-2 1599 322 13,960 41 17 145 105 22 232 10 782 26 11 Standard
+RGM-2 1563 316 13,965 41 14 145 108 24 230 8 791 25 14 Standard
+RGM-2 1607 330 13,908 35 15 149 104 25 234 7 798 24 14 Standard
+RGM-2 1564 311 14,003 39 19 150 106 26 233 8 820 22 12 Standard
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569562Pasinler (Fig. 1), it is possible to distinguish these raw materials
+through reference to Zn, Ga, Nb, and Th (Tables 2 and 3), leading us to
+assign the piece to the former region. While the match is not perfect,
+our assignation arguably makes more sense in terms of both proximity (110 km as opposed to 250 km) and directionality (situated
+between Bingöl and Nemrut Dag). This area’s outcrops are not
+particularly well known, whereby a better chemical association may
+be found in due course. Significantly, this is the first evidence for the
+use of obsidian from the Mus ̧ sources (see Delerue, 2007: 42).
+7. Obsidian consumption at Körtik Tepe
+If obsidian sourcing is to be used to elucidate common or
+distinct traditions of consumption amongst PPNA populations, then
+we need to move beyond the issue of raw materials alone. The data
+need to be considered more holistically through a chaîne opératoire
+analytical framework, i.e. to reconstruct the choices these people
+made with regard to which obsidian they selected, the form(s) in
+which these materials circulated, the modes by which they were
+then worked, the form and scale of the implements they produced
+and then to consider these relations through time and space (cf.
+Briois et al., 1997; Carter et al., 2006).
+The 15 Nemrut Dag artefacts, 12.5% of the analysed material,
+represent most of a microblade reduction sequence, with two
+exhausted cores (Fig. 6: 1), a rejuvenation flake (Fig. 6: 2), and an
+end-product. The presence of cortical debris is significant as it
+suggests that at least some of this obsidian was procured as true
+unmodified raw material.
+The 36 artefacts of Bingöl A obsidian, 30% of the analysed
+material, similarly evidence on-site microblade manufacture (Fig. 6:
+3e9), with two exhausted nuclei, end-products (Fig. 6: 3e4), plus
+rejuvenation pieces from the core’s platform (Fig. 6: 5) and
+face (Fig. 6: 5). The few modified pieces include a borer on a blade
+(Fig. 6: 7), an arched backed piece (Fig. 6: 8), plus pieces with simple
+linear retouch (Fig. 6: 9). This material also included debris
+with cortex (Fig. 6: 6), suggesting the procurement of unworked
+nodules.
+In contrast, the Bingöl B (n ¼ 51, 43%) assemblage lacked cortical
+blanks, inferring that this obsidian arrived as decorticated nodules
+and/or preformed cores. These subtly distinct modes of circulation
+are notable, as it is often assumed that the calc-alkaline and peralkaline products of the Bingöl massif were exploited in the same
+manner due to their proximity to each other (cf. Khalidi et al., 2009:
+883). Once on site, the Bingöl B obsidian was knapped in much the
+same manner as that from Bingöl A, i.e. it was used to make unipolar bladelets using a percussive technique. There are cores (Fig. 6:
+10), chunks, non-cortical flakes, and a series of rejuvenation pieces,
+as well as end-products (Fig. 6: 11e20). Modified blanks include
+another arched and backed piece (Fig. 6: 18), backed and notched
+bladelets, two small borers (Fig. 6: 15), plus a few bladelets and
+blade-like rejuvenation pieces with normal and inverse linear
+retouch (Fig. 6: 12e18).
+The one piece of obsidian assigned to the Mus ̧ source is a distal
+section of a part-cortical bladelet, analogous in size and regularity
+to the Bingöl and Nemrut Dag products (Fig. 6: 21).
+The temporal and spatial analysis of this data is preliminary, as
+post-excavation studies remain on-going. Trenches A80 and A84
+provide the most detailed stratigraphic sequences (Benz et al., 2011,
+in press) with 13 artefacts associated with the former and ten with
+Fig. 4. Bivariate contents plot of Zr vs. Sr for samples from closest eastern Anatolian
+obsidian sources and Körtik Tepe artefacts.
+Fig. 5. Ratio plot of Fe/Mn vs. Rb/Zr for samples from main Anatolian obsidian sources
+and Körtik Tepe artefacts.
+Table 3
+Comparing elemental concentrations of artefact KT.060 with source samples from Mus ̧ region and Pasinler analysed in the MAX Lab and C2RMF, Musée du Louvre, Paris
+(nd ¼ no data; * data generated by PIXE [Delerue, 2007: 103, Fig. 65]).
+Source Sr (ppm) Zr (ppm) Zn (ppm) Ga (ppm) Nb (ppm) Th (ppm)
+KT.060 11 251 142 28 84 24
+Mus ̧ e Konuk Bekler (n ¼ 27) 4e9 229e270 99e135 24e37 72e87 12e29
+Mus ̧ e Ziyaret* nd 200 103 29 87 nd
+Mus ̧ e Mermicimekkale* 4 190 98 28 83 nd
+Pasinler (n ¼ 31) 4e9 170e240 37e58 10e22 24e33 30e49
+Fig. 3. Bivariate contents plot of Zr vs. Sr for samples from main Anatolian obsidian
+sources and Körtik Tepe artefacts.
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569 563the latter. Trench A80 is the deepest thus far excavated extending
+to 5.25 m (Fig. 7), with two Epi-Palaeolithic strata at the base dated
+to the late 11th millennium BC. Two artefacts from these levels were
+characterised, the oldest from stratum VIII being a non-cortical flake
+of Bingöl B obsidian (KT.047), while that from stratum VII was
+a rejuvenation flake from Bingöl A (KT.039). Moving up into the
+PPNA levels we continue to view a reliance on Bingöl products,
+within only two Nemrut Dag artefacts (strata V/VI) from the sample
+of 13 artefacts spanning strata VIIIeII/III (Fig. 7). The ten artefacts
+analysed from trench A84 come from slightly later contexts (Table 1),
+with four characterised as Bingöl A and six as Bingöl B. The lack of
+Nemrut Dag products from this assemblage hints at a spatial
+distinction in these raw materials’ consumption, though overall we
+struggle to see any clear distinctions in raw material use across the
+site, with the diversity of source material by trench relating directly
+to sample size (Fig. 8). The temporal and spatial aspects of raw
+material consumption are questions for the next series of analyses.
+Körtik Tepe represents an excellent site with which to address such
+issues (cf. Carter et al., 2006: 895), though this will require sampling
+strategies that are fully integrated with stratigraphic and contextual
+Fig. 6. Representative sample of artefacts by raw material (D. Mihailovic).
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569564studies. A step has been taken in this direction, with 140 artefacts
+from the A80 sequence selected from secure deposits to represent
+each of the Epi-Palaeolithic e PPNA strata.
+8. The Körtik Tepe data in context
+The past 50 years of Anatolian and Near Eastern characterisation
+studies provide us with a rich evidential context within which to
+locate the Körtik Tepe data (Cauvin and Chataigner, 1998;
+Chataigner, 1998; Delerue, 2007). When one considers the EpiPalaeolithic and PPNA data en masse a few clear patterns emerge.
+Firstly, despite the fact that there were numerous sources available
+to these communities throughout Anatolia and Transcaucasia, only
+five of them seem to have been exploited during these early
+periods, namely Göllü Dag, and Nenezi Dag (Cappadocia), plus
+Bingöl A, Bingöl B, and Nemrut Dag (Figs. 9 and 10). To this list we
+can now add Mus ̧ as a sixth source. Secondly, there are clear spatial
+trends in these raw materials’ consumption. Cappadocian obsidian
+was procured by communities in central and Mediterranean Anatolia, northern Mesopotamia and the Levant as far south as the
+Negev, while obsidian from the eastern Anatolian were accessed by
+populations in eastern Anatolia and Mesopotamia (Carter et al.,
+2011; Chataigner, 1998; Delerue, 2007). Only in northern Mesopotamia did communities use both central and eastern Anatolian
+products, at sites such as Göbekli Tepe (T. Carter pers. obs.), Abu
+Hureyra, Cheikh Hassan and Mureybet (Abbès et al., 2001; Cauvin,
+1991; Moore, 2000: 182; Pernicka et al., 1997), plus Tell Aswad in
+the Djezireh (Epstein 1977).
+So what do these patterns indicate? It could be argued that
+distance was the primary factor that influenced these raw materials’ distribution, i.e. those closest to Cappadocia used Göllü Dag
+and Nenezi Dag products, while those closest to Lake Van exploited
+Bingöl and Nemrut Dag obsidian, while those in between the two
+volcanic regions were able to access both sets of raw materials. If
+we focus on the 11the10th millennia BC data alone then the
+‘distance-from-source’ argument seems quite reasonable. However
+if one takes a longer-term perspective, then we eventually see these
+pattern’s disruption. For instance, in the 7th millennium BC Bingöl
+and Nemrut Dag products appear in central Anatolia (Çatalhöyük
+[Carter et al., 2008]), while conversely Cappadocian obsidian now
+rarely if ever made its way to SE Anatolia (e.g. Gürcütepe, Urfa
+region [T. Carter, pers. obs.]). Given that there were no advances in
+transportation in the intervening period, we believe these shifting
+patterns of circulation reflect changes in peoples’ traditions. This for
+us is the crux of the matter, i.e. that cultural choice represents the
+basis for the circulation and distribution of these raw materials
+during the Epi-Palaeolithic and PPNA (indeed any period). What
+significance do we then read into the common practices that we can
+map through space and time? What was the nature of social
+interaction that led to the creation and maintenance of these
+traditions and what was the basis of the boundaries that distinguished different realms of cultural practice, i.e. those communities
+exclusively choosing Cappadocian obsidian, versus those whose
+habit was to consume Van region products?
+We are getting slightly ahead of ourselves here as we have yet to
+prove that ‘the exclusive consumption of Lake Van obsidian’ is
+Fig. 7. Stratigraphic section of trench A80 with location of characterised artefacts (D. Mihailovic after M. Benz).
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569 565necessarily a meaningful practice in the first place (as at Kortik Tepe,
+Hallan Çemi, Demirköy inter alia). Traditionally obsidian characterisation studies have tended to fixate upon the artefacts’ raw material
+at the expense of any other aspects of its ‘character’, i.e. ignoring its
+technical and typological characteristics. Raw material distribution
+maps thus risk seducing us into believing that the common use of
+a particular obsidian infers connections between these communities. This categorically need not be the case, as there are many
+different ways in which these raw materials could have been
+procured and worked by contemporary populations. We thus need
+Fig. 8. Spatial distribution of the Körtik Tepe characterised artefacts (D. Mihailovic after A. Cos ̧ kun).
+Fig. 9. The distribution of Anatolian obsidian during the late Epi-Palaeolithic (Maison de l’Orient Period 1 [D. Contreras]).
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569566to consider in more detail the nature of the various Bingöl and
+Nemrut Dag artefacts at the aforementioned Epi-Palaeolithic and
+PPNA sites (where available, archaeometric reportage rarely
+provides the artefacts’ techno-typological specifics) and how these
+modes of consumption compare with the Körtik Tepe data.
+As documented above, at Körtik Tepe these eastern Anatolian
+obsidians were all worked on site to make microblades, a number
+then modified into various geometric forms. At nearby Hallan Çemi
+a characterisation study of 16 artefacts seems to suggest that this
+community was practicing broadly similar raw material choices
+and technical practices during the Epi-Palaeolithic (Rosenberg,
+1994: 225). That said, at Hallan Çemi Nemrut Dag products
+comprised two thirds of the material (n ¼ 10/16), whereas at Körtik
+Tepe they represented only 12.5%. While one must be careful not to
+over-interpret such a small sample, these differences hint at
+distinct community-based practices, despite the sites’ proximity.
+While bladelet techniques and geometric tools are similarly referenced at PPNA Çayönü and Demirköy, there is no associated characterisation data whereby we cannot comment on raw material ::
+technology relations.
+Situated 215 km to the south-west of Körtik Tepe is the PPNA e
+early PPNB site of Göbekli Tepe on the northern edge of the Harran
+Plain (Fig. 10); here Bingöl A/B and Nemrut Dag products comprise
+just under half of the small obsidian assemblage (>99% of the
+chipped stone is flint [Schmidt, 2000: 51]). The consumption of
+these eastern products is quite distinct to that witnessed at Körtik
+Tepe, the artefacts almost exclusively comprising debitage from
+pressure-flaked blade technologies (T. Carter pers. obs.). Indeed,
+this mode of working Van region obsidian seems to be the norm for
+communities south of Körtik Tepe, as for example evidenced by
+archaeometric/technical analyses of PPNA assemblages from
+Cheikh Hassan and Mureybet in the Middle Euphrates, plus Tell
+Aswad in the Djezireh (Abbès et al., 2001; Abbès and Sánchez
+Priego, 2008: 234; Epstein 1977: Table 3, Figs. 5 and 7).
+While products of the bladelet tradition we associate with
+Körtik Tepe are occasionally reported from these northern
+Mesopotamian/Middle Euphrates sites, they only form a minority
+component of their assemblages. Moreover, it is not always clear as
+to which raw materials they were made of, i.e. they might be
+Cappadocian, rather than eastern Anatolian. Only from Göbekli
+Tepe do we have detailed data, and here only 1% of the eastern
+(peralkaline) raw materials were in the form of bladelets (T. Carter
+pers. obs.).
+In sum, it is apparent that by focusing on raw material alone
+there is a risk of masking major differences in how these EpiPalaeolithic and PPNA communities consumed Van region
+obsidian. The populations of the Batman River system worked
+Bingöl and Nemrut Dag obsidian on-site to produce microblades,
+whereas the same raw materials were used by contemporary
+communities further to the south-west to make pressure-flaked
+blades, a radically different technology. The boundary between
+these two traditions is not entirely clear, though given that
+pressure-flaked blade production is reported as absent from PPNA
+Çayönü (Binder, 2007: 240), it is tempting to set up an opposition
+between Upper Tigris region cultural-technical traditions and those
+practiced by populations of the Urfa area and Upper/Middle
+Euphrates (Figs. 9 and 10). One might thus interpret the larger
+Kortik Tepe blades e for which we lack associated manufacturing
+debris e as imports from southern communities. Indeed, while one
+might talk of a cultural boundary between Epi-Palaeolithic and
+PPNA communities of the northern Levant and Upper Tigris, it is
+clear that these people were in contact with each other and did
+engage in certain shared traditions, as evidenced in domestic
+architecture, burial, and iconography (cf. Kozlowski and Aurenche,
+2005).
+In interpreting these regional differences in how people worked
+Bingöl and Nemrut Dag obsidian one is tempted to argue that the
+technical divide was structured by the fundamental distinctions in
+these communities’ subsistence practices and by extent the kinds of
+tools they needed. Bar-Yosef (1998: Fig. 10) has characterised these
+Epi-Palaeolithic e PPNA inhabitants of the Upper Tigris region as
+“sedentary foragers”, in contrast to their contemporaries in the
+Fig. 10. The distribution of Anatolian obsidian during the Pre-Pottery Neolithic A (Maison de l’Orient Period 2 [D. Contreras]).
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569 567Middle Euphrates who are described as “cultivator-hunters” (see
+also Willcox et al., 2009 [ideally we would also want to know more
+about the earliest PPNA material from Tell Qaramel to make sure
+that these distinctions are not in part chronological]). While these
+distinctions in subsistence likely influenced some of the differences
+we view in tool types and technology, we ultimately prefer to
+interpret the data through a more cultural lens (analogous to that
+outlined by Belfer-Cohen and Goring-Morris [2010: 10]), one that
+views subsistence as part-constituting a way of being-in-the-world,
+rather than driving human practice.
+9. Conclusions
+Our analysis has shown that in the late 11theearly 10th
+millennium BC the people of Körtik Tepe primarily procured
+obsidian from various outcrops on the Bingöl and Nemrut Dag
+massifs. The data further suggest a subtle distinction in the manner
+in which these resources circulated, with Bingöl A and Nemrut Dag
+peralkaline obsidian brought to the site in the form of cortical
+nodules, while Bingöl B (calc-alkaline) materials arrived as partworked cobbles and/or preformed cores. From here onward these
+raw materials were worked in a similar manner, used to make small
+percussion bladelets, some being modified into geometric tools.
+There was also one part-cortical bladelet whose raw material was
+sourced to the Mus ̧ region, the first evidence for this obsidian’s use;
+its rarity suggests a sporadic exploitation en route to the major
+sources of Bingöl and Nemrut Dag (Fig. 1).
+We tentatively suggest chronological patterning in raw material
+consumption, with Bingöl products dominant in the EpiPalaeolithic strata, while Nemrut Dag obsidian then appears in
+PPNA horizons. Technologically and typologically the Körtik Tepe
+obsidian assemblage fits within a local Batman River/Upper Tigris
+Epi-Palaeolithic e PPNA tradition. Closely comparable assemblages
+are known from nearby Hallan Çemi, Demirköy, Gusir Höyük, and
+Hasankeyf Höyük (Fig. 1).
+This paper has employed a more holistic characterisation study
+to detail common traditions of consumption amongst late 11the
+early 10th millennium BC communities of south-eastern Anatolia
+and the Levant. Such an approach enables us to make clear
+distinctions in how Bingöl and Nemrut Dag source materials were
+being used by broadly contemporary populations. Some of these
+differences can be mapped at the inter-regional level, namely the
+bladelet tradition(s) of the Upper Tigris populations versus the
+pressure-flaked blade tradition(s) of the northern Levant. In turn,
+we can document more subtle local distinctions, as with the
+differential use of eastern Anatolian obsidian at Körtik Tepe and
+Hallan Çemi. Here we return to one of our project’s opening
+questions as to whether obsidian exchange represented ‘the’
+network through which the Neolithic worlds of the Near East were
+connected and part-constituted. Our results would suggest not,
+defining instead a series of inter-community distinctions e at both
+the regional and local level e that provide further evidence to
+support the vision of the Near Eastern Neolithic as more heterogeneous than appreciated previously, with subsistence and now
+technical practices and raw material choices highly localised and
+contingent (cf. Arbuckle and Özkaya, 2006: 114; Asouti, 2010;
+Conolly et al., 2011; Goring-Morris and Belfer-Cohen, 2011).
+The elucidation of shared modes of consumption, or ‘communities of practice’ (common traditions of raw material choice/
+technical practice amongst contemporary populations [Knappett,
+2011: 98e123]), represents a powerful means of using characterisation data. Following debates from the sociology of technology it
+can be argued that common forms of technical practice/raw
+material choice implies a significant level of on-the-ground interaction between populations. The complex web of choices that
+comprise these PPNA lithic traditions were likely transmitted
+‘vertically’ from parent to child within a community, and shared/
+perpetuated amongst members of other populations through intermarriage and other deeply binding socio-economic relations (cf.
+Gosselain, 2000; Gosselain and Livingstone Smith, 2005: 42e43).
+Ultimately the practices and their material forms are viewed as
+mutually constitutive, i.e. these traditions are not only reflections of
+a community’s way-of-being, but also a fundamental aspect
+(performance) of what it is to be a member of that social group
+(Gosselain, 2000: 209; Knappett, 2011: 104).
+In the case of the Upper Tigris region there are various practical factors that one might consider concerning how intercommunity connectivity was articulated. For instance, from the
+viewpoint of Körtik Tepe (Fig. 1), anyone travelling to obsidian
+sources would have travelled up the Batman River and by extent
+via the villages of Hallan Çemi and Demirköy (at different
+periods). Alternatively, these villagers may have been intermediaries in the transport and dissemination of Bingöl and Nemrut
+Dag obsidian, with the inhabitants of Körtik Tepe procuring these
+raw materials through establishing long-term exchange partners
+and/or inter-marriage. On the larger scale, i.e. regarding links with
+other communities up and downstream the Tigris at Çayönü,
+Hasankeyf Höyük and Gusir Höyük, one can point to these
+sedentary foragers’ subsistence practices, with hunting and
+gathering likely involving their movement over relatively large
+and overlapping territories.
+While the pragmatics of raw material procurement and food
+collection strategies can help explain the development and
+maintenance of this regional network (or community of practice),
+the ties that bound people together were avowedly social, with
+connections and the sharing of know-how and practice articulated
+at the inter-personal level via trade partnerships and spousal
+exchange. Common ideology and other shared notions of being-inthe-world are other key factors that bound these populations
+together (‘identity’ is of course the hitherto unspoken concept we
+are dealing with here, though we resist any attempt to map such
+terms as ‘ethnicity’ [cf. Shennan, 1989] upon these ‘communities of
+practice’). Ultimately it is through these networks that new
+ideas and practices would have come to be shared, be that
+cereal cultivation, the spread of pressure-flaked blade production,
+or those various other ways of life we have come to term ‘the
+Neolithic’.
+Acknowledgements
+This study was funded by Carter’s Standard Research Grant of
+the Social Sciences and Humanities Research Council, Canada: From
+Neolithisation to state formation: Reconstructing interaction
+networks & the dynamics of socio-economic change through
+obsidian sourcing in the Aegean & Anatolia 10the2nd millennia
+BCE. The MAX Lab was created and is currently financed by
+a Canada Foundation for Innovation Leader’s Opportunity Fund/
+Ontario Research Fund (awarded to Carter). Diyarbakır Museum
+and the Turkish Ministry of Culture kindly gave permission to
+export the artefacts for analysis (all artefacts returned). We also
+thank Levent Atıcı, Marion Benz and Steve Shackley for their critical
+insight, Danica Mihailovic for artefact illustrations and maps, plus
+the two anonymous reviewers and the editor for their comments
+and suggestions.
+References
+Abbès, F., Sánchez Priego, J.A., 2008. Matières premières siliceuses et comportements techniques. In: Ibánez, J.J. (Ed.), Le Site Néolithique de Tell Mureybet
+(Syrie du Nord). BAR International Series, pp. 232e236.
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569568Abbès, F., Bellot-Gurlet, L., Bressy, C., Cauvin, M.-C., Gratuze, B., Poupeau, G., 2001.
+Nouvelles recherches sur l’obsidienne de Cheikh Hassan (Vallée de l’Euphrate,
+Syrie) au Néolithique PPNA et PPNB. Syria 78, 1e13.
+Arbuckle, B.S., Özkaya, V., 2006. Animal exploitation at Körtik Tepe: an early
+Aceramic Neolithic site in southeastern Turkey. Paléorient 32 (2), 113e136.
+Asouti, E., 2010. Beyond the “origins of agriculture”: alternative narratives of plant
+exploitation in the Neolithic of the Middle East. In: Matthiae, P., Pinnock, F.,
+Nigro, L., Marchetti, N. (Eds.), Proceedings of the 6th International Congress on
+the Archaeology of the Ancient Near East. Harrassowitz Verlag, Wiesbaden,
+pp. 189e203.
+Bar-Yosef, O., 1998. The Natufian culture in the Levant, threshold to the origins of
+agriculture. Evolutionary Anthropology 6, 159e177.
+Belfer-Cohen, A., Goring-Morris, N., 2010. The Initial Neolithic in the Near East: why
+it is so difficult to deal with the PPNA. Journal of the Israel Prehistoric Society
+40, 1e18.
+Belfer-Cohen, A., Goring-Morris, N., 2011. Becoming farmers: the inside story.
+Current Anthropology 52 (4), 209e220.
+Benz, M., Cos ̧ kun, A., Weninger, B., Alt, K.W., Özkaya, V., 2011. Stratigraphy and
+radiocarbon dates of the PPNA site of Körtik Tepe, Diyarbakır. Arkeometri
+Sonuçları Toplantısı 26, 81e100.
+Benz, M., Cos ̧ kun, A., Hadjas, I., Deckers, K., Riehl, S., Alt, K.W., Weninger, B., Özkaya,
+V. Methodological implications of new radiocarbon dates from the Early
+Holocene site of Körtik Tepe, southeast Anatolia. Radiocarbon, in press.
+Binder, D., 2007. PPN pressure technology: views from Anatolia. In: Astruc, L.,
+Binder, D., Briois, F. (Eds.), Technical Systems and Near Eastern PPN Communities. Éditions APDCA, Antibes, pp. 239e246.
+Binford, L.R., 1968. Post-Pleistocene adaptations. In: Binford, S., Binford, L.R. (Eds.),
+New Perspectives in Archaeology. Aldine, Chicago, pp. 313e341.
+Briois, F., Gratuze, B., Guilaine, J., 1997. Obsidiennes du site néolithique préceramique de Shillourokambos. Paléorient 23, 95e112.
+Caneva, I., Conti, A.M., Lemorini, C., Zampetti, D., 1994. Lithic production at
+Çayönü: a preliminary overview of the Aceramic sequence. In: Kozlowski, S.K., Gebel, H.G. (Eds.), Neolithic Chipped Stone Industries of the Fertile
+Crescent, and Their Contemporaries in Adjacent Regions. Ex Oriente, Berlin,
+pp. 253e266.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N.J.G., 2006. A new programme of obsidian
+characterization at Çatalhöyük, Turkey. Journal of Archaeological Science 33 (7),
+893e909.
+Carter, T., Dubernet, S., King, R., Le Bourdonnec, F.-X., Milic, M., Poupeau, G.,
+Shackley, M.S., 2008. Eastern Anatolian obsidians at Çatalhöyük and the
+reconfiguration of regional interaction in the Early Ceramic Neolithic. Antiquity
+82 (318), 900e909.
+Carter, T., Le Bourdonnec, F.-X., Kartal, M., Poupeau, G., Calligaro, T., Moretto, P.,
+2011. Marginal perspectives: sourcing obsidian from the Öküzini Cave (SW
+Turkey). Paléorient 37 (2), 123e149.
+Cauvin, M.-C., 1991. L’obsidienne au Levant préhistorique: provenance et fonction.
+Cahiers de l’Euphrate 5-6. Editions Recherche sur les Civilisations, Paris, pp.
+163e190.
+Cauvin, J., 2000. The Birth of the Gods and the Origin of Agriculture. Cambridge
+University Press.
+Cauvin, M.-C., Chataigner, C., 1998. Distribution de l’obsidienne dans les sites
+archéologiques du Proche et Moyen Orient. In: Cauvin, M.-C., Gourgaud, A.,
+Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’Obsidienne au Proche et Moyen Orient: Du Volcan à l’Outil. BAR International
+Series, pp. 325e350.
+Cauvin, M.-C., Besnus, Y., Tripier, J., Montigny, R., 1991. Nouvelles analyses d’obsidiennes du Proche-Orient: Modèle de géochimie des magmas utilisé pour la
+recherche archéologique. Paléorient 17, 5e19.
+Chataigner, C., 1998. Sources des artefacts néolithiques. In: Cauvin, M.-C.,
+Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C.
+(Eds.), L’Obsidienne au Proche et Moyen Orient: Du Volcan à l’Outil. BAR
+International Series, pp. 273e324.
+Conolly, J., Colledge, S., Dobney, K., Vigne, J.-D., Peters, J., Stopp, B., Manning, K.,
+Shennan, S., 2011. Meta-analysis of zooarchaeological data from SW Asia and SE
+Europe provides insight into the origins and spread of animal husbandry.
+Journal of Archaeological Science 38, 538e545.
+Delerue, S., 2007. L’Obsidienne dans le Processus de Néolithisation du ProcheOrient (12,000e6500 av. J.-C. cal). Ph.D. dissertation, Université Michel de
+Montaigne Bordeaux 3.
+Erim-Özdogan, A., 2011. Çayönü. In: Özdogan, M., Bas ̧ gelen, N., Kuniholm, P. (Eds.),
+The Neolithic in Turkey, vol. 1. Art and Archaeology Publications, Istanbul,
+pp. 185e269.
+Goring-Morris, N., Belfer-Cohen, A., 2011. Neolithisation processes in the Levant: the
+outer envelope. Current Anthropology 52 (4), S195eS208.
+Gosselain, O.P., 2000. Materializing identities: an African perspective. Journal of
+Archaeological Method and Theory 7 (3), 187e217.
+Gosselain, O.P., Livingstone Smith, A., 2005. The source: clay selection and processing practices in Sub-Saharan Africa. In: Livingstone Smith, A., Bosquet, D.,
+Martineau, R. (Eds.), Pottery Manufacturing Processes: Reconstruction and
+Interpretation. BAR International Series, pp. 33e47.
+Karul, N., 2011. Gusir Höyük. In: Özdogan, M., Bas ̧ gelen, N., Kuniholm, P. (Eds.), The
+Neolithic in Turkey, vol. 1. Art and Archaeology Publications, Istanbul, pp. 1e17.
+Khalidi, L., Gratuze, B., Boucetta, S., 2009. Provenance of obsidian excavated from
+Late Chalcolithic levels at the sites of Tell Hamoukar and Tell Brak, Syria.
+Archaeometry 51, 879e893.
+Knappett, C., 2011. An Archaeology of Interaction. Network Perspectives on Material
+Culture and Society. Oxford University Press.
+Kozlowski, S.K., 1996. From Zawi Chemi to M’lefaat. In: Kozlowski, S.K., Gebel, H.G.
+(Eds.), Neolithic Chipped Stone Industries of the Fertile Crescent, and Their
+Contemporaries in Adjacent Regions. Ex Oriente, Berlin, pp. 175e182.
+Kozlowski, S.K., Aurenche, O., 2005. Territories, Boundaries and Cultures in the
+Neolithic Near East. BAR International Series, Oxford.
+Moore, A.M.T., 2000. Stone and other artifacts. In: Moore, A.M.T., Hillman, G.C.,
+Legge, A.J. (Eds.), Village on the Euphrates. From Foraging to Farming at Abu
+Hureyra. Oxford University Press, Oxford, pp. 133e163.
+Özkaya, V., 2009. Excavation at Körtik Tepe. A new Pre-Pottery Neolithic A site in
+southeastern Anatolia. Neo-Lithics 2/09, 3e8.
+Özkaya, V., Cos ̧ kun, A., 2009. Körtik Tepe, a new Pre-Pottery Neolithic A site in
+south-eastern Anatolia. Antiquity 83 (320). http://antiquity.ac.uk/projgall/
+ozkaya/#author.
+Özkaya, V., Cos ̧ kun, A., 2011. Körtik Tepe. In: Özdogan, M., Bas ̧ gelen, N., Kuniholm, P.
+(Eds.), The Neolithic in Turkey, vol. 1. Art and Archaeology Publications, Istanbul,
+pp. 89e127.
+Özkaya, V., San, O., Cos ̧ kun, A., S ̧ ahin, F.S., Kartal, M., 2009. Körtik Tepe 2007 kazısı.
+Kazı Sonuçları Toplantısı XXX/1, pp. 85e106.
+Pernicka, E., Keller, J., Cauvin, M.-C., 1997. Obsidian from Anatolian sources in the
+Neolithic of the Middle Euphrates region (Syria). Paléorient 23, 113e122.
+Poidevin, J.-L., 1998. Les gisements d’obsidienne de Turquie et de Transcaucasie:
+géologie, géochimie et chronométrie. In: Cauvin, M.-C., Gourgaud, A.,
+Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’Obsidienne au Proche et Moyen Orient: Du Volcan à l’Outil. BAR International
+Series, pp. 105e203.
+Poupeau, G., Le Bourdonnec, F.-X., Carter, T., Delerue, S., Shackley, M.S., Barrat, J.A.,
+Dubernet, S., Moretto, P., Calligaro, T., Milic, M., Kobayashi, K., 2010. The use of
+SEM-EDS, PIXE and EDXRF for obsidian provenance studies in the Near East:
+a case study from Neolithic Çatalhöyük (central Anatolia). Journal of Archaeological Science 37 (11), 2705e2720.
+Riehl, S., Benz, M., Conard, N.J., Darabi, H., Deckers, K., Nashli, H.F., ZeidiKulehparcheh, M., 2011. Plant use in three Pre-Pottery Neolithic sites of the
+northern and eastern Fertile Crescent: a preliminary report. Vegetation History
+and Archaeobotany 21, 95e106.
+Rosenberg, M., 1994. A preliminary description of the lithic industry from Hallan
+Çemi. In: Gebel, H.G., Kozlowski, S.K. (Eds.), Neolithic Chipped Stone Industries
+of the Fertile Crescent. Ex Oriente, Berlin, pp. 223e238.
+Rosenberg, M., 2011a. Hallan Çemi. In: Özdogan, M., Bas ̧ gelen, N., Kuniholm, P.
+(Eds.), The Neolithic in Turkey, vol. 1. Art and Archaeology Publications, Istanbul,
+pp. 61e78.
+Rosenberg, M., 2011b. Demirköy. In: Özdogan, M., Bas ̧ gelen, N., Kuniholm, P. (Eds.),
+The Neolithic in Turkey, vol. 1. Art and Archaeology Publications, Istanbul,
+pp. 79e87.
+Rosenberg, M., Peasnall, B., 2001. A preliminary description of the lithic industry
+from Demirköy Höyük. In: Caneva, I., Lemorini, C., Zampetti, D., Biagi, P. (Eds.),
+Beyond Tools. Redefinig the PPN Lithic Assemblages of the Levant. Ex Oriente,
+Berlin, pp. 363e387.
+Schmidt, K., 2000. Göbekli Tepe, Southeastern Turkey: a preliminary report on the
+1995e1999 excavations. Paléorient 26 (1), 45e54.
+Shackley, M.S., 2005. Obsidian: Geology and Archaeology in the North American
+Southwest. University of Arizona Press, Tucson.
+Shennan, S., 1989. Introduction: archaeological approaches to cultural identity. In:
+Shennan, S. (Ed.), Archaeological Approaches to Cultural Identity. Unwin
+Hyman, London, pp. 1e32.
+Willcox, G., Buxo, R., Herveux, L., 2009. Late Pleistocene and early Holocene
+climate and the beginnings of cultivation in northern Syria. The Holocene
+19 (1), 151e158.
+T. Carter et al. / Journal of Archaeological Science 40 (2013) 556e569 569

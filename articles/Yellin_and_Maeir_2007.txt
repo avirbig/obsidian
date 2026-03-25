@@ -1,0 +1,879 @@
+Isr. J. Earth Sci.; 56: 123–132
+© 2008 Science From Israel/ LPPLtd. 0021-2164/07 $4.00
+E-mail: yellin@vms.huji.ac.il
+Four decades of Instrumental Neutron Activation Analysis and its contribution to the
+archaeology of the ancient land of Israel
+Joseph Yellina and Aren M. Maeirb
+a
+Institute of Archaelogy, The Hebrew University of Jerusalem, Jerusalem 91904, Israel
+bInstitute of Archaelogy, The Martin (Szusz) Department of Land of Israel Studies and Archaeology, Bar-Ilan University,
+Ramat Gan 52900, Israel
+(Received 28 February 2008; accepted in revised form 24 June 2008)
+AbstrAct
+Yellin, J. and Maeir, A.M. 2007. Four decades of Instrumental Neutron Activation Analysis and its contribution to the archaeology of the ancient Land of
+Israel. Isr. J. Earth sci. 56: 123–132.
+Instrumental Neutron Activation Analysis (INAA) is a nuclear analytic method that
+has been applied with great success to archaeology for over four decades as a tool
+for determining the origin of archaeological materials. The diversity of chemical elements whose concentration can be measured with high precision and accuracy makes
+INAA ideal for determining the provenance of pottery and obsidian. In this paper we
+first briefly survey the background of the development of INAA, and then present an
+overview of investigations in which INAA was utilized in the study of archaeological
+remains from the Land of Israel, from the early Prehistoric periods until the Middle
+Ages. Special focus is placed on studies that opened up new vistas and understandings
+on various issues in the archaeological record.
+INtroductIoN
+Among the various types of nuclear analytical methods
+that are applicable to the analysis of materials, Neutron
+Activation Analysis (NAA) has proven itself as the
+most useful and accurate for the analysis of a wide
+range of archaeological artifacts. In its more general
+form, NAA involves the chemical preparation of the
+samples, in order to extract specific elements of inter-
+est with extreme sensitivity. NAA involving chemical
+preparation is not suitable for archaeological investigations. The method that is employed in the analysis
+of archaeological artifacts is Instrumental Neutron Activation Analysis (INAA). Although NAA and INAA
+are often used interchangeably, in archaeology, INAA
+is the method that is always used. The “Instrumental”
+in INAA refers to the fact that there is no chemical
+preparation of the samples, and that the analysis, from
+beginning to end, is purely instrumental. It is thus
+a method that determines the abundances of many
+elements simultaneously, without having to resort to
+chemical processes. This is one of the great advantages that INAA has over other methods of chemical
+analysis. Sample preparation is purely mechanical,
+and hence, it is rapid and largely free of myriads of
+complications involved in other methods. The latter
+involve time-consuming chemical preparation of the
+sample, and chemical reactions may take place and as
+a result influence the measuring process. Furthermore,
+because high-energy photons are involved, matrix ef-
+fects that can be significant in X-ray fluorescence are
+minimal.124 Israel Journal of Earth Sciences Vol. 56, 2007
+The use of neutron activation as an analytical tool is
+attributed to George Charles de Hevesy (1885–1966;
+see Levi, 1985). He realized that radioactive isotopic
+species produced by neutron bombardments could
+be identified through the unique half-life of the
+radioisotope resulting from the neutron bombardment
+and quantified from the magnitude of the radioactivity.
+In its modern form the identification is done through the
+unique gamma-ray spectrum that follows the neutron
+activation, and the quantification is accomplished by
+the measure of the gamma-ray intensity (in fact, INAA
+refers to gamma-ray spectrometry following neutron
+activation). It is from the gamma-ray spectrum that
+elemental abundances are derived. Neutron activation
+is the process by means of which the gamma-ray
+spectrum is produced. Gamma-ray spectroscopy is in
+many ways simpler than other types of spectroscopy.
+The sample is transparent to the high-energy gammaray photons, typically in excess of 100 KeV, so that
+there are no significant photon–sample interactions or,
+in other words, no matrix effects (with some exception
+below 100 KeV).
+The neutrons involved in INAA are slow or
+thermal neutrons (approx. 0.025 eV) whose source
+today is a nuclear reactor. The activation caused
+by slow neutrons (neutron capture reactions) was
+discovered in 1934 by Enrico Fermi (1938), not
+long after the neutron was discovered (in 1932) by
+James Chadwick (1935). Thus, the basic science for
+INAA was established at the dawn of the nuclear
+age. However, the successful implementation of
+INAA to archaeology had to await revolutionary
+technological developments in solid state physics,
+computers, digital electronics, and computational
+procedures, as well as the accumulation of vast
+quantities of gamma-ray spectrometric data. The first
+successful application to archaeology was reported
+by Sayre and Dodson (1957), who were inspired
+by J.R. Oppenheimer (Harbottle, 1990; Speakman
+and Glascock, 2007). Another early application was
+reported by Emeleus (1958). Large-scale applications
+to archaeology became a reality in the mid-1960s
+with the advent of the lithium drifted (Sayre, 1966),
+and later, the high purity germanium detector, high
+speed computers, and computational procedures for
+spectroscopy and statistical analysis. It was at this
+time that Perlman and Asaro began their dedicated
+and highly precise work on the archaeology of Israel
+(Asaro and Adan-Bayewitz, 2007). A recent volume
+of Archaeometry highlighted 50 years of INAA in
+archaeology (Speakman and Glascock, 2007).
+Over the past four decades, a number of laboratories
+applied INAA to provenance problems relating to the
+archaeology of the Land of Israel and its surroundings,
+and among them the laboratory that was established in
+the Institute of Archaeology of The Hebrew University
+of Jerusalem, which operated until 1997 (Yellin,
+2007).
+A rEvIEw oF thE coNtrIbutIoN oF INAA
+to thE ArchAEoLogY oF IsrAEL
+Over the last forty-odd years, INAA has been used in
+a wide variety of studies relating to the archaeological and historical periods in the Land of Israel. In this
+short overview we have chosen to note only a selection of studies that aptly demonstrate the important
+contribution that INAA has provided in the study of
+antiquity in this region. We have selected studies that
+relate to different periods, from Prehistoric through the
+medieval periods, noting with each example the sig-
+nificance of the findings and analyses. Although most
+of the studies deal with the provenience of ceramics,
+other materials were studied as well, notably obsidian,
+basalt, and flint.
+Prehistoric (before ca. 3500 bce)
+The utility of INAA for determining the provenience
+of non-ceramic archaeological materials was demonstrated in the study of obsidian and, to a lesser extent,
+flint. Although other methods (e.g., optical emission
+spectroscopy, X-ray fluorescence spectroscopy, fis-
+sion track analysis) had been previously used for this
+purpose (e.g., Renfrew et al., 1966; Durrani et al.,
+1971), the accurate and wide-ranging data set that was
+analyzed using INAA enabled an accurate and convincing demonstration of the origin of obsidian from
+the Neolithic and Chalcolithic Periods. Archaeological
+obsidian from sites in Israel have been traced to obsidian sources in central and eastern Anatolia (Perlman
+and Yellin, 1978, 1980; Yellin and Garfinkel, 1986;
+Yellin and Frachtenberg, 1992; Yellin and Gopher,
+1992; Yellin, 1995, 1997; Yellin et al., 1996). These
+analyses provided solid evidence for the long-range
+trade and interaction that existed during late Prehistory—contacts that had been assumed, but not suf-
+ficiently proven until then. While flint is a much more
+difficult material to analyze (by any method), useful
+results can be obtained (Frachtenberg and Yellin,
+1992; Frachtenberg, 1993; Yellin, 1995). Additional
+applications of INAA to Prehistoric archaeology can
+be noted as well. Goren-Inbar et al. (1986) used INAAJ. Yellin and A.M. Maeir. Four decades of INAA in the archaeology of Israel 125
+to differentiate between different basalt flows and cor-
+relate between these flows and the archaeological arti-
+facts that were associated with them. Likewise, INAA
+has been utilized to assist in the dating of Prehistoric
+archaeological assemblages, such as the Middle Paleolithic site of Amud (Valladas et al., 1999), and the
+Lower Paleolithic site Gesher Benot Yaakov in the
+Jordan Valley (Rink and Schwarcz, 2005, corroborating the dating originally suggested by the excavators,
+e.g., Goren-Inbar and Belitzky, 1989).
+Early bronze Age (ca. 3500–2000 bce)
+The advent of urbanism that is witnessed during the
+Early Bronze Age brought about a wide range of social, economic, and political changes in the region.
+This is explicitly seen in the ceramic assemblages, as
+manifested in the technology, trade, and inter-regional
+and international connections. INAA has contributed
+particularly to the question of relations and contacts
+between the various regions during this period. A joint
+study combining INAA, petrography, and ICP clearly
+demonstrated the Egyptian origin of select ceramics
+from Early Bronze Age Canaan (Porat et al., 1991).
+Pottery that was thought to be imported was shown to
+be of local manufacture, both in the case of the Khirbet
+Beth Yerah ware (which was produced locally under the
+influence of foreign traditions; Esse and Hopke, 1986),
+and in the case of a unique red and black bowl from
+Jerusalem, which despite previous suggestions that it
+is a foreign import, was demonstrated to be of local,
+Jerusalem provenience (Maeir et al., 1992).
+Towards the end of the Early Bronze Age the urban
+nature of culture in the Land of Israel recedes and a
+period of rural and/or nomadic lifestyles is seen. During
+this period (the Early Bronze IV/Middle Bronze I), there
+is little, if any, evidence of international trade between
+the Land of Israel and other regions. On the other hand,
+extensive evidence of localized ceramic cultures within
+the land is seen. The local production of various groups
+was once again clearly demonstrated by INAA (e.g.,
+Yellin and Perlman, 1984; Falconer, 1987; subsequently
+shown by petrography as well, see Goren, 1996).
+Middle bronze Age (ca. 2000–1550 bce)
+The Middle Bronze Age (MB) is often considered
+one of the most vibrant periods in the history of the
+Land of Israel. In addition to a return to a full-blown
+urban culture, the archaeological evidence indicates an
+advent of many new and sophisticated technological
+developments (in ceramics, metallurgy, architecture,
+etc.), and widespread evidence for international trade
+and contacts. The ceramics from this period are particularly impressive, showing an improvement in the
+production techniques and distribution. INAA has
+contributed substantially to the understanding of this
+period, through a wide series of studies that have analyzed the origin of various classes of pottery groups.
+The contribution of INAA to the MB studies can be
+demonstrated through the following examples:
+1. Repeated INAA programs (e.g., Artzy and Asaro,
+1979; Kaplan, 1980; Kaplan et al., 1982, 1984;
+Yellin, 1984; McGovern et al., 1994; Maeir and
+Yellin, 2008) that have analyzed the Tell el-Yahudiyeh wares, typical of the this period, have conclusively demonstrated that this group was produced at
+various locations in Egypt and the Southern Levant
+during the late MB IIA through MB IIB. These
+studies have corroborated and expanded the typological studies of this ware family (e.g., Kaplan,
+1980; Bietak, 1989; Maeir and Mullins, in press),
+and have explicitly shown the international scope
+of trade and cultural contact (including the influ-
+ence on the production of vessel types over a wide
+zone) during this period.
+2. A large-scale project, which analyzed MB pottery
+from a wide range of sites in Egypt, Canaan, Syria,
+and elsewhere, attempted to show the scope of the
+international trade during this period (McGovern
+and Harbottle, 1997; McGovern, 2000). In fact,
+McGovern claimed that the majority of the pottery
+reaching Egypt was derived from southern Canaan.
+Even though this suggestion has been challenged
+based on a wide set of petrographic analyses (Co-
+hen-Weinberger and Goren, 2004, who suggest a
+northern Levant origin for this pottery), nevertheless, the scope and nature of the international trade
+during this period has been demonstrated.
+3. In several in-depth studies of pottery provenience in
+the Jordan Valley during the MB, Falconer (1987),
+Knapp et al. (1988), and Maeir and Yellin (2008)
+have demonstrated the dynamics of pottery pro-
+duction and exchange in this region. While much
+of the pottery was locally produced, an interesting
+web of intra- and inter-regional exchange of pottery was seen. As such, these studies contributed to
+the understanding of such issues as site hierarchy,
+regional trade, and production scales during this
+period.
+4. Several unique groups of pottery from this period
+have been studied through INAA. These include
+various imported wares in the Jordan valley (e.g.,126 Israel Journal of Earth Sciences Vol. 56, 2007
+Egyptian imports; Maeir and Yellin, 2008), the so-
+called “Red, White and Blue Ware”, which origi-
+nates in the southern Coastal Plain Canaan (Maeir
+2002; Maeir and Yellin, 2008), Cypriote pottery
+(Yellin, 1984), and finally, the “Bichrome” ware
+(which begins to appear in this period and continues
+to the Late Bronze Age). This latter ware, which
+was one of the first Levantine pottery groups to be
+studied by INAA (Artzy, 1975; Artzy et al., 1978),
+was conclusively demonstrated, for the most part,
+to originate from Cyprus. This is in stark contrast to
+the Canaanite provenience that had been suggested
+on the basis of purely typological studies (e.g., Epstein, 1966). To a large extent, the surprising results
+of the INAA study of this group first demonstrated
+the important, and at times revolutionary, impact
+that INAA could have on the archaeology of the
+region.
+5. In a study combining various fields (including
+INAA and petrography), a fragment of a pithos
+with a Linear A inscription from Tel Haror (in
+the NW Negev) was analyzed (Oren et al., 1996).
+Based on both methods of provenience analysis,
+the Cretan origin of this unique shard was clearly
+demonstrated, supporting the typological and epigraphic analyses. The origin of this piece served as
+an excellent illustration of the long-range trade and
+cultural relations that existed between the Aegean
+and the Southern Levant during this period.
+Late bronze Age (ca. 1550–1200 bce)
+The international character of the Late Bronze Age,
+during which there is extensive evidence for longrange and diverse trade and cultural contacts, is an
+excellent test case for the utility and importance of
+INAA studies. As mentioned above, perhaps the first
+study that demonstrated the impact of INAA on SyroPalestinian archaeology was the provenience study
+of the Middle/Late Bronze Age “Bichrome” pottery
+(Artzy et al., 1973, 1976; Artzy, 1975). Following
+this breakthrough study, time and again INAA studies
+relating to the Late Bronze Age in the Land of Israel
+have provided important insights into this period.
+Several examples can be noted:
+1. The web of international connections that is seen
+during this period is well represented by the wide
+variety of imported pottery found at virtually all
+Late Bronze Age sites in Israel. INAA studies provided a subtler understanding of the mechanisms
+behind this trade in pottery. For example, the study
+of various imported Mycenaean pottery has demonstrated that although much of this pottery originates
+in the Aegean (in particular, but not only, in the
+Argolid; see, e.g., Gunneweg et al., 1992; Yellin
+and Maeir, 1992; Gunneweg and Michel, 1999),
+certain groups were produced in Cyprus or even
+locally (e.g., Koehl and Yellin, 2007). The relations
+between Canaan and Cyprus were analyzed as well,
+whether they be Cypriote imports to Canaan (e.g.,
+Artzy et al., 1973; Yellin, 1984), or Canaanite imports to Cyprus (Gunneweg et al., 1987).
+2. The Egyptian rule in Canaan during the Late
+Bronze Age was manifested, among other things,
+by the presence of bona fide Egyptian or “Egyp-
+tianizing” objects at various sites. INAA of pottery
+displaying Egyptian characteristics from various
+sites in Canaan made it possible to differentiate locally made, “Egyptianizing” vessels from those that
+were actually imported to Canaan from Egypt (e.g.,
+Goldberg et al., 1986; Yellin et al., 1986, 1990).
+3. Perhaps the most important literary source for this
+period is the el-Amarna letters. Following extensive
+literary analyses of these texts, the first attempts to
+chemically provenance these texts were done using
+INAA (Artzy et al., 1976; see as well Yellin, 2001),
+which led to the in-depth petrographic study by Goren et al. (2003). More recently, INAA was used in
+conjunction with petrography to analyze Akkadian
+(Goren et al., 2007) and Egyptian (Ben-Shlomo et
+al., 2008) documents from Canaan as well.
+All told, INAA studies on a variety of Late Bronze
+Age materials have provided interesting insights into
+the international and inter-regional relations during
+this period, often at a “resolution” unavailable from
+other avenues of archaeological research.
+Iron Age I (ca. 1200–1000 bce)
+The major changes that occurred at the end of the
+Late Bronze Age and the beginning of the Iron Age
+are evidenced throughout the entire ancient Near East.
+The collapse of the Late Bronze Age world system,
+along with the appearance of new cultural groups, are
+but part of the major changes that occurred during the
+beginning of the Iron Age. INAA studies have provided important insights into this period, at times even
+revolutionary in their importance.
+Several examples can be noted:
+1. The appearance of the Philistine culture is one of
+the most fascinating aspects of the early Iron Age.J. Yellin and A.M. Maeir. Four decades of INAA in the archaeology of Israel 127
+Discussions on the origins of this culture continue
+to this day, but INAA provided some of the most
+basic information. During the initial stage of the
+Philistine culture, the Mycenaean IIIC pottery is
+one of the hallmarks of this period. Although it is
+almost virtually identical to Mycenaean IIIC pottery from the Aegean and Cyprus, INAA studies
+demonstrated conclusively that most, if not all, of
+this pottery from Philistia was in fact locally-produced (e.g., Asaro et al., 1971; Gunneweg et al.,
+1986b, 1990)—a strong argument that immigrant
+potters produced Mycenaean-style pottery in Philistia during this initial stage. At the same time,
+INAA also demonstrated (e.g., Gunneweg et al.,
+1990) that some of the Mycenaean IIIC pottery
+from other regions in Israel was imported (from
+Cyprus).
+2. During more advanced stages of the Iron Age I, the
+Philistines expanded their presence and influence to
+other parts of Israel, beyond the region of Philistia.
+Once again, INAA served as a method to demonstrate and pinpoint the origin of these connections
+(e.g., Gunneweg et al., 1990; Gunneweg, 1994).
+3. The unique material culture in the inland, moun-
+tainous regions of Canaan, often associated with the
+settlement of the Israelite tribes, has also been the
+focus of INAA studies. A case in point is the study
+of the so-called “Collared-rim jars,” often seen as
+typical of the Israelite settlement. INAA studies of
+this class of vessels (e.g., Yellin and Gunneweg,
+1989b) demonstrated a very varied origin of these
+vessels, indicating that the simplistic, monolithic
+understanding of these vessels was unwarranted. A
+very varied origin was also seen in the examination
+of “Collared-rim jars” from Tel Nami (Salmon,
+2001).
+4. INAA studies of other regions in Israel (e.g.,
+Megiddo—see Harrison and Hancock, 2005) have
+shown the great variety of pottery types found at
+sites during this period, once again demonstrating
+the multifaceted nature of this period.
+Iron Age II (ca. 1000–586 bce)
+In the Iron Age II one sees the appearance of various
+ethnic kingdoms and cultures in the Land of Israel
+and neighboring regions (e.g., the kingdoms of Israel,
+Judah, Edom, Moab, Ammon, along with Philistines,
+Phoenicians, Arameans, etc.). Towards the 2nd half of
+this period, the region comes under the control of the
+large Mesopotamian empires (Assyria and Babylonia).
+Over the last 30 years, INAA studies have provided important insights into the international and local relations
+during this period from a wide range of perspectives.
+1. Evidence of local trade of marked cooking pots during the early parts of this period was evidenced at
+several sites in the north of the country (e.g., Sharon
+et al., 1987).
+2. The so-called “LMLK” jars have been regarded
+for many years as one of the manifestations of the
+Judean kingdom during the late 8th century bce.
+Due to the different stamps on these jars, a vigorous
+discussion on their origin(s) and meaning developed over the years. INAA studies (Mommsen et
+al., 1984) conclusively demonstrated that these vessels have the same chemical composition, indicating a centralized production center(s) in the Judean
+Shephelah (foothills) where such a composition
+has been observed in a number of sites. This was
+a somewhat surprising result, as scholars had assumed that either the jars were produced in various
+locations within the Judean kingdom, or perhaps, in
+the immediate vicinity of the capital, Jerusalem.
+(3) Similarly, the later “Rosette” jars, also seen as a
+manifestation of the 7th century bce Judean kingdom, were also shown, through INAA, to have
+originated from the same region (Cahill, 1995;
+Yellin and Cahill, 1998, 2004).
+4. Unique pottery groups from the southern parts of
+Israel were known to have typological similarities
+to pottery from Transjordan. INAA studies of these
+groups (e.g., Gunneweg and Mommsen, 1990,
+1995; Gunneweg et al., 1991a) demonstrated the
+connections and/or lack thereof for these various
+types (the so-called Negbite, Midianite, Edomite,
+and other pottery).
+5. Other classes of Iron Age pottery have been examined as well, including earlier versions of the
+“LMLK” jars (e.g., Ben-Shlomo et al., 2008), se-
+lected pottery from specific sites (e.g., Yellin and
+Perlman, 1978; Gunneweg et al., 1985; Gunneweg
+and Yellin, 1991), and Cypriote, Phoenician, and
+Greek imports (e.g., Yellin and Perlman, 1978;
+Matthers et al., 1983; Yellin, 1989; Gunneweg and
+Perlman, 1991; Ben-Shlomo et al., 2008). These
+studies once again illuminated subtle and at times
+unexpected aspects of the intra- and inter-regional
+connections during this period.
+6. Other classes of Iron Age finds were studied by
+INAA, such as Judean figurines (Yellin, 1996) and
+metal-production-related items from Tel Dan (Manea-Krichten et al., 1989).128 Israel Journal of Earth Sciences Vol. 56, 2007
+Persian Period (ca. 586–330 bce)
+Relatively few INAA studies have focused on the
+Persian period. Nevertheless, several studies can be
+noted, such as the study of finds from a Persian Period
+shipwreck near Ma’agan Michael on the northern
+coast of Israel (Yellin and Artzy, 2004), the study of
+the so-called “MWSH” stamp impressions from Judah
+(Zorn et al., 1994), and a study of various types of
+pottery, both local and imported (Cypriote, Syrian,
+Aegean, and other), from Tell el-Hesi (Bennet and
+Blakely, 1989: 220–221).
+hellenistic Period (ca. 330-66 bce)
+Although the pottery from the Hellenistic Period has
+not been the focus of many INAA studies, several
+noteworthy studies on the origin of Hellenistic period
+ceramics can be noted. For example, the surprising results on the origin of the Hellenistic and Roman Eastern Terra Sigillata ware, which indicated a Cypriote
+origin for much of this pottery (Gunneweg et al., 1983;
+but see Slane et al., 1994, who argue for a local Levantine origin for this, and related, wares), the unknown
+origin of “braziers” from this period (Gunneweg and
+Perlman, 1984) and pottery assemblages from specific
+excavations (e.g., Ariel et al., 1985; Gunneweg and
+Yellin, 1990, 1997).
+roman–byzantine Period (ca. 66 bce–630 ce)
+Roman–Byzantine Period ceramics have been a relatively major focus of the INAA studies conducted in
+Israel over the last few decades. The various types of
+ceramics studied have provided a wealth of archaeological and historical insights, and at the same time,
+important methodological advances.
+Ceramic types that are found throughout the Roman
+Empire, including in the Land of Israel, were studied,
+such as the Eastern Terra Sigillata ware (Gunneweg et
+al., 1983) and trade amphorae (Gunneweg and Yellin,
+1990). Similarly, the origin and trade of pottery groups
+that were typical of certain cultures were also studied,
+such as the “Nabataean fine wares” (Gunneweg et al.,
+1991b), and the Judean “Pseudo-Nabataean” copies of
+this ware (Gunneweg et al., 1986a).
+At the same time, more specific pottery types
+were also studied, such as examples from the pottery
+assemblage at Qumran (Yellin et al., 2001; Gunneweg
+and Balla, 2003; Michniewicz and Krzysko, 2003),
+and Masada (Yellin, 1994), or specific types of pottery
+from various sites, such as the “Herodian lamp”
+(Gunneweg and Perlman, 1984–1985; Adan-Bayewitz
+et al., 2008), or the “flower pots” from Herodian
+Jericho (Yellin and Gunneweg, 1989a).
+An extremely important contribution comes from
+the local, “micro-provenience” studies that were
+conducted primarily on Roman and Byzantine pottery
+from the Galilee and the Golan (and Judea as well), in
+which fine-tuned, local distribution patterns of various
+types of pottery were discerned (e.g., Adan-Bayewitz
+and Perlman, 1985, 1990; Adan-Bayewitz and Wieder,
+1992; Adan-Bayewitz, 1993). These studies, which
+combined INAA with petrography, micromorphology,
+and XRF, convincingly demonstrated the powerful
+analytic tools that INAA provides, not only for
+questions of long-range, inter-regional connections,
+but also for subtle, local studies as well, both relating
+to differential distribution of specific types of vessels,
+and aspects of intra-site spatial analysis of pottery
+production.
+Finally, in a recent provenience study of Early
+Roman Period ceramics from Jerusalem and its vicinity,
+in which INAA and High Precision X-ray Fluorescence
+(HPXRF) were combined, Adan-Bayewitz et al. (2006)
+report an unusually high concentration of silver in
+the vessels originating from Jerusalem. This could be
+indicative of the high level of economic activities in
+Jerusalem during this period, associated with Herod’s
+temple in the city.
+Medieval Periods (post-630 ce)
+Relatively few INAA provenience studies were
+conducted on archaeological remains dating to the
+medieval periods. Among the few that can be noted
+are studies of fine table wares from the Crusader Pe-
+riod Latin Kingdom of Jerusalem (Boas, 1994) and of
+Crusader Period ceramics from Acre, in which INAA
+and ICP were used in tandem (Waksman et al., 1997).
+In addition one can note an unpublished study of the
+Early Arab kilns from Bet She’an, conducted by G.
+Shelach and J. Yellin.
+gENErAL coMMENts
+The many examples noted above serve as ample witness of the important contributions that INAA studies
+have provided over the last several decades. While
+primarily used for the study of inter-regional contacts,
+as manifested in ceramics and obsidian, other classes
+of material finds were analyzed as well. In addition,
+its utility for fine-tuned, local provenience studies was
+demonstrated. Despite the drawbacks of INAA studies
+(principally the need for access to a nuclear reactor),J. Yellin and A.M. Maeir. Four decades of INAA in the archaeology of Israel 129
+as opposed to some of the other analytic techniques,
+which use “more accessible” procedures, the outstanding accuracy and precision, the widespread use
+of this method over the last decades, and the ability
+to compare the results of different laboratories (and
+the impressive comparative databases that exist from
+the various groups who have conducted these analyses) have turned INAA into a most powerful tool for
+chemical provenience of pottery. Nevertheless, time
+and again, the full strength of this analytic method was
+particularly compelling when used in collaboration
+with other, overlapping, or complementary, analytical
+techniques (such as petrography, optical spectroscopy,
+ICP, XRF, HPXRF, etc.), enabling subtler provenience
+differentiations based on the advantages of each tech-
+nique.
+rEFErENcEs
+Adan-Bayewitz, D. 1993. Common pottery in Roman
+Galilee: a study of local trade. Bar-Ilan Studies in Near
+Eastern Languages and Culture. Bar-Ilan University,
+Ramat Gan.
+Adan-Bayewitz, D., Perlman, I. 1985. Local pottery provenience studies: a role for clay analysis. Archaeometry 27:
+203–217.
+Adan-Bayewitz, D., Perlman, I. 1990. The local trade of
+Sepphoris in the Roman period. Israel Exploration Journal 40: 153–172.
+Adan-Bayewitz, D., Wieder, M. 1992. Ceramics from Ro-
+man Galilee: a comparison of several techniques for
+fabric characterization. Journal of Field Archaeology 19:
+189–205.
+Adan-Bayewitz, D., Asaro, F., Giauque, R.D. 2006. The dis-
+covery of anomalously high silver abundances in pottery
+from the Early Roman excavation contexts in Jerusalem.
+Archaeometry 48: 377–398.
+Adan-Bayewitz, D., Asaro, F., Wieder, M., Giauque, R.
+2008. Preferential distribution of lamps from the Jerusalem area in the Late Second Temple Period (late First
+Century bce–70 ce). Bulletin of the American Schools of
+Oriental Research (BASOR) 350: 37–85.
+Ariel, D., Sharon, I., Gunneweg, J., Perlman, I. 1985. A
+group of stamped Hellenistic storage jar handles from
+Dor. Israel Exploration Journal 35: 153–252.
+Artzy, L.M. 1975. The origin of the Palestinian Bichrome
+ware. Dissertation, Brandeis University, Waltham, MA
+(photocopy).
+Artzy, M., Asaro, F. 1979. Origin of Tell el-Yahudiyeh ware
+found in Cyprus. Report of the Department of Antiqui-
+ties, Cyprus, pp. 135–150.
+Artzy, M., Asaro, F. Perlman, I. 1973. The origin of the
+Palestinian Bichrome ware. Journal of the American
+Oriental Society 93: 446–461.
+Artzy, M., Perlman, I., Asaro, F. 1976. Alašiya of the Amarna
+letters. Journal of Near Eastern Studies 35: 171–182.
+Artzy, M., Perlman, I., Asaro., F. 1978. Imported and local
+Bichrome ware in Megiddo. Levant 10: 99–111.
+Asaro, F., Adan-Bayewitz, D. 2007. The history of the Lawrence Berkeley National Laboratory instrumental neutron
+activation analysis program for archaeological and geological materials. Archaeometry 49: 201–214.
+Asaro, F., Perlman, I., Dothan, M. 1971. An introductory
+study of Mycenaean IIIC1 ware from Tell Ashdod. Archaeometry 13: 169–75.
+Bennet, W.Jr., Blakely, J. 1989. Tell el-Hesi: the Persian peri-
+od (stratum V). In: O’Connell, K.G., S.J., Horton, F.L.Jr.,
+eds. American Schools of Oriental Research Excavation
+Reports, The Joint Archaeological Expedition to Tell el-
+Hesi. Vol. 3. Eisenbrauns, Winona Lake, IN.
+Ben-Shlomo, D., Maeir, A.M., Mommsen, H. 2008. Neutron
+activation and petrographic analysis of selected Late
+Bronze and Iron Age pottery from Tell es-Safi/Gath, Is-
+rael. Journal of Archaeological Science 35: 930–941.
+Bietak, M. 1989. Archäologischer befund und historische
+interpretation am beispiel der Tell el-Yahudiyeh-ware.
+In Akten des vierten Internationalen Ägyptologen-Kongresses, München 1985, Band 2, ed. S. Schoske. Studien zur altägyptischen Kultur, Beihefte band 2. Helmut
+Buske, Hamburg, pp. 7–34.
+Boas, A.J. 1994. The import of western ceramics to the Latin
+Kingdom of Jerusalem. Israel Exploration Journal 44:
+102–22.
+Cahill, J. 1995. Rosette stamp seal impressions from ancient
+Judah. Israel Exploration Journal 45: 230–52.
+Chadwick, J. 1935 (1965). The neutron and its properties.
+In: Nobel lectures, physics 1922–1941. Elsevier, Amsterdam, pp. 339–348.
+Cohen-Weinberger, A., Goren, Y. 2004. Levantine-Egyptian
+interactions during the 12th to the 15th Dynasties based
+on the petrography of the Canaanite pottery from Tell edDab’a. Egypt and the Levant 14: 69–100.
+Durrani, S., Khan, H., Taj, M., Renfrew, C. 1971. Obsidian
+source identification by Fission Track Analysis. Nature
+233: 242–45.
+Emeleus, V.M. 1958. The technique of neutron activation
+analysis as applied to trace element determination in pottery and coins. Archaeometry 1: 6–15.
+Epstein, C. 1966. Palestinian Bichrome Ware. Documenta et
+Monumenta Orientis Antiqui. Brill, Leiden.
+Esse, D., Hopke, P. 1986. Levantine trade in the Early
+Bronze Age: from pots to peoples. In: Olin, J., Blackman,
+M., eds. Proceedings of the 24th International Archaeom-
+etry Symposium. Smithsonian Institution, Washington,
+DC, pp. 327–339.
+Falconer, S.E. 1987. Village pottery production and exchange: a Jordan valley perspective. In: Hadidi, A., ed.
+Studies in the history and archaeology of Jordan. Vol. 3.
+London, Routledge and Kegan Paul, pp. 251–59.
+Fermi, E. 1938 (1965). Artificial radioactivity produced130 Israel Journal of Earth Sciences Vol. 56, 2007
+by neutron bombardment. In: Nobel lectures, physics
+1922–1941. Elsevier, Amsterdam, pp. 414–421.
+Frachtenberg, F. 1993. Analysis of Prehistoric flint products
+and sources in Israel by neutron activation. Unpublished
+Master’s thesis, Hebrew Univ., Jerusalem.
+Frachtenberg, F., Yellin, J. 1992. Preliminary study of
+flint sources in Israel by neutron activation analysis.
+In: Waelkens, M., Herz, N., Moens, L., eds. Ancient
+stones: quarrying, trade and provenance. Acta Archaeo-
+logica Lovaniensis Monograph 4. Peeters, Leuven, pp.
+149–154.
+Goldberg, P., Gould, B., Killebrew, A., Yellin, J. 1986. Comparison of neutron activation and thin-section analyses
+on Late Bronze Age ceramics from Deir el-Balah. In:
+Olin, J., Blackman, M., eds. Proceedings of the 24th
+International Archaeometry Symposium. Smithsonian
+Institution, Washington, DC, pp. 341–351.
+Goren-Inbar, N., Belitzky, S. 1989. Structural position of the
+Pleistocene Gesher Benot Ya’akov site in the Dead Sea
+rift zone. Quaternary Research 31: 371–376.
+Goren-Inbar, N., Perlman, I. Heinmann, A. 1986. Chemical
+mapping of basalt flows at Paleolithic sites. Archaeom-
+etry 28: 89–99.
+Goren, Y. 1996. The Southern Levant in the Early Bronze
+age IV: the petrographic perspective. Bulletin of the
+American Schools of Oriental Research 303: 33–72.
+Goren, Y., Finkelstein, I., Na’aman, N. 2003. Inscribed in
+Clay I: provenance study of the Amarna letters and other
+Near Eastern texts. Monographs Series of the Institute of
+Archaeology. Tel Aviv University, Tel Aviv.
+Goren, Y., Na’aman, N., Mommsen, H., Finkelstein, I. 2007.
+Provenance study and reevaluation of the cuneiform
+documents from the Egyptian residency at Tel Aphek.
+Egypt and Levant 16: 161–171.
+Gunneweg, J. 1992. On the origin of a Mycenaean IIIA
+chariot krater and other related Mycenaean pottery from
+tomb 387 at Laish/Dan. Eretz Israel 23: 54*–63*.
+Gunneweg, J. 1994. Interregional contacts between Tell enNasbeh and littoral Philistine centres in Canaan during
+the Early Iron age I. Archaeometry 36: 227–239.
+Gunneweg, J., Balla, M. 2003. Neutron Activation Analysis:
+scroll jars and common ware. In: Humbert, J., Gunneweg,
+J., eds. Khirbet Qumran and ‘Ain Feshkha II: studies in
+anthropology, physics and chemistry. Academic Press,
+Fribourg, pp. 3–55.
+Gunneweg, J., Michel, H. 1999. Does the different layout
+of the Late Bronze Age tombs at Laish/Dan and Akko
+in Northern Canaan reflect different trade relations? An
+Instrumental Neutron Activation study on Mycenaean
+pottery. Journal of Archaeological Science 26: 989–995.
+Gunneweg, J., Mommsen, H. 1990. Instrumental Neutron
+Activation Analysis and the origin of some cult objects
+and Edomite vessels from the Horvat Qitmit shrine. Archaeometry 32: 7–18.
+Gunneweg, J., Mommsen, H. 1995. Instrumental Neutron
+Activation Analysis of vessels and cult objects. In: Beit
+Arieh, I., ed. Horvat Qitmit, an Edomite shrine in the biblical Negev. Monograph Series 11. Institute of Archaeology, Tel Aviv, pp. 280–286.
+Gunneweg, J., Perlman, I. 1984. Hellenistic braziers from
+Israel, results of pottery analysis. Israel Exploration
+Journal 34: 232–238.
+Gunneweg, J., Perlman, I. 1984-1985. The origin of the
+Herodian lamp. Bulletin of the Anglo-Israel Archaeological Society: 79–83.
+Gunneweg, J., Perlman, I. 1991. The origin of ‘loop-handle
+jars’ from Tell Keisan. Revue Biblique 98: 591–599.
+Gunneweg, J., Yellin, J. 1990. The origin of Hellenistic and
+Roman stamped handles from Jerusalem. In: Ariel, D.,
+ed. City of David Excavations: final report II. Qedem 30.
+Institute of Archaeology, Jerusalem, pp. 89–93.
+Gunneweg, J., Yellin, J. 1991. The origin of the Tel BatashTimnah ceramics of the 7th century bc in light of Instrumental Neutron Activation Analysis. In: Hughes, M.J.,
+Cowel, M.R., Hook, D.R., eds. Neutron activation and
+plasma emission spectrometric analysis in archaeology:
+techniques and applications. British Museum Occasional
+Paper 82. British Museum, London, pp. 91–103.
+Gunneweg, J., Yellin, J. 1997. The origin of some plain ware
+from Tel Anafa. In: Herbert, S., ed. Tel Anafa II, 1: the
+Hellenistic and Roman pottery. Kelsey Museum, Ann
+Arbor, MI, Journal of Roman Archaeology Supplement
+10, Part II, 1: 236–244.
+Gunneweg, J., Perlman, I., Yellin, J. 1983. The provenience,
+typology and chronology of Eastern Terra Sigillata ware.
+Qedem 17. Institute of Archaeology, Jerusalem.
+Gunneweg, J., Perlman, I., Meshel, Z. 1985. The origin of
+the pottery from Kuntillet ‘Ajrud. Israel Exploration
+Journal 35: 270–283.
+Gunneweg, J., Perlman, I., Yellin, J. 1986a. Pseudo-Nabataean ware and pottery of Jerusalem. Bulletin of the
+American Schools of Oriental Research 262: 77–82.
+Gunneweg, J., Dothan, T., Perlman, I., Gitin, S. 1986b. On
+the origin of pottery from Tel Miqne-Ekron. Bulletin of
+the American Schools of Oriental Research 264: 3–16.
+Gunneweg, J., Perlman, I., Asaro, F. 1987. A Canaanite jar
+from Enkomi. Israel Exploration Journal 37: 168–172.
+Gunneweg, J., Asaro, F., Michel, H., Perlman, I. 1990.
+Neutron activation analysis and the origin of some Mycenaean IIIC:1 and Philistine bichrome ware pottery from
+the eastern Mediterranean during the 12th–11th century
+b.c.e. In: Pernicka, E., Wagner, G., eds. Archaeometry
+‘90. Basel, Birkhauser, pp. 405–412.
+Gunneweg, J., Beier, T., Diehl, U., Lambrecht, D., Mommsen,
+H. 1991a. ‘Edomite,’ ‘Negbite’ and ‘Midianite’ pottery
+from the Negev desert and Jordan: Instrumental Neutron
+Activation Analysis results. Archaeometry 33: 239–253.
+Gunneweg, J., Perlman, I., Asaro, F. 1991b. The origin,
+classification and chronology of Nabataean painted fine
+wares. Jahrbuch des Romisch-Germanischen Zentralmuseums Mainz 35: 315–345.
+Harbottle, G. 1990. Neutron Activation Analysis in archaeo-J. Yellin and A.M. Maeir. Four decades of INAA in the archaeology of Israel 131
+logical chemistry. In: Yoshihara, K., ed. Topics in current
+chemistry, Vol. 157. Springer, Berlin, pp. 57–91.
+Harrison, T., Hancock, R. 2005. Geochemical analysis and
+sociocultural complexity: a case study from Early Iron
+Age Megiddo (Israel). Archaeometry 47: 705–722.
+Kaplan, M. 1980. The origin and distribution of Tell el-Yahudiyeh ware. Studies in Mediterranean Archaeology 52.
+P. Åstrom, Goteborg.
+Kaplan, M., Harbottle, G., Sayre, E. 1982. Multi-disciplinary analysis of Tell el Yahudiyeh ware. Archaeometry
+24: 127–142.
+Kaplan, M., Harbottle, G., Sayre, E. 1984. Tell el Yahudiyeh
+ware: A re-evaluation. In: Rice, P.M., ed. Pots and potters: current approaches in ceramic archaeology. Monographs of the Institute of Archaeology 24. University of
+California, Los Angeles, pp. 227–241.
+Knapp, A.B., Duerden, P., Wright, R., Grave, P. 1988.
+Ceramic production and social change: archaeometric
+analysis of Bronze Age pottery from Jordan. Journal of
+Mediterranean Archaeology 1: 57–113.
+Koehl, R., Yellin, J. 2007. What Aegean “Simple Style” pot-
+tery reveals about interconnections in the 13th-century
+Eastern Mediterranean. In: Betancourt, P., Nelson, M.,
+Williams, H., eds. Krinoi kai Limenes: studies in honor
+of Joseph and Maria Shaw. Prehistory Monographs 22.
+INSTAP Academic Press, Philadelphia, pp. 199–207.
+Levi, H. 1985. George de Hevesy. Adam Hilger Ltd; Bristol,
+UK.
+Maeir, A.M. 2002. Red, white and blue ware: a little-known
+group of painted pottery of the Middle Bronze II period.
+In: Oren, E., Ahituv, S., eds. Aharon Kempinski memorial volume: studies in archaeology and related disciplines.
+Ben-Gurion University Press, Beersheva, pp. 228–240.
+Maeir, A.M., Mullins, R. The Tell el-Yaduhiyeh ware from
+Beth Shean and the Central Jordan Valley. In: Bietak, M.,
+Czerny, R., eds. Tell el-Yahudiyeh ware. Austrian Academy of Sciences, Vienna, in press.
+Maeir, A.M., Yellin, J. 2008. Instrumental Neutron Activation analysis of selected pottery from Tel Beth Shean
+and the Central Jordan Valley. In: Mazar, A., Mullins, R.,
+eds. Excavations at Tel Beth-Shean 1989–1996, Vol. II:
+the Middle and Late Bronze Age strata in area R. Israel
+Exploration Society, Jerusalem, pp. 554–571.
+Maeir, A.M., Yellin, J., Goren, Y. 1992. A re-evaluation of
+the red and black bowl from Parker’s excavations in Jerusalem. Oxford Journal of Archaeology 11: 39–53.
+Manea-Krichten, M.C., Heidebrecht, N., Miller, G.E. 1989.
+Instrumental Neutron Activation Analyses of metal residues excavated at Tel Dan, Israel. In: Allen, R., ed. Archaeological chemistry IV. American Chemical Society,
+Washington, DC. Advances in Chemistry 220: 199–211.
+Matthers, J., Liddy, D., Newton, G., Robinson, V., Al-Tawel,
+H. 1983. Black-on-Red ware in the Levant: a Neutron
+Activation Analysis study. Journal of Archaeological
+Science 10: 369–382.
+McGovern, P. 2000. The foreign relations of the “Hyksos”:
+A Neutron Activation Study of Middle Bronze Age from
+the Eastern Mediterranean. BAR International Series
+888. Archaeopress, Oxford.
+McGovern, P., Harbottle, G. 1997. ”Hyksos” trade connections between Tell ed-Dab’a (Avaris) and the Levant: a
+Neutron Activation study of the Canaanite jar. In: Oren,
+E., ed. The Hyksos: new historical and archaeological
+perspectives. University Museum, Philadelphia. University Museum Monograph 96: 141–157.
+McGovern, P.E., Bourriau, J., Harbottle, G., Allen, S.J. 1994.
+The archaeological origin and significance of the dolphin
+vase as determined by Neutron Activation Analysis. Bulletin of the American Schools of Oriental Research 296:
+31–43.
+Michniewicz, J., Krzysko, M. 2003. The provenance of
+scroll jars in the light of archaeometric investigations.
+In: Humbert, J.-C., Gunneweg, J., eds. Khirbet Qumran
+and ‘Ain Feshkha II: studies in anthropology, physics and
+chemistry. Academic Press, Fribourg, pp. 59–99.
+Mommsen, H., Perlman, I., Yellin, J. 1984. On the provenience of the LMLK jars. Israel Exploration Journal 34:
+89–113.
+Oren, E., Olivier, J., Goren, Y., Betancourt, P., Myer, G.,
+Yellin, J. 1996. A Minoan graffito from Tel Haror (Negev,
+Israel). Cretan Studies 5: 91–118.
+Perlman, I., Yellin, J. 1978. Provenience of obsidians from
+Beisamoun. In: Abu Gosh et Beisamoun. Lechavallier,
+M., ed. Mémories et Travaux du Centre de Recherches
+Préhistorique Français de Jerusalem, 199. Centre de Re-
+cherches Préhistorique Français de Jerusalem, Paris.
+Perlman, I., Yellin, J. 1980. Provenience of obsidian from
+Neolithic sites in Israel. Israel Exploration Journal 30:
+83–88.
+Porat, N., Yellin, J., Heller-Kallai, L., Halicz, L. 1991. Correlation between petrography, NAA, and ICP analyses: application to Early Bronze Egyptian pottery from Canaan.
+Geoarchaeology 6: 133–149.
+Renfrew, C., Dixon, J., Cann, J. 1966. Obsidian and early
+cultural contact in the Near East. Proceedings of the Prehistoric Society 32: 30–72.
+Rink, W., Schwarcz, H. 2005. ESR and uranium series dating
+of teeth from the lower Paleolithic site of Gesher Benot
+Ya’aqov, Israel: confirmation of paleomagnetic age indi-
+cations. Geoarchaeology 20: 57–66.
+Salmon, Y. 2001. Collared-rim jars from the coastal site of
+Tel Nami at the end of the Late Bronze Period. Unpublished M.A. thesis, University of Haifa.
+Sayre, E.V. 1966. Refinement in methods of neutron activa-
+tion analysis of ancient glass objects through the use
+of “Lithium Drifted Germanium Diode Counters”. In:
+Comptes Rendus 7th International Congress on Glass,
+Brussels, 1965, paper 220, Gordon Breach, New York.
+Sayre, E.V., Dodson, R.W. 1957. Neutron activation study of
+Mediterranean potsherds. American Journal of Archaeology 61: 35–41.
+Sharon, I., Yellin, J., Perlman, I. 1987. Marked cooking pots132 Israel Journal of Earth Sciences Vol. 56, 2007
+from Tell Qiri. In: Ben-Tor, A., et al., eds. Tell Qiri, a
+village in the Jezreel valley: Report of the archaeological
+excavations 1975–1977. Qedem. Institute of Archaeology, Jerusalem, pp. 224–235.
+Slane, K., Elam, J., Glascock, M., Neff, H. 1994. Compositional analysis of Eastern Sigillata A and related wares
+from Tel Anafa (Israel). Journal of Archaeological Science 21: 51–64.
+Speakman, R.J., Glascock, M.D. 2007. Acknowledging fifty
+years of neutron activation analysis in archaeology. Archaeometry 49: 179–183.
+Valladas, H., Mercier, N., Froget, L., Hovers, E., Joron,
+H.-L., Kimbel, W., Rak, Y. 1999. TL dates from the
+Neanderthal site of the Amud Cave, Israel. Journal of
+Archaeological Science 26: 259–268.
+Waksman, S., Stern, E., Segal, I., Yellin, J. 1997. Ceramics
+of the Crusader period found in Acre: an INAA and ICP
+study of the local productions and some imports from the
+Byzantine world. In: Euro Ceramics V. Abelard, P., et al.,
+eds. Trans Tech Publications, Zurich, pp. 1496–1500.
+Yellin, J. 1984. Provenance of selected LBA and MBA
+pottery from Tel Mevorakh by instrumental neutron
+activation analysis. In: Stern, E., ed. Excavations at Tel
+Mevorakh II. Institute of Archaeology, Jerusalem. Qedem 18: 87–103.
+Yellin, J. 1989. The origin of some Cypro-Geometric pottery
+from Tel Dor. Israel Exploration Journal 39: 219–227.
+Yellin, J. 1994. Origin of the lamps from Masada. In: Masada
+IV: The Yigael Yadin excavations 1963–1965 final reports.
+Israel Exploration Society, Jerusalem, pp. 107–124.
+Yellin, J. 1995. Trace element characteristics of central Ana-
+tolian obsidian flows and their relevance to Pre-history.
+Israel Journal of Chemistry 35: 175–90.
+Yellin, J. 1996. Chemical characterization of the City of
+David figurines and inferences about their origin. In:
+Ariel, D., de Groot, A., eds. Excavations at the City of
+David 1978–1985. Institute of Archaeology, Jerusalem,
+Qedem 35: 90–99.
+Yellin, J. 1997. Miscellaneous finds: The obsidian from
+Netiv Hagdud. In: Bar-Yosef, O., Gopher, A. eds. An
+early Neolithic Village in the Jordan Valley part I: the
+archaeology of Netiv Hagdud. American School of
+Prehistoric Research, Bulletin 43. Harvard University,
+Cambridge, MA, pp. 193–196.
+Yellin, J. 2001. Chemical analysis of Amarna literary tablets EA 356, EA 357, and EA 358 and implications. In:
+Izre’el, S., ed. Adapa and the South Wind: language and
+the power of life and death. Eisenbrauns, Winona Lake,
+IN, pp. 55–58.
+Yellin, J. 2007. Instrumental neutron activation based provenance studies at The Hebrew University of Jerusalem,
+with a case study of Mycenaean pottery from Cyprus.
+Archaeometry 49: 271–287.
+Yellin, J., Artzy, M. 2004. Ceramic provenance: NAA. In:
+The Ma’Agan Mikhael ship: the recovery of a 2400-yearold merchantman. Final Report Vol II. Israel Exploration
+Society, Jerusalem, pp. 221–238.
+Yellin, J., Cahill, J. 1998. Origin of the rosette-stamped storage jars from ancient Judah: preliminary results of the
+Neutron Activation Analysis. Chemistry and Chemical
+Engineering 33: 6–11.
+Yellin, J., Cahill, J. 2004. Rosette-stamped handles: Instrumental Neutron Activation Analysis. Israel Exploration
+Journal 54: 191–213.
+Yellin, J., Frachtenberg, F. 1992. A re-examination of Nahal
+Lavan obsidian. In: Waelkens, M., Herz, N., Moens, L.,
+eds. Ancient stones: quarrying, trade and provenance. Acta
+Archaeologica Lovaniensis Monograph 4: 139–148.
+Yellin, J., Garfinkel, Y. 1986. The source of archaeological
+obsidian from a Pre-Pottery Neolithic B site at Yiftah’el,
+Israel. Paléorient 13: 99–104.
+Yellin, J., Gopher, A. 1992. The origin of the obsidian artifacts from Mujahiya—a PPNB site in the Golan heights.
+Tel Aviv 19: 94–99.
+Yellin, J., Gunneweg, J. 1985. Provenience of Iron Age pottery from Tel Qasile. In: Mazar, A., ed. Excavations at
+Tel Qasile, Part II. Institute of Archaeology, Jerusalem.
+Qedem 20: 111–117.
+Yellin, J., Gunneweg, J. 1989a. The flowerpots from Herod’s
+winter garden at Jericho. Israel Exploration Journal 39:
+85–90.
+Yellin, J., Gunneweg, J. 1989b. Instrumental neutron activation analysis and the origin of Iron Age I collared-rim
+jars and pithoi from Tel Dan. In: Gitin, S., Dever, W.,
+eds. Recent excavations in Israel: studies in Iron Age archaeology. Annual of the American Schools of Oriental
+Research 49: 133–141.
+Yellin, J., Maeir, A.M. 1992. The origin of the pictorial krater
+from the ‘Mycenaean’ tomb at Tel Dan. Archaeometry
+34: 31–36.
+Yellin, J., Perlman, I. 1978. Provenience of Iron Age pottery from Tel Mevorakh. In: Stern, E., ed. Excavations at
+Tel Mevorakh, (1973–1976) part I: From the Iron age to
+the Roman period. Institute of Archaeology, Jerusalem.
+Qedem 9: 86–94.
+Yellin, J., Perlman, I. 1984. Laboratory analysis of selected
+pottery from Tell Artal. Bulletin of the American Schools
+of Oriental Research 253: 58–60.
+Yellin, J., Dothan, T., Gould. B. 1986. The provenience of
+beerbottles from Deir el-Balah: A study by neutron activation analysis. Israel Exploration Journal 36: 68–73.
+Yellin, J., Dothan, T., Gould. B. 1990. The origin of Late
+Bronze white burnished slip wares from Deir el-Balah.
+Israel Exploration Journal 40: 257–261.
+Yellin, J., Levy, T.E., Rowan, Y. 1996. New evidence on Prehistoric trade routes: the obsidian evidence from Gilat.
+Journal of Field Archaeology 23: 361–368.
+Yellin, J., Broshi, M., Eshel, H. 2001. Pottery from Qumran
+and Ein Ghuweir: the first chemical exploration of pro-
+venience. Bulletin of the American Schools of Oriental
+Research 321: 65–78.
+Zorn, J., Yellin, J., Hayes, J. 1994. The m(w)sh stamp impressions and the Neo-Babylonian period. Israel Exploration Journal 44: 161–183.

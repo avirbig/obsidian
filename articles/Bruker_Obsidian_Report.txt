@@ -1,0 +1,793 @@
+Evaluation of Bruker’s Tracer Family Factory
+Obsidian Calibration
+for
+Handheld Portable XRF Studies of Obsidian
+Robert J. Speakman
+Center for Applied Isotope Studies
+The University of Georgia
+120 Riverbend Road
+Athens, GA 30602-2704
+Email: archsci@uga.edu
+Web: www.cais.uga.edu
+August 20121
+I NTRODUCTION
+At the request of Bruker AXS, the
+University of Georgia’s Center for Applied
+Isotope Studies undertook a study to evaluate
+Bruker’s factory-installed obsidian calibration
+for quantitative analyses of archaeological
+obsidian by portable/handheld X-ray
+fluorescence spectrometry (PXRF). Of specific
+interest here are issues related to accuracy,
+precision, and reproducibility of data
+generated using Bruker’s Tracer Family PXRF
+instruments.
+Over the past decade, PXRF increasingly
+has been used by scientists, archaeologists, and museum researchers for analysis of
+widely varied material culture. Among these various material classes, metals, ceramics,
+silicate rocks, and soils have generated the most interest for archaeologists who
+routinely incorporate chemical-based studies of material culture (e.g., obsidian, pottery,
+and chert) to investigate prehistoric social interaction, trade and exchange networks,
+migration, and the dynamic nature of group identification. Obsidian—a naturally
+occurring volcanic glass widely used to produce stone tools by prehistoric people—is a
+material that is ideal for such research because artifacts made from obsidian usually can
+be linked to their geologic source with a high degree of reliability using analytical
+techniques, such as XRF.
+Since publication of a study by Craig et al. (2007) first demonstrating the
+feasibility of using portable XRF instrumentation for chemical sourcing of obsidian, the
+application of this technology to obsidian (and other materials) has grown
+exponentially. The expansion of PXRF into the archaeological ‘tool kit’, however, has not
+been without problems. First and foremost has been the fact that all PXRF instruments
+sold, until recently (Bruker being the exception here), lacked a matrix-specific factoryinstalled obsidian calibration, or in the case of two manufacturers, the ability for the
+Figure 1. Bruker Tracer Handheld PXRF2
+user to readily develop their own. Consequently, many of
+the obsidian PXRF studies that have been published to
+date, lack accuracy. Although conclusions regarding
+geological source attribution of obsidian artifacts in these
+various studies, may be correct or “internally consistent”,
+this approach amounts to little more than a “trust me”
+type situation and is not the way that science should be
+conducted in archaeology or elsewhere. A second
+fundamental problem has been that PXRF users are not
+measuring and reporting data for international reference
+standards. Consequently, it is virtually impossible to
+assess data in terms of precision, accuracy, and
+reproducibility—the foundation for valid and reliable science.
+Bruker’s obsidian calibration is based on a customized set of forty slab-cut
+obsidian source samples commissioned from the Archaeometry Laboratory at the
+University of Missouri Research Reactor (MURR). The set was created specifically to
+overcome one of the major
+perceived issues concerning
+portable-XRF analyses of
+obsidian—a lack of matrix-specific
+standards for calibrating
+instruments1. MURR scientists
+selected samples that would
+provide a broad range of element
+concentrations from high-to-low,
+especially for the elements useful
+in obsidian sourcing by XRF—
+1 1 There is some debate among scholars concerning the validity of using pressed international rock standards for
+empirical calibration of XRF units used primarily for quantitative analyses of solids. The reader is referred to
+Shackley (2012) for additional details.
+Figure 2. Example of a
+prehistoric obsidian tool.
+Figure 3. Photograph of the 40 obsidian calibration samples.
+Each ziplock bag is 5 x 8.5 cm.3
+primarily Fe, Mn, Zn, Rb, Sr, Y, Zr, and Nb. Most of these elements are particularly
+useful discriminating elements for obsidian source studies because, as large ions, they
+are incompatible with crystallizing solids; as magmas evolve the concentrations of
+incompatible elements will be
+different for each source.
+The 40-sample calibration
+set, evaluated herein, was
+analyzed by INAA, LA-ICP-MS,
+and ICP-MS of solutions at
+MURR. From those analyses,
+recommended values were
+determined for most elements on
+the Periodic Table. A complete
+report detailing the reference
+samples, analytical protocols,
+and results is available from
+Bruker (Glascock and Ferguson
+2012).
+METHODS
+Analyses were conducted using a Bruker Tracer III
+SD handheld XRF spectrometer equipped with a
+rhodium target X-ray tube and a silicon drift detector
+with a resolution of ca. 145 eV FWHM for 5.9 keV Xrays (at 200,000 counts per second) in an area 10 mm2.
+The spot size on this specific instrument is less than 10
+mm diameter.
+All samples were measured at 40kV, 25 μA, with a 12
+mil Al, 1 mil Ti, 6 mil Cu filter placed in the X-ray path for a
+200-second live-time count. Peak intensities for the Kα
+Figure 5. X-ray beam spot size and
+shape for the instrument used in this
+study. Image was obtained using
+Polaroid instant film.
+Figure 4. Bivariate plot of Y and Sr concentrations determined for
+obsidian artifacts from Alaska using a Bruker Tracer Handheld
+PXRF. Different clusters of data represent distinct compositional
+groups indicative of specific geological sources of obsidian.4
+peaks of Mn, Fe, Zn, Ga, Rb, Sr, Y, Zr, Nb, and Lα peak of Th were calculated as ratios to
+the Compton peak of rhodium, and converted to parts-per-million (ppm) using Bruker’s
+factory-installed calibration for obsidian.
+R ESULTS
+Instrument stability
+As a first step in assessing the Bruker’s obsidian calibration and the Tracer’s
+stability, the instrument was set up to analyze XRF standard 08 continuously for 17
+hours with spectra being saved every 200 seconds. This resulted in data for 307 analyses
+(Appendix B) that are summarized in in Table 1, below. Individual data points for these
+analyses are plotted in Figure 7 (Zn, Ga, Th, Rb, Sr, Y, Zr, Nb) and Figure 8 (Mn and Fe).
+Data for these 307 analyses exhibit relatively low variation (%RSD). For Fe, Rb,
+Y, Zr, and Nb, the %RSD is 2% or lower which is comparable to data generated on most
+laboratory-based EDXRF instruments. Mn, Zn, and Ga exhibit %RSD values of ca. 3-6%
+which is typical for these elements. Sr has the highest error, as would be expected given
+its low concentration in this particular sample (which also approaches the limits of
+EDXRF detection for Sr in silicate matrices). In other words, the high %RSD for Sr in
+this sample is entirely due to counting statistics, and in no way a reflection of the
+instrument itself. A Horwitz Curve (Horwitz et al. 1980) (Figure 6) for the 40 obsidian
+calibration standards discussed above illustrates this point. Horwitz Curves are
+commonly used to evaluate upper and lower ends of calibration curves. In this plot, Sr
+concentrations (x-axis; based on the average value of measurements) are plotted against
+%RSD (y-axis). A power trendline is fit against all data points. In this plot, however, the
+x-axis is constrained to samples with less than 100 ppm Sr to facilitate the evaluation of
+the low end of the curve. The plot shows that as concentration decreases (i.e., lower
+counting statistics), that %RSD increases; thereby illustrating the point that
+measurement error is correlated with concentration (counting statistics). The closer one
+gets to instrument detection limits, the greater the analytical error. At concentrations of
+about 7 ppm we observe less than 5 %RSD. At concentrations above 15 ppm the error
+decreases to about 2-3 %RSD. To reiterate, the high %RSD reported in Table 1 is not a5
+reflection of PXRF performance; similar results would be obtained with any properly
+calibrated EDXRF spectrometer regardless of manufacturer.
+Of particular import for Figures 7 and 8 is that the overall trend for each element
+is “flat” indicating that instrumental drift is not an issue. For researchers conducting
+analyses under field conditions, reanalysis of samples is oftentimes not possible, and
+data must therefore be of high quality. An instrument that drifts throughout the day will
+impart greater analytical error on the experiment and could result in needless
+reanalyses of samples. For obsidian, this could mean that distinctions among
+compositional groups could be obscured such that source identification is not possible.
+Finally, it is important to note in Figures 7 and 8 that the relative deviation between
+analyses is minimal and that no outliers are present (all analyses are presented in these
+figures).
+Table 1. 17-Hour Stability Test (307 consecutive analyses at 200 seconds each) for
+sample XRF08
+Mn Fe Zn Ga Th Rb Sr¹ Y Zr Nb
+Average 438.7 7446.2 134.1 27.0 41.7 364.4 1.1 83.9 163.7 237.5
+Stdev 23.7 72.6 4.6 1.7 1.5 3.4 0.5 1.6 1.7 2.4
+%RSD 5.4 1.0 3.4 6.2 3.5 0.9 41.1 2.0 1.0 1.0
+¹High %RSD (% relative standard deviation) a consequence of low Sr concentration in this sample which
+results in low counting statistics. In no way is this a reflection of instrument used for the analysis (all XRF
+instruments would exhibit similar errors at this concentration and matrix). For samples containing more
+than 15 ppm Sr, 2-3 %RSD is the norm.6
+Figure 6. Horwitz Curve for the 40 obsidian calibration standards discussed above. Sr concentration (x-axis) is
+based on the average value of five measurements. Curve is fit to all data points, but the plot is constrained to
+samples with less than 100 ppm Sr to facilitate the evaluation of the low end of the curve. This plot shows that
+as concentration decreases (i.e., lower counting statistics), that %RSD increases thereby illustrating the point
+that measurement error is correlated with concentration. The lower one gets to detection instrument limits, the
+greater the analytical error. Again, this is not a reflection of Bruker’s Tracer performance; similar results would
+be obtained with any properly calibrated EDXRF spectrometer.
+Assessment of the XRF standards
+A good calibration is critical to ensuring validity of results for XRF analyses.
+Without it, numbers generated are essentially useless—as is the case with some PXRF
+analyses. To assess the linearity of Bruker’s obsidian calibration curve. Bruker’s set of 40
+obsidian standards (XRF13 inadvertently was not analyzed) were analyzed 5 times each,
+converted to ppm using the factory installed calibration, and averaged. Individual
+element plots are shown in Figures 9-17. Data for three samples are not included in
+these plots—samples 17, 18, and 20. Sample 20 is basalt not obsidian, and Samples 17
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0.00 20.00 40.00 60.00 80.00 100.00
+%RSD
+Concentration (ppm)
+Horwitz Curve for Sr7
+and 18 returned unusual values for some elements2. It is therefore recommended that
+samples 17, 18, and 20 not be included in future calibrations.
+Plots of observed (averaged measured values, Appendix B) versus expected values
+(Glascock and Ferguson 2012) demonstrate the calibration is highly linear. Linearity is
+critical given that non-linear regions of a calibration will adversely affect the accuracy of
+samples falling within those regions.
+Coefficient of determination values (also known as R2 values) exceed 0.99 for all
+elements except Mn and Th which have known background-related issues from adjacent
+peaks (Fe and Rb respectively). Despites these issues, Mn performed extraordinarily
+well with R2 value of ca. 0.985 and Zn likewise had a R2 value of ca. 0.975.
+Assessment of validity via analysis of Geologic Standards
+Although the high R2 values discussed above demonstrates that Bruker’s obsidian
+calibration is linear and that the observed versus expected values are in agreement, it is
+not fair to assess accuracy using reference materials that are included in the calibration.
+All calibrations must be verified against independent quality control standards. As
+Shackley (2010) has stated previously, these standards must periodically be analyzed
+and publish the results to establish validity. The primary laboratory-based obsidian
+EDXRF laboratories run by Steve Shackley (Geoarchaeological XRF Lab), Craig Skinner
+(Northwest Research Obsidian Studies Laboratory, and Richard Hughes (Geochemical
+Research Laboratory) routinely publish values determined for the USGS RGM-1
+obsidian standard as a means for establishing validity.
+Tables 2 and 3 present data obtained from the analysis of pressed-powdered
+international obsidian standards (RGM-1 and NIST SRM-278) relative to their
+recommended values and published literature values. In all cases the Bruker data
+overlap with recommend values at 1 sigma thereby establishing the validity and
+reliability of the calibration.
+2 Mike Glascock (personal correspondence to Speakman) has noted similar issues with these samples when they
+are analyzed by PXRF. This may be due to naturally occurring chemical variation in the sample matrix.8
+Table 2. Replicate analyses of USGS RGM-1 and comparison to published values.
+Mn Fe Zn Th Rb Sr Y Zr Nb
+Bruker Tracer (n=5) 321±28 13075±69 40±2 16±1 157±3 104±1 26±1 223±3 10±1
+USGS Recommended 279±50 13010±210 32 15±1.3 150±8 110±10 25 220±20 8.9±0.6
+Shackley (2012) 302±14 13116±308 n.r. 16±3 151±3 106±3 25±2 219±5 9±2
+Skinner (1996) 291±47 13480±745 37±7 n.r. 152±3 107±9 24±3 217±8 11±1
+Hughes (2007) 278±10 13079±140 n.r. n.r. 143±4 105±3 23±3 214±4 8±3
+n.r.—not reported
+Table 3. Replicate analyses of NIST SRM-278 and comparison to published values.
+Mn Fe Zn Th Rb Sr Y Zr Nb
+Bruker Tracer (n=5) 432±27 14521±100 55±4 13±2 133±2 62±1 41±1 281±2 18±1
+NIST Recommended 403±2 14269±140 n.r. 12.4±.3 127.5±.3 63.5±.1 n.r. n.r. n.r.
+Glascock (2006) 397±23 14500±900 53±5 12.6±0.6 133±6 64±5 39±5 290±30 n.r.
+Shackley (2012) 383±7 14329±37 n.r. 15±5 130±2 67±1 40±2 276±2 15±2
+n.r.—not reported
+C ONCLUSIONS
+Assessment of instrument stability, accuracy, precision, and validity described
+above demonstrate that the calibration developed by Bruker is appropriate for elemental
+analyses of obsidian. As of June 2012, there are at least 60 publications in which PXRF
+has been used for chemical characterization of obsidian. Data for many of these
+publications are problematic in that they oftentimes lack adequate calibration and/or
+failed to establish reliability and validity. Bruker’s development of obsidian XRF
+standards in collaboration with MURR is a step in the right direction; this also makes
+Bruker the only PXRF instrument manufacturer that provides its customers with a highquality obsidian calibration that produces valid and reliable results. Ultimately though,
+it is the responsibility of the PXRF user to evaluate and modify any factory calibrations
+as appropriate (or generate their own) to ensure that data are valid and reliable. Factory
+calibrations, while useful and informative, should never be accepted by the researcher as
+the final “solution” without first evaluating performance against known reference
+materials.9
+R EFERENCES
+Craig, N., R. J. Speakman, R. S. Popelka-Filcoff, M. D. Glascock, J. D. Robertson, M. S.
+Shackley and M. S. Aldenderfer, 2007. Comparison of XRF and PXRF for analysis of
+archaeological obsidian from southern Peru. Journal of Archaeological Science 34:20122024.
+Glascock, M. D., and J. R. Ferguson, 2012. Report on the Analysis of Obsidian Source
+Samples by Multiple Analytical Methods. University of Missouri Research Reactor,
+Columbia.
+Horwitz, W., Kamps, L. R., and Boyer, K. W., 1980. Journal of the Association of Official
+Analytical Chemists 63:1344-1354.
+Hughes, R., 2007. The Geologic Sources of Obsidian Artifacts from Minnesota
+Archaeological Sites. The Minnesota Archaeologist 66:53-68.
+Shackley, M.S., 2012. ThermoFisher Scientific Quant’X Analysis and Instrumentation.
+http://www.swxrflab.net/anlysis.htm, accessed July 18, 2012.
+Shackley, M.S., 2010. Is there Reliability and Validity in Portable X-ray Fluorescence
+Spectrometry (PXRF)? The SAA Archaeological Record, Nov. 2010, pp. 17-18&20.
+Skinner, Craig E. and M. K. Davis, 1996. X-Ray Fluorescence Analysis of an Obsidian
+Biface from the Fort Hill Site, Highland County, Ohio. Report 1996-48 prepared for the
+Ohio Historical Society, Columbus, Ohio, by Northwest Research Obsidian Studies
+Laboratory, Corvallis, Oregon.10
+Figure 7. Results in ppm (y-axis) versus time (x-axis) for 307 consecutive 200-second counts of Bruker obsidian
+standard XRF08. Note that the overall trend for each element is “flat” indicating that instrumental drift is not an
+issue. Likewise note that the relative deviation between analyses is minimal and that no outliers are present.
+Refer to Table 1 for summary statistics for this analysis.
+0
+50
+100
+150
+200
+250
+300
+350
+400
+Concentration (ppm)
+Th
+Zn
+Ga
+Rb
+Y
+Zr
+Nb
+Sr
+Time (Hours)11
+Figure 8. Results in ppm (y-axis) versus time (x-axis) for 307 consecutive 200-second counts of Bruker obsidian
+standard XRF08. Note that the overall trend for each element is “flat” indicating that instrumental drift is not an
+issue. Likewise note that the relative deviation between analyses is minimal and that no outliers are present.
+Refer to Table 1 for summary statistics for this analysis.
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+Fe
+Mn
+Time (Hours)
+Concentration (ppm)12
+Figure 9. Measured (observed) versus expected concentrations for Mn in Bruker’s obsidian XRF standards.
+R² = 0.9858
+0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000
+0 500 1000 1500 2000
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Mn13
+Figure 10. Measured (observed) versus expected concentrations for Fe in Bruker’s obsidian XRF standards.
+R² = 0.9984
+0
+5000
+10000
+15000
+20000
+25000
+30000
+35000
+40000
+45000
+50000
+0 10000 20000 30000 40000 50000
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Fe14
+Figure 11. Measured (observed) versus expected concentrations for Zn in Bruker’s obsidian XRF standards.
+R² = 0.9921
+0
+50
+100
+150
+200
+250
+300
+0 50 100 150 200 250 300
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Zn15
+Figure 12. Measured (observed) versus expected concentrations for Th in Bruker’s obsidian XRF standards.
+R² = 0.9745
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+0 10 20 30 40 50
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Th16
+Figure 13. Measured (observed) versus expected concentrations for Rb in Bruker’s obsidian XRF standards.
+R² = 0.9985
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0 100 200 300 400
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Rb17
+Figure 14. Measured (observed) versus expected concentrations for Sr in Bruker’s obsidian XRF standards.
+R² = 0.9996
+0.0
+50.0
+100.0
+150.0
+200.0
+250.0
+300.0
+0 50 100 150 200 250 300
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Sr18
+Figure 15. Measured (observed) versus expected concentrations for Y in Bruker’s obsidian XRF standards.
+R² = 0.996
+0
+50
+100
+150
+200
+250
+0 50 100 150 200 250
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Y19
+Figure 16. Measured (observed) versus expected concentrations for Zr in Bruker’s obsidian XRF standards.
+R² = 0.9987
+0
+200
+400
+600
+800
+1000
+1200
+0 200 400 600 800 1000 1200
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Zr20
+Figure 17. Measured (observed) versus expected concentrations for Nb in Bruker’s obsidian XRF standards.
+R² = 0.9982
+0
+50
+100
+150
+200
+250
+300
+0 50 100 150 200 250 300
+Expected Concentraion (ppm)
+Measured Concentration (ppm)
+Nb21
+Appendix A. XRF data (in parts per million) generated for the 40 obsidian reference samples
+(measured values). Data are the average of five 200-second analyses.
+ID Mn Fe Zn Ga Th Rb Sr Y Zr Nb
+XRF01 670 3931 60 19 12 176 13 41 62 34
+XRF02 476 4323 30 18 6 90 59 13 72 10
+XRF03 323 6200 37 18 7 96 63 25 104 8
+XRF04 1646 27221 152 19 6 59 1 67 342 18
+XRF05 572 8912 50 18 1 38 173 28 131 4
+XRF06 347 11905 252 30 24 273 1 205 284 285
+XRF07 344 7676 51 18 18 179 5 28 127 21
+XRF08 424 7451 134 28 42 361 1 84 162 236
+XRF09 281 7387 31 18 9 110 81 22 126 9
+XRF10 310 9136 40 18 15 145 108 17 185 13
+XRF11 473 4603 36 18 7 99 44 24 76 11
+XRF12 297 10076 38 18 15 137 68 28 195 10
+XRF13 Not Measured
+XRF14 504 10628 70 18 7 81 138 18 103 9
+XRF15 479 17426 131 19 9 103 2 81 587 44
+XRF16 568 19061 136 20 16 157 1 71 728 59
+XRF17 1932 50362 611 53 82 454 7 420 3236 632
+XRF18 1107 22749 145 24 36 208 46 89 1021 265
+XRF19 391 6642 56 18 27 223 11 41 110 26
+XRF20 645 52685 107 18 1 14 257 18 79 4
+XRF21 610 9873 62 18 18 151 169 38 251 36
+XRF22 503 23421 217 26 41 338 2 115 1040 114
+XRF23 630 24596 192 24 27 202 2 98 1043 89
+XRF24 321 19689 244 29 33 225 2 175 1142 61
+XRF25 1194 41641 273 25 25 179 9 126 1084 120
+XRF26 463 11394 60 18 7 104 21 52 281 20
+XRF27 399 5302 31 18 9 108 59 19 98 11
+XRF28 403 7196 62 18 17 150 3 42 162 50
+XRF29 338 7840 65 19 7 90 32 51 127 12
+XRF30 1115 16061 210 25 20 194 3 110 896 86
+XRF31 408 3925 32 18 16 144 3 22 74 41
+XRF32 294 12131 108 19 15 146 1 53 425 33
+XRF33 231 10277 40 18 32 278 34 48 208 18
+XRF34 349 8481 55 19 17 161 4 48 200 40
+XRF35 507 8609 65 19 15 114 281 20 117 18
+XRF36 500 9388 74 18 23 194 15 52 258 32
+XRF37 357 5459 32 18 15 129 20 24 102 14
+XRF38 621 6481 41 18 5 75 136 22 71 11
+XRF39 324 7265 33 18 6 77 99 16 95 8
+XRF40 825 6131 67 19 14 214 270 16 126 2222
+Appendix B. XRF data (in parts per million) generated for the 17-hour stability test. Refer to
+Figures 6-7 and Table 1 of report.
+ID Mn Fe Zn Ga Th Rb Sr Y Zr Nb Time
+8-001 431 7421 136 28 41 363 1 84 162 239 0.1
+8-002 410 7404 136 30 45 362 0 86 162 232 0.1
+8-003 418 7555 139 32 41 360 1 86 162 234 0.2
+8-004 442 7465 130 27 43 363 1 82 164 238 0.2
+8-005 419 7408 131 26 40 359 1 84 162 238 0.3
+8-006 425 7410 133 28 42 363 1 85 164 237 0.3
+8-007 448 7404 125 24 41 366 1 81 163 234 0.4
+8-008 423 7459 137 28 43 365 1 84 161 235 0.4
+8-009 428 7378 132 26 40 364 1 80 165 238 0.5
+8-010 451 7601 130 26 40 362 1 83 165 238 0.6
+8-011 439 7368 132 24 41 360 0 81 163 235 0.6
+8-012 409 7408 138 27 39 362 1 87 163 234 0.7
+8-013 458 7433 120 24 43 359 1 84 161 234 0.7
+8-014 438 7498 128 27 41 363 2 83 164 236 0.8
+8-015 448 7423 137 26 41 364 1 84 164 236 0.8
+8-016 428 7522 132 29 39 364 1 85 162 235 0.9
+8-017 421 7451 130 27 42 360 3 85 161 234 0.9
+8-018 474 7425 135 29 43 367 1 85 165 240 1.0
+8-019 430 7398 133 26 42 367 2 84 163 234 1.1
+8-020 452 7445 135 23 42 362 1 81 160 238 1.1
+8-021 473 7438 128 28 44 367 2 86 164 237 1.2
+8-022 444 7535 135 32 40 367 1 85 166 240 1.2
+8-023 435 7417 133 27 41 368 2 83 163 236 1.3
+8-024 418 7489 136 28 42 363 1 85 166 241 1.3
+8-025 414 7306 130 26 41 362 1 84 165 233 1.4
+8-026 462 7317 138 26 41 364 0 83 163 233 1.4
+8-027 434 7426 148 26 39 366 1 84 164 238 1.5
+8-028 418 7457 130 25 43 362 0 83 165 238 1.6
+8-029 441 7489 138 29 41 363 1 85 162 236 1.6
+8-030 467 7429 128 26 41 361 2 84 162 235 1.7
+8-031 481 7385 128 28 42 366 1 82 162 238 1.7
+8-032 466 7465 135 23 41 365 1 85 162 241 1.8
+8-033 441 7520 134 25 42 367 2 84 162 237 1.8
+8-034 433 7488 136 27 41 363 1 84 164 238 1.9
+8-035 448 7416 139 28 41 362 1 84 162 233 1.9
+8-036 468 7476 131 29 40 364 1 85 163 236 2.0
+8-037 485 7613 136 27 42 371 1 83 165 242 2.1
+8-038 398 7327 130 28 40 364 0 79 162 238 2.1
+8-039 444 7522 130 27 44 361 1 85 166 240 2.2
+8-040 418 7552 137 31 40 365 1 83 166 240 2.223
+8-041 409 7389 131 27 40 360 1 84 164 239 2.3
+8-042 418 7353 137 29 42 360 1 83 162 240 2.3
+8-043 431 7565 139 26 43 360 1 86 163 238 2.4
+8-044 426 7437 126 29 41 369 1 81 166 237 2.4
+8-045 455 7404 130 27 40 358 1 83 161 234 2.5
+8-046 379 7378 124 24 41 363 1 82 164 234 2.6
+8-047 438 7598 140 30 43 366 1 86 165 240 2.6
+8-048 400 7401 132 26 42 365 1 82 168 238 2.7
+8-049 421 7407 135 28 42 363 1 85 163 236 2.7
+8-050 438 7493 137 30 41 366 1 83 163 240 2.8
+8-051 421 7478 131 25 42 365 1 81 164 238 2.8
+8-052 476 7379 141 26 43 362 1 84 163 237 2.9
+8-053 417 7415 138 27 41 366 1 84 164 240 2.9
+8-054 469 7368 143 26 44 368 0 83 165 238 3.0
+8-055 398 7448 139 26 41 366 1 82 165 238 3.1
+8-056 413 7484 135 28 42 360 2 83 162 234 3.1
+8-057 427 7499 134 27 40 369 1 87 165 237 3.2
+8-058 462 7488 127 27 40 362 0 85 163 238 3.2
+8-059 444 7316 136 27 42 364 2 81 165 236 3.3
+8-060 434 7503 138 26 43 371 1 85 167 244 3.3
+8-061 424 7538 138 24 43 360 2 86 166 240 3.4
+8-062 436 7459 137 27 41 366 1 88 168 240 3.4
+8-063 403 7368 132 26 38 364 1 83 161 234 3.5
+8-064 461 7450 133 24 41 364 1 84 161 233 3.6
+8-065 417 7490 129 27 43 367 1 84 163 242 3.6
+8-066 372 7494 137 25 43 361 1 84 164 237 3.7
+8-067 406 7343 131 30 41 366 2 81 164 237 3.7
+8-068 433 7679 139 26 46 372 1 84 164 240 3.8
+8-069 453 7615 142 26 43 369 1 86 165 237 3.8
+8-070 442 7570 130 26 42 364 1 83 168 241 3.9
+8-071 425 7423 134 29 43 369 2 83 166 238 3.9
+8-072 462 7387 130 27 42 370 1 82 164 240 4.0
+8-073 444 7457 131 26 39 358 1 81 164 239 4.1
+8-074 458 7504 133 26 42 367 1 81 163 236 4.1
+8-075 447 7382 128 27 40 366 1 82 165 238 4.2
+8-076 394 7509 134 27 40 361 2 82 162 235 4.2
+8-077 421 7524 140 29 42 366 1 85 165 234 4.3
+8-078 446 7631 140 31 42 369 2 85 167 246 4.3
+8-079 437 7374 125 28 44 364 1 82 163 236 4.4
+8-080 400 7346 131 26 42 364 2 85 164 232 4.4
+8-081 433 7436 136 27 42 368 0 83 166 236 4.5
+8-082 447 7418 135 27 43 364 1 81 164 239 4.6
+8-083 464 7512 135 29 42 365 2 85 166 237 4.624
+8-084 440 7428 134 26 40 359 2 82 166 235 4.7
+8-085 494 7392 130 30 41 366 1 86 165 238 4.7
+8-086 422 7458 124 26 42 368 2 82 165 239 4.8
+8-087 475 7409 132 28 43 362 1 83 162 235 4.8
+8-088 430 7515 140 25 43 366 2 84 164 238 4.9
+8-089 451 7489 133 26 43 372 1 84 163 235 4.9
+8-090 471 7237 137 25 41 368 1 86 162 238 5.0
+8-091 437 7468 138 28 40 364 1 87 162 241 5.1
+8-092 437 7309 130 26 42 361 0 83 161 235 5.1
+8-093 416 7432 138 28 42 367 2 80 166 233 5.2
+8-094 504 7407 129 29 41 364 1 84 163 237 5.2
+8-095 426 7369 132 26 43 363 2 83 165 238 5.3
+8-096 432 7460 132 27 41 363 1 85 163 234 5.3
+8-097 450 7476 136 28 41 367 1 83 165 240 5.4
+8-098 433 7383 145 25 42 357 2 85 164 237 5.4
+8-099 456 7528 133 26 41 360 1 83 164 237 5.5
+8-100 449 7438 136 27 42 359 1 84 164 236 5.6
+8-101 407 7530 137 26 40 365 1 85 164 235 5.6
+8-102 408 7474 140 28 42 369 1 83 165 239 5.7
+8-103 431 7427 131 25 44 362 1 82 165 235 5.7
+8-104 457 7495 135 27 39 368 1 83 166 240 5.8
+8-105 405 7449 135 25 39 370 1 84 166 237 5.8
+8-106 415 7386 137 27 41 368 1 83 166 237 5.9
+8-107 463 7446 135 30 44 370 1 86 165 241 5.9
+8-108 417 7484 137 28 40 367 1 81 165 237 6.0
+8-109 425 7449 133 26 44 366 1 85 165 239 6.1
+8-110 422 7417 138 28 40 364 2 85 161 237 6.1
+8-111 409 7400 121 29 41 366 1 85 164 238 6.2
+8-112 413 7352 130 26 40 362 1 86 163 234 6.2
+8-113 507 7521 129 28 42 364 1 82 164 238 6.3
+8-114 462 7557 136 25 42 364 2 88 165 237 6.3
+8-115 445 7342 133 25 41 369 1 83 164 237 6.4
+8-116 417 7514 131 30 44 357 1 85 165 237 6.4
+8-117 466 7545 142 26 43 365 1 83 163 241 6.5
+8-118 435 7501 135 27 43 360 1 85 162 240 6.6
+8-119 422 7418 127 27 38 365 2 82 163 237 6.6
+8-120 438 7473 131 27 43 365 1 83 164 241 6.7
+8-121 419 7429 136 28 42 361 1 85 165 239 6.7
+8-122 413 7426 141 27 40 363 2 85 164 244 6.8
+8-123 433 7454 121 29 43 365 1 87 163 239 6.8
+8-124 481 7348 132 31 42 368 2 83 166 237 6.9
+8-125 448 7382 128 27 40 361 1 81 162 236 6.9
+8-126 433 7324 136 24 43 364 2 79 165 236 7.025
+8-127 449 7498 131 25 44 367 1 82 165 237 7.1
+8-128 472 7534 145 24 41 362 2 88 165 235 7.1
+8-129 454 7323 137 29 43 361 2 84 160 239 7.2
+8-130 420 7448 135 25 41 370 1 81 164 233 7.2
+8-131 398 7574 131 26 41 364 2 86 164 240 7.3
+8-132 432 7421 127 24 41 358 1 86 163 235 7.3
+8-133 448 7389 132 31 41 360 1 83 164 238 7.4
+8-134 461 7408 129 25 43 366 1 84 162 237 7.4
+8-135 444 7458 138 28 42 369 2 84 164 242 7.5
+8-136 442 7313 140 26 45 360 1 85 162 233 7.6
+8-137 435 7407 133 26 41 369 1 85 161 237 7.6
+8-138 443 7474 136 28 45 368 1 84 161 236 7.7
+8-139 426 7437 128 31 41 364 1 84 163 237 7.7
+8-140 464 7475 135 26 41 362 1 85 163 239 7.8
+8-141 462 7563 133 27 43 364 2 85 162 235 7.8
+8-142 402 7472 133 28 40 366 1 85 165 237 7.9
+8-143 435 7507 132 27 41 364 2 85 164 235 7.9
+8-144 439 7495 130 26 40 363 0 86 166 240 8.0
+8-145 439 7514 135 30 43 363 2 85 163 238 8.1
+8-146 452 7529 134 27 42 365 0 84 163 238 8.1
+8-147 453 7238 133 28 42 362 1 83 164 237 8.2
+8-148 444 7522 138 28 41 368 1 82 164 239 8.2
+8-149 428 7412 137 30 42 361 2 86 164 235 8.3
+8-150 448 7408 138 29 40 362 1 86 163 237 8.3
+8-151 431 7453 139 27 39 368 1 83 162 234 8.4
+8-152 378 7400 133 26 42 362 2 85 166 237 8.4
+8-153 451 7476 135 28 41 365 2 86 164 232 8.5
+8-154 467 7418 144 25 42 369 2 85 163 236 8.6
+8-155 401 7344 139 31 43 361 1 83 164 237 8.6
+8-156 424 7338 131 26 42 364 0 84 166 239 8.7
+8-157 436 7506 132 27 42 364 1 84 162 238 8.7
+8-158 418 7429 141 27 44 361 1 84 164 237 8.8
+8-159 447 7530 139 27 43 364 0 85 159 237 8.8
+8-160 422 7417 140 26 41 363 2 85 163 240 8.9
+8-161 459 7369 132 29 44 367 1 83 162 236 8.9
+8-162 463 7412 130 26 43 364 2 84 164 238 9.0
+8-163 424 7510 137 28 42 361 1 82 163 239 9.1
+8-164 476 7410 131 25 42 364 1 85 165 235 9.1
+8-165 417 7479 135 28 41 368 1 84 165 239 9.2
+8-166 420 7424 136 24 40 365 0 83 167 234 9.2
+8-167 464 7582 141 26 41 378 2 87 168 242 9.3
+8-168 488 7345 130 26 41 363 2 86 167 238 9.3
+8-169 470 7336 131 26 42 366 1 86 166 241 9.426
+8-170 394 7404 133 28 42 366 1 83 162 240 9.4
+8-171 442 7414 129 27 40 366 1 85 164 236 9.5
+8-172 442 7310 133 26 43 365 2 84 164 241 9.6
+8-173 447 7481 135 28 41 367 1 85 164 240 9.6
+8-174 435 7413 133 27 42 363 1 85 162 241 9.7
+8-175 448 7467 137 27 43 366 2 83 164 244 9.7
+8-176 483 7396 139 26 43 367 2 86 163 241 9.8
+8-177 407 7558 133 29 41 370 2 88 164 236 9.8
+8-178 441 7562 142 30 41 367 2 83 164 238 9.9
+8-179 446 7471 132 25 40 368 1 85 164 237 9.9
+8-180 459 7454 138 25 40 366 1 81 162 235 10.0
+8-181 446 7483 137 28 43 371 1 83 162 238 10.1
+8-182 453 7397 128 28 42 364 1 83 164 237 10.1
+8-183 460 7533 135 26 44 369 1 83 164 238 10.2
+8-184 462 7410 133 28 43 368 1 84 163 237 10.2
+8-185 402 7445 138 25 44 364 1 83 165 239 10.3
+8-186 447 7404 137 26 40 364 0 83 163 241 10.3
+8-187 431 7442 144 28 42 364 1 85 163 235 10.4
+8-188 422 7463 136 26 41 359 1 85 165 236 10.4
+8-189 454 7481 142 27 39 362 0 82 163 243 10.5
+8-190 425 7454 129 27 40 362 2 80 162 237 10.6
+8-191 435 7499 138 28 44 368 2 83 166 242 10.6
+8-192 467 7361 132 26 41 366 1 88 163 236 10.7
+8-193 487 7553 128 28 44 366 1 85 166 238 10.7
+8-194 459 7404 137 27 44 371 1 83 165 239 10.8
+8-195 475 7415 131 29 42 363 1 85 164 241 10.8
+8-196 483 7431 134 29 42 363 0 86 163 238 10.9
+8-197 460 7436 132 25 44 363 1 83 163 237 10.9
+8-198 392 7393 142 27 44 365 0 83 166 240 11.0
+8-199 416 7372 135 27 42 363 0 83 163 236 11.1
+8-200 467 7384 135 29 41 366 1 83 163 237 11.1
+8-201 452 7506 125 26 44 362 0 85 160 234 11.2
+8-202 437 7377 134 30 43 360 1 82 165 236 11.2
+8-203 475 7559 135 28 42 361 1 86 164 238 11.3
+8-204 472 7421 138 25 39 362 1 83 162 234 11.3
+8-205 459 7399 137 27 42 360 1 85 161 238 11.4
+8-206 426 7405 132 27 43 362 1 85 162 235 11.4
+8-207 422 7586 132 29 42 373 0 84 165 237 11.5
+8-208 442 7501 134 26 44 361 1 83 162 238 11.6
+8-209 433 7396 134 29 40 365 1 81 161 234 11.6
+8-210 434 7441 132 26 42 364 1 82 162 233 11.7
+8-211 437 7356 131 27 39 359 1 85 162 235 11.7
+8-212 454 7449 137 27 42 362 2 84 164 240 11.827
+8-213 460 7528 146 25 42 367 1 88 166 241 11.8
+8-214 481 7524 139 26 42 361 1 87 162 236 11.9
+8-215 441 7465 130 27 41 361 1 87 164 239 11.9
+8-216 437 7522 131 28 41 368 1 86 163 236 12.0
+8-217 436 7313 133 25 44 366 2 82 164 237 12.1
+8-218 437 7382 128 27 40 366 2 84 161 237 12.1
+8-219 417 7402 131 24 42 363 1 85 162 235 12.2
+8-220 435 7419 135 26 42 362 2 85 162 237 12.2
+8-221 424 7442 141 25 40 368 1 81 162 235 12.3
+8-222 427 7435 140 28 41 367 1 83 166 244 12.3
+8-223 440 7516 129 25 44 369 2 84 165 234 12.4
+8-224 415 7319 131 26 40 365 1 82 163 238 12.4
+8-225 381 7381 136 27 44 362 1 81 165 233 12.5
+8-226 438 7398 137 27 41 363 1 84 168 240 12.6
+8-227 497 7399 145 29 41 363 2 83 165 238 12.6
+8-228 412 7342 134 26 41 362 1 83 163 239 12.7
+8-229 465 7486 137 26 40 365 0 81 164 236 12.7
+8-230 398 7535 133 26 41 367 1 82 166 236 12.8
+8-231 450 7396 135 26 42 362 2 83 162 235 12.8
+8-232 414 7409 139 26 42 366 0 82 165 238 12.9
+8-233 396 7511 132 27 42 365 1 85 167 237 12.9
+8-234 411 7365 129 25 39 365 0 82 165 237 13.0
+8-235 385 7426 139 26 39 362 2 85 163 236 13.1
+8-236 445 7413 136 25 39 369 1 80 165 236 13.1
+8-237 469 7463 138 27 41 366 1 83 166 238 13.2
+8-238 418 7400 138 29 46 363 1 84 167 238 13.2
+8-239 462 7473 137 27 42 368 1 84 166 235 13.3
+8-240 460 7605 135 24 42 368 1 85 166 242 13.3
+8-241 467 7379 129 25 42 357 1 84 162 237 13.4
+8-242 401 7407 138 26 43 365 1 84 165 234 13.4
+8-243 468 7602 139 26 46 367 1 87 164 237 13.5
+8-244 434 7298 125 28 40 363 1 82 160 232 13.6
+8-245 436 7401 127 24 42 366 1 84 163 240 13.6
+8-246 459 7448 138 26 42 364 2 82 164 240 13.7
+8-247 447 7497 132 29 42 361 2 83 163 237 13.7
+8-248 437 7432 133 27 40 361 1 83 163 239 13.8
+8-249 443 7584 138 27 44 371 2 83 165 241 13.8
+8-250 413 7353 134 28 42 367 1 83 162 235 13.9
+8-251 441 7453 136 26 41 371 1 86 161 240 13.9
+8-252 470 7553 131 28 41 371 1 83 163 239 14.0
+8-253 440 7529 124 30 43 366 2 83 166 241 14.1
+8-254 436 7391 137 30 41 362 1 84 166 236 14.1
+8-255 412 7477 131 26 44 362 1 84 164 236 14.228
+8-256 444 7508 130 27 42 365 1 83 165 241 14.2
+8-257 442 7432 129 25 40 363 1 84 164 237 14.3
+8-258 445 7333 133 30 41 365 1 85 164 235 14.3
+8-259 431 7566 132 29 39 373 1 84 164 239 14.4
+8-260 447 7356 138 26 41 361 1 83 163 235 14.4
+8-261 423 7560 134 28 40 364 2 85 166 238 14.5
+8-262 456 7343 130 26 40 363 1 84 167 237 14.6
+8-263 472 7417 136 29 42 363 1 86 162 240 14.6
+8-264 463 7437 134 29 41 364 1 84 166 238 14.7
+8-265 465 7485 139 27 43 365 1 84 161 239 14.7
+8-266 437 7457 131 28 42 365 1 85 165 236 14.8
+8-267 428 7425 130 26 42 367 1 85 166 239 14.8
+8-268 448 7548 131 28 41 360 2 82 163 237 14.9
+8-269 450 7405 135 27 42 359 1 81 162 235 14.9
+8-270 406 7369 139 27 42 369 2 82 161 239 15.0
+8-271 428 7354 132 27 42 368 1 82 162 236 15.1
+8-272 421 7303 128 32 41 357 1 83 163 235 15.1
+8-273 458 7393 140 27 41 360 2 86 164 237 15.2
+8-274 452 7470 139 26 45 362 1 84 164 236 15.2
+8-275 459 7564 139 26 42 366 1 86 164 242 15.3
+8-276 450 7432 143 31 40 364 1 83 161 239 15.3
+8-277 422 7489 129 29 41 365 1 84 165 238 15.4
+8-278 440 7481 130 24 44 356 1 85 162 235 15.4
+8-279 462 7497 140 26 38 364 1 84 163 239 15.5
+8-280 457 7356 140 28 42 362 1 83 161 237 15.6
+8-281 454 7433 134 30 41 367 2 83 165 242 15.6
+8-282 463 7461 138 30 44 364 1 83 163 234 15.7
+8-283 427 7348 135 26 41 364 0 85 165 242 15.7
+8-284 381 7432 135 25 41 361 1 85 166 236 15.8
+8-285 403 7434 130 25 42 361 1 86 164 236 15.8
+8-286 449 7516 128 27 42 364 1 81 167 238 15.9
+8-287 474 7606 137 29 41 368 1 86 166 242 15.9
+8-288 433 7452 124 28 41 362 2 84 162 238 16.0
+8-289 480 7467 136 26 41 371 1 85 169 239 16.1
+8-290 431 7430 133 32 40 371 2 85 165 240 16.1
+8-291 451 7386 134 27 44 362 2 85 165 241 16.2
+8-292 454 7554 132 25 43 369 1 84 163 240 16.2
+8-293 487 7550 131 26 43 369 1 85 165 237 16.3
+8-294 446 7475 127 28 41 359 1 81 160 236 16.3
+8-295 388 7382 132 25 41 366 1 81 163 236 16.4
+8-296 455 7497 128 26 40 364 2 84 165 239 16.4
+8-297 421 7453 128 29 46 367 1 84 163 236 16.5
+8-298 415 7549 146 29 44 358 1 83 163 239 16.629
+8-299 419 7370 136 25 41 363 1 83 165 237 16.6
+8-300 419 7434 129 26 41 360 1 84 162 235 16.7
+8-301 414 7402 137 27 43 365 1 84 161 234 16.7
+8-302 431 7478 134 27 43 362 1 84 164 238 16.8
+8-303 415 7450 127 28 41 365 2 83 164 234 16.8
+8-304 415 7385 135 27 44 362 2 85 162 235 16.9
+8-305 437 7437 136 25 44 364 2 86 163 238 16.9
+8-306 428 7601 143 29 41 364 1 89 163 240 17.0
+8-307 449 7478 140 30 39 357 2 87 164 235 17.1

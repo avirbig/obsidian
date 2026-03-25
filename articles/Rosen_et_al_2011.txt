@@ -1,0 +1,812 @@
+THE CAMEL SITE OBSIDIAN
+ANALYSES, SYNTHESIS,
+AND IMPLICATIONSSTEVEN A. ROSEN, ROBERT H. TYKOT, AND
+MICHAEL GOTTESMAN133
+T he use of obsidian as a raw material for
+chipped stone tools in the Near East has
+been known since the earliest analyses of Neolithic stone tool assemblages in the region (e.g.,
+Braidwood 1948:120). The special properties of
+the material—ease of knapping, especial sharpness of edges, and its point source origins—were
+implicitly recognized very early in the history of
+work in the region. In the Near East, the analytic
+potentials of the material were pioneered in the
+1960s with the development of methods for compositional characterization and hydration dating.
+Chemical characterization of obsidian provided
+precise definition of origins and allowed models
+of distribution and exchange to be developed
+(e.g., Renfrew et al. 1966). Hydration analysis,
+less utilized in the Near East, allowed for independent dating of artifacts (Ambrose 1976).
+The recovery of three small obsidian artifacts
+(Figure 9.1) from the Camel Site constitutes the
+first discovery of obsidian in Early Bronze Age
+contexts in the deserts of the Negev and Sinai.
+However, in light of the well-established presence
+of obsidian in the Negev during the Pre-Pottery
+Neolithic B (PPNB) (e.g., Cauvin 1991, 1994;
+Perlman and Yellin 1980), especially from the site
+of Nahal Lavan 109 (Burian and Friedman 1988;
+Burian et al. 1976), the issue of the specific origins
+of the three pieces needed to be addressed before
+conclusions concerning the significance of the
+discovery could be drawn. Hydration analysis of
+the artifacts supports an Early Bronze Age attribution. Only after establishing the Early Bronze
+Age affinities of the artifacts could the significance of the elemental analysis indicating a source
+in eastern Anatolia, in significant contrast to the
+exclusively central Anatolian source of Negev
+PPNB obsidian, be interpreted.
+BASIC DESCRIPTION OF THE
+OBSIDIAN ARTIFACTS
+Three small obsidian artifacts were recovered
+from the Camel Site. The obsidian itself is black
+with some gray banding. All three were recovered
+in the southeastern quadrant of the site—in fact,
+outside the actual architectural remains (Figure
+9.2). Interestingly, several unusual small flakes of
+black flint were also discovered in this area. Dimensions, provenience, and technical type are
+summarized in Table 9.1. Each piece shows a
+well-defined bulb of percussion and a narrow
+striking platform. None show characteristics associated with the more standardized knapping technologies of the third and fourth millennia B.C.E.,
+for example, the bladelet technologies of the
+Table 9.1. Summary of Basic Features of Obsidian ArtifactsProvenience Description Length (mm) Width (mm) Thickness
+(mm) Mass (g)
+M27d upper layer, small blade
+(USF sample 499)
+34 17 4.8 2.34
+M28c upper layer, small broken flake
+(USF sample 500)
+25 14 2.5 0.80
+J30c surface layer, small broken flake
+(USF sample 501
+17 19 4.0 0.65
+southern Levantine deserts (e.g., Gilead, 1984;
+Rosen 1997b:65–67). Although one piece (M27d)
+is technically a blade, it is clear that it is technologically an elongated flake. All three pieces show
+edge damage caused by trampling and sandblasting, and none show convincing evidence for intentional retouch. Two (M28c, J30c) show broken
+edges. Dorsal scarring, reflecting previous flake
+removals, is present on only one piece (M27d).
+One flake (m28c) has a hinge fracture.
+Beyond the specifics of the description of the
+artifacts, the presence of only three obsidian artifacts on the site and the total excavation of the site
+with 100 percent dry-sieving through 2–3 mm
+mesh indicate that the flakes were imported as
+flakes and not knapped on-site. That is, the absence of obsidian cores and other waste demonstrates that reduction took place elsewhere and
+that artifacts were imported onto the site as small
+flakes. A similar case can be made for the few
+pieces of black flint, also without evidence for onsite production.
+COMPOSITIONAL ANALYSIS
+(R. H. TYKOT)
+The three pieces of obsidian from the Camel Site
+were analyzed as University of Southern Florida
+samples 499 to 501. Obsidian from geological
+sources in Turkey is well known at Mesolithic and
+Neolithic sites in southern Anatolia and the Levant (Cann and Renfrew 1964; Cauvin 1991; Cauvin et al. 1986; Gratuze et al. 1993; Perlman and
+Yellin 1980; Renfrew et al. 1966, 1968; Wright
+1969) and has even been identified as far west as
+Sitagroi in northeastern Greece (Aspinall et al.
+1972). At the same time, obsidian from sources in
+eastern Turkey and Armenia was distributed to
+Mesopotamia and also the Levant (Blackman
+1984; Gratuze et al. 1993). While the central and
+eastern Anatolian sources were considered the
+most likely sources for the Camel Site samples,
+Aegean, Caucasian, and Red Sea sources were not
+excluded as possibilities (Williams-Thorpe 1995;
+Zarins 1990).Chemical AnalysisNeutron activation analysis has been the most
+widely used method for the characterization of
+archaeological materials, but it does not provide
+bulk compositional data, it is not inexpensive, and
+commonly it is destructive to artifacts. Furthermore, it has been demonstrated that nearly all the
+Mediterranean, European, and Near Eastern obsidian sources may be distinguished based on
+their major element chemistry (Francaviglia 1984;
+Keller and Seifried 1990; Tykot 1997, 2002). Xray analysis using the electron microprobe is an
+optimal analytical technique for obsidian sourcing, as only a tiny 1 mm sample is required for
+quantitative analysis and the instrumental cost is
+very low on a per-sample basis. A batch of 18
+samples can be prepared and analyzed in several
+hours. This technique has been used for obsidian
+sourcing in Europe (Bíró et al. 1986), the
+Mediterranean (Tykot 1996, 2002), Anatolia
+(Keller and Seifried 1990), and East Africa (Merrick and Brown 1984a, 1984b).
+Samples 1 mm in size were removed from
+the Camel Site artifacts, mounted in an epoxy
+disk 1 inch in diameter, and polished flat using
+successively finer grinding compounds. Nine elements were then quantitatively determined using
+an electron microprobe equipped with wavelength dispersive spectrometers. Standard mineral and rock reference materials were analyzed
+to ensure the accuracy of the analyses and their
+comparability with other laboratories and other
+techniques; as few as 100 ppm of some elements
+are detected, and precision is better than ± 5 percent for most elements—almost always better
+than the range in variation within a single obsidian source. Two spots 40 microns in diameter
+were analyzed on each sample to ensure against
+heterogeneity; the beam was positioned with an
+optical microscope to avoid analyzing microlite
+inclusions. The resulting data were then normalized to 99 percent to eliminate the effects of
+variable water content and to enable comparison
+with existing obsidian source databases produced
+using similar techniques (e.g., Bíró et al. 1986;
+Francaviglia 1984, 1990a, 1990b; Keller and
+Seifried 1990; Tykot 1996).ResultsAll three Camel Site obsidian artifacts are peralkaline (high alkalies and iron and low aluminum
+concentrations) (Table 9.2), immediately eliminating most of the Mediterranean and Near Eastern sources. For the remaining peralkaline
+Table 9.2. Electron Microprobe Analyses of Obsidian Artifacts from the Camel SiteUSF SiO2 Al2O3 TiO2 Fe2O3 MgO CaO Na2O K2O P2O5 MnO BaO Total
+499a 74.40 11.09 0.10 2.85 0.00 0.08 5.64 4.14 0.01 0.04 0.00 98.35
+74.89 11.16 0.10 2.87 0.00 0.08 5.68 4.17 0.01 0.04 0.00 99.00
+499b 74.61 11.08 0.10 2.82 0.00 0.09 5.74 4.07 0.00 0.03 0.05 98.60
+74.92 11.12 0.10 2.83 0.00 0.09 5.76 4.09 0.00 0.03 0.05 99.00
+Mean 74.90 11.14 0.10 2.85 0.00 0.08 5.72 4.13 0.01 0.04 0.02 99.00
+Std 0.02 0.03 0.00 0.02 0.00 0.00 0.06 0.06 0.01 0.00 0.04 0.00
+500a 74.88 10.61 0.13 3.36 0.00 0.13 5.56 4.45 0.00 0.04 0.00 99.16
+74.76 10.60 0.13 3.36 0.00 0.13 5.55 4.44 0.00 0.04 0.00 99.00
+500b 74.45 10.57 0.12 3.34 0.00 0.14 5.42 4.49 0.02 0.04 0.00 98.59
+74.77 10.61 0.12 3.35 0.00 0.14 5.45 4.51 0.02 0.04 0.00 99.00
+Mean 74.76 10.60 0.12 3.35 0.00 0.14 5.50 4.48 0.01 0.04 0.00 99.00
+Std 0.01 0.01 0.01 0.00 0.00 0.00 0.07 0.05 0.01 0.00 0.00 0.00
+501a 73.89 10.58 0.12 3.26 0.00 0.16 5.50 4.33 0.01 0.05 0.01 97.91
+74.71 10.70 0.12 3.29 0.00 0.16 5.56 4.38 0.01 0.05 0.01 99.00
+501b 73.94 10.42 0.13 3.25 0.00 0.14 5.58 4.38 0.01 0.05 0.00 97.90
+74.77 10.54 0.13 3.29 0.00 0.14 5.64 4.43 0.01 0.05 0.00 99.00
+Mean 74.74 10.62 0.12 3.29 0.00 0.15 5.60 4.40 0.01 0.05 0.00 99.00
+Std 0.04 0.11 0.00 0.00 0.00 0.02 0.06 0.03 0.00 0.00 0.00 0.00
+sources (Pantelleria, Bingôl, Nemrut Dag, and
+the Red Sea region), analytical data have been
+published by Gratuze (1998, 1999), Poidevan
+(1998), and Francaviglia (1990a). Although there
+are some differences in absolute concentrations of
+silicon and aluminum between the Camel Site artifacts, attributable to systematic differences in
+analytical methods, the Bingôl A source (including Cavuslar and Orta Duz) in the Lake Van region of eastern Anatolia is the best match.
+HYDRATION ANALYSIS
+(M. GOTTESMAN)
+Obsidian hydration dating converts a hydration
+layer to an absolute date utilizing an established
+rate for the inward diffusion of molecular water
+using the equation x = kt.5, where x is the hydration rind width in microns (μ), k is the hydration
+rate at a specific temperature/relative humidity,
+and t is time in thousands of years. Since 1960, obsidian hydration dating (OHD) has seen a number
+of developments that have increased our understanding of the hydration process (e.g., Friedman
+and Long 1976). These studies, mostly laboratory
+based, have addressed the two primary sets of hydration forces: compositional dependence (Friedman and Long 1976; Stevenson and McCurry
+1990) and environmental factors (Mazer et al.
+1994).
+The major tasks in OHD are to determine
+the rim width and the hydration rate for the specific artifact. The rinds are presently measured by
+optical microscopy on thin sections. Other methods, including acousto-optical and secondary ion
+mass spectrometry (SIMS) (e.g., Stevenson et al.
+2001) are being developed, and the measurement
+process is also being constantly improved with
+computer-assisted imaging. In practice, the accurate determination of the rind width is the greatest variable in OHD due primarily to variable
+weathering processes.Hydration MethodologyThe determination of hydration rates was based
+on high-temperature (160 °C) laboratory procedures and then calibrated to ambient site conditions using the Arrhenius equation (Friedman and
+Long 1976; Laidler 1984; Lee 1969; Mazer et al.
+1992; Stevenson and McCurry 1990): k = A (RH)exp E/RT, where k is the archaeological hydration
+rate, A is the exponent at 160 °C, RH is the relative humidity, E is the activation energy, R is the
+universal gas constant, and T is temperature. New
+obsidian glass flakes were subjected to various
+temperatures and reaction media over various
+time depths, and the hydration rate constants (A,E) were calculated (Ambrose 1976; Mazer et al.
+1992; Stevenson and McCurry 1990).
+Rind width measurement is as follows. A
+thin section slide is prepared for each sample.
+The rind thickness was measured by taking five
+independent measurements under a Jenaval
+model polarizing light microscope with a Leitz
+filar micrometer attachment at 625× power. The
+rind or depth of water diffusion is visible because the rind of obsidian with added external
+water ions refracts light at a different angle than
+the internal parent material. The diffused water
+lowers the density and changes the speed of light
+passing through the sample. The light wave is
+bent as it enters the glass and at exiting. This
+double refraction causes the phenomenon of birefringence. This might be caused by the straining of the glass that results from a slight expansion due to the entrance of molecular water,
+often referred to as strain birefringence (Ross
+and Smith 1955). All flake surfaces visible in
+cross section on the microscopic slide are carefully examined. Usually there are only two surfaces visible, such as the dorsal and ventral surfaces of a flake. In practice, however, more than
+two surfaces (reuse or retouch edge flake scars)
+are sometimes found. Only clearly visible intact
+hydration rinds with well-defined diffusion
+fronts are measured.
+A measurement consists of the average of five
+measurements made at one point on the hydration rind. Measurements are made for each distinct hydrated surface for which a clear hydration
+rind is visible. The resulting measurements from
+various surfaces are themselves averaged if they
+are within 0.4 microns. If the variability is greater
+than 0.4 microns, they are reported separately
+(often diagnostic of reuse). Normally, a reported
+measurement is either a single or the average of
+two hydrated layers.
+All reported measurements should be accurate to within ± 0.2 microns. Although this measurement error in theory could be used to calculate a confidence range for the date, other factors,
+such as environmental change over time, may
+cause variation in hydration rate and deviation
+between hydration years and calendar years.
+Calculation of dates based on the piece-specific rate method uses only the smallest verified
+rind from each sample, based on the assumption
+that the smallest measurement is more likely to
+date the last knapping episode.
+The effect of the chemical composition of obsidian on the hydration rate has been addressed
+theoretically (Ericson 1981) and by correlation of
+high-temperature hydration rates with glass
+chemical constituents (Friedman and Long
+1976). Recent work by Mazer et al. (1992) and
+Stevenson et al. (1998) has shown dependence between connate water (OH-) of the specific obsidian sample and the rate. Additional work (Stevenson et al. 1993) done on the Coso volcanic field in
+California showed that the range of natural or
+connate water varied enough, even within a given
+volcanic flow, that each artifact needed to be
+measured. The process of determining the water
+content via infrared spectroscopy for each sample
+to be dated would have put a serious damper on
+the utilization of OHD.
+Pioneering work by Ambrose (1979) and
+Stevenson et al. (1988, 1993, 1998, 2000) established relationships between the rate of hydration, the amount of intrinsic water (probably due
+to the depolymerizing effect of water ions on the
+silica matrix), and density. This work (especially
+Stevenson et al. 1993) also determined that the
+amount of water varies significantly from sample
+to sample in a single obsidian source, requiring
+artifact-specific measurements of this variable
+(density) for the purpose of rate estimation.
+The amount of intrinsic water is the currently
+identified major internal chemistry factor, and
+there is a quantifiable proxy relationship between
+relative density and intrinsic water. The density
+measurement utilizes the weight in air versus the
+weight in liquid of each sample of obsidian, taking advantage of the Archimedean principle. This
+gravimetric method was utilized here. Weights
+were taken on a scale valid to four decimal places
+(with a Mettler AG104 balance), using a heavy
+liquid to increase surface adhesion and reduce
+bubbles, thereby reducing errors.
+The algorithms that determine how to go
+from density to water content to effect on hydration rate are available in software from Stevenson.
+These algorithms include correction factors for
+calculating density for the special liquid’s temperature and for laboratory-to-laboratory calibration
+using a master quartz wedge.
+The rate or speed of hydration (a higher rate
+means a younger date for a given rim thickness) is
+affected by the quantity of water ions available in
+the surrounding atmosphere, referred to as relative humidity (RH). Friedman et al. (1994) review
+the algorithm defining the relationship between
+relative humidity and hydration rate.
+The other significant environmental factor
+affecting obsidian hydration is the rate of chemical reaction. This is defined by the Arrhenius
+equation (Laidler 1984), which requires measurements of the temperature at which the reaction is
+taking place. Because the temperature at any site
+changes constantly, a means that “averaged” the
+temperature, accounting for the greater effect of
+temperature rise versus temperature drop on the
+chemical reaction, was developed. This “average”
+is known as the effective hydration temperature
+(EHT). The superior method for measuring
+EHT and RH is via saturated salt cells buried for
+one year at various depths in a site. The weight
+change over a year is then used to calculate EHT
+and RH (e.g., Trembour et al. 1990).
+Another method for estimating EHT is to use
+air temperature data from weather stations using
+Lee’s equation (Lee 1969). However, air temperature is not equal to subsurface temperatures, and
+our experience indicates that air temperature data
+used in Lee’s equation results in EHTs understated by several degrees. This can have a significant effect on the calculation of dates. Therefore,
+some reports use an EHT calculated via Lee’s
+equation multiplied by a “correction” factor.
+A different type of salt cell may be used to
+measure RH, another critical variable. Usually,
+EHT and RH cells are buried in pairs at various
+depths in a site to provide a profile of environmental variability with depth. In the absence of
+cell data, RH may be more easily estimated than
+EHT, assuming that the RH approaches 95 to 99
+percent in most sites below 20 cm. The accuracy
+of any study of age determination is highly dependent upon this data, which is greatly enhanced
+if it is from the use of site-specific cells.
+The current thinking on obsidian hydration
+dating is best summarized by three major assumptions (Stevenson et al. 2000):
+1. Obsidian sources will have a range of hydration rates that are a function of the
+variation in intrinsic water content;
+2. There is no observable relationship between trace element concentrations and
+the intrinsic water content;
+3. Ambient temperature and relative humidity conditions significantly influence the
+rate of obsidian hydration.
+Thus a piece-specific hydration rate method,
+applied here, utilizes three analytical procedures:
+1. Measurement of the hydration rind thickness;
+2. Measurement or estimation of soil temperature and relative humidity;
+3. Calculation of rate constants determined
+from glass composition (the Ambrose/
+Stevenson relative density/intrinsic water
+method).The Samples from the Camel SiteThis approach to the estimation of hydration
+rates differs from earlier methods that were
+largely or entirely empirical, wherein hydration
+rim depths were “matched” to associated nonobsidian dating information to create a sourcespecific hydration rate. This method results in a
+hydration rate for each artifact. Given the need to
+test the archaeological associations, hydration
+rates could not be “matched” to the actual Camel
+Site date, ca. 3000 B.C.E., for obvious reasons of
+logic. However, to better control the relative dating of the artifacts, samples were also run from
+the known-age site of Nahal Lavan 109, an early
+Pre-Pottery Neolithic B site dating to the first
+half of the ninth millennium B.C.E. (calibrated),
+about whose associations there was no question
+(Burian and Friedman 1988; Burian et al. 1976).
+For this analysis, two or three slides were
+made for each sample. This was done due to the
+difficulty in finding a reading from an accurate
+rind. The sample size is small, and there is obvious
+“sandblasting” damage to most of the surfaces.
+The water content was determined gravimetrically, as discussed above. For the environmental
+factors, RH was estimated to be 97 percent (from
+salt cell data as measured from similar sites in the
+California Great Basin). For EHT, the more sensitive and more important factor, weather station
+data from Mitzpe Ramon was used for the Camel
+Site, and data from Sderot was used for Nahal
+Lavan 109. This factor was also compared with
+similar data from the California Great Basin,
+Death Valley, and Mojave weather stations and
+with salt cell data from Inyo-182 (another site in
+the western Great Basin area).
+The results of the obsidian hydration dating
+for these two sites are somewhat better than simple relative dating. As an absolute dating technique, however, these results are promising but
+suffer from two major problems, sample size and
+rind measurement.
+For the Camel Site, only three artifacts were
+recovered and available for measurement. Data are
+summarized in Table 9.3. The water-content percentages were very consistent, and it is felt that the
+environmental factors are reasonable, although
+salt cell data would be preferable. The rind size,
+however, measures 6.1 microns on OHL 16200,
+and this is the “cleanest” reading. For 16198 the
+rind read 5.0 microns, and for 16199 the rind was
+5.2 microns, but both are on pieces that showed
+sandblasting. There is no known method of determining how much of the outer edge has been
+worn away. We have arbitrarily added 10 percent
+to the rind readings of three samples (two from the
+Camel Site and one from Nahal Lavan 109) to
+provide a perspective on the possible variability in
+the dates. The resultant range of “roughly usable”
+dates is 1850 to 5200 B.C.E.
+For Nahal Lavan 109, five debitage samples
+were utilized. Only OHL 16222 had both a rhylotic-level water percentage (0.1279 percent by
+weight) and a readable rind of 10.5 microns (dating provided at 10.5 and at 11.6 microns, or plus
+OHL Grid USF Rind
+(microns)
+Mass
+(g) EHT RH
+%
+RH (by
+Weight)
+Hydration
+Rate Age BP B.C.E.
+Camel
+16198 M27d 499 5.0 2.34 22.37 0.97 0.1105 6.6 3801 1851
+746279545.5994reppU
+16199 M28c 500 5.2 0.80 22.37 0.97 0.0989 5.5 4943 2993
+*130418957.5reppU
+16200 J30c 501 6.1 0.65 22.37 0.97 0.0958 5.2 7128 5178
+Surface
+Nahal Lavan 109
+685663580.319721.079.004.6214.15.0122261
+*8738823016.11
+tnarrebA0.316300.0-4.6204.6298.22.332261
+oN42261
+hydration value
+1.89 26.40 0.97 0.2304 28.7 Aberrant
+tnarrebA9.251883.079.004.6245.04.452261
+tnarrebA9.7572537.679.004.6293.24.1162261
+11.4 2.39 26.40 0.97 0.1279 13.0 9937 7987***
+NOTE: EHT for the Camel Site is taken from Mitzpe Ramon. EHT for Nahal Lavan 109 is taken from Sderot.
+USF refers to the composition analysis by Tykot.
+*Added 10% to rind to adjust for sandblasted surface.
+**Water content estimated using sample 16222 measurement.
+10 percent, to possibly account for weathering).
+Samples designated as OHL 16223, 16224, and
+16225 had both very erratic water contents and
+no reasonably sized rinds. Sample OHL 16226
+did exhibit a good readable rind at 11.4 microns,
+but the water content (at 4.5224 percent) is off
+scale. So to provide at least one other date, the
+relative density and thus water content of 16222
+was used. The result suggests a rough range of
+6600 to 8400 B.C.E.Hydration Analysis SummaryFor our purposes, the key result of the hydration
+analysis is the clear distinction that can be drawn
+between the Pre-Pottery Neolithic B materials
+and those deriving from the Early Bronze Age. In
+other words, the Camel Site obsidian reflects a
+contemporary connection with Anatolia and not
+the mere looting or collection of materials from
+early local sites. This distinction is also supported
+by the differing water contents of the artifacts,
+suggesting the likelihood of different sources.
+The chemical composition analyses conducted by
+Tykot are also in accord with these conclusions.
+DISCUSSION
+The discovery and analysis of three obsidian artifacts from the Early Bronze Age Camel Site offer
+several conclusions beyond the linkage with Anatolia (Figure 9.3). In particular, the results indicate that the basic structure of the Negev–Anatolia Early Bronze Age exchange link contrasted in
+all its particulars—source, route, and function—
+with that of the Pre-Pottery Neolithic period, the
+only other period for which obsidian has been recovered in the central Negev.
+In terms of sources, Pre-Pottery Neolithic B
+obsidian from the central Negev, as defined by
+Nahal Lavan 109 (Perlman and Yellin 1980), derives exclusively from Cappadocia in central Anatolia. In general, southern Levantine Pre-Pottery
+Neolithic obsidian originates primarily from central Anatolia, although in later periods, the later
+Neolithic and the Chalcolithic, eastern Anatolian
+sources are also evident (e.g., Cauvin 1994: figure
+4; Gopher et al. 1998). However, even when eastern Anatolian obsidian is present, as at Chalcolithic Gilat (Yellin et al. 1996), the central Anatolian sources dominate. The contrast with the
+Camel materials, deriving from the Lake Van area
+in eastern Anatolia, is obvious.
+In terms of route, although the difference in
+sources between the periods suggests the possibility of different transport routes, the key issue is
+really that in the Pre-Pottery Neolithic B, one
+can trace a continuum of obsidian from central
+Anatolia through the western Levant and down to
+the deserts of the southern Levant in a fall-off
+curve interpreted by Renfrew (1975, 1977) as
+down-the-line trade. That is, there are numerous
+PPNB sites in Israel and Palestine with obsidian,
+and there is no major geographic gap in the distribution from north to south. Data from other
+periods remain too scanty for reasonable reconstruction. Garfinkle (1993) notes the general decline of the obsidian trade with the end of the
+Pre-Pottery Neolithic.
+In significant contrast, Early Bronze Age sites
+in the southern Levant are lacking obsidian. Even
+given the very small number of artifacts recovered
+from the Camel Site, the absence of obsidian
+from geographically intervening sites, especially
+from the known desert gateway city at Arad (e.g.,
+Amiran et al. 1997; Finkelstein 1995:67–86;
+Kempinski 1989), strongly suggests that there was
+no down-the-line obsidian exchange through the
+Mediterranean zone of the southern Levant. The
+only other alternative is a route through the Syrian and Jordanian deserts.
+Finally, in terms of function, the differences
+between obsidian and flint in terms of raw material properties are reasonably straightforward.
+Obsidian is structurally amorphous. It is thus
+more easily knapped and capable of achieving a
+sharper edge than flint. It also tends to have a
+glossier and smoother surface than flint. Access to
+obsidian in the Near East is also more restricted
+than access to flint. On the other hand, flint is a
+stiffer, less brittle material and is somewhat
+harder. The larger number and range of flint
+sources result in greater heterogeneity and hence
+variability in its basic attributes. These differences
+are reflected in the archaeological record in what
+appears to be a greater preference for obsidian in
+areas where it is readily available and an added
+value where it is present but scarce.
+In the Neolithic Levant, both materials were
+exploited in the production of chipped stone
+tools, in spite of the scarcity of obsidian. Thus
+PPNB obsidian assemblages, especially as exemplified by the materials from Nahal Lavan 109
+(Burian and Friedman 1988; Burian et al. 1976),
+include a large range of tool types, typologically
+identical to those made from flint, and the complement of debitage reflecting local production.
+Obsidian, while probably perceived as something
+special and perhaps more valuable than local flint,
+was nevertheless traded and treated as a raw material for the production of tools.
+In post-Neolithic times, the range of uses of
+obsidian broadens, including jewelry, magic, medicine, vessel manufacture, mirrors, and sculpture
+(Coqueugniot 1998). The three pieces recovered
+from the Camel Site reflect a fundamentally different phenomenon from the Neolithic. They are
+not tools in a lithic technological sense; nor can
+they in any way be interpreted as raw material for
+tool manufacture. Furthermore, as indicated
+above, the absence of any production waste in a
+100-percent-sieved site (2–3 mm mesh) indicates
+clearly that they were chipped elsewhere and imported to the site as small flakes. Thus their only
+value can lie in their trinket status as rare objects
+and cannot derive from any utilitarian function.
+In this they are akin to the other trinket-type artifacts recovered from the excavations, including
+pink quartz crystals, shells and shell beads from
+the Mediterranean and Red Seas, freshwater
+mother-of-pearl (Nilotic?), the several black flint
+flakes found near them, and perhaps small local
+fossils (Chapter 10). Notably, the Camel Site
+shows evidence for ostrich eggshell bead production (Rosen 1997a; Chapter 10).
+These basic contrasts in the structure of the
+obsidian trade in turn suggest conclusions concerning both the nature of the obsidian exchange
+in the different periods and its role in the respective societies. Returning to the general characteristics of ancient Near Eastern obsidian exchange
+as down-the-line trade (Renfrew 1975, 1977), a
+key element in this trade is the mobility of the
+agents of exchange. Bar-Yosef and Belfer-Cohen
+(1989) have suggested that hunting parties operated as prime agents in the movement of goods
+and the exchange of ideas in the Pre-Pottery
+Neolithic B—in fact, serving as the glue cementing the Levantine interaction sphere into an integrated unit. For our purposes here, the key point
+is that PPNB mobility—hunting—extended
+throughout the Levant, even in the Mediterranean farming zone, and it constituted a primary
+activity among large segments of the population.
+That is, the proportion of the population engaged
+in hunting must have been quite high, and thus
+the movement of goods such as obsidian was relatively straightforward.
+In contrast to this system of relatively highmobility hunting, albeit tethered to sedentary villages, Levantine Early Bronze Age society was
+primarily urban and sedentary, with an economy
+based on cereal agriculture, arboriculture, and
+domestic herd animals. Although one could attempt to make the case that the pastoral component of this society played a role similar to that of
+the hunters of the PPNB, the parallel is not justified, if for no other reason than the unlikelihood
+that more than a fraction of the urban Early
+Bronze Age population engaged in herdsmen
+husbandry (see Khazanov 1984:22 for a definition
+of herdsmen husbandry).
+Thus the absence of obsidian in the Mediterranean zone is perhaps comprehensible, a function of increasing sedentism. This would also explain the decline in obsidian exchange in the later
+stages of the Neolithic and the Chalcolithic. On
+the other hand, the development of peripheral
+pastoral nomadic societies on the desert fringes—
+that is, the Camel Site, both in the east and the
+south (e.g. Betts 2001; Garrard et al. 1996; Rosen
+2002a, 2002b)—provides a rationale for the alternative route suggested earlier and an agency of
+exchange for that route. As with the PPNB
+hunters, the high mobility of these early mobile
+pastoralists offers the means for the movement of
+obsidian from the Anatolian source area. Unfortunately, we are still lacking the intensive exploration of these regions necessary to confirm this
+hypothesis.
+The significance of the trinket trade for Early
+Bronze Age desert nomads should not be underestimated. Wiessner (e.g., 1984) has noted the
+role of reciprocal exchange among the Kalahari
+San, providing one of the basic glues of the social
+system. The scarcity of such artifacts as Anatolian
+obsidian may suggest that they were valuable.
+The presence of other beads and trinkets, deriving from a variety of sources, indicates the range
+and variety of trade connections. The combination of value and variation reflects the importance
+of the trinket trade to Early Bronze Age desert
+pastoral society (Chapters 10 and 13). The apparent structural transformation of the obsidian
+trade from its relatively utilitarian Neolithic antecedents to the Bronze Age trinket trade can be
+tied to the fundamental evolution of Near Eastern societies from Neolithic farmer-hunters to
+the complex and variegated societies of early historic times.
+ACKNOWLEDGMENTS
+Felix Burian was gracious in allowing us to sample five artifacts from Nahal Lavan 109 for hydration comparison purposes. Chris Stevenson offered important consultation on this work. A basic
+OHD bibliography is available courtesy of M.
+Gottesman at www.peak.org/obsidian/index.html.
+An earlier version of this work was published in
+Rosen et al. (2005). Mike Gottesman passed away
+between that first publication of the Camel Site
+obsidian and this final report in the context of the
+entire site. He was a good friend and a model of
+the amateur scholar—professional in every way in
+his research. He is genuinely missed.
+REFERENCES
+Ambrose, W. R.
+Ambrose, W. R.
+1976 Intrinsic Hydration Rate Dating of Obsidian.
+In Advances in Obsidian Glass Studies, edited by
+R. E. Taylor, pp. 81–105. Noyes Press, Park
+Ridge, New Jersey.
+Amiran, R., O. Ilan, and M. Sebbane
+1997 Canaanite Arad: Gateway City to the Wilderness.
+Israel Antiquities Authority, Jerusalem (Hebrew).
+Aspinall, A., S. W. Feather, and C. Renfrew
+1972 Neutron Activation Analysis of Aegean Obsidians. Nature 237:333–334.
+Bar-Yosef, O., and A. Belfer-Cohen
+1989 The PPNB Interaction Sphere. In People and
+Cultures in Change, edited by I. Hershkovitz,
+pp. 59–72. BAR International Series 508.
+British Archaeological Reports, Oxford.
+Betts, A.
+2001 Pastoralism. In The Archaeology of Jordan, edited
+by B. Macdonald, R. Adams, and P. Bienkowski,
+pp. 615–619. Sheffield Academic Press,
+Sheffield.
+Bíró, T. K., I. Pozsgai, and A. Vlader
+1986 Electron Beam Microanalyses of Obsidian
+Samples from Geological and Archaeological
+Sites. Acta Archaeologica Academiae Scientiarum
+Hungaricae 38:257–278.
+Blackman, M. J.
+1984 Provenance Studies of Middle Eastern Obsidian from Sites in Highland Iran. In Archaeological Chemistry—III, edited by J. B. Lambert, pp.
+19–50. Advances in Chemistry Series 205.
+American Chemical Society, Washington, D.C.
+Braidwood, R. J.
+1948 Prehistoric Men. Field Museum of Natural
+History, Chicago.
+Burian, F., and E. Friedman
+1988 A Note on the Obsidian Finds from the PrePottery Neolithic B Site 109, Near Nahal
+Lavan, Negev. Mitekufat Haeven 21:95–98.
+Burian, F., E. Friedman, and E. Mintz
+1976 Site 109 (coord. 0993/0370)—Pre-Pottery
+Neolithic B. Mitekufat Haeven 14:50–60 (Hebrew).
+Cann, J. R., and C. Renfrew
+1964 The Characterization of Obsidian and Its Application to the Mediterranean Region. Proceedings of the Prehistoric Society 30:111–133.
+Cauvin, M. C.
+1991 L’obsidienne au Levant: Provenances et fonctions. Cahiers de l’Euphrate 5–6:163–190.
+1994 La circulation de l’obsidienne au Proche-Orient Néolithique. In Neolithic Chipped Stone Industries of the Fertile Crescent, edited by H. G.
+Gebel and S. K. Kozlowski, pp. 15–22. Ex
+Oriente, Berlin.
+Cauvin, M. C., N. Balkan, Y. Besnus, and F. Saroglu
+1986 Origine de l’obsidienne Cafer Höyük
+(Turquie): Premiers résultats. Paléorient 12:
+89–97.
+Coqueugniot, E.
+1998 L’obsidienne en Mediterranée orientale aux
+epoques post-néolithiques. In L’obsidienne au
+Proche et Moyen Orient. Du volcan à l’outil, edited by M.-C. Cauvin, A. Gourgaud, B.
+Gratuze, N. Arnaud, G. Poupeau, J.-L.
+Poidevin, and C. Chataigner, pp. 351–362.
+BAR International Series 738. British Archaeological Reports, Oxford.
+Ericson, J.
+1981 Exchange and Production Systems in California
+Prehistory: The Results of Hydration Dating and
+Chemical Characterization of Obsidian Sources.
+BAR International Series 110. British Archaeological Reports, Oxford.
+Finkelstein, I.
+1995 Living on the Fringe. Sheffield Academic Press,
+Sheffield.
+Francaviglia, V. M.
+1984 Characterization of Mediterranean Obsidian
+Sources by Classical Petrochemical Methods.Preistoria Alpina 20:311–332.
+1990a Les gisements d’obsidienne hyperalcaline
+dans l’ancien monde: Étude comparative.Revue d’Archéometrie 14:43–64.
+1990b Obsidian Sources in Ancient Yemen. In The
+Bronze Age Culture of Hawlan at-Tiyal and alHada (Republic of Yemen). A First General Report, edited by A. de Maigret, pp. 129–134.
+IsMEO, Rome.
+Friedman, I., and W. Long
+1976 Hydration Rate of Obsidian. Science 191:
+347–352.
+Friedman, I., F. Trembour, and R. Hughes
+1994 Obsidian Hydration Dating. In Chronometric
+Dating in Archaeology, Advances in Archaeological and Museum Science 2, edited by R. E. Taylor and M. Aitken, pp. 297–321. Plenum, New
+York.
+Garfinkle, Y.
+1993 The Yarmukian Culture in Israel. Paléorient19:115–134.
+Garrard, A., S. Colledge, and L. Martin
+1996 The Emergence of Crop Cultivation and
+Caprine Herding in the “Marginal Zone” of
+the Southern Levant. In The Origins and
+Spread of Agriculture and Pastoralism in Eurasia,
+edited by D. Harris, pp. 204–226. University
+College London Press, London.
+Gilead, I.
+1984 The Microendscraper: A New Tool Type of
+the Chalcolithic Period. Tel Aviv 11:3–10.
+Gopher, A., A. Barkai, and O. Marder
+1998 Cultural Contacts in the Neolithic Period:
+Anatolian Obsidians in the Southern Levant.
+In Anatolian Prehistory at the Crossroads of Two
+Worlds II, edited by M. Otte, pp. 641–650.
+ERAUL 85. ERAUL, Liege.
+Gratuze, B.
+1998 Les méthodes de caractérisation de l’obsidienne. In L’obsidienne au Proche et Moyen Orient.
+Du volcan à l’outil, edited by M.-C. Cauvin, A.
+Gourgaud, B. Gratuze, N. Arnaud, G. Pou
+peau, J.-L. Poidevin, and C. Chataigner, pp.
+31–48. BAR International Series 738. British
+Archaeological Reports, Oxford.
+1999 Obsidian Characterization by Laser Ablation
+ICP-MS and Its Application to Prehistoric
+Trade in the Mediterranean and the Near
+East: Sources and Distribution of Obsidian
+within the Aegean and Anatolia. Journal of Archaeological Science 26:869–881.
+Gratuze, B., J. N. Barrandon, K. Al Isa, and
+M. C. Cauvin
+1993 Non-destructive Analysis of Obsidian Artefacts Using Nuclear Techniques: Investigation
+of Provenance of Near Eastern Artefacts. Archaeometry 35(1):11–21.
+Keller, J., and C. Seifried
+1990 The Present Status of Obsidian Source Identification in Anatolia and the Near East. InVolcanologie et archéologie. Proceedings of the European Workshop of Ravello, November 19–27,
+1987 and March 30–31, 1989, edited by C. Albore Livadie and F. Widemann, pp. 57–87.
+PACT 25. CNRS, Rome.
+Kempinski, A.
+1989 Urbanization and Metallurgy in Southern
+Canaan, In L’urbanisation de la Palestine à l’âge
+du Bronze ancien, edited by P. de Miroschedji,
+pp. 163–168. BAR International Series 527.
+British Archaeological Reports, Oxford.
+Khazanov, A. M.
+1984 Nomads and the Outside World. Cambridge
+University Press, Cambridge.
+Laidler, K.
+1984 The Development of the Arrhenius Equation.Journal of Chemical Education 61:494–498.
+Lee, R.
+1969 Chemical Temperature Integration. Journal of
+Applied Meteorology 8:423–430.
+Mazer, J. J., J. K. Bates, C. M. Stevenson, and
+C. Bradley
+1992 Obsidians and Tektites: Natural Analogues for
+Water Diffusion in Nuclear Waste Glass. Materials Research Society Symposium Proceedings257:513–520.
+Mazer, J. J., C. M. Stevenson, W. Ebert, and
+J. K. Bates
+1994 The Experimental Hydration of Obsidian as a
+Function of Relative Humidity and Temperature. American Antiquity 56:504–513.
+Merrick, H. V., and F. H. Brown
+1984a Obsidian Sources and Patterns of Source Utilization in Kenya and Northern Tanzania:
+Some Initial Findings. African Archaeological
+Review 2:129–152.
+1984b Rapid Chemical Characterization of Obsidian
+Artifacts by Electron Microprobe Analysis.Archaeometry 26(2):230–236.
+Perlman, I., and J. Yellin
+1980 The Provenience of Obsidian from Neolithic
+Sites in Israel. Israel Exploration Journal 30:
+83–88.
+Poidevin, J.-L.
+1998 Les gisements d’obsidienne de Turquie et de
+Transcaucasie: Géologie, géochimie et
+chronométrie. In L’obsidienne au Proche et
+Moyen Orient. Du volcan à l’outil, edited by M.C. Cauvin, A. Gourgaud, B. Gratuze, N. Arnaud, G. Poupeau, J.-L. Poidevin, and C.
+Chataigner, pp. 105–204. BAR International
+Series 738. British Archaeological Reports,
+Oxford.
+Renfrew, A. C.
+1975 Trade as Action at a Distance. In Ancient Civilization and Trade, edited by J. Sabloff and
+C . C. Lamberg-Karlovsky, pp. 3–60. University of New Mexico Press, Albuquerque.
+1977 Alternative Models for Exchange and Spatial
+Distribution. In Exchange Systems in Prehistory, edited by T. E. Earle and J. E. Ericson,
+pp. 71–90. Academic Press, New York.
+Renfrew, C., J. E. Dixon, and J. R. Cann
+1966 Obsidian and Early Cultural Contact in the
+Near East. Proceedings of the Prehistoric Society32:30–72.
+Renfrew, C., J. E. Dixon and J. R. Cann
+1968 Further Analysis of Near Eastern Obsidians.Proceedings of the Prehistoric Society 34:319– 331.
+Rosen, S. A.
+1997a Beyond Milk and Meat: Lithic Evidence for
+Economic Specialization in the Early Bronze
+Age Pastoral Periphery in the Levant. Lithic
+Technology 22:105–115.
+1997b Lithics After the Stone Age: A Handbook of Stone
+Tools from the Levant. AltaMira Press, Walnut
+Creek, California.
+2002a An Economic Model for Early Bronze Age
+Pastoral Nomadism. In Kempinsky Memorial
+Volume—Studies in Archaeology and Related
+Disciplines, edited by S. Ahituv and E. D. Oren,
+pp. 344–359. Beer-Sheva XVIII—Monographs of the Department of Bible and Ancient Near Eastern Studies. Ben-Gurion University, Beersheva.
+2002b The Evolution of Pastoral Nomadic Systems
+in the Southern Levantine Periphery. In Quest
+of Ancient Settlements and Landscapes: Archaeological Studies in Honour of Ram Gophna, edited
+by E. van den Brink and E. Yannai, pp. 23–44
+Ramot Publishing, Tel Aviv University, Tel
+Aviv.
+Rosen, S. A., R. H. Tykot, and M. Gottesman
+2005 Long Distance Trinket Trade: Early Bronze
+Age Obsidian from the Negev. Journal of Archaeological Science 32:775–784.
+Ross, C. S., and R. L. Smith
+1955 Water and Other Volatiles in Volcanic
+Glasses. American Mineralogist 40:1071–1089.
+Shackley, S. (editor)
+2001 Method and Theory in Archaeological Glass Studies. Plenum, New York.
+Stevenson, C. M., I. M. Abdelrehim, and S. W. Novak
+2001 Infra-red Photoacoustic and Secondary Ion
+Mass Spectrometry Measurements of Obsidian Hydration Rims. Journal of Archaeological
+Science 28:109–115.
+Stevenson, C. M., W. Freeborn, and B. E. Scheetz
+1988 Obsidian Hydration Dating: An Improved
+Optical Technique for Measuring the Width
+of the Hydration Rim. Archaeometry 29:120–
+123.
+Stevenson, C. M., M. Gottesman, and M. Macko
+2000 Refining the Working Assumptions of Obsidian Hydration Dating. Journal of California
+and Great Basin Anthropology 22:223–236.
+Stevenson, C. M., E. Knaus, J. J. Mazer, and J. Bates
+1993 Homogeneity of Water Content in Obsidian
+from the Coso Volcanic Field: Implications
+for Obsidian Hydration Dating. Geoarchaeology 8:371–384.
+Stevenson, C. M., J. J. Mazer, and B. E. Scheetz
+1998 Laboratory Obsidian Hydration Rates: Theory, Method, and Application. In Method and
+Theory in Archaeological Volcanic Glass Studies,
+edited by S. Shackley, pp. 181–204. Plenum,
+New York.
+Stevenson, C. M., and M. O. McCurry
+1990 Chemical Characterization and Hydration
+Rate for New Mexican Obsidian Sources.Geoarchaeology 5:149–170.
+Trembour, F., F. L. Smith, and I. Friedman
+1990 Diffusion Cells for Integrating Temperature
+and Humidity over Long Periods of Time. InMaterials Issues in Art and Archaeology, edited
+by E. V. Sayre, P. B. Vandiver, J. Druzik, and C.
+Stevenson, pp. 245–251. Materials Research
+Society Symposium Proceedings 123. Reno.
+Tykot, R. H.
+1996 Obsidian Procurement and Distribution in
+the Central and Western Mediterranean.Journal of Mediterranean Archaeology 9(1):
+39–82.
+1997 Characterization of the Monte Arci (Sardinia)
+Obsidian Sources. Journal of Archaeological Science 24:467–479.
+2002 Chemical Fingerprinting and Source-Tracing
+of Obsidian: The Central Mediterranean
+Trade in Black Gold. Accounts of Chemical Research 35:618–627.
+Wiessner, P.
+1984 Reconsidering the Behavioral Basis for Style:
+A Case Study among the Kalahari San. Journal of Anthropological Archaeology 3:190–234.
+Williams-Thorpe, O.
+1995 Obsidian in the Mediterranean and the Near
+East: A Provenancing Success Story. Archaeometry 37(2):217–248.
+Wright, G. A.
+1969 Obsidian Analyses and Prehistoric Near Eastern
+Trade: 7500–3500 BC. Museum of Anthropology, Anthropological Papers 37. University of
+Michigan, Ann Arbor.
+Yellin, J., T. E Levy, and Y. Rowan
+1996 New Evidence on Prehistoric Trade Routes:
+The Obsidian Evidence from Gilat, Israel.Journal of Field Archaeology 23:361–368.
+Zarins, J.
+1990 Obsidian and the Red Sea trade. Prehistoric
+Aspects. In South Asian Archaeology 1987. Proceedings of the Ninth International Conference of
+the Association of South Asian Archaeologists in
+Western Europe

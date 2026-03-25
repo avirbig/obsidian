@@ -1,0 +1,734 @@
+Non-destructive PXRF analysis of museum-curated obsidian from the Near East
+Nicola Forster*, Peter Grave
+Archaeomaterials Science Hub, Department of Archaeology and Palaeoanthropology, University of New England, Armidale, NSW 2351, Australia
+a r t i c l e i n f o
+Article history:
+Received 2 August 2011
+Received in revised form
+31 October 2011
+Accepted 7 November 2011
+Keywords:
+Provenance
+Nicholson museum
+Legacy datasets
+Portable x-ray fluorescence
+Multivariate analysis
+a b s t r a c t
+Non-destructive pXRF has the potential to expand sample populations of archaeological provenancing
+studies by facilitating access to museum collections of artefacts. In this study, we use museum-curated
+obsidian for the sites of Tell Brak, Mersin-Yümüktepe and Tell Arpachiyah and geological obsidian
+samples from central Turkey to demonstrate that non-destructive pXRF is comparable to other techniques in differentiating between Near Eastern obsidian sources. Secondly, we use multivariate analysis
+to evaluate whether non-destructive pXRF is sufficiently accurate and precise to enable comparison with
+legacy datasets from previous analysis using PIXE and ICP-MS. Multivariate analyses show that instrumental offsets between the results from pXRF and other analytic techniques are less than source-tosource variation typical for most Anatolian obsidian outcrops and pXRF-identified geochemical groups
+are directly comparable to legacy datasets. Non-destructive pXRF analysis indicates that during the
+Chalcolithic, East Göllü dag and Nenezi dag continued to be the major sources of obsidian to communities in central Anatolia and the Bingöl range and mountains surrounding Lake Van supplied sites east of
+the Levant. Variations in the analysed assemblages suggest a number of obsidian exchange networks
+existed during this period.
+Ó 2011 Elsevier Ltd. All rights reserved.
+1. Introduction
+For the Neolithic and Chalcolithic communities of the Near East
+(ca. 9500e3000 BCE), obsidian was a culturally significant and
+valuable exchange item. With a limited number of volcanic sources
+and a ubiquitous representation in the archaeological record, it
+represents one of the earliest and most reliable archaeological
+measures of long-distance exchange in this region (Balkan-Atli
+et al., 1999; Shackley, 1998; Williams Thorpe, 1995). Recent
+studies have demonstrated that changes in obsidian source preference e related to shifts in interregional social exchange networks
+e are most evident when large numbers of artefacts are provenanced (Carter et al., 2008; Carter and Shackley, 2007). Apart from
+material obtained from current excavations, there are two additional sources of archaeological and geological obsidian which
+could serve to increase sample populations and reference material.
+Museum collections represent an important resource that has
+remained largely untapped due to the constraints of destructive
+sampling techniques. Similarly, published obsidian analyses for this
+region represent a source of legacy data. Non-destructive pXRF has
+the potential to access and integrate these additional sources.
+Obsidian is ideal for geochemical provenancing as outcrops are
+relatively geochemically homogeneous with unique ‘elemental
+fingerprints’. A variety of analytic techniques have been applied to
+the chemical characterisation of obsidian artefacts including NAA,
+PIXE, ICP-MS and XRF (Bourdonnec et al., 2005; Briois et al., 1997;
+Carter et al., 2006; Gomez et al., 1995; Gratuze, 1999; Poupeau
+et al., 2010). These techniques typically involve destructive
+sampling, a factor which can preclude analysis in museum contexts.
+While sampling for LA-ICP-MS is non-visible to the naked eye and
+so preserves the integrity of artefacts, samples must be moved to
+a laboratory for analysis, a condition that is generally prohibitive
+when studying museum collections. Non-destructive portable
+instrumentation offers new potential for research in museum and
+excavation contexts as the conventional hurdles to chemical characterisation are removed, particularly for items that are rare,
+valuable, fragile or culturally significant. Recent studies have
+demonstrated the successful application of portable x-ray fluorescence (pXRF) to obsidian for non-destructive provenancing in Asian
+and South American contexts (Craig et al., 2010; Jia et al., 2010;
+Phillips and Speakman, 2009).
+In this paper, we use non-destructive pXRF for analysis of
+museum-curated obsidian artefacts from Tell Brak, MersinYümüktepe and Tell Arpachiyah. The aims of this study are twofold;
+first, to determine whether Near Eastern obsidian sources can be
+readily differentiated by non-destructive pXRF. The reliability of
+quantitative non-destructive pXRF is strongly conditioned both by
+* Corresponding author.
+E-mail addresses: nforste2@une.edu.au (N. Forster), pgrave@une.edu.au
+(P. Grave).
+Contents lists available at SciVerse ScienceDirect
+Journal of Archaeological Science
+j o u r n a l h o m e p a g e : h t t p : / / w w w . e l s e v i e r . c o m / l o c a t e / j a s
+0305-4403/$ e see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2011.11.004
+Journal of Archaeological Science 39 (2012) 728e736the surface properties of analysed samples and the calibration
+regression; an accurate calibration algorithm requires samples that
+cover the anticipated compositional range of the unknowns. The
+second objective of this study is to evaluate whether quantitative
+non-destructive pXRF has the potential to be sufficiently accurate
+and precise to enable comparison with legacy datasets from
+previous analysis. Where geological reference material is not
+available for analysis, legacy data may enable comparison to
+a wider range of potential sources, thereby enabling a better
+understanding of obsidian circulation in the Near East.
+1.1. Background
+Analyses from a number of studies show that obsidian deposits
+in central and eastern Anatolia supplied sites in the Near East from
+the Epipalaeolithic to the Bronze Age (approximately 14,000e6000
+BP) (Abbès et al., 2003; Briois et al., 1997; Cauvin et al., 1997;
+Chataigner et al., 1998; Yellin et al., 1996). These deposits
+supplied social exchange networks that were initially small, but
+over time expanded and became more complex and interconnected, with an overlapping region in the northern Levant and
+Upper Euphrates valley (Cauvin and Chataigner, 1998).
+Turkey is the major source for obsidian to the Near East, with
+outcrops in central and eastern Anatolia. In central Anatolia, the
+major sources exploited were East Göllü dag and Nenezi dag. These
+sources were used extensively and supplied communities
+throughout the middle Euphrates, western Anatolia, and the
+southern Levant. During the Chalcolithic, obsidian from East Göllü
+dag travelled as far as Mesopotamia (Chataigner et al., 1998).
+Although there are a number of other obsidian deposits in close
+geographical proximity in central Anatolia (Hasan dag, Acıgöl dag,
+Hotamıs ̧ dag), these sources had minimal impact and a limited
+number of obsidian artefacts have been provenanced to Acıgöl dag
+and Hotamıs ̧ dag (Carter et al., 2006; Yellin et al., 1996).
+In eastern Anatolia, the sources primarily exploited were the
+mountains of the Bingöl region (Orta Duz, Çavus ̧ lar, Çatak, Alatepe)
+and obsidian deposits around Lake Van (Nemrut Dag and Meydan
+dag). Obsidian from these sources supplied the Persian Gulf, the
+Euphrates and the Levant and eventually reached as far west as
+Catalhöyük (Carter et al., 2008; Chataigner et al., 1998). The Bingöl
+mountains are comprised of both calc-alkaline (Bingöl B) and peralkaline (Bingöl A) deposits. Bingöl A is geochemically very similar
+to Nemrut Dag and previous geochemical work has had difficulty
+distinguishing between the two sources (Carter et al., 2008;
+Chataigner et al., 1998; Khalidi et al., 2009). Like central Anatolia,
+there are a number of sources that experienced no-to-minimal
+known anthropogenic exploitation (eg. Mus ̧ , Suphan and Pasinler) (Bressy et al., 2005; Chataigner et al., 1998).
+In this paper, we characterise obsidian from three major
+archaeological sites in the region first excavated in the 1930’s: Tell
+Arpachiya, Iraq; Mersin-Yümüktepe (Level XII), Turkey; and Tell
+Brak, Syria. The location of these sites in relation to the archaeologically known major obsidian sources is illustrated in Fig. 1. The
+British Museum bequeathed these artefacts to the Nicholson
+Museum where they are currently held at the University of Sydney,
+Australia.
+Mersin-Yümüktepe, first excavated by John Garstang in 1936
+(Garstang, 1943), was located in Cilicia on the trade route between
+the major centres of Syria and western Anatolia. It thus occupied
+a key position linking the Near East and Anatolia and is considered
+a potential site for the redistribution and dissemination of obsidian
+as far back as 6000 BC (Mellink, 1991). Previous analysis situates
+Neolithic Mersin-Yümüktepe within the central Anatolian obsidian
+circulation network (Butalag et al., 2008; Demortier et al., 2008).
+With a stratigraphy that spans over 8000 years, the site is considered one of the most important sites in the Near East (Garstang,
+1943).
+Tell Arpachiyah, located near the Tigris in Iraq, was first excavated in 1933 by Max Mallowan. Several thousand chipped stone
+tools were excavated from the Halaf period (ca. 5200e4500 BC), of
+which more than half were obsidian (Healey, 2007). This site had
+a significantly higher quantity of obsidian than surrounding sites,
+Fig. 1. Map of the Near East showing archaeological sites and obsidian sources mentioned in the text.
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736 729which, in conjunction with the site’s position, led Campbell to
+argue that Arpachiyah had control over regional access to the
+material (Campbell, 1992). Chemical characterisation of a small
+quantity of obsidian artefacts from this excavation indicates
+exploitation of eastern Anatolian sources (Healey, 2007).
+Tell Brak, in northeastern Syria, was also excavated by Max
+Mallowan in 1937e38. The site lies on the farming area of the Upper
+Khabur Plain and was occupied from the sixth to the second
+millennia BC. The mound is one of the largest archaeological sites in
+Syria, rising to a height of over 40 m. A significant quantity of
+obsidian (940 artefacts) was excavated and visual analysis indicates
+that a large variety of sources are represented. Chemical analysis of
+a selection of artefacts confirms exploitation of the Bingöl mountain obsidian sources as well as outcrops surrounding Lake Van
+(Khalidi et al., 2009). Like Tell Arpachiyah, the quantity of obsidian
+at Tell Brak is noteworthy as it was considerably higher in
+comparison to neighbouring sites (with the exception of Tell
+Hamoukar). On the basis of this high quantity of artefacts, relative
+absence of debitage, and variety of sources exploited, Tell Brak is
+thought to have been on a principal trade route and procured
+obsidian in the form of finished blades and flakes, rather than
+directly accessing deposits (Khalidi et al., 2009).
+As the evidence indicates, these sites are important for understanding the distribution and exchange of obsidian over the
+Neolithic to Bronze Ages in the Near East. Chemical characterisation
+of their assemblages has made it possible to elucidate general
+patterns in obsidian procurement and suggests obsidian was an
+item of both short and long distance exchange in the region.
+2. Materials and methods
+2.1. Samples
+A total of 26 obsidian samples were analysed from MersinYümüktepe (Level XII) (n ¼ 17 flakes and fragments), Tell Arpachiya
+(n ¼ 5 blades) and Tell Brak (n ¼ 4 flakes). Archival records indicate
+that of the seventeen samples from Mersin, seven fragments belong
+to one artefact that was broken, and two fragments are from
+a second broken artefact (i.e. 17 fragments represent a total of ten
+artefacts). Mersin-Yümüktepe Level XII was dated to the Chalcolithic period (ca. 4500e3000 BC) (Garstang, 1943). Archival records
+indicate that the blades from Tell Arpachiya also date to the Chalcolithic period. Unfortunately, there is no data available on the
+exact context of the obsidian flakes from Tell Brak. Although the site
+was occupied from the sixth to the second millennia BC, we assume
+a likely period for the artefacts is the Halaf or Chalcolithic
+(5500e3000) (later Bronze Age obsidian in the Near East was
+primarily used for exotic vessels or inlays rather than flaked tools,
+as are the artefacts in this study (Coqueugniot, 1998)) (Fig. 2).
+In addition to the archaeological samples, we analyse geological
+samples from the main sources in central Turkey. The geological
+samples used in this study are from the central Turkish sources of
+East Göllü Dag, Nenezi Dag, Hotamıs ̧ D ag (sources I and II) and
+Acıgöl Dag. As samples from eastern Anatolia were not available for
+analysis, we drew on published data for reference source material
+(Bourdonnec et al., 2005; Carter et al., 2006; Gratuze, 1999; Khalidi
+et al., 2009; Poupeau et al., 2010; Ozdemir, et al., 2006) (Table 1).
+This data is taken from different studies using a variety of analytic
+techniques (PIXE or ICP-MS) and represents a range of potential
+sources known to supply the Levant and Mesopotamia.
+2.2. pXRF analysis
+In this study, all pXRF analyses were conducted using a Bruker
+Tracer III-V handheld XRF spectrometer. This instrument is
+equipped with a rhodium tube and a Si-PIN detector with a resolution of ca. 170 eV FHWM for 5.9 keV X-rays (at 1000 counts per
+second) in an area of 7 mm 2 . All analyses were conducted at 40 kV,
+13 mA, using a 0.152 mm Cu, 0.025 mm Ti, 0.305 mm Al filter in the
+X-ray path.
+The methodological constraints for non-destructive pXRF analysis of obsidian are well-defined and a number of studies stipulate
+the surface and material properties for reliable analysis (Forster
+et al., 2011; Nazaroff, 2009; Shackley, 1998). For accurate and
+precise analysis, the artefacts must be sufficiently thick to meet
+‘infinite depth’ requirements (3 mm for standard obsidian
+composition) and have a surface area that exceeds the spot size of
+the instrument detector (ie. greater than 7 mm 2 ). The small analytic
+window facilitates analysis of small pieces or artefacts with
+a limited surface area suitable for analysis. The flattest surface
+available was analysed to mitigate known attenuation effects
+associated with irregular surface morphology. As sample
+NM66.128.4 had only a limited area sufficiently flat and thick for
+analysis, we were required to analyse over a thin paper label. In
+a previous study, we demonstrated that very thin organic coatings
+have a negligible effect on results for iron and heavier elements.
+Lighter z elements such as calcium, however, are sensitive to such
+surface interferences (Forster et al., 2011).
+In order to balance time constraints with accurate analysis, we
+evaluated the count time required to achieve a precision of 5%
+standard error for a single analysis. Given obsidian is a homogeneous matrix, poor count statistics (associated with short analysis
+time and/or low element concentration) is the primary source of
+error. Ten replicate analyses from non-overlapping points on a flat
+surface of the same sample of obsidian were conducted at 180, 240
+and 300 s (results are reported for 300 s in Table 2). On the basis of
+these results, we determined that 300 s would provide the most
+accurate and precise results for the elemental concentrations
+associated with Anatolian obsidian. Although the results show nine
+analyses are required for precise analysis of niobium, this does not
+apply to Anatolian obsidians as they have a greater concentration
+than the sample analysed (the composition of this sample has been
+verified using XRF).
+So as to report quantitative results, a calibration algorithm was
+constructed by analysing using pXRF a sectioned surface of 19
+obsidian and rock samples of comparable matrix from central
+Anatolia, Papua New Guinea, Australia and America. These samples
+were selected because they have major, minor and trace element
+composition known to cover a wide range of elemental concentrations (Table 3). The composition of the obsidian used to calibrate
+was characterised previously using a Panalytical PW2400 XRF
+spectrometer at the University of New South Wales. Calibration
+software provided by Bruker (KTIS1CalProcess) was used to convert
+intensity peaks into numerical results. The calibration software
+applies Compton normalisation and matrix correction factors based
+on the intensities of constituent elements.
+Analysis permitted quantification of the following elements:
+potassium (K), calcium (Ca), titanium (Ti), manganese (Mn), iron
+(Fe), zinc (Zn), gallium (Ga), lead (Pb), thorium (Th), rubidium (Rb),
+strontium (Sr), yttrium (Y), zirconium (Zr) and niobium (Nb).
+2.3. Multivariate statistical analysis
+In order to evaluate and identify how well non-destructive pXRF
+can identify the potential sources represented in the sample, we
+employ multivariate statistical analysis (Principal Components
+Analysis (PCA) and Canonical Variate Analysis (CVA)) using JMP 8
+(for more detailed description of the procedure see Grave et al.,
+2008. While a number of studies use multiple bivariate plots to
+identify compositional groups, PCA allows for several elements to
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736730be taken into account in the one analysis. Analysis was conducted
+using the elements Fe, Rb, Sr, Y, Zr and Nb as these elements are 1)
+considered most reliable for non-destructive XRF (Forster et al.,
+2011) and 2) are important geochemical markers for obsidian
+provenancing as Rb, Sr, Y, Zr and Nb are incompatible elements and
+typically vary between volcanic sources (eg. Carter and Shackley,
+2007; Khalidi et al., 2009; Shackley, 1998).
+First, we identify the fragments which originated from the
+broken artefacts of Mersin-Yümüktepe. Although obsidian outcrops
+are relatively homogeneous, there can be drift in chemical
+composition. Only on a very small scale (ie. an artefact) would we
+expect the geochemistry to be unvarying (minor variation between
+analyses occurs due to instrument noise and experimental error).
+As a result, fragments from a single artefact show discrete groupings when the principal components are plotted.
+Second, we apply multivariate analysis to the archaeological and
+geological samples analysed using pXRF and assign provenance
+based on geochemical groupings. As unknown sources are identi-
+fied, we then extend the comparative data available by including
+legacy data from previous studies (Table 1). The sources included
+were identified as potential suppliers of obsidian based on their
+geographical location and presence at nearby sites (Bourdonnec
+et al., 2005; Bressy et al., 2005; Chataigner et al., 1998; Ozdemir
+et al., 2006; Williams Thorpe, 1995).
+Although pXRF is well-established as a reliable and valid technique for obsidian provenancing, recent studies have highlighted
+a potential offset for results generated by pXRF and results generated using other analytic techniques (Drake et al., 2009; Nazaroff
+et al., 2010). To evaluate whether quantitative pXRF is sufficiently
+accurate and precise to allow provenancing based on legacy data,
+we compare pXRF-generated results with legacy data (PIXE and
+ICP-MS) in multivariate space.
+3. Results and discussion
+3.1. Chemical characterisation and multivariate analysis
+The chemical composition of the twenty-six obsidian artefacts
+and five geological samples (from East Göllü dag, Nenezi dag, Acıgöl
+dag and Hotamıs ̧ dag sources 1 and 2) are reported in Table 4. As
+Fig. 2. Archaeological obsidian samples a) NM49.23.q; b) NM49.23 h; c) NM66.128.1; d) NM35.17.5; e) NM35.17.6 analysed at the Nicholson Museum from 1930s excavations at
+Mersin-Yümüktepe and Tell Arpachiyah.
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736 731was noted previously, the artefact NM66.128.4 has a thin label on
+the only surface available for analysis and as a result, the calcium
+value is unreliable (0.03%).
+We noted that two artefacts excavated at Mersin-Yümüktepe
+broke into multiple pieces. To identify these fragments, we plotted
+the first three components for the archaeological samples from
+Mersin-Yümüktepe (Fig. 3a). There are two clusters apparent (n ¼ 7
+and n ¼ 2) that correlate to the number of broken fragments. These
+fragments are identified in Table 5. PCA indicates that the remaining
+obsidian samples from East Göllü dag are related in composition,
+which may indicate they originated from the same core.
+PCA of the archaeological obsidian reveals five geochemical
+groupings (labelled 1, 2, 3, 4 and 5 in Fig. 3b). Group 1 (n ¼ 4) is
+characterised by relatively high concentrations of Sr. Group 2
+(n ¼ 13) is comparatively trace element-depleted, with low levels of
+Fe, Rb, Sr, Y, Zr and Nb. Group 3 (n ¼ 4) can be distinguished by
+levels of Fe, Zr, Y and Nb that are slightly elevated compared to
+Groups 1 and 2. Group 4 (n ¼ 1) has a similar composition to Group
+3, however has slightly higher levels of Fe, Sr and Zr, and lower
+levels of Y and Nb. Group 5 (n ¼ 4) is most distinctive geochemically
+and is compositionally-rich, with high levels of Fe, Rb, Y, Zr and Nb.
+In order to identify the provenance of the archaeological
+obsidian excavated from Mersin, Tell Brak and Tell Arpachiyah, the
+first three principal components for geological and archaeological
+samples were plotted and compositional groupings identified
+(Fig. 3c). The geological samples for East Göllü dag and Nenezi dag
+overlap with the artefacts from Mersin. This indicates Group 1
+artefacts are derived from Nenezi dag and Group 2 artefacts are
+from East Göllü dag. Groups 3e5 do not align with any of the
+geological samples. Acıgöl and Hotamıs ̧ dag have significantly
+different geochemical compositions to the archaeological samples
+in the dataset. While this dataset is small and the results can only
+be considered qualitative, the absence of obsidian from Acıgöl and
+Hotamıs ̧ dag supports findings in other studies there was minimal
+exploitation of these sources (Carter et al., 2006; Yellin et al., 1996).
+Legacy data has the potential to expand the reference material
+available to archaeological provenance studies. In Figs. 3d and 4,
+pXRF analysis of geological samples for East Göllü dag and Nenezi
+dag corresponds to results from studies using other analytic techniques. This indicates that pXRF analysis can be compared reliably
+to legacy data if there are significant differences in the chemical
+composition of source material. However, when the dataset is
+geochemically similar (Fig. 3e), clusters appear which indicate that
+multivariate statistical treatment does differentiate systematically
+between pXRF and other analytic techniques. In this case,
+a combination of multivariate techniques should be applied to
+assign provenance with a greater degree of confidence. While
+outside the scope of this study, a larger obsidian dataset analysed in
+triplicate (using PIXE, ICP-MS and pXRF) would allow the calculation of the precise measurement offset between these techniques
+(cf. Nazaroff et al., 2010).
+Table 1
+Legacy data from studies using different analytic techniques report the chemical composition for the major obsidian sources in Anatolia (Göllü dag, Nenezi dag, Bingöl A, Bingöl
+B, Meydan dag, Nemrut dag). Major elements are reported in %, trace elements are reported in ppm.
+Study Analytic technique Source Fe 2 O3 Rb Sr Y Zr Nb
+Bressy et al., 2005 ICP-AES/ICP-MS East Göllü dag 0.71 190 12 23 79 25
+Bressy et al., 2005 ICP-AES/ICP-MS East Göllü dag 0.75 187 12 22 71 24
+Bressy et al., 2005 ICP-AES/ICP-MS East Göllü dag 0.87 185 13 22 77 24
+Carter et al., 2006 ICP-AES/ICP-MS East Göllü dag 0.78 180 13 23 78 24
+Poupeau et al., 2010 PIXE East Göllü dag 0.62 216 11 26 73 33
+Poupeau et al., 2010 PIXE East Göllü dag 0.68 170 8 29 75 36
+Poupeau et al., 2010 PIXE East Göllü dag 0.67 165 17 21 76 20
+Poupeau et al., 2010 PIXE East Göllü dag 0.69 168 14 27 79 37
+Poupeau et al., 2010 PIXE East Göllü dag 0.64 187 12 26 84 32
+Poupeau et al., 2010 PIXE East Göllü dag 0.65 191 14 <15 65 32
+Carter et al., 2006 ICP-AES/ICP-MS Nenezi dag 1.23 167 99 21 144 20
+Gratuze, 1999 LA-ICP-MS Nenezi dag 0.90 163 106 19 138 18
+Poupeau et al., 2010 PIXE Nenezi dag 1.32 179 129 25 179 23
+Bressy et al., 2005 ICP-AES/ICP-MS Bingöl A 2.96 215 0 138 1013 70
+Bressy et al., 2005 ICP-AES/ICP-MS Bingöl A 4.16 224 1 137 885 58
+Gratuze, 1999 LA-ICP-MS Bingöl A 2.94 231 1 136 1205 54
+Khalidi et al., 2009 LA-ICP-MS Bingöl A 2.96 206 7 125 1214 71
+Poupeau et al., 2010 PIXE Bingöl A 4.04 236 <6 125 1184 66
+Bressy et al., 2005 ICP-AES/ICP-MS Bingöl B 1.47 222 44 32 348 19
+Gratuze, 1999 LA-ICP-MS Bingöl B 1.34 203 43 25 286 15
+Khalidi et al., 2009 LA-ICP-MS Bingöl B 1.88 220 40 34 373 20
+Khalidi et al., 2009 LA-ICP-MS Bingöl B 1.84 228 35 28 305 20
+Khalidi et al., 2009 LA-ICP-MS Bingöl B 1.91 244 37 29 337 19
+Khalidi et al., 2009 LA-ICP-MS Meydan dag 1.48 177 18 53 267 33
+Poupeau et al., 2010 PIXE Meydan dag 1.30 206 21 50 261 37
+Poupeau et al., 2010 PIXE Meydan dag 1.28 206 18 48 262 37
+Ozdemir et al., 2006 LA-ICP-MS Nemrut dag 3.62 236 2 120 1024 61
+Poupeau et al., 2010 PIXE Nemrut dag 6.32 252 <10 162 1382 95
+Poupeau et al., 2010 PIXE Nemrut dag 6.41 245 <10 151 1346 100
+Poupeau et al., 2010 PIXE Nemrut dag 5.88 224 <5 113 1130 79
+Table 2
+10 replicate analyses on an obsidian sample indicates 300 s count time provides
+precision of 5% standard error for a single analysis. The result for niobium is unreliable as the concentration was below the detection limit.
+pXRF Analysis Fe 2O 3 Rb Sr Y Zr Nb
+1 1.59 53 130 30 158 3
+2 1.55 51 133 29 156 2
+3 1.50 50 133 31 159 2
+4 1.51 52 132 28 160 2
+5 1.50 53 131 28 156 2
+6 1.52 50 131 28 158 3
+7 1.54 50 137 32 154 3
+8 1.50 50 132 30 160 3
+9 1.51 47 131 30 157 3
+10 1.56 55 133 31 160 2
+Mean 1.5 51.1 132.2 29.7 157.7 2.6
+CV 2.1 4.7 1.4 4.8 1.3 14.8
+n for 5% st error 1 1 1 1 1 9
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736732Studies show that obsidian from sites in the Upper Euphrates
+and Mesopotomia, where Tell Arpachiyah and Tell Brak are located,
+is derived largely from eastern Anatolian sources (Cauvin and
+Chataigner, 1998; Chataigner et al., 1998; Williams Thorpe, 1995).
+A 3D scatterplot of the first three components and CVA of the
+archaeological obsidian and legacy data indicate that Group 3
+artefacts from Tell Arpachiyah are sourced to Meydan dag and
+Group 4 is derived from the calc-alkaline region Bingöl B (Figs. 3d
+and 4). These results are summarised in Table 3.
+PCA of the archaeological obsidian and legacy data identifies
+geochemical groups for Bingöl A and Nemrut dag that are largely
+distinct, but include a region of overlap (Fig. 3d). It is necessary to
+complete a comprehensive surface survey and undertake chemical
+characterisation using a single analytic technique so as to define the
+within-source variability and assess whether samples from
+different outcrops can be distinguished clearly. pXRF analyses of the
+archaeological samples from Tell Brak do not overlap with either
+group, a result which may be due to variation in chemical
+composition because of sampling location or use of a different
+analytic technique.
+Clearly, high source variability and measurement offsets can
+limit provenancing using legacy data, particularly when there are
+Table 4
+Non-destructive pXRF analysis of obsidian artefacts from Tell Arpachiyah, Mersin and Tell Brak and geological obsidian from Göllü dag, Nenezi dag, Hotamıs dag (sources 1 and
+2) and Acıgöl dag. Major elements are reported in %, trace elements are reported in ppm.
+Sample Site K2 O Ca2O Ti2 O MnO Fe 2O 3 Zn Ga Pb Th Rb Sr Y Zr Nb
+Archaeological samples
+NM35.17.2 Tell Arpachiyah 3.35 0.58 0.03 0.07 1.47 68 17 33 27 170 27 62 257 22
+NM35.17.4 Tell Arpachiyah 4.01 0.58 0.05 0.07 1.43 68 18 35 26 168 26 65 257 22
+NM35.17.5 Tell Arpachiyah 3.99 0.54 0.52 0.04 1.91 53 17 34 22 187 50 37 292 12
+NM35.17.6 Tell Arpachiyah 4.44 0.52 0.06 0.06 1.45 45 17 37 23 163 26 62 259 22
+NM35.17.7 Tell Arpachiyah 3.90 0.58 0.17 0.06 1.45 69 17 35 25 172 31 63 262 23
+NM4923.a Mersin 3.63 0.79 0.11 0.07 1.29 35 14 28 22 144 96 27 139 11
+NM4923.b Mersin 3.62 0.57 0.10 0.05 0.86 16 15 30 16 158 19 29 84 14
+NM4923.c Mersin 3.88 0.64 0.03 0.05 0.84 17 15 27 18 150 17 27 78 13
+NM4923.d Mersin 4.21 0.61 0.05 0.06 0.83 14 15 29 16 154 17 27 71 13
+NM4923.e Mersin 4.01 0.59 0.58 0.05 0.80 18 15 31 16 146 18 25 71 12
+NM4923.f Mersin 4.44 0.64 0.09 0.06 0.88 25 15 28 17 163 19 27 77 15
+NM4923.g Mersin 4.12 0.59 0.03 0.06 0.87 22 16 28 16 155 17 29 77 14
+NM4923.h Mersin 3.96 0.80 0.24 0.06 1.22 41 14 27 22 144 92 25 135 12
+NM4923.i Mersin 3.96 0.58 0.02 0.05 0.99 31 15 32 21 169 18 31 83 14
+NM4923.j Mersin 3.91 0.81 0.23 0.07 1.23 38 14 24 19 142 92 25 132 10
+NM4923.k Mersin 3.72 0.74 0.11 0.07 1.36 41 13 30 20 147 97 23 134 14
+NM4923.l Mersin 3.69 0.59 0.07 0.06 0.93 35 15 30 20 156 18 29 77 13
+NM4923.m Mersin 3.63 0.58 0.35 0.05 0.86 31 16 31 20 153 19 26 79 14
+NM4923.n Mersin 4.73 0.59 0.14 0.06 0.86 26 16 29 16 149 20 29 74 14
+NM4923.o Mersin 4.20 0.67 0.09 0.06 0.86 15 16 25 16 158 14 30 77 14
+NM4923.p Mersin 4.43 0.68 0.11 0.06 0.87 15 17 24 18 164 15 29 78 15
+NM4923.q Mersin 4.82 0.65 0.04 0.05 0.90 21 16 28 17 158 19 28 76 12
+NM66.128.1 Tell Brak 4.39 0.13 0.14 0.06 3.13 148 24 47 26 184 13 133 1132 47
+NM66.128.2 Tell Brak 4.67 0.09 0.16 0.06 3.69 194 26 61 28 203 14 140 1193 43
+NM66.128.3 Tell Brak 4.46 0.16 0.05 0.05 3.44 202 26 57 31 196 13 137 1157 46
+NM66.128.4 Tell Brak 4.71 0.03 0.10 0.06 4.33 348 31 67 34 214 13 138 1208 47
+Geological samples
+Nenezi dag 4.03 0.76 0.11 0.07 1.44 43 14 27 20 146 76 32 165 12
+East Göllü dag 4.86 0.62 0.12 0.07 0.87 20 15 27 17 165 16 29 74 16
+Hotamıs ̧ dag source 1 4.34 0.69 0.11 0.06 1.12 33 15 29 22 154 63 29 116 12
+Hotamıs ̧ dag source 2 4.16 0.89 0.14 0.06 1.74 45 14 22 17 139 100 32 181 12
+Acıgöl dag 4.61 0.48 0.13 0.07 0.90 34 17 29 27 223 8 47 81 24
+Table 3
+Chemical composition of 19 samples used to construct calibration algorithm. Major elements are reported in %, trace elements are reported in ppm.
+Sample K2 O CaO TiO2 MnO Fe2O 3 Zn Ga Pb Th Rb Sr Y Zr Nb
+B1 4.80 0.71 0.10 0.05 0.73 27 14 31 19 154 86 16 98 8
+CD1 4.29 1.27 0.29 0.04 1.90 33 16 20 11 131 108 29 220 2
+CD2 5.08 0.75 0.16 0.04 1.43 32 15 28 12 127 85 21 174 6
+G03596 1.89 10.11 2.34 0.23 14.37 151 23 9 13 37 1489 36 476 128
+G03599 1.57 9.80 2.22 0.21 14.41 127 22 6 9 43 1021 29 324 85
+GB8 4.33 0.81 0.09 0.05 0.87 26 14 19 7 93 56 31 92 3
+GOO2 3.96 1.03 0.22 0.06 1.53 40 11 12 1 52 132 32 161 2
+MW1 5.31 0.55 0.13 0.02 1.29 37 19 21 14 196 27 41 144 8
+R79409 5.01 0.66 0.03 0.10 4.44 452 43 23 25 249 23 61 988 144
+R79440 2.25 7.64 0.84 0.13 7.76 53 19 35 12 95 449 22 164 0
+TP4 4.68 0.26 0.25 0.06 3.21 159 23 32 14 166 9 95 473 19
+UNE1404 4.49 0.46 0.09 0.07 0.85 21 14 23 16 163 18 30 79 17
+UNE1406 4.09 1.08 0.16 0.07 1.79 45 16 27 19 138 99 31 184 11
+UNE1407 4.37 0.77 0.10 0.06 1.13 36 15 29 21 156 62 29 113 12
+UNE1408 4.25 0.38 0.03 0.07 0.86 31 16 29 28 220 8 48 84 25
+UNE1413 2.22 1.29 0.19 0.08 1.33 44 11 10 1 35 169 29 130 4
+UNE1414 3.87 0.99 0.25 0.06 1.46 38 11 12 1 51 130 31 159 3
+UNE1415 3.86 1.27 0.32 0.07 2.63 47 16 6 8 124 71 46 385 36
+UNE1416 3.69 1.15 0.23 0.06 1.25 33 11 10 2 48 182 22 142 3
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736 733small differences in the chemical composition. CVA incorrectly
+assigns a sample from Nemrut dag to Bingöl A (Ozdemir et al.,
+2006) indicating that analyses from obsidian sources with high
+variability have the potential to be misclassified. Although the
+archaeological obsidian from Tell Brak overlaps with legacy data for
+Bingöl A in Fig. 4, the high variability of Nemrut dag and the use of
+different methods means it is not possible to assign provenance to
+Bingöl A with a high degree of confidence.
+3.2. Obsidian exchange during the Chalcolithic
+Obsidian exchange is poorly documented for the Chalcolithic
+period (Bressy et al., 2005). There are a number of studies investigating Neolithic obsidian provenance, however there are few
+comparable studies pertaining to the Chalcolithic. While the small
+quantity of archaeological samples limits our ability to observe
+diachronic and geographic patterns obsidian procurement, our
+study contributes to the growing body of legacy data and enables
+a qualitative evaluation of obsidian circulation and exchange
+networks at this time.
+Fig. 3. a) A 3D scatterplot of the first three PCA components for pXRF analysis of archaeological obsidian from Mersin identifies two broken artefacts. One artefact is derived from
+East Göllü dag (closed circles, n ¼ 7) and the other is derived from Nenezi dag (closed diamonds, n ¼ 2). Open circles and diamonds represent unbroken artefacts; b) PCA of
+archaeological obsidian from Tell Arpachiyah, Tell Brak and Mersin shows five geochemical groups labelled Group 1e5; c) PCA analysis of archaeological and geological obsidian
+identifies Group 1 artefacts as derived from Nenezi dag and Group 2 as derived from East Göllü dag. Groups 3e5 do not correspond to the central Anatolian obsidian sources. No
+archaeological obsidian is attributed to Acıgöl and Hotamıs dag; d) PCA indicates pXRF analysis of geological source material and legacy data are both able to identify Group 1
+artefacts as derived from Nenezi dag and Group 2 from East Göllü dag. Group 3 artefacts are sourced to Meydan dag and Group 4 from the calc-alkaline region Bingöl B. PCA
+indicates there are systematic differences between the peralkaline Bingöl A and Nemrut dag, however there is a region of overlap. Group 5 artefacts do not correspond to either
+geochemical group. e) PCA of pXRF analysis of archaeological obsidian and legacy data for Nenezi dag, East Göllü dag and Meydan dag indicates that results generated by nondestructive pXRF (circles) are distinguished from other analytic techniques (ICP-MS e cross, PIXE e diamonds) when sources are relatively similar geochemically; however, in
+this case, the measurement offset is less than between-source variation.
+Table 5
+The broken fragments from Mersin are attributed to Nenezi
+dag (#1e2) and East Göllü dag (#1e7).
+Sample Fragment
+NM4923.a Nenezi dag #1
+NM4923.b e
+NM4923.c e
+NM4923.d East Göllü dag #1
+NM4923.e
+NM4923.f East Göllü dag #2
+NM4923.g East Göllü dag #3
+NM4923.h e
+NM4923.i e
+NM4923.j e
+NM4923.k Nenezi dag #2
+NM4923.l East Göllü dag #4
+NM4923.m e
+NM4923.n East Göllü dag #5
+NM4923.o East Göllü dag #6
+NM4923.p East Göllü dag #7
+NM4923.q e
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736734Analysis of artefacts from Mersin-Yümüktepe shows prolonged
+and ongoing procurement of obsidian from East Göllü dag and
+Nenezi dag during the Neolithic (Butalag et al., 2008; Demortier
+et al., 2008). Located approximately 200 km from East Göllü dag
+and Nenezi dag and on a major trade route, Mersin-Yümüktepe was
+within the ‘supply zone’ for these sources and well positioned for
+the procurement and dissemination of obsidian to sites in central
+Anatolia and the Levant. Within the archaeological record of Level
+XII, there is evidence for both short and long distance trade, with
+ceramic sherds provenanced to Macedonia and Alishar (central
+Anatolia) (Garstang, 1943). Although Mersin-Yümüktepe was
+clearly involved in long distance trade, current evidence indicates
+that these exchange networks did not comprise of obsidian. Our
+results, showing the procurement of obsidian from East Göllü dag
+and Nenezi dag, indicate that central Anatolian sources continued
+to be the major suppliers of obsidian to Mersin-Yümüktepe during
+the Chalcolithic. This was a key site bridging Anatolia and the
+Levant and had access to both obsidian from the east, however this
+region was closely linked to exchange networks stemming from the
+central Anatolian sources and did not procure obsidian from
+eastern Anatolia.
+The results reported in this study correspond to previous
+research, which indicates that sites east of the Levant generally
+exploited eastern Anatolian obsidian sources (Cauvin and
+Chataigner, 1998; Chataigner et al., 1998; Coqueugniot, 1998).
+Specifically, previous characterisation of obsidian from Tell Arpachiyah shows that during the Halaf period, obsidian was derived
+from Meydan dag, Bingöl B and a peralkaline source (Bingöl A/
+Nemrut dag) (Healey, 2007). Likewise, the artefacts from Tell
+Arpachiyah in this study are derived from Meydan dag and Bingöl B.
+This represents a distance of approximately 300e400 km between
+the sources and site. A recent study of eight artefacts from Late
+Chalcolithic Tell Brak found that the Bingöl region provided the
+majority of obsidian to the community, with minor exploitation of
+Meydan dag (Khalidi et al., 2009), indicating that obsidian was
+transported approximately 250e350 km. The obsidian artefacts
+from Tell Brak housed in the Nicholson Museum are also derived
+from eastern Anatolia, however it was not possible to determine
+definitely if they were from Bingöl or Nemrut dag.
+During the Chalcolithic, trade networks were well-established
+and obsidian circulation expanded, with central Anatolian sources
+spreading to the Khabur Basin and as far as Mesopotamia and Tepe
+Sabz in the southern Zagros (Cauvin and Chataigner, 1998). While
+only a small selection of artefacts have been analysed in this study,
+they form part of a growing body of evidence and allow for
+preliminary conclusions to be formed. The results suggest that
+although exchange networks expanded at this time, central
+Anatolian sources are not commonplace in assemblages east of the
+Levant and such long distance exchange was an irregular
+occurrence.
+In conjunction with previous analysis, the results of this study
+suggest there are distinct differences in obsidian procurement
+between sites in the Upper Euphrates. Although the sites of Tell
+Arpachiyah, Tell Brak and Tell Hamoukar are approximately the
+same distance from Meydan dag (ca. 300e350 km), Tell Arpachiyah
+shows evidence of greater exploitation of this source. Furthermore,
+there are differences between sites that are relatively close to one
+another. Tell Hamoukar is only ca. 90 km from Tell Brak, however its
+obsidian assemblage represents much higher proportions of
+obsidian derived from Bingöl A and contains artefacts of unknown
+origin (Khalidi et al., 2009). Occasionally obsidian is present at sites
+at greater distances from a source, with obsidian from Pasinler in
+northeastern Anatolia excavated Tell Kurdu in the Amuq Valley, but
+absent from sites such as Tell Arpachiyah and Tell Brak (Bressy et al.,
+2005). Such differences in assemblages and procurement patterns
+suggest there is distinct variation in exchange networks and
+obsidian circulation even within eastern Anatolia.
+4. Conclusion
+This study has shown that non-destructive pXRF is capable of
+a level of resolution for Anatolian obsidian sources comparable to
+results obtained through conventional destructive techniques.
+Multivariate analysis (PCA and CVA) of geological samples and
+legacy data extracted from the literature can be used to accurately
+distinguish between geochemical groups. Although there is a slight
+offset between results generated using pXRF and results generated
+using alternate analytic techniques, multivariate analysis identifies
+Fig. 4. CVA of archaeological obsidian, geological source material and legacy data identifies distinct geochemical groupings for Nenezi dag, East Göllü dag, Meydan dag, Bingöl B and
+Nemrut dag. The artefacts from Tell Brak align with the legacy data for Bingöl A.
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736 735geochemical groups with a high degree of confidence when there
+are distinct compositional differences.
+Our results show that during the Chalcolithic, Mersin-Yümüktepe procured obsidian from the central Anatolian sources of East
+Göllü dag (n ¼ 7) and Nenezi dag (n ¼ 3). Conversely, for approximately the same period, Tell Arpachiyah procured obsidian from
+Meydan dag (n ¼ 4) and Bingöl B (n ¼ 1). The obsidian artefacts
+(n ¼ 4) from Tell Brak analysed in this study are derived from
+eastern Anatolia. Given the similarity in chemical composition of
+Bingöl A and Nemrut dag, it was not possible to determine their
+precise provenance.
+Without a comprehensive analytic regime for an assemblage
+that is also well contextualised chronologically, it is not possible to
+form definitive conclusions regarding changes in patterns of
+obsidian procurement over time. However, the results presented
+here indicate that during the Chalcolithic, East Göllü dag and
+Nenezi dag continued to be the major sources of obsidian to
+communities in central Anatolia. Likewise, obsidian from the Bingöl
+mountains and surrounding Lake Van continued to be the major
+sources of obsidian to sites east of the Levant. Distinct variations in
+the analysed assemblages in terms of proportion and type of
+obsidian source suggest different obsidian exchange networks were
+in operation during this period.
+The dual objectives of this study was to evaluate how well nondestructive pXRF can differentiate Near Eastern obsidian sources,
+and whether we could directly compare these results with published datasets. We have demonstrated the viability of nondestructive pXRF for provenancing of Near Eastern obsidian artefacts held in museum collections. We have also shown that the data
+generated by this non-destructive technique can be readily
+compared with published datasets. This highlights the potential of
+pXRF to greatly expand obsidian sample populations both by
+accessing museum material from sites which may be no longer
+directly accessible and by integrating this data with already published results. For the Near East, non-destructive pXRF will enable
+new opportunities for an expanded analysis of patterns in obsidian
+procurement and exchange networks.
+Acknowledgements
+We would like to thank the staff at the Nicholson Museum,
+University of Sydney, for their invaluable support and enabling
+analysis of the Near Eastern obsidian artefacts in their collection.
+We also thank Dr Bruce Kaiser for continued technical advice.
+References
+Abbès, F., Bellot-Gurlet, L., Cauvin, M.C., Delerue, S., Dubernet, S., Poupeau, G.,
+Stordeur, D., 2003. Provenance of the Jerf el Ahmar (middle Euphrates valley,
+Syria) obsidians. Journal of Non-Crystalline Solids 323, 162e166.
+Balkan-Atli, N., Binder, D., Cauvin, M.C., 1999. Obsidian: Sources, Workshops and
+Trade in Central Anatolia, Neolithic in Turkey: The Cradle of Civilization: New
+Discoveries, p. 133.
+Bourdonnec, F.X.L., Delerue, S., Dubernet, S., Moretto, P., Calligaro, T., Dran, J.C.,
+Poupeau, G., 2005. PIXE characterization of Western Mediterranean and
+Anatolian obsidians and Neolithic provenance studies. Nuclear Instruments and
+Methods in Physics Research Section B: Beam Interactions with Materials and
+Atoms 240, 595e599.
+Bressy, C., Poupeau, G., Yener, K., 2005. Cultural interactions during the Ubaid and
+Halaf periods: Tell Kurdu (Amuq Valley, Turkey) obsidian sourcing. Journal of
+Archaeological Science 32, 1560e1565.
+Briois, F., Gratuze, B., Guilaine, J., 1997. Obsidiennes du site néolithique précéramique de Shillourokambos (Chypre). (Obsidian from the Neolithic aceramic
+site of Shillourokambos (Cyprus)). Paléorient 23, 95e112.
+Butalag, K., Calcagnile, L., Quarta, G., Maruccio, L., D’Elia, M., 2008. PIXE analysis of
+obsidian tools from radiocarbon dated archaeological contexts. Nuclear
+Instruments and Methods in Physics Research Section B: Beam Interactions
+with Materials and Atoms 266, 2353e2357.
+Campbell, S., 1992. The Halaf period in Iraq: old sites and new. The Biblical
+Archaeologist 55, 182e187.
+Carter, T., Dubernet, S., King, R., Le Bourdonnec, F., Milic, M., Poupeau, G.,
+Shackley, M., 2008. Eastern Anatolian obsidians at Catalhoyuk and the recon-
+figuration of regional interaction in the Early ceramic Neolithic. Antiquity 82,
+900e909.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N.J.G., 2006. A new programme of obsidian
+characterization at Çatalhöyük, Turkey. Journal of Archaeological Science 33,
+893e909.
+Carter, T., Shackley, M.S., 2007. Sourcing obsidian from Neolithic Çatalhöyük
+(Turkey) using energy dispersive x-ray fluorescence. Archaeometry 49,
+437e454.
+Cauvin, M.C., Chataigner, C., 1998. Distribution de l’obsidienne dans les sites
+archéologiques du Proche et du Moyen Orient. In: Cauvin, M.C., Gourgaud, A.,
+Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au Proche et Moyen Orient Du Volcan à l’Outil. British Archaeological
+Reports International Series 738, Archaeopress, Oxford, pp. 325e350.
+Cauvin, M.C., Keller, J., Pernicka, E., 1997. Obsidian from Anatolian sources in the
+Neolithic of the middle Euphrates region (Syria). Paléorient 23, 113e122.
+Chataigner, C., Poidevin, J., Arnaud, N., 1998. Turkish occurrences of obsidian and
+use by prehistoric peoples in the Near East from 14,000 to 6000 BP. Journal of
+Volcanology and Geothermal Research 85, 517e537.
+Coqueugniot, É, 1998. L’obsidienne en Méditerranée orientale aux époques postnéolithiques. In: Cauvin, M.C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G.,
+Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au Proche et Moyen Orient Du
+Volcan à l’Outil. British Archaeological Reports International Series 738,
+Archaeopress, Oxford, pp. 351e362.
+Craig, N., Speakman, R., Popelka-Filcoff, R., Aldenderfer, M., Flores Blanco, L.,
+Vega, M., Glascock, M., Stanish, C., 2010. Macusani obsidian from southern Peru:
+a characterization of its elemental composition with a demonstration of its
+ancient use. Journal of Archaeological Science 37, 569e576.
+Demortier, G., Quarta, G., Butalag, K., D’Elia, M., Calcagnile, L., 2008. Benefits of
+combined PIXE and AMS with new accelerators. X-Ray Spectrometry 37,
+178e183.
+Drake, B.L., Nazaroff, A.J., Prufer, K.M., 2009. Error assessment of portable X-ray
+fluorescence spectrometry in geochemical sourcing. Society for Archaeological
+Sciences Bulletin 32, 14e17.
+Forster, N., Grave, P., Vickery, N., Kealhofer, L., 2011. Non-destructive analysis using
+PXRF: methodology and application to archaeological ceramics. X-Ray
+Spectrometry.
+Garstang, J., 1943. The Discoveries at Mersin and their Significance. American
+Journal of Archaeology 47, 1e14.
+Gomez, B., Glascock, M., Blackman, M., Todd, I., 1995. Neutron activation analysis of obsidian from Kalavasos-Tenta. Journal of Field Archaeology 22,
+503e508.
+Gratuze, B., 1999. Obsidian characterization by laser ablation ICP-MS and its
+application to prehistoric trade in the Mediterranean and the Near East: sources
+and distribution of obsidian within the Aegean and Anatolia. Journal of
+Archaeological Science 26, 869e881.
+Grave, P., Kealhofer, L., Marsh, B., Gates, M.H., 2008. Using neutron activation
+analysis to identify scales of interaction at Kinet Höyük, Turkey. Journal of
+Archaeological Science 35, 1974e1992.
+Healey, E., 2007. Obsidian as an Indicator of Inter-regional Contacts and exchange:
+three case-studies from the Halaf period. Anatolian Studies 57, 171e189.
+Jia, P., Doelman, T., Chen, C., Zhao, H., Lin, S., Torrence, R., Glascock, M., 2010. Moving
+sources: a preliminary study of volcanic glass artifact distributions in northeast
+China using PXRF. Journal of Archaeological Science 37, 1670e1677.
+Khalidi, L., Gratuze, B., Boucetta, S., 2009. Provenance of obsidian excavated from
+Late Chalcolithic levels at the sites of Tell Hamoukar and Tell Brak, Syria.
+Archaeometry 51, 879e893.
+Mellink, M.J., 1991. Anatolian Contacts with Chalcolithic Cyprus. Bulletin of the
+American Schools of Oriental Research, 167e175.
+Nazaroff, A., 2009. Testing the Size Dimension Limitation of Portable XRF Instrumentation for Obsidian Provenance Portland GSA Annual Meeting.
+Nazaroff, A., Prufer, K., Drake, B., 2010. Assessing the applicability of portable X-ray
+fluorescence spectrometry for obsidian provenance research in the Maya
+lowlands. Journal of Archaeological Science 37, 885e895.
+Ozdemir, Y., Karaoglu, O., Tolluoglu, A.U., Gulec, N., 2006. Volcanostratigraphy and
+petrogenesis of the Nemrut stratovolcano (East Anatolian High Plateau): the
+most recent post-collisional volcanism in Turkey. Chemical Geology 226,
+189e211.
+Phillips, S., Speakman, R., 2009. Initial source evaluation of archaeological obsidian
+from the Kuril Islands of the Russian Far East using portable XRF. Journal of
+Archaeological Science 36, 1256e1263.
+Poupeau, G., Le Bourdonnec, F.X., Carter, T., Delerue, S., Shackley, M.S., Barrat, J.A.,
+Dubernet, S., Moretto, P., Calligaro, T., Milic, M., 2010. The use of SEM-EDS, PIXE
+and EDXRF for obsidian provenance studies in the near east: a case study from
+Neolithic Çatalhöyük (central Anatolia). Journal of Archaeological Science 37,
+2705e2720.
+Shackley, M.S., 1998. Archaeological Obsidian Studies: Method and Theory. Plenum
+Press, New York.
+Williams Thorpe, O., 1995. Obsidian in the Mediterranean and the Near East:
+a provenancing success story. Archaeometry 37, 217e248.
+Yellin, J., Levy, T.E., Rowan, Y.M., 1996. New evidence on prehistoric trade routes:
+the obsidian evidence from Gilat, Israel. Journal of Field Archaeology 23,
+361e368.
+N. Forster, P. Grave / Journal of Archaeological Science 39 (2012) 728e736736

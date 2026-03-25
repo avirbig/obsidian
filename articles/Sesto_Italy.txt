@@ -1,0 +1,255 @@
+DOI: 10.1007/s10967-008-0502-4 Journal of Radioanalytical and Nuclear Chemistry, Vol. 278, No.2 (2008) 277–282
+0236–5731/USD 20.00 Akadémiai Kiadó, Budapest
+© 2008 Akadémiai Kiadó, Budapest Springer, Dordrecht
+Identification of provenance of obsidian samples
+analyzing elemental composition by INAA
+C. Seccaroni, 1 N. Volante, 2 A. Rosada, 1 L. Ambrosone, 3 G. Bufalo, 4 P. Avino 5 *
+1 Department Tecnologie Fisiche Nuovi Materiali, ENEA R.C.–Casaccia, via Anguillarese 301 - 00123 Rome, Italy
+2 Dipartimento di Archeologia e Storia delle Arti, University of Siena, via delle Cerchia 5 - 53100 Siena, Italy
+3 Department of Food Technology, DISTAAM, Università del Molise, via De Sanctis - 86100 Campobasso, Italy
+4 Department of Naples, ISPESL, via Lomonaco 3 - 80121 Naples, Italy
+5 Chemical Pollution Laboratory, DIPIA-ISPESL, via Urbana 167 - 00184 Rome, Italy
+(Received July 10, 2008)
+The results of a study on 111 obsidian artifacts collected during an archaeological campaign performed by the University of Siena near Sesto
+Fiorentino (Florence, Italy) are reported. Earlier, we used the concentration ratios among some elements as reported in the literature to discriminate
+the deposit sources. Later, optimizing the characterization and for having a more strong classification, multivariate chemiometric investigation has
+been performed (multivariate statistical analysis in Principal Components and Discriminating Factor Analysis). The data obtained show three wellseparated groups connected to the relative sites in Lipari and in Sardinia (flows A and C from Arci Mountain).
+Introduction
+The obsidian, natural glass from volcanic origin
+formed by rapid solidification from a liquid state (SiO2
+as main component ranging between 66% and 75%), 1
+has been widely used both in the Middle East and in the
+Mediterranean area since the Neolithic period.2–11
+Nowadays, in several archaeological sites even far from
+the deposit sites, a lot of obsidian artifacts are found
+documenting its importance and the wide trade ways. 2
+For this reason the obsidian characterization through
+trace element analysis is still involved in several
+investigations carried out in provenance studies.
+Among the different analytical methods used for the
+element speciation such as optical emission
+spectroscopy (OES), X-ray fluorescence (XRF) and
+inductively coupled plasma emission spectroscopy (ICPES), the instrumental nuclear activation analysis (INAA)
+is one of the widely employed in the determination of
+elements at trace and ultra-trace levels in all materials
+and, particularly, minerals, for its peculiar
+characteristics: it allows to analyze few amount (mg) of
+sample, to reach high analytical sensitivity, precision
+and accuracy for each element and to avoid destructive
+analysis even if it is invasive.12
+In this paper, 111 obsidian artifacts coming from the
+archaeological excavation of Neto-via Verga in Sesto
+Fiorentino (Florence, Italy) have been analyzed by
+INAA and their composition has been evaluated for
+individualizing the provenance sites and the prehistoric
+trade ways in the Mediterranean area. All the
+archaeological artifacts studied are dated about 5000 b.p.
+according to the not calibrated 14 C investigation. 13
+* E-mail: pasquale.avino@ispesl.it
+Experimental
+The artifacts have been investigated by INAA for
+determining the concentration of some elements at trace
+levels (ppm). Preliminarily, the artifacts have been
+treated in ultra-sound bath for avoiding the superficial
+contamination. The weight of each artifact varied
+between 70 and 600 mg.
+The neutron irradiation was performed in the
+rotatory rack (Lazy Susan) of the Casaccia TRIGA Mark
+II nuclear reactor. The irradiation time was 21 hours
+with a neutron flux of 2.6.10 12 n.cm–2 .s–1 . The
+integrated flux was of 2.0.10 17 n.cm–2 . The rotatory rack
+speed was kept constant for having homogeneous
+neutron flux and neutron energy.
+Different materials of similar composition to the
+obsidian minerals were chosen as secondary standards;
+particularly, standards GRX1, GRX4 and GRX6 from
+the United States Geochemical Survey (USGS),
+constituted by silica materials from geological source,
+and Coal Fly Ash from the United States National
+Institute of Standards and Technology (NIST) were
+involved in this study. The uncertainty of the
+methodology was tested measuring the above secondary
+standards with solution of primary standards at different
+concentrations: all the found data are in agreement with
+the certified values except for Zn that is always
+consistently lower. This is due to the high 46 Sc
+activation interfering with the 65 Zn peak at 1115 keV. In
+this case we have analyzed the obsidian samples using
+primary Zn standard.C. SECCARONI et al.: IDENTIFICATION OF PROVENANCE OF OBSIDIAN SAMPLES
+278C. SECCARONI et al.: IDENTIFICATION OF PROVENANCE OF OBSIDIAN SAMPLES
+279
+After 70-hour of cooling time, the first measurement
+( 24 Na, 42 K, 76 As, 140 La, 153 Sm, 175 Yb, 187 W, 198 Au,
+239 Np(U)) was carried out by means of a Ge(HP) Ortec
+(FWHM 1.68 keV at 1332 keV) for a measurement time
+of 1 hour. After 20 days a second measurement was
+performed ( 46 Sc, 51 Cr, 58 Co(Ni), 59 Fe, 60 Co, 65 Zn, 75 Se,
+85 Sr, 86 Rb, 95 Zr, 113 Sn, 124 Sb, 131 Ba, 134 Cs, 141 Ce,
+147 Nd, 152 Eu, 153 Gd, 160 Sr, 181 Hf, 182 Ta, 233 Pa(Th))
+with measurement times of 10 and 48 hours,
+respectively. 12 The results are shown in Table 1.
+Results and discussion
+The composition of 111 obsidian artifacts
+collected in the Sesto Fiorentino (Italy) area (Fig. 1) has
+been compared to obsidian samples of well-know
+geographical provenance to understand the deposit
+areas.
+From the literature 3,14 the authors considered
+obsidian samples from the western Mediterranean
+provenance sites such as Lipari, Sardegna (Arci
+Mountain, sites A, B and C), Pantelleria e Palmarola
+(Pontine Island) (Fig. 1). They represent standards
+according to the geographical origin. On the basis of the
+information reported in the literature, 2–11 it should be
+possible to individuate the deposit sites of each obsidian
+artifacts, comparing some elemental ratios, e.g., La/Sc
+vs Cs/Sc. The La/Sc vs. Cs/Sc plot (Fig. 2) shows that
+the samples used as standards make four well-separated
+groups (Sardinia, Lipari, Pantelleria and Pontine island).
+The analyzed obsidian artifacts are located in two
+specific groups: Lipari and Sardinia A (SA) and Sardinia
+C (SC), 3,14 with only one exception, sample 434, that
+seems to be external to the groups (outlier).
+Other useful considerations are possible analyzing
+the correlation between Eu and Cs concentrations
+(Fig. 3) and using the complete discrimination among
+the sites, i.e., source discrimination (Fig. 4):2
+⎟
+⎠
+⎞
+⎜
+⎝
+⎛ ++
++++ 10
+CeLaTh
+100
+Rb
+TaCs
+Sc
+1
+In both cases it is achievable to assign the sample
+434 to the Lipari group.
+Fig. 1. Map of Italy showing the four provenance areas in the Mediterranean regionC. SECCARONI et al.: IDENTIFICATION OF PROVENANCE OF OBSIDIAN SAMPLES
+280
+Fig. 2. Attribution of the obsidian artifacts to the source groups by means of INAA on the basis of ratios of the content
+of La and Sc and Cs and Sc; ○ Lipari standards; 3,14 - Palmarola standards; 3,14 ж SA standards; 3,14
++ SB standards; 3,14 × SC standards 3,14
+Fig. 3. Attribution of the obsidian artifacts to the source groups by means of INAA on the basis of the content of Eu and Cs;
+○ Lipari standards; 3,14 - Palmarola standards; 3,14 ж SA standards; 3,14 + SB standards; 3,14 × SC standards 3,14
+The elements, Ce, Cs, La, Rb, Sc, Ta and Th, are not
+sufficient to separate the obsidian artifacts in different
+groups with high probability. For this reason, the
+achieved results would be considered prudentially and
+subjected to large uncertainty that can be increased using
+statistical methods similar to those involved in the
+provenance characterization and quality control of the
+goods. 15
+This is an evident multivariate problem: in fact, the
+characterization of the geological-geographical
+provenance of obsidian artifacts through a wide
+“chemical composition profile” is a typical statistical
+multivariate analysis. 16 A chemiometric investigation
+has been performed to confirm statistically (very high
+percent of accuracy) the information about the obsidian
+provenance areas. For this scope the Discriminating
+Factorial Analysis was used: 16 the characteristic issue
+has been individuated in the geological-geographical
+factor whereas the variables are the 12 elements present
+in all the artifacts (Ce, Co, Cs, Eu, Fe, Hf, La, Na, Sc,
+Sm, Th, U).
+First of all, the test has been applied to the standards
+for verifying the coincidence with the previous
+elaboration (the separation of the standard samples in
+cluster according to the geographical sources).C. SECCARONI et al.: IDENTIFICATION OF PROVENANCE OF OBSIDIAN SAMPLES
+281
+Fig. 4. Multiple regression analysis: plot of the discrimination factor vs. Fe/Sc abundance ratio
+Fig. 5. Location of the obsidian artifacts (labeled with c) using the discriminant functions; L: Lipari standards; 3,14
+S: Sardinia standards; 3,14 P: Pantelleria standards; 3,14 O: Palmarola standards. 3,14 For the meaning of F1 and F2, see the text
+This explorative analysis based on the Principal
+Component Analysis (PCA), has regarded a dataset of
+the 12 chemical composition variables that, after
+normalization, allow obtaining three principal
+components describing 82.7% of the total variance of
+the data matrix (increasing up to 90.9% with 4
+components). After, using the discriminating factorial
+analysis, linear composition models of the discriminant
+functions are found and the position of artifacts
+compared to the standards is obtained (Fig. 5). The
+consequent statistical tests have allowed confirming the
+separation of the investigated obsidian artifacts into two
+well-identified groups, Sardinia (SA and SC) and Lipari,
+respectively, with very high probability (95%).
+Discriminant functions are used to determine which
+variables discriminate between two or more naturally
+groups. As one can see in Fig. 5, the function F1
+discriminates the groups P (Pan), S (SA and SC) and L
+(Lip) while it is not able to separate the groups S and O.
+On the contrary, the function F2 allows to discriminate
+clearly the group O (Pon). The basic idea underlying in
+the discriminant function analysis is to determineC. SECCARONI et al.: IDENTIFICATION OF PROVENANCE OF OBSIDIAN SAMPLES
+282
+whether a group differs with regard to the mean of a
+variable, and then to use that variable to predict the
+group membership. In general, they are linear
+combination of independent variables used.
+For the case under investigation we found:
+F1 = –0.053Na+1.425La+0.530Sm+0.020U+1.996Sc+
++0.317Fe+0.131Co+0.452Cs-0.239Eu+
++2.793Hf-2.061Ce-0.727 Th
+F2=0.289Na+0.309La+1.659Sm+0.028U-0.360Sc+
++1.300Fe-0.09Co+1.137Cs-0.40Eu
+-0.63Hf-0.37Ce+0.354 Th
+Finally, in Table 1 the trace element composition in
+terms of the mean, minimum and maximum values
+(ppm) and the relative coefficients of variation (CV%) is
+reported in relation with the provenance areas identified
+(Lipari, Sardinia A and Sardinia C). The obsidian
+artifacts coming from Sardinia deposits, SA and SC,
+show a better homogeneity than those from Lipari.
+Conclusions
+In this paper the concentration of 31 elements in 111
+obsidian artifacts coming from the archaeological
+settlement of Sesto Fiorentino (Florence, Italy), was
+investigated by INAA. On the basis of the results, the
+most probable provenance sites have been individuated.
+All the elaborations performed, from statistical tests
+reported in the literature (i.e., the La/Sc vs. Fe/Sc ratio,
+the correlation between Eu and Cs concentrations,
+the source discrimination) using chemiometric
+techniques (Discriminating Factor Analysis), have
+evidenced that the 111 obsidian artifacts (including the
+sample 434 considered an outliner at the beginning)
+came from two main sites in the western Mediterranean
+area, Lipari and Arci Mountain (SA and SC), confirming
+the presence of commercial trades and ways inside the
+area since the Neolithic period. 2–4
+References
+1. V. KILIKOGLOU, Y. B ASSIAKOS, R. C. DOONAN , J. STRATIS,
+J. Radioanal. Nucl. Chem., 216 (1997) 87.
+2. A. ASPINALL, S. W. FEATHER, C. R ENFREW , Nature, 237 (1972)
+333.
+3. B. R. HALLAM , S. E. WARREN, C. R ENFREW , Proc. Prehistoric.
+Soc., 42 (1976) 85.
+4. G. C APANNESI, A. PALMIERI, in: “Tra lo Zagros e l’Urmia”, Ed.
+Dell’Ateneo, Rome, 1984, p. 387.
+5. G. B IGAZZI, S. M ELONI, M. ODDONE , G. R ADI, J. Radioanal.
+Nucl. Chem., 98 (1986) 353.
+6. A. J. AMMERMAN , A. C ESANA, C. POLGLASE, M. TERRANI,
+J. Archaeol. Sci., 17 (1990) 209.
+7. R. H. TYKOT , J. Archaeol. Sci., 24 (1997) 467.
+8. R. H. TYKOT , Mater. Res. Soc. Symp. Proc., 712 (2002) II4.6.1.
+9. R. H. TYKOT , Proc. Intern. School of Physics “E. Fermi”,
+M. M ARTINI, M. M ILAZZO and M. PIACENTINI (Eds), IOS Press,
+Amsterdam, 2004, p. 407.
+10. G. B IGAZZI, M. ODDONE , G. R ADI, Archeometriai Műhely,
+1 (2005) 1 (http://www.ace.hu/am/2005_1/AM-2005-1-GB.pdf).
+11. H. M OMMSEM , B. L. SJÖBERG , Archaeometry, 49 (2007) 359.
+12. P. AVINO , G. C APANNESI, A. R OSADA, Toxicol. Environ. Chem.,
+88 (2006) 633.
+13. N. VOLANTE, Rivista Scienze Preistoriche, LIII (2003) 376.
+14. M. ODDONE , G. B IGAZZI, J. Intercul. Interdiscipl. Archaeol.,
+A/03 (2004) 1.
+15. R. A. HOHNSON , D. W. WICHERN , Applied Multivariate Statistical
+Analysis, Prentice-Hill, Upper Saddle River, NJ, 2002.
+16. B. ESCOFIER , J. PAGÈS, Analyses factorielles multiples, Dunod,
+Paris, 1988.

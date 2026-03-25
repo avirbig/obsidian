@@ -1,0 +1,1057 @@
+Contents lists available at ScienceDirect
+Journal of Archaeological Science: Reports
+journal homepage: www.elsevier.com/locate/jasrep
+Investigating Pottery Neolithic socio-economic “regression” in the Southern
+Levant: Characterising obsidian consumption at Sha'ar Hagolan (N. Israel)
+Tristan Carter a,⁎, Zachary Batist b , Kathryn Campeau a,c , Yosef Garfinkel d
+, Katharina Streit e
+a McMaster Archaeological XRF Lab, Department of Anthropology, McMaster University, Chester New Hall, 524, 1280 Main Street West, Hamilton, ON L8S 4L9, Canada
+b Faculty of Information, University of Toronto, 140 St George St, Toronto, ON M5S 3G6, Canada
+c Department of Anthropology, University of Toronto Mississauga, Terrence Donnelly Health Sciences Complex, HSC300, 3359 Mississauga Road, ON L5L 1C6, Canada
+d Institute of Archaeology, The Hebrew University of Jerusalem, Mount Scopus, Jerusalem 91904, Israel
+e Martin Buber Society of Fellows in the Humanities, The Hebrew University of Jerusalem, Mount Scopus, Jerusalem 91904, Israel
+A R T I C L E I N F O
+Keywords:
+Obsidian
+Pottery Neolithic
+Southern Levant
+Yarmukian
+Socio-economic regression
+Social network analyses
+Göllü Dağ
+Nenezi Dağ
+Nemrut Dağ
+A B S T R A C T
+This paper details the characterisation of 34 obsidian artefacts from Sha'ar Hagolan in the Jordan Valley, a major
+Pottery Neolithic Site of the southern Levantine Yarmukian culture (6400–6000 cal BCE). Employing an integrated approach that melds sourcing data from EDXRF spectroscopy with the artefacts’ techno-typological
+characteristics, we contrast Sha'ar Hagolan's lithic traditions with those of the Pre-Pottery Neolithic southern
+Levantine sites in the context of alleged socio-economic disruptions in the Pottery Neolithic. The results indicate
+that community's obsidian consumption habits largely followed deep-time regional traditions (with only the
+slightest decrease in relative quantities), i.e. the use of Cappadocian raw materials (Göllü Dağ and Nenezi Dağ) to
+make pressure blades, and occasional projectiles, with only a small proportion of eastern Anatolian products
+(Nemrut Dağ). While the Sha'ar Hagolan material seems to embody continuity of southern Levantine cultural
+tradition, other broadly contemporary assemblages attest to the initiation of new procurement networks, and
+novel modes of consumption that reflect the increasing degree of cultural heterogeneity of the period. Finally,
+the distribution of obsidian across the site does not support the idea that social distinction at Sha'ar Hagolan was
+part-based on the preferential access to these exotic resources.
+1. Introduction
+This paper details the elemental characterisation and sourcing of the
+obsidian used to make 34 obsidian artefacts from the 8th–6th millennium cal BC Neolithic site of Sha'ar Hagolan in the southern Levant
+(Fig. 1). Obsidian was an exceedingly rare resource for this community,
+comprising a mere 0.01% of its chipped stone assemblage. Given that a
+mere 38 obsidian artefacts were generated from the excavation of a site
+that housed several thousand inhabitants over a period of ~400 years,
+most people at Sha'ar Hagolan would never have handled this material
+(the original publication details 39 pieces but one was shown to be
+made of flint [see below]). Entire generations may have passed during
+which no new obsidian tools were imported, or made at the site. Obsidian's rarity at Sha'ar Hagolan can be part-explained by the fact that it
+was an exotic resource, the nearest sources located some 630 km linear
+distance to the north in central Anatolia (Fig. 1), its procurement almost
+certainly involving intermediary exchange rather than expeditions to
+the quarries. As such, the ownership, transformation and use of such
+media may have related more to issues of social capital, than utilitarian
+concerns (cf. Helms, 1988, 1993).
+Undertaking this sourcing project, four primary research aims were
+in mind. Firstly, we were interested in situating our analyses in a longterm view of obsidian consumption in the region as a means of engaging with prior claims that the Pottery Neolithic [PN] was a period of
+socio-economic disruption and “retrogression” (Kenyon, 1960: 67–78).
+In short, does the Sha'ar Hagolan data support the idea of a significant
+diminishment and/or reconfiguration of obsidian use by southern Levantine populations? By extent, we would be redressing a major research bias, where obsidian sourcing studies have tended to focus on
+Epi-Palaeolithic (hunter-gatherer) and earliest Neolithic (farming) assemblages as a means of contributing to debates surrounding ‘neolithisation’ (e.g. Carter et al., 2013; Delerue, 2007, inter alia). Secondly,
+we wished to consider the claim that social distinction at Sha'ar Hagolan was partly constituted through preferential access to non-local
+goods (Garfinkel et al., 2012: 119); i.e. did the obsidian come from the
+larger and more complex buildings in association with other exotica?
+http://dx.doi.org/10.1016/j.jasrep.2017.08.016
+Received 13 May 2017; Received in revised form 20 August 2017; Accepted 22 August 2017
+⁎ Corresponding author at: Department of Anthropology, McMaster University, Chester New Hall, 524, 1280 Main Street West, Hamilton, ON L8S 4L9, Canada.
+E-mail addresses: stringy@mcmaster.ca (T. Carter), batistz@mcmaster.ca (Z. Batist), campekm@mcmaster.ca (K. Campeau), garfinkel@mail.huji.ac.il (Y. Garfinkel),
+katharin.streit@mail.huji.ac.il (K. Streit).
+Journal of Archaeological Science: Reports 15 (2017) 305–317
+Available online 01 September 2017
+2352-409X/ © 2017 Elsevier Ltd. All rights reserved.
+MARKThirdly, with Sha'ar Hagolan a somewhat anomalous site for the period,
+regarding population, planning and social complexity, we were interested to see if the community's procurement and use of obsidian was
+also distinct to that of other southern Levantine PN communities.
+Fourthly, we wished to contextualise Sha'ar Hagolan's raw material
+choices and modes of consumption (tools / knapping traditions), within
+contemporary supra-regional patterns of obsidian circulation and use.
+In considering how the same raw materials were being used by broadly
+synchronic populations elsewhere, we hoped to be able to discern distinct ‘communities of practice’ (Knappett, 2011: 98–123), i.e. networks
+of people whose common traditions were underpinned by close social
+relations, articulated via spousal exchange, trade partnerships, and
+other forms of binding alliances. The latter concern relates to our research group's larger interest in reconstructing socio-economic interaction from the ground-up via a form of ‘thick description’ characterisation study (e.g. Carter et al., 2005, 2013). Ultimately such an
+approach enables us to examine how populations became bound together through the development of shared traditions, working under
+the premise that what we are revealing about raw material and technical choices ultimately part-constituted these peoples' very identity
+(Dietler and Herbich, 1998: 246–47; Dobres, 2000).
+2. Background to Sha'ar Hagolan and the Yarmukian culture
+The site of Sha'ar Hagolan is located on the river Yarmuk, a tributary of the great Jordan River in northern Israel (central Jordan Valley),
+1.5 km south of the Sea of Galilee (Figs. 1–2). The site was first excavated from 1949 to 1952 (Stekelis, 1951, 1972), followed by a further
+11 seasons from 1989 to 1990, and 1996–2004 (Garfinkel and Miller,
+2002; Garfinkel et al., 2012). Sha'ar Hagolan comprises the type site for
+the PN Yarmukian culture, i.e. the first pottery producing communities
+of the southern Levantine Mediterranean belt (Israel, Jordan, Lebanon,
+and Palestine [Garfinkel, 1993, 2002]). Before the excavations at Sha'ar
+Hagolan, the PN of the southern Levant was largely viewed as a period
+Fig. 1. Location of Sha'ar Hagolan, and the obsidian sources
+detailed in the text.
+Fig. 2. Plan of the Sha'ar Hagolan excavations.
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+306of decline compared to the preceding Pre-Pottery Neolithic B (PPNB),
+and contemporary cultures to the north. The PPNB has been characterised as a period of pan-Levantine cultural traditions, with large
+villages of 8 ha (Bar-Yosef and Belfer-Cohen, 1989), whereas the PN
+world was a “mosaic of regional cultures”, with semi-nomadic populations and limited architectural investment (Garfinkel and Miller,
+2002: 1–4). In the southern Levant this period of emergent socio-cultural diversity is represented by the different set of practices embodied
+by the so-called Yarmukian, Jericho IX, and slightly later Wadi Raba
+cultures (Garfinkel, 1993; Gopher and Gophna, 1993). This period of
+cultural “retrogression” (Kenyon, 1960: 67–78) is claimed to have been
+partly-due to a shift from an economy based on agriculture to a greater
+reliance on pastoralism in the first half of the 7th millennium BC (BarYosef, 1992: 31–38; Rollefson, 1989: 170; Wasse, 2002).
+The Yarmukian is dated between 6400 and 5800 cal BCE
+(~ 7500–7000 BP), by 23 radiometric determinations, 17 of which were
+derived from Sha'ar Hagolan itself (Garfinkel, 1999; Garfinkel et al.,
+2012: 103–106, Fig. 6, Table 1; Gopher and Gophna, 1993: 307–317).
+Typical for the site and culture were ceramics with herring-bone decoration, coarsely denticulated flint sickle-blades, and numerous schematic anthropomorphic figurines (Stekelis, 1951). While the southern
+Levantine Pottery Neolithic [PN] was largely perceived to be a period of
+diminished social complexity and settlement size, Sha'ar Hagolan constituted a large (c. 20 ha), densely populated settlement, one of the
+major Near Eastern sites of the period (Garfinkel et al., 2012: 97–101).
+In turn, while Yarmukian sites had been characterised as architecturally
+poor, consisting of part-sunken circular huts, and/or rudimentary round
+and rectangular structures (Garfinkel, 1993: 127–129), Sha'ar Hagolan
+had monumental courtyard buildings (Garfinkel and Ben-Shlomo,
+2002). With the community's architectural complexity (Fig. 3), well-
+Table 1
+Elemental compositions of Sha'ar Hagolan obsidian artefacts as determined by EDXRF.
+** EGD = East Göllü Dağ, K/KD = K/KD = Kaletepe/Kaletepe Deresi; KE = Kayırlı East; Standard RV = recommended values.
+Sample Source Ti
+ppm
+Mn
+ppm
+Fe
+ppm
+Rb
+ppm
+Sr
+ppm
+Y
+ppm
+Zr
+ppm
+Nb
+ppm
+Ba
+ppm
+Pb
+ppm
+Th
+ppm
+SH.001 EGD – K/KD 778 395 7585 197 20 26 91 18 245 25 18
+SH.003 EGD – K/KD 846 404 7643 198 19 26 83 32 290 25 49
+SH.007 EGD – K/KD 966 425 8060 200 18 23 82 27 297 28 45
+SH.012 EGD – K/KD 802 412 7862 202 18 22 88 26 288 27 41
+SH.015 EGD – K/KD 854 394 7603 203 17 25 84 29 248 26 43
+SH.016 EGD – K/KD 823 387 7434 197 19 26 87 30 273 24 40
+SH.017 EGD –K/KD 743 362 7035 187 17 24 93 19 270 26 32
+SH.019 EGD – K/KD 849 442 7580 195 19 25 86 24 274 26 35
+SH.021 EGD – K/KD 815 408 7504 191 17 26 83 22 299 26 40
+SH.022 EGD – K/KD 889 427 7572 187 18 22 81 21 263 25 31
+SH.027 EGD – K/KD 918 398 7130 165 18 19 78 21 246 24 29
+SH.031 EGD – K/KD 880 362 7137 184 15 22 83 20 284 24 25
+SH.032 EGD – K/KD 731 367 7253 191 18 25 96 18 301 24 23
+SH.033 EGD – K/KD 780 393 7685 202 17 22 90 20 282 24 21
+SH.034 EGD – KE 1022 401 7560 187 17 22 77 20 172 26 23
+SH.002 Nemrut Dağ 1102 401 22,785 226 7 127 1181 80 23 41 61
+SH.030 Nemrut Dağ 1029 376 22,026 225 7 128 1189 61 23 41 32
+SH.004 Nenezi Dağ 1166 457 10,661 169 104 24 139 22 763 28 49
+SH.006 Nenezi Dağ 1179 422 9953 162 99 19 139 26 833 27 43
+SH.008 Nenezi Dağ 1271 530 13,476 214 117 24 155 18 787 32 37
+SH.009 Nenezi Dağ 1146 436 10,257 170 100 23 140 23 829 29 53
+SH.010 Nenezi Dağ 1191 419 9843 167 96 21 134 22 807 27 54
+SH.011 Nenezi Dağ 1179 426 10,311 178 107 20 144 23 886 27 44
+SH.013 Nenezi Dağ 1150 461 10,535 176 105 22 141 21 855 27 52
+SH.014 Nenezi Dağ 1202 423 10,162 171 103 23 149 21 923 27 46
+SH.018 Nenezi Dağ 1288 463 10,817 181 104 21 142 24 821 28 52
+SH.020 Nenezi Dağ 1240 504 11,323 180 105 21 145 18 815 28 44
+SH.023 Nenezi Dağ 1057 420 9629 167 98 20 144 17 865 26 42
+SH.024 Nenezi Dağ 1185 404 9848 166 98 21 138 16 801 26 32
+SH.025 Nenezi Dağ 1031 439 10,403 173 103 22 144 18 844 27 35
+SH.026 Nenezi Dağ 1151 488 11,065 185 107 23 148 20 842 31 42
+SH.028 Nenezi Dağ 1026 447 10,390 172 103 20 143 17 867 28 38
+SH.029 Nenezi Dağ 1076 421 9584 162 99 22 142 19 798 27 44
+SH.035 Nenezi Dağ 1130 453 10,195 172 101 20 144 17 821 27 34
+RGM-2 Standard 1361 286 12,818 145 103 23 216 7 821 21 8
+RGM-2 Standard 1886 280 12,852 147 106 23 214 8 842 21 10
+RGM-2 Standard 1463 298 12,885 143 103 23 213 10 851 22 12
+RGM-2 Standard RV 1499 ± 138 273 ± 8 13,010 ± 280 147 ± 5 108 ± 5 24 ± 2 222 ± 17 9 842 ± 35 20 ± 1 15 ± 1
+Fig. 3. Detailed site plan of Sha'ar Hagolan settlement showing the location of the 34
+obsidian artefacts analysed in this study.
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+307organised layout, street system, and evidence for communal water
+management (a deep well), the site is believed to reflect an important
+step in the transition from the large villages of the PPNB, to the planned
+infrastructure of later urban settlements of the Near East (Garfinkel
+et al., 2006, 2012: 114).
+Miller (2002) estimates the community to have comprised several
+thousand people, the large houses (225–700 m 2
+) comprising the residences of extended families, their courtyards employed for communal
+cooking and storage. Scalar distinctions between the houses are further
+believed to infer wealth accumulation by those families who had gained
+control of the largest tracts of land and/or flocks, as reflected by the
+larger structures' concentration of decorated / larger items, and longdistance exotica such as obsidian, sea shells, and alabaster vessels
+(Garfinkel et al., 2012: 119). Concerning subsistence, the community
+practised a true mixed agro-pastoral regime, dominated by emmer
+wheat, barley, sheep and goat, together with smaller quantities of pigs,
+cattle, and legumes, with wild resources playing a supplementary role,
+including the hunting of gazelle and birds (Allen, 2002; Hesse, 2002).
+While our paper focuses on the Yarmukian material, which in itself
+is divided into an earlier and later phase at Sha'ar Hagolan, there were
+also two obsidian artefacts from the test-pits dug into PPNC strata in
+Area E.
+3. Research questions and methodology
+This study's basic aim is to source the obsidian used to make the
+Sha'ar Hagolan artefacts. This is achieved by matching elemental fingerprints of artefact raw materials with geological samples from known
+volcanic sources, the chemical analyses undertaken using an energydispersive X-ray fluorescence spectrometer [EDXRF]. These data when
+integrated with other aspects of the finds' character, will enable us to
+engage with a series of larger debates about the nature of the community, and its location within local, regional, and supra-regional
+socio-economic dynamics. These research questions can be described as
+follows:
+Firstly, given the claimed decline in socio-economic complexity, and
+the reconfiguration of lifeways from the PPNB to PN, do we simultaneously view significant changes in the level and nature of obsidian
+consumption amongst southern Levantine communities? In a related
+vein, is there an increased regional diversity with regard to the raw
+materials circulating and the means by which they were worked in the
+context of the claimed shift from a pan-Levantine tradition of the PPNB
+to the ‘mosaic’ of regional cultures in the PN? This first question necessitates a long-term regional perspective on obsidian consumption,
+drawing on the major studies of Chataigner (1998), and Delerue (2007)
+amongst others. We also employ a social network analysis [SNA] approach based upon a recent study by Batist (2014).
+Secondly, to what extent is the argument that foreign goods were
+preferentially consumed by the residents of larger buildings borne out
+by a detailed contextual analysis of the Sha'ar Hagolan obsidian?
+Thirdly, given the apparently distinct nature of Sha'ar Hagolan in its
+wider PN southern Levantine context, can one view distinctions in
+obsidian consumption amongst other Yarmukian culture populations?
+Fourthly, how does the Sha'ar Hagolan data fit into more general patterns of supra-regional obsidian circulation at this time? Here we consider which other (broadly) contemporary communities were accessing
+the same raw materials and the means by which they were working
+them. The aim would be to situate Sha'ar Hagolan within a particular
+tradition of consumption (or ‘community of practice’) as a means elucidating at a more detailed resolution the socio-economic networks
+these people were participating within. Conversely, can we document
+parallel regional traditions that the Sha'ar Hagolan community did not
+engage in?
+Methodologically we approach these questions through an integrated characterisation study, a ‘thick description’ method (Geertz,
+1973: 3–30; Hodder, 1999: 66–79) that situates metrical data, technotypological information and raw material sourcing within a chaîne
+opératoire analytical framework (e.g. Carter et al., 2013). Such an approach generates a rich evidential basis for documenting localised
+traditions of practice and their changes through time (when contrasted
+with earlier assemblages from the same region) and by extent a means
+of interrogating inter-community relations (cf. Lightfoot et al., 1998).
+4. The Sha'ar Hagolan chipped stone assemblage
+Excavations at Sha'ar Hagolan generated almost one million pieces
+of chipped stone, of which approximately a third have been studied in
+detail (Garfinkel et al., 2012: 120). The assemblage is dominated by
+artefacts made from flint pebbles, locally available in abundance from
+the adjacent Yarmuk River, together with lesser quantities of flint nodules from a different source, plus handfuls of implements made of
+limestone and obsidian (Alperson and Garfinkel, 2002: 146–147). Obsidian artefacts constitute a minute proportion of the chipped stone
+assemblage. While the final figures are not available, the 2002 report
+details 34,583 artefacts (99.8% flint), of which 10 were obsidian, a
+mere 0.03% of the total from the 1989–90 and 1996 seasons (Alperson
+and Garfinkel, 2002: 146–147, Table 10.1). We are thus dealing with 39
+artefacts recovered from an area that housed several thousand inhabitants over a period of ~ 1200 years, which would equate to approximately 1–1.6 pieces of obsidian entering the site per generation
+(based on a 25–30 year estimate [see Coale et al., 1983]). It thus becomes clear that obsidian artefacts would have been very rare to the
+people of Sha'ar Hagolan, a rarity that no doubt part-constituted their
+significance to those who were able to access such media (see Helms,
+1988). On the face of it, such tiny quantities of obsidian are perhaps
+unsurprising given that the closest sources lay some 630 km (as-thecrow-flies) away in the Cappadocian region of central Anatolia (Fig. 1).
+That said, as we discuss below, larger relative amounts of obsidian were
+being procured both by contemporary, and earlier communities of the
+same region, indicating that (linear) distance from source cannot be
+viewed as the sole influence on the raw materials' distribution.
+Technologically, the local flint was worked by four knapping traditions (Garfinkel et al., 2012: 120), mainly the manufacture of ad hoc
+flakes, together with lesser quantities of bifacial tools, plus unipolar,
+and opposed platform blades (Barzilai and Garfinkel, 2006). Amongst
+the modified tools, denticulated prismatic blades with glossed edges
+(‘sickles’) were dominant. There were also scrapers, awls/borers, notched/denticulated implements (without gloss), truncated pieces,
+burins, a range of short blade-based tanged projectiles (‘arrowheads’),
+and bifacial axes (Alperson and Garfinkel, 2002: 162–174,
+Figs. 10.13–10.25).
+The obsidian at Sha'ar Hagolan was worked using at least two distinct knapping traditions. Dominant are pressure-flaked blades from
+unipolar cores, followed by a few laminar products from percussionbased opposed platform cores. Obsidian tools were intensively used,
+with over three-quarters of the assemblage having macroscopic usewear (n = 27/79%). In turn, almost a quarter of the blanks had been
+deliberately modified into tools sensu strictu (n = 8/34, 24%), a significantly higher proportion that witnessed in the flint component of
+the chipped stone (3% [Alperson and Garfinkel, 2002: Table 10.1]). The
+obsidian implements included two end-scrapers, two (possibly three)
+broken projectiles, and two notched blanks. The obsidian is thus more
+intensively used and worked than the flint, but less techno-typologically
+varied (with no denticulates, or awls), which might suggest a more
+restricted functional role for obsidian tools. That said, the existence of
+points and scrapers in both obsidian and flint might argue against raw
+material specific uses; only a use-wear analysis could clarify these issues.
+5. Sampling and analytical procedures
+In this study, we chemically characterised 34 of the 38 Sha'ar
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+308Hagolan obsidian artefacts, 89% of the total; four pieces were not sent
+for analysis as they were techno-typologically undiagnostic chips/flakes
+whose small size would also have been problematic for an XRF-based
+technique (Davis et al., 2011). These artefacts were analysed whole,
+and non-destructively at the McMaster Archaeological XRF Lab [MAX
+Lab] by a Thermo Scientific ARL Quant'X EDXRF spectrometer. X-ray
+fluorescence techniques are well-established within Near Eastern obsidian characterisation studies, capable of discriminating the products
+of those sources known to have been used by the region's prehistoric
+populations (cf. Carter et al., 2013; Carter and Shackley, 2007;
+Kobayashi and Mochizuki, 2002; Frahm, 2014; inter alia). Each artefact
+was prepared for analysis by being cleaned in an ultrasonic tank with
+distilled water for 10 min, after which it was mounted on the sample
+tray, with the flattest surface possible positioned as the X-ray target.
+The spectrometer is equipped with an end window Bremsstrahlung,
+air cooled, Rh target, 50 watt, X-ray tube with a ≤ 7.6 μm (0.3 mil)
+beryllium (Be) window, an X-ray generator that operates from 4 to
+50 kV in 1 kV increments (current range, 0–1.98 mA in 0.02 mA increments), and an Edwards RV8 vacuum pump for the analysis of elements below titanium (Ti). Data is acquired with a pulse processor and
+analogue to digital converter.
+The analytical protocols and methods follow those devised by M.S.
+Shackley (2005, appendix; Poupeau et al., 2010: 2711). In the study, we
+ran the artefacts under two analytical conditions. The pieces are first
+run under a Mid Zb analysis condition with the X-ray tube operated at
+30 kV using a 0.05 mm (medium) Pd filter in an air path for 200 s livetime to generate X-ray intensity Kα-line data for elements titanium
+(Ti), manganese (Mn) and iron (Fe), zinc (Zn), gallium (Ga), rubidium
+(Rb), strontium (Sr), yttrium (Y), zirconium (Zr), niobium (Nb), lead
+(Pb) and thorium (Th). The second is a High Zb analysis condition with
+the X-ray tube operated at 50 kV using a 0.63 mm (thick) Cu filter in an
+air path to detect the element barium (Ba).
+Trace element intensities were converted to concentration estimates
+by employing a least-squares calibration line ratioed to the Compton
+scatter established for each element from the analysis of international
+rock standards. These comprise AGV-2 (andesite), BCR-2 (basalt),
+BHVO-2 (hawaiite), BIR-1a (basalt), GSP-2 (granodiorite), QLO-1
+(quartz latite), RGM-2 (rhyolite), SDC-1 (mica schist), STM-2 (syenite),
+TLM-1 (tonalite), and W-2a (diabase) from the US Geological Service
+[USGS], plus JR-1 and JR-2 (both obsidian) from the Geological Survey
+of Japan. The USGS standard RGM-2 is analysed during each sample
+run to check machine calibration and accuracy, with a maximum of 19
+artefacts, plus standard per analysis. The data is then translated directly
+into Excel for Windows software for manipulation, and interrogation.
+Once in Excel form, data is normalised to the standard reference
+sample, RGM-2, before its interrogation and plotting. This process
+consists of determining the relative error in the standard measurement
+and applying this difference to the individual artefacts analysed for
+each tray processed by the instrument. This procedure ensures source
+and artefact data results are consistently based on the reference, thus
+providing a more accurate match between chemical fingerprints.
+6. Results: raw material sources
+The elemental concentrations of the 34 artefacts after normalisation
+to the RGM-2 standard are presented in Table 1. Source assignment was
+achieved through comparing the chemical signatures of the artefact
+with those of source samples run by the lab under the same analytical
+conditions. In choosing which geological products to compare with the
+Sha'ar Hagolan data, we considered a number of factors. Firstly, our
+work does not exist in isolation, with a series of southern Levantine
+characterisation studies over the past 50 years detailing how through
+time the region's populations have produced and/or procured tools
+made of obsidian from central, eastern and north-eastern Anatolian
+sources (Chataigner, 1998; Delerue, 2007). These include products of
+the following volcanic complexes (Fig. 1): Acıgöl, Göllü Dağ and Nenezi
+Dağ (Cappadocia), Bingöl, Gürgürbaba Tepe (Meydan Dağ), and
+Nemrut Dağ (Lake Van region), plus Sarakımış (north-eastern Turkey).
+We also included raw materials from the Armenian sources of Gutansar
+and Syunik as these raw materials have recently been documented from
+another Neolithic – Chalcolithic southern Levantine site by our lab.
+In an initial bivariate plot of zirconium vs. strontium concentrations
+the artefacts are clearly discriminated into three groups (Fig. 4). The
+largest cluster (n = 17, 50%) of artefacts appear to match the elemental
+values for geological samples from the southern Cappadocian source of
+Nenezi Dağ. This assignation is confirmed by a close-up view of the
+same data-plot, exclusively depicting this group of artefacts and the
+Nenezi Dağ source data encircled with a 95% confidence ellipse (Fig. 5).
+The next major grouping of artefacts (n = 15, 44%) cannot be
+completely discriminated using the Zr vs. Sr graph, with the data points
+broadly coinciding with source materials from Göllü Dağ Suphan Dağ,
+and Syunik. Full discrimination can however be achieved via a multivariate plot of Zr vs. Rb/Zr vs. Nb (Fig. 6), which serves to illustrate that
+these Sha'ar Hagolan artefacts were made of obsidian from the southern
+Cappadocian source of Göllü Dağ, a provenance that can be further
+confirmed using line graphs of all elemental concentrations (Fig. 7).
+Göllü Dağ actually has a number of spatially, chronologically and geochemically distinct outcrops of obsidian (Binder et al., 2011; Poidevin,
+1998: 115–121; Poupeau et al., 2005). A bivariate plot of Sr vs. Ba
+values for our artefacts with the products of the Kaletepe, Kaletepe
+Deresi, East Kayırlı, Sirça Deresi, and Bozköy outcrops (Fig. 8), allows
+us to source the Sha'ar Hagolan raw materials to Kaletepe and Kaletepe
+Deresi (n = 14), plus East Kayırlı (n = 1).
+The final two artefacts (6% of the total) clearly corresponds to a
+Fig. 4. Bivariate contents plot of Zr vs. Sr for geological samples
+from pertinent Anatolian and Armenian obsidian sources and
+Sha'ar Hagolan artefacts.
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+309peralkaline obsidian source with Zr values in excess of 1000 ppm
+(Fig. 4); such chemically distinctive products are only known from two
+sources in eastern Anatolia, namely Bingöl A and Nemrut Dağ (Frahm,
+2012; Poidevin, 1998: 141–142). To distinguish between these sources'
+products we generated a multivariate plot of Pb vs. Nb/Pb vs. Rb
+(Fig. 8), together with a bivariate ratio plot of Nb/Pb vs. Y/Nb (Fig. 9),
+which indicate clearly that the artefacts were made of Nemrut Dağ
+obsidian.
+One final note, bladelet (SH05) is now appreciated to be made of a
+fine, semi-translucent chert; it was erroneously published as obsidian
+(Alperson and Garfinkel, 2002: Fig. 10.1, 6). We now turn to integrating
+the sourcing data with techno-typological, stratigraphic, and contextual
+information.
+7. Obsidian consumption at Sha'ar Hagolan
+Most of the 17 artefacts of Nenezi Dağ obsidian relate to the manufacture of pressure flaked blades/bladelets from unipolar cores
+(Table 2). Evidence for the on-site performance of this craft is attested
+by two exhausted cores (SH14, SH4), one of which appears to have been
+made on a thick-flake (Fig. 10.1, 5). There were also nine fragmentary
+blades, including two with remnant cortex (SH11, SH13), three true
+centre/prismatic blades (SH6, SH9, SH28), two core rejuvenation flakes
+(one removing the upper face/platform [SH26]), two flakes, and a chip
+(Table 2). There was also a slightly wider blade that may have derived
+from a percussion knapped opposed platform core (SH23), a quite
+distinct tradition (Fig. 10). Almost two-thirds of these blanks had
+macroscopic use-wear (n = 11/65%); three of them had also been retouched, with a notched part-cortical blade (SH11), and two points. The
+first projectile is made on the distal end of a pressure bladelet (SH10); it
+is complete, tanged at its proximal end and measures only 2.13 cm long
+(Fig. 10). While small arrowheads – under 4 cm long – are characteristic
+of Late Neolithic Levantine assemblages (Gopher and Gophna, 1993:
+308, 319, Figs. 7–8), the Sha'ar Hagolan example is not directly comparable to any of the well-established types, i.e. the ha-Parsa, Nizzanim,
+and Herzliya points, though tangs seem to be a common attribute of the
+first two forms (Gopher, 1994: 41, Fig. 4.9). Broadly comparable types
+made of flint are also known from Sha'ar Hagolan (Alperson and
+Garfinkel, 2002: 162, Figs. 10.13, 1, 4–5, 10.14, 5). There is also a
+double-notched blade with basal retouch (SH28) that may be the base
+of an Abu Maadi or Helwan point (Fig. 10), though such projectiles tend
+to be significantly earlier in date (PPNB) in the southern Levant
+(Gopher, 1994: 31–32, 34–36, 194–199, Figs. 4.3, 4.5, 6.7). Alternatively, if it is simply a broken opposing-notched blade then the
+broadly contemporary site of Hagoshrim (Jordan Valley) has directly
+comparable implements made of obsidian (Schechter et al., 2013:
+519–522, Fig. 9, a).
+The 15 pieces of Göllü Dağ obsidian all derive from a unipolar
+pressure blade technology (Fig. 11), though the blades' range of widths
+Fig. 5. Bivariate contents plot of Zr vs. Sr for geological samples from the Nenezi Dağ and
+Pasinler obsidian sources and 17 Sha'ar Hagolan artefacts with 95% confidence ellipse.
+Fig. 6. Ternary contents and ratio plot of Nb vs. Rb/Zr vs. Sr for 15 Sha'ar Hagolan
+artefacts and geological samples from the obsidian sources of East Göllü Dağ
+(Cappadocia), Suphan Dağ (Lake Van), and Syunik (Armenia).
+Fig. 7. Line graphs of elemental concentrations of 15 Sha'ar
+Hagolan artefacts compared to geological source samples from
+East Göllü Dağ (n = 102), Suphan Dağ (n = 115), and Syunik
+(n = 70).
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+310(0.34–2.21 cm) indicates that more than one tradition of core reduction
+is represented (see Pelegrin, 2012). Most blanks are end-products, with
+only one chunk and two rejuvenation flakes attesting to a limited degree of on-site working of this raw material; all bar one had macroscopic use-wear (Table 2). Four pieces had been deliberately modified,
+including a blade with linear retouch (SH3), a tiny end-scraper on a
+bladelet (SH31), plus a trapezoidal arrowhead made on a truncated
+prismatic blade (SH12). This projectile type is well-attested from the PN
+in the Levant and Anatolia beyond (Carter et al., 2011: 140; Gopher,
+1994: 41–42, 220–225, Figs. 4.9, 6.11).
+Finally, the two pieces of Nemrut Dağ obsidian comprise two core
+rejuvenation flakes, both with use-wear (Table 2); SH30 came from the
+face of a pressure blade core and was notched (Fig. 11).
+In sum, the Sha'ar Hagolan obsidian artefacts all appear to derive
+from the manufacture of pressure blades, with most of them – irrespective of source – comprising end-products, or waste flakes from late/
+end-stage core maintenance, and rejuvenation. The earliest stages of
+production, not least nodule decortication, core preparation and blade
+initiation, all appear to have occurred elsewhere. This may have been at
+quarry-based workshops, as during the earlier Neolithic (e.g. Binder
+and Balkan-Atlı, 2001), or at intermediary sites such as Hagoshrim
+60km to the north, where there is evidence for blade cores and related
+production debris of both Göllü Dağ and Nemrut Dağ obsidian
+(Schechter et al., 2013). Finally, the fact that most pieces have macroscopic traces of edge-wear (n = 27, 79%) can be viewed as an index
+of these exotic implements’ intensive use, and by extent their value.
+7.1. A diachronic contextual analysis
+Most of the Sha'ar Hagolan obsidian came from the upper Pottery
+Neolithic [PN] strata (Yarmukian culture), while a further two pieces
+came from the preceding Pre-Pottery Neolithic C [PPNC] horizon; four
+pieces were un-stratified surface finds. In undertaking our diachronic
+comparative analyses, we employ the ASPRO (Atlas des sites du ProcheOrient) chronological system developed by the Maison de l'Orient
+(Aurenche et al., 2001; Hours et al., 1994), within which Sha'ar Hagolan represents a Period 5–6 site.
+7.1.1. Pre-Pottery Neolithic C (7000–6400 cal BCE)/ASPRO Period 5
+Two artefacts were recovered from the PPNC strata exposed in Area
+E, comprising two pressure blades of Göllü Dağ obsidian (SH15, SH16);
+both were medial segments and had macroscopic traces of use-wear
+(Table 2).
+7.1.2. Yarmukian/Pottery Neolithic (6400–6000 cal BCE)/ASPRO Period
+6
+Area E is the largest horizontal exposure at the site comprising an
+area of ca. 1700 m2 (Fig. 2). Two large courtyard structures were
+completely uncovered, with Building Complex I approximately 250 m 2
+,
+and Building Complex II ca. 700 m 2
+, while three others were partly
+revealed. Previous studies have indicated that not only was Building
+Complex II is larger than Building Complex I, but its pottery assemblage
+is more elaborate, with decorated pottery constituting 24% and 15% of
+their respective ceramic assemblages. Similarly, the former structure
+produced 43 figurines, while the latter only contained 12. The distribution of obsidian does not, however, share the same pattern, with
+six artefacts from Building Complex I, and five from Building Complex
+II (a further two were recovered from fill above the structure [Table 2]).
+If one considers these data-set proportionally with respect to building
+size, then it could be argued that Building I has the richer assemblage.
+The six artefacts from Building Complex I material included four
+pieces of Nenezi Dağ obsidian, with two exhausted pressure blade cores
+(SH04, SH14), and two broken blades (SH06, SH13), plus two retouched blades made from Göllü Dağ obsidian, one being a tiny endscraper (SH03, SH31). Of the five artefacts from Building Complex II,
+four were made of Nenezi Dağ obsidian, and one of Göllü Dağ. While
+only a small assemblage, two of the pieces were in the form of arrowheads, a short tanged example made on a bladelet of the former raw
+material (SH10 [Fig. 10]), plus a trapeze made on a blade of Göllü Dağ
+obsidian (SH12 [Fig. 11]). The other three Nenezi Dağ artefacts were in
+the form of a non-cortical flake, and two fragmentary pressure blades
+(Table 2 X).
+Smaller quantities of obsidian were recovered from the buildings
+Fig. 8. Bivariate contents plot of Ba vs. Sr for geological samples
+from outcrops on the eastern flanks of Göllü Dağ, and 15 Sha'ar
+Hagolan artefacts.
+Fig. 9. Bivariate ratio plot of Y/Nb vs. Nb/Pb for geological samples from the Bingöl A
+and Nemrut Dağ sources, plus two Sha'ar Hagolan artefacts with 95% confidence ellipse.
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+311and open spaces revealed in the excavations of Area H (n = 2 [SH30SH31]), and Area N (n = 2 [SH32 and SH35]). The former comprised
+an end-scraper on a blade of Göllü Dağ obsidian, plus a notched rejuvenation flake made from Nemrut Dağ raw materials; both had traces
+of use-wear. The Area N items included a blade and core rejuvenation
+flake, both used, of Göllü Dağ and Nenezi Dağ obsidian respectively
+(Table 2).
+Area G was an open area at the site, with a water well in its earlier
+sequence. Here the number of obsidian artefacts is quite high: 11 items
+altogether. Of these five items were found in local Phase 11. This phase
+was excavated in a relatively small horizontal exposure and is the
+earliest Yarmukian phase at the site. It indicates that in the early
+Pottery Neolithic obsidian was traded more frequently than the later
+part of the period.
+7.1.3. Topsoil/mixed contexts
+There were also four artefacts that could not be well dated (Table 2),
+including a medial blade segment of Göllü Dağ obsidian that had been
+re-deposited into a layer of the Islamic period (SH34). The remainder
+came from the topsoil, with a blade-like flake of Nenezi Dağ obsidian
+(SH29), plus two Göllü Dağ products, one a core rejuvenation flake
+(SH17), the other a round-based bifacially modified Amuq point (made
+on a relatively thick blade), which had been reduced on both faces,
+presumably post-use (SH33 [Fig. 11]). Amuq points are well-known
+throughout the Levant and Anatolia during the PPNB and into the PN,
+i.e. the mid-eighth to later seventh millennium cal BC (Gopher, 1994:
+39, 209–210, Fig. 4.8). This projectile type is also represented in flint at
+Sha'ar Hagolan (Alperson and Garfinkel, 2002: 162, Figs. 10.13–10.14).
+8. The Sha'ar Hagolan data in its regional context
+The past 50 years of Near Eastern obsidian sourcing studies provide
+Table 2
+Contextual and techno-typological data for the 34 analysed Sha'ar Hagolan artefacts (Bdg. Com. = Building Complex; K/KD = Kaletepe/Kaletepe Deresi; KE = Kayırlı East).
+ID # Area Square Basket Locus Stratum Context Architectural unit Source Debitage category
+SH 01 E J44a E1027 E492 Yarmukian Fill Above Bdg. Com. II East Göllü Dağ (K/KD) Blade-core rejuvenation piece; used
+SH 02 E H43a E1163 E338 Yarmukian Fill Above Bdg. Com. II Nemrut Dağ Part-cortical flake (5%); used
+SH 03 E G45c E843 E422 Yarmukian Pit Room B, Bdg. Com. I East Göllü Dağ (K/KD) Blade - retouched; used
+SH 04 E H46a E891 E132 Yarmukian Wall Room E, Bdg. Com. I Nenezi Dağ Blade core
+SH 06 E H45b E316 E25 Yarmukian Pit Courtyard A, Bdg. Com. I Nenezi Dağ Blade; used
+SH 07 E J44d E1322 E433 Yarmukian Floor Room O, Bdg. Com. II East Göllü Dağ (K/KD) Blade; used
+SH 08 E I43b E934 E512 Yarmukian Debris Courtyard A, Bdg. Com. II Nenezi Dağ Non-cortical flake
+SH 09 E G44a E947 E270 Yarmukian Debris Courtyard A, Bdg. Com. II Nenezi Dağ Blade; used
+SH 10 E J45c E1390 E440 Yarmukian Pit Open area E61 in NE of Area E Nenezi Dağ Tanged point on blade; used
+SH 11 E H44a E173 E3 Yarmukian Debris Courtyard A, Bdg. Com. II Nenezi Dağ Blade - notched; used
+SH 12 E H43b E1233 E329 Yarmukian Debris Area T, Bdg. Com. EII East Göllü Dağ (K/KD) Trapeze on blade; used
+SH 13 E H45a E2282 E804 Yarmukian Debris Courtyard A, Bdg. Com. I Nenezi Dağ Blade; used
+SH 14 E H45a E2225 E788 Yarmukian Pit Courtyard A, Bdg. Com. I Nenezi Dağ Blade core
+SH 15 E H45a E2318 E817 PPNC Debris Open area East Göllü Dağ (K/KD) Blade; used
+SH 16 E H45a E2216 E775 PPNC Debris Open Area East Göllü Dağ (K/KD) Blade; used
+SH 17 Topsoil Topsoil East Göllü Dağ (K/KD) Blade-core rejuvenation piece; used?
+SH 18 G O48c G115 G24 Yarmukian Debris Open area Nenezi Dağ Chip; used?
+SH 19 G O48a G204 G42 Yarmukian Floor Open area East Göllü Dağ (K/KD) Blade; used
+SH 20 G O48c G249 G67 Yarmukian Floor Open area Nenezi Dağ Non-cortical flake
+SH 21 G O48a G270 G65 Yarmukian Fill Open area East Göllü Dağ (K/KD) Blade; used
+SH 22 G O48a G301 G84 Yarmukian Floor Open area East Göllü Dağ (K/KD) Blade; used
+SH 23 G P48a G342 G99 Yarmukian Stones Open area Nenezi Dağ Blade; used
+SH 24 G P48c G483 G139 Yarmukian Debris Open area Nenezi Dağ Blade-core rejuvenation piece
+SH 25 G O48c G499 G146 Yarmukian Fill Open area Nenezi Dağ Blade; used
+SH 26 G P48c G521 G138 Yarmukian Stones Open area Nenezi Dağ Blade-core rejuvenation piece
+SH 27 G O48a G525 G140 Yarmukian Debris Open area East Göllü Dağ (K/KD) Chunk
+SH 28 G O48a G700 G168 Yarmukian Pit Open area Nenezi Dağ Point on blade; used
+SH 29 H Z42a H225 H109 Topsoil Topsoil Nenezi Dağ Blade-like flake; used
+SH 30 H AA42a H235 H112 Yarmukian Debris Open Area, Bdg. Com. V Nemrut Dağ Blade-core rejuvenation piece - notched; used
+SH 31 H BB42a H827 H378 Yarmukian Floor Room C, Bdg. Com. I East Göllü Dağ (K/KD) Blade - end-scraper; used
+SH 32 N A1 N118 N29 Yarmukian Debris Open area East Göllü Dağ (K/KD) Blade-core rejuvenation piece; used
+SH 33 N B3 N139 N50 Topsoil Topsoil East Göllü Dağ (K/KD) Point on blade (unfinished); used
+SH 34 N B3 N293 N83 Islamic layer Islamic layer East Göllü Dağ (K/KD) Blade; used
+SH 35 N B2 N416 N116 Yarmukian Debris Open area Nenezi Dağ Blade; used
+Fig. 10. Sha'ar Hagolan artefacts made of obsidian sourced to Nenezi Dağ by debitage
+class.
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+312us with a rich evidential context within which to situate the Sha'ar
+Hagolan results, including a significant amount of data from southern
+Levantine sites (Batist, 2014; Chataigner, 1998; Delerue, 2007, inter
+alia).
+8.1. A diachronic social network analysis perspective
+Our means of considering the consumption of obsidian at Sha'ar
+Hagolan in a long-term context - and as a possible index of later
+Neolithic socio-economic reconfigurations – is through the application
+of a social network analysis (SNA). SNA is a methodology that highlights the structured relations amongst interconnected entities by rendering data comparable. This approach has been employed by archaeologists to examine inter-site relationships based on the dispersion of
+certain forms of material culture as manifestations of socio-economic
+links (see Freund and Batist, 2014; Golitko et al., 2012, Golitko and
+Feinman, 2014; Knappett, 2011; Mills et al., 2013 inter alia).
+In this case, the results of all obsidian sourcing data from Neolithic
+Levantine sites situated between the Mediterranean coast and the
+middle Euphrates were compiled and represented as nodes, which are
+related by edges that represent values of similarity derived from their
+quantitative comparison. More specifically, the proportions of raw
+material that make up obsidian assemblages were compared using the
+Brainerd-Robinson formula to obtain coefficients of similarity pertaining to each pair, which were then considered as edges in a network
+(Peeples, 2011). The edges were filtered so that only strong ties with
+coefficients of similarity equal to, or above, a minimum threshold value
+of 50% were included in the analysis. This high minimum value and the
+decision to account for variable degrees of similarity above it were
+chosen to support the notion that the inhabitants of sites with similar
+proportions of raw material variants were more likely to have been in
+contact with one another.
+Networks were constructed using obsidian sourcing data from sites
+in the Levant and neighbouring regions spanning ASPRO periods 3 to 6,
+to provide the Sha'ar Hagolan data with a long-term diachronic perspective (Fig. 12). A clustering algorithm was then used to detect
+groups of nodes that are more connected to each other than they are to
+others in the network (following Newman and Girvan, 2004). Members
+of the same cluster are thus defined as communities who were in the
+habit of consuming the same range of raw materials in similar proportions at broadly the same time, and by extent were likely participants in the same socio-economic interaction networks (trading partners, kin relations, etc.).
+By focusing on raw material alone we appreciate that this analysis is
+lacking nuance, however, this is a problem faced by anyone wishing to
+interrogate the region's sourcing data, as so little of it is accompanied by
+the artefacts techno-typological characteristics, and contextual information (Carter et al., 2006: 894–895). It is this more holistic notion
+of obsidian characterisation data we would ideally like to work with, as
+the specific modes by which raw materials were worked – consumption
+traditions - would arguably provide a much more powerful insight into
+community interaction (cf. Briois et al., 1997; Carter et al., 2013;
+Orange et al., 2013).
+Period 3 largely represents the early Pre-Pottery Neolithic B [PPNB]
+phase. Here the data assigns most sites to membership of a rather
+homogenous cluster (Fig. 12), with the communities of the Levant,
+Middle Euphrates, and Cyprus primarily procuring obsidian from the
+southern Cappadocian source of Göllü Dağ (Batist, 2014; Delerue,
+Fig. 11. Sha'ar Hagolan artefacts made of obsidian sourced to Göllü Dağ and Nemrut Dağ
+by debitage class.
+Fig. 12. Social network analysis of obsidian consumption by populations in the Levant
+and surrounding regions from the earliest Neolithic to Early Chalcolithic (ASPRO periods
+3–6).
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+3132007). This pattern seems to match the aforementioned common conception of a broad PPNB ‘interaction sphere’ in which inhabitants of the
+Levant are said to have been engaged (Bar-Yosef and Belfer-Cohen,
+1989). Some sites, particularly those towards the east of the study region, were also accessing raw materials from eastern Anatolia (Bingöl,
+and Nemrut Dağ), and therefore comprise their own clusters. For Period
+4, i.e. the middle - late PPNB, the SNA produces two distinctive clusters
+(Fig. 12). The first comprises those communities – primarily Levantine -
+that were in the habit of consuming mainly Cappadocian raw materials
+(Göllü Dağ, and Nenezi Dağ), while the second cluster incorporates
+those Middle Euphrates populations whose tools tended to be made
+from south-east Anatolian obsidians (Bingöl, and Nemrut Dağ). The
+apparent sharp break between these networks may be due to the relative lack of Period 4 data from the northern Levant, though the one
+interlinking site of Ghoraife (Fig. 12) could be indicative of early interactions through the Syrian Desert.
+In Period 5, the SNA produces a more complex picture than before,
+suggesting – in part – a significant reconfiguration of deep-time procurement traditions, and supra-regional exchange relations (Fig. 12).
+Continuing from the preceding periods, we view a cluster of Levantine
+sites that primarily, if not exclusively procured obsidian from the
+Cappadocian source of Göllü Dağ. In contrast, the communities of the
+Middle Euphrates now employed not only south-eastern Anatolian
+products – as they had for the preceding millennia – but also obsidian
+from Cappadocia, supra-regional interactions that produce a second
+network in our analysis. The isolation of nodes representing El-Khiam
+and Munhata is due to two factors: (i) the fact that they were using
+Acıgöl and Nenezi Dağ obsidian rather than Göllü Dağ, the principal
+Cappadocian raw material used by their southern Levantine contemporaries, (ii) the small sample sizes involved, with one artefact
+sourced from each site. The first appearance of obsidian from the
+northern Cappadocian source of Acıgöl is noteworthy here, as the
+network reconfiguration we witness in Period 5 is the product of not
+only the emergence of new supra-regional exchange relations but also
+the introduction of new raw materials into these ‘systems’. Finally,
+Qdeir appears as a distinct node due to its obsidian assemblage being
+comprised of a notably diverse array of raw materials from both Cappadocian and eastern Anatolian sources.
+During Period 6, the clusters defined by our analyses are broadly
+consistent with the interaction complexity of Period 5 (Fig. 12). Thus,
+we continue to witness a Levantine reliance on Cappadocian products,
+together with their occasional procurement of eastern Anatolian obsidian – as at Sha'ar Hagolan – while Middle Euphrates' populations still
+accessed both central and eastern Anatolian products. At the same time,
+we witness more raw materials being put into circulation. These include
+the introduction of the so-called ‘Group 3d’ obsidian of unknown origin
+(Renfrew et al., 1966: 33), and products of the Gürgürbaba Tepe (also
+known as Meydan Dağ) source on the north coast of Lake Van (Fig. 1)
+which were used by populations throughout Mesopotamia, and the
+Levant. While the obsidian at Sha'ar Hagolan is still principally Cappadocian in origin, the appearance of eastern materials there and at
+other sites in the southern Levant is indicative of these populations'
+engagement within broader exchange systems, a range of connections
+that does not seem to have been made by those living in the northern
+Levant. It remains unclear as to whether the small amount of Nemrut
+Dağ obsidian at Sha'ar Hagolan indicates the community's direct relations with eastern populations (via Transjordan) or a connection
+mediated by other southern Levantine centres.
+8.2. Obsidian consumption traditions in Period 6 (Pottery Neolithic)
+From the long-term perspective, we now turn to a synchronic consideration of the Sha'ar Hagolan material. More specifically, were the
+people of this community procuring and using East Göllü Dağ, Nenezi
+Dağ, and Nemrut Dağ obsidian in a similar manner to that witnessed at
+other Yarmukian/Period 6 sites?
+Where such information is available, it appears that these raw materials were used primarily for the manufacture of pressure blades
+throughout Anatolia, the Levant, and Mesopotamia, as indeed were
+most Anatolian obsidian at this time (Chataigner, 1998). That said, it is
+not always clear as to whether the knapping techniques employed by all
+of these communities were directly comparable to those attested at
+Fig. 13. Relative proportion of obsidian within chipped stone assemblages of the southern Levant from the Neolithic to Early Chalcolithic (ASPRO periods 3–6).
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+314Sha'ar Hagolan. It has long been appreciated that there are many potentially distinct modes of pressure-blade production, involving different tool-kits, and the manner by which the core was prepared, stabilised, reduced, and rejuvenated (e.g. Pelegrin, 1988, 2012). Here the
+studies of the Hagoshrim and Nahal Zehora material are helpful
+(Fig. 13) as they provide clear evidence for a common pressure tradition
+being employed in the later PN of the southern Levant (Delerue et al.,
+2012; Schechter et al., 2013). Both sites have produced pressure
+blades/bladelets of East Göllü Dağ, and Nemrut Dağ obsidian that are
+not only of a similar size to those from Sha'ar Hagolan, but also show
+common technical traits, namely the delicate linear/downward flaking
+on the proximal face, a feature seen on SH21 (Fig. 11) that relates to the
+preparation of the core's lip/overhang removal (Delerue et al., 2012:
+1101, Fig. 25.1; Schechter et al., 2013: Fig. 4, e-f, h).
+That we can draw direct comparisons between the knapping traditions embodied within these obsidian assemblages is perhaps not surprising given their relative proximity (c. 60 km linear distance), and
+ease of water-borne connection (Fig. 13). But do these commonalities
+necessarily signify a ‘community of practice’, i.e. the sharing of technical know-how between these populations via close socio-economic
+interactions, such as trading partnerships, and inter-marriage? Alternatively, given the larger relative, and absolute quantities of obsidian at
+Hagoshrim (stratum V [Fig. 13, Table 3]), and the clearer evidence for
+on-site manufacture (blade cores), we might instead be dealing with an
+unequal power-dynamic, where the communities of Sha'ar Hagolan and
+Nahal Zehora were dependent on their northern contemporaries for
+access to ready-made obsidian tools (Delerue et al., 2012: 1108; Gopher
+et al., 1998: 647; Schechter et al., 2013: 523, Table 2, Fig. 7). We return
+to this hypothesis below.
+Further to the north at Tell Aray 2 in the Amuq Valley (Fig. 13), we
+again view East Göllü Dağ, Nenezi Dağ, and Nemrut Dağ obsidians
+being used to make pressure blades/bladelets. Despite the fact the
+community was much closer to the sources, they too were in the habit
+of procuring finished end-products, rather than working the raw materials themselves (Maeda, 2003: 179–180). Continuing northwards
+into central Anatolia, broad similarities can also be made between the
+traditions of obsidian consumption at Sha'ar Hagolan, and the Late
+Neolithic - Early Chalcolithic sites of Çatalhöyük East and West. These
+include their equal use of East Göllü Dağ, and Nenezi Dağ raw materials
+(Özdöl-Kutlu et al., 2015: 188–191); the dominance of pressure blade
+technologies; and the occasional manufacture of small, tanged, and
+trapezoidal projectiles (Ostaptchouk, 2016). The use of these southern
+Cappadocian raw materials to make pressure blades/bladelets is also
+documented at sites in southwestern Anatolia such as Hacılar, Höyücek,
+and Kuraçay Höyük, though in Cappadocia itself the knapping
+traditions are quite distinct, with flake-based, and percussion blade
+tools dominant at Köşkhöyük and Tepecik-Çiftlik (Özdöl-Kutlu et al.,
+2015: 189–191).
+Turning to Upper Mesopotamia, and eastern wing of the Fertile
+Crescent, the use of obsidian in Period 6 (including that from Nemrut
+Dağ) has many similarities to what we see at Sha'ar Hagolan. At the
+slightly earlier site of Tell Seker al-Aheimar (7100–6500 cal BCE), and
+broadly contemporary Hakemi Use (6100–5950 cal BCE), obsidian was
+imported in the form of preformed pressure bladelet cores and/or endproducts, the latter again having the distinctive linear removal of the
+platform overhang (Kadowaki et al., 2013: 148–149, Fig. 12.2; Kartal,
+2007: 99–104, Figs. 3–4). While similarities in knapping traditions are
+apparent, the range of tool types is for the most part distinct from the
+southern Levantine implements (e.g. Maeda, 2013: Figs. 23.2–23.3).
+9. Conclusions
+We return here to the questions that drove our research project,
+commencing with ‘to what extent does the nature of obsidian consumption at Sha'ar Hagolan support the idea of a significant diminishment and/or reconfiguration of obsidian use by southern Levantine
+populations in the PN/Yarmukian?’. While the relative proportion of
+obsidian within PN/Yarmukian chipped stone assemblages does indeed
+reflect a diminished circulation of this exotic material amongst (most)
+southern Levantine populations (Garfinkel, 1993: 132), a long-term
+perspective shows clearly that this was a gradual, not radical decrease
+(Table 3, Fig. 13). During the PPNA – early PPNB (periods 2–3) the
+average relative proportion of obsidian was 0.52% (based on data from
+four sites), falling to 0.16% (two sites) by the middle - late PPNB
+(periods 3–4/5), while at Sha'ar Hagolan in Period 6 it is 0.01%
+(Table 3). In turn, there are broadly contemporary sites such as Hagoshrim, where we witness not only significantly more obsidian proportionally than at Sha'ar Hagolan, but also more than all southern
+Levantine sites of any period from the earliest Neolithic to Chalcolithic
+(Fig. 13).
+As to the range of raw materials being procured by the inhabitants
+of Sha'ar Hagolan as an index of socio-economic reconfiguration, our
+SNA suggests that it is during the previous Period 5 that significant
+changes in exchange networks and obsidian source use are witnessed
+(Fig. 12). That said, these PN obsidian assemblages do provide further
+evidence for the proclaimed regionalism that emerges at this time in the
+southern Levant. The number of Period 6 clusters in our SNA reflect the
+variety of raw materials in circulation, and the different suites of raw
+materials these communities were procuring. Here again, we see a stark
+difference between Sha'ar Hagolan with its two southern Cappadocian
+Table 3
+Relative proportion of obsidian within southern Levantine chipped stone assemblages by ASPRO period.
+Site (stratum) ASPRO Time Period No. Ratio % Reference
+Jericho 1–2 PPNA 91 1:200 0.5 Crowfoot Payne, 1983: 73–743
+Netiv Hagdud 2 PPNA 54 1:3012 0.03 Nadel, 1997
+Horvat Galil 2–3 Early PPNB 33 1:201 0.5 Gopher, 1997: 207, Table 2
+Motza 2–3 Early PPNB 432 1:212 0.05 Khalaily et al., 2007: Table 2
+Mujahiya 2–3 Early PPNB 17 1:489 0.21 Gopher, 1990.
+Nahal Lavan 109 2–3 Early PPNB 144 1:76 1.32 Burian et al., 1999: 112, Table 1
+Beidha 3 PPNB 3 1:15,000 0.01 Mortensen, 1970:12
+Beisamoun 3–4 PPNB 15 1:320 0.31 Lechevallier, 1978:153 Perlman and Yellin, 1980
+Yiftahel 3–5 PPNB 8 1:15,000 0.01 Yellin and Garfinkel, 1986, Garfinkel, 1987
+Ain Ghazal 5 PPNC 8 1:2210 0.05 Rollefson et al., 1993: Tables 1 and 8
+Ashkelon 5 PPNC 14 1: 2628 0.04 Garfinkel et al., 2008: 203
+Tel Ali II 5 PPNC 17 1:507 0.2 Garfinkel, 1994: Table 2
+Hagoshrim (str. VI) 5 PPNC 68 1:736 0.14 Schechter et al., 2013: 512, Table 2
+Hagoshrim (str. V) 6 EPN 27 1:456 0.22 Schechter et al., 2013: 512, Table 2
+Sha'ar Hagolan 5–6 PN 38 1:10,000 0.01 This paper
+Nahal Zehora II str. III 6 PN 2 1: 11,131 0.01 Delerue et al., 2012: Table 25.1
+Nahal Zehora II str. IV 6 PN 2 1: 21,232 0.01 Delerue et al., 2012: Table 25.1
+Munhata 2B 6 PN 1 1:2366 0.04 Gopher, 1989
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+315obsidians, and lesser quantities of eastern Anatolian products and the
+Hagoshrim assemblage with at least six different sources represented,
+from central, eastern, and north-eastern Anatolia (Delerue, 2007:
+Fig. 353 [though some of these may come from the Period 7 assemblage
+of Hagoshrim stratum IV]). What is also interesting about these sourcing data, is that they do not support our initial hypothesis that Sha'ar
+Hagolan was dependent on Hagoshrim for access to all of their obsidian,
+i.e. they provide a counter-point to our techno-typological considerations of the assemblage. If this better-connected community was responsible for supplying Sha'ar Hagolan – then the latter assemblage
+should, in theory, represent a derivation of the former data-set; this is
+patently not the case. Perhaps most notably, while 50% of the Sha'ar
+Hagolan artefacts were made of Nenezi Dağ obsidian (n = 17), none of
+the 28 pieces characterised from Hagoshrim originated from this
+source. At Hagoshrim the range of raw materials, and the types of obsidian tools, including such distinctive items as corner–thinned blades
+(from Periods 5 and 6), indicate clearly the connections to Upper Mesopotamian traditions at this time. This relationship becomes even
+clearer by the late PN Wadi Raba phase (Period 7) where obsidian ornaments and vessels evidence relationships with the Halaf culture
+(Schechter et al., 2013, 2016). In contrast, the Sha'ar Hagolan assemblage attests to far closer links with deeper-time Levantine networks
+underpinned by the circulation of Cappadocian raw materials, and the
+manufacture of such weapons as the Amuq point, a projectile known
+throughout the Levant, and into central Anatolia (Gopher, 1994: 39,
+209–210, Fig. 4.8). One would be unwise, however, to take these two
+statements to infer completely exclusive socio-economic networks. Indeed, the technical commonalities of these southern Levantine populations' pressure bladelets clearly suggest common knapping traditions
+throughout the region (and beyond), practices that would have come to
+be shared through close inter-community interaction.
+Finally, our data provides little to support the hypothesis that social
+distinction at Sha'ar Hagolan was part-based on members of the community enjoying preferential access to non-local goods (Garfinkel et al.,
+2012: 119). There is certainly no clear concentration of artefacts in any
+one area, though some intra-site distinction in consumption can be
+noted, namely the evidence for tool-production in Building I, and the
+storing of weapons (projectiles) in Building II (Table 2).
+In sum, our study has demonstrated the following. (1) while the PN
+is known as a period of socio-economic disruption the modes of obsidian consumption at Sha'ar Hagolan reflect deep-time southern
+Levantine traditions, i.e. a continuity of practice. (2) differences can be
+viewed in the procurement and use of obsidian amongst southern
+Levantine PN populations, with a wider array of raw materials attested
+at sites such as Hagoshrim, data that support the more general notion of
+intra- and supra-regional cultural segregation at this time (the ‘mosaic’
+model), in contrast to the greater homogeneity of the preceding PPN
+periods. (3) the data do not clearly support the thesis that social distinction at Sha'ar Hagolan was part-constituted via preferential access
+to exotic goods, though some intra-community differences in consumption can be noted.
+Acknowledgements
+The Israeli Antiquities Authority provided the export permit for the
+artefacts to travel to Canada (all since returned), while the study was
+funded by Carter's Standard Research Grant of the Social Sciences and
+Humanities Research Council of Canada (41020102034): From
+Neolithisation to state formation: Reconstructing interaction networks & the
+dynamics of socio-economic change through obsidian sourcing in the
+Aegean & Anatolia 10th-2nd millennia BCE. The MAX Lab was established
+by a Canada Foundation for Innovation Leader's Opportunity Fund/
+Ontario Research Fund (awarded to Carter). Thanks also to Heeli
+Schechter, and the Hagoshrim team for their help.
+References
+Allen, S.E., 2002. Palaeoethnobotany: preliminary results. In: Garfinkel, Y., Miller, M.A.
+(Eds.), Sha'ar Hagolan I. Neolithic Art in Context. Oxbow Books, Oxford, pp.
+236–246.
+Alperson, N., Garfinkel, Y., 2002. The flint knapping industry. In: Garfinkel, Y., Miller,
+M.A. (Eds.), Sha'ar Hagolan I. Neolithic Art in Context. Oxbow Books, Oxford, pp.
+146–175.
+Aurenche, O., Galet, P., Régagnon-Caroline, E., Évin, J., 2001. Proto-Neolithic and
+Neolithic cultures in the Middle East – the birth of agriculture, livestock raising, and
+ceramics: a calibrated 14 C chronology 12,500–5500 cal BC. Radiocarbon 43 (3),
+1191–1202.
+Bar-Yosef, O., 1992. The Neolithic period. In: Ben-Tor, A. (Ed.), The Archaeology of
+Ancient Israel. Yale University Press, New Haven, pp. 10–39.
+Bar-Yosef, O., Belfer-Cohen, A., 1989. The Levantine ‘PPNB’ interaction sphere. In:
+Hershkovitz, I. (Ed.), People and Culture in Change: Proceedings of the Second
+Symposium on Upper Palaeolithic, Mesolithic and Neolithic Populations of Europe
+and the Mediterranean Basin. British Archaeological Reports, International Series
+508. pp. 59–72 Oxford.
+Barzilai, O., Garfinkel, Y., 2006. Bidirectional blade technology after the PPNB: new
+evidence from Sha'ar Hagolan, Israel. Neo-Lithics 1 (06), 27–31.
+Batist, Z., 2014. Obsidian Circulation Networks in Southwest Asia and Anatolia
+(12,000–5700 B.P.): A Comparative Approach (MA Thesis). Department of
+Anthropology, McMaster University.
+Binder, D., Balkan-Atlı, N., 2001. Obsidian exploitation and blade technology at
+Kömürcü-Kaletepe (Cappadocia, Turkey). In: Caneva, I., Lemorini, C., Zampetti, D.,
+Biagi, P. (Eds.), Beyond Tools: Redefining the PPN Lithic Assemblages of the Levant.
+SENEPSE 9, ex oriente, Berlin, pp. 1–16.
+Binder, D., Gratuze, B., Mouralis, D., Balkan-Atlı, N., 2011. New investigations of the
+Göllüdağ obsidian lava flows system: a multi-disciplinary approach. J. Archaeol. Sci.
+38, 3174–3184.
+Briois, F., Gratuze, B., Guilaine, J., 1997. Obsidiennes du site Néolithique Précéramique
+de Shillourokambos (Chypre). Paléorient 23 (1), 95–112.
+Burian, F., Friedman, E., Mintz, E., 1999. Nahal Lavan 109 - a Pre-Pottery Neolithic site in
+the Western Negev, Israel. In: Festchrift für Gunter Samulla. Materialien zur von-und
+frühgeschichte von Hessen 8. pp. 95–120.
+Carter, T., Shackley, M.S., 2007. Sourcing obsidian from Neolithic Çatalhöyük (Turkey)
+using energy dispersive X-ray fluorescence. Archaeometry 49 (3), 437–454.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N.J.G., 2005. From chemistry to consumption:
+towards a history of obsidian use at Çatalhöyük through a programme of inter-laboratory trace-elemental characterization. In: Hodder, I. (Ed.), Changing
+Materialities at Çatalhöyük: Reports from the 1995–1999 Seasons McDonald Institute
+Monographs and BIAA, Cambridge pp. 285-305 & 535-57.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N.J.G., 2006. A new programme of obsidian
+characterization at Çatalhöyük, Turkey. J. Archaeol. Sci. 33 (7), 893–909.
+Carter, T., Le Bourdonnec, F.-X., Kartal, M., Poupeau, G., Calligaro, T., Moretto, P., 2011.
+Marginal perspectives: sourcing obsidian from the Öküzini Cave (SW Turkey).
+Paléorient 37 (2), 123–149.
+Carter, T., Grant, S., Kartal, M., Coşkun, A., Özkaya, V., 2013. Networks and
+Neolithisation: sourcing obsidian from Körtik Tepe (SE Anatolia). J. Archaeol. Sci. 40
+(1), 556–569.
+Chataigner, C., 1998. Sources des artefacts du Proche Orient d'âpres leur caractérisation
+géochimique. In: Cauvin, M.-C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G.,
+Poidevin, J.L., Chataigner, C. (Eds.), L'Obsidienne au Proche et Moyen Orient: Du
+Volcan à l'Outil. BAR International Seriespp. 273–324.
+Coale, A.J., Demeney, P., Vaughan, B., 1983. Regional Model Life Tables and Stable
+Population [2nd Edition]. Academic Press, New York.
+Crowfoot Payne, J., 1983. The flint industries of Jericho. In: Kenyon, K.M., Holland, T.A.
+(Eds.), Excavations at Jericho. The Pottery Phases of the Tell and Other Finds Vol. 5.
+The British School of Archaeology in Jerusalem, London, pp. 621–758.
+Davis, M.K., Jackson, T.L., Shackley, M.S., Teague, T., Hampel, J.H., 2011. Factors affecting the energy-dispersive X-ray fluorescence (EDXRF) analysis of archaeological
+obsidian. In: Shackley, M.S. (Ed.), X-ray Fluorescence Spectrometry (XRF) in
+Geoarchaeology. Springer, New York, pp. 45–63.
+Delerue, S., 2007. L'Obsidienne dans le Processus de Neolithisation du Proche-Orient
+(12000-6500 av. J.-C. cal) (PhD dissertation). 3 Université Michel de Montaigne
+Bordeaux.
+Delerue, S., Gopher, A., Poupeau, G., Milton, A., Barrat, J.A., 2012. Obsidians of Nahal
+Zehora II and their provenance. In: Gopher, A. (Ed.), Village Communities of the
+Pottery Neolithic Period in the Menashe Hills, Israel, Archaeological Investigations at
+the Sites of Nahal Zehora. Vol. II. Emery and Claire Yass Publications in Archaeology,
+Tel Aviv, pp. 1101–1109.
+Dietler, M., Herbich, I., 1998. Habitus, techniques, style: an integrated approach to the
+social understanding of material culture and boundaries. In: Stark, M.T. (Ed.), The
+Archaeology of Social Boundaries. Smithsonian Institution Press, Washington, pp.
+232–263.
+Dobres, M.-A., 2000. Technology and Social Agency: Outlining a Practice Framework for
+Archaeology. Blackwell Publishers, Oxford.
+Frahm, E., 2012. Distinguishing Nemrut Dağ and Bingöl A obsidians: geochemical and
+landscape differences and the archaeological implications. J. Archaeol. Sci. 39,
+1436–1444.
+Frahm, E., 2014. Characterizing obsidian sources with portable XRF: accuracy, reproducibility, and field relationships in a case study from Armenia. J. Archaeol. Sci.
+49, 105–125.
+Freund, K.P., Batist, Z., 2014. Sardinian obsidian circulation and early maritime
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+316navigation in the Neolithic as shown through social network analysis. Journal of
+Island and Coastal Archaeology 9 (3), 364–380.
+Garfinkel, Y., 1987. Yiftahel: a Neolithic village from the seventh millennium BC in lower
+galilee, Israel. J. Field Archaeol. 14 (2), 199–212.
+Garfinkel, Y., 1993. The Yarmukian culture in Israel. Paléorient 19 (1), 115–134.
+Garfinkel, Y., 1994. The “PPNC” flint assemblage from Tel ‘Ali. In: Gebel, H.G.,
+Kozłowski, S.K. (Eds.), Neolithic Chipped Stone Industries of the Fertile Crescent. ex
+oriente, Berlin, pp. 543–562.
+Garfinkel, Y., 1999. Radiometric dates from eighth millennium BP Israel. Bull. Am. Sch.
+Orient. Res. 315, 1–13.
+Garfinkel, Y., Ben-Shlomo, D., 2002. Architecture and village planning in Area E. In:
+Garfinkel, Y., Miller, M.A. (Eds.), Sha'ar Hagolan I. Neolithic Art in Context. Oxbow
+Books, Oxford, pp. 55–70.
+Garfinkel, Y., Miller, M.A., 2002. Sha'ar Hagolan I. Neolithic Art in Context. Oxbow
+Books, Oxford.
+Garfinkel, Y., Vered, A., Bar-Yosef, O., 2006. The domestication of water: the Neolithic
+well at Sha'ar Hagolan, Jordan Valley, Israel. Antiquity 80 (309), 686–696.
+Garfinkel, Y., Dag, D., Mayer, D.B.Y., 2008. Neolithic Ashkelon. Vol. 47 Institute of
+Archaeology, the Hebrew University of Jerusalem.
+Garfinkel, Y., Ben-Shlomo, D., Marom, N., 2012. Sha'ar Hagolan: a major pottery
+Neolithic settlement and artistic center in the Jordan Valley. Eurasian Prehistory 8
+(1–2), 97–143.
+Geertz, C., 1973. The Interpretation of Cultures. Basic Books, New York.
+Golitko, M., Feinman, G.M., 2014. Procurement and distribution of pre-Hispanic
+Mesoamerican obsidian 900 BC–AD 1520: a social network analysis. J. Archaeol.
+Method Theory 22 (1), 1–42.
+Golitko, M., Meierhoff, J., Feinman, G.M., Williams, P.R., 2012. Complexities of collapse:
+the evidence of Maya obsidian as revealed by social network graphical analysis.
+Antiquity 86, 507–523.
+Gopher, A., 1989. The Flint Assemblages of Munhata (Israel). Association Paléorient (Les
+Cahiers du CRFJ 4), Paris.
+Gopher, A., 1990. Mujahiya, an early Pre-Pottery Neolithic B site in the Golan Heights.
+Tel Aviv 17 (2), 115–143.
+Gopher, A., 1994. Arrowheads of the Neolithic Levant: a seriation analysis. In: ASOR
+Dissertation Series 10, Winona Lake.
+Gopher, A., 1997. Horvat Galil – an early PPNB site in the Upper Galilee, Israel. Tel Aviv
+24, 183–222.
+Gopher, A., Gophna, R., 1993. Pottery Neolithic of the Southern Levant. J. World Prehist.
+7 (3), 297–353.
+Gopher, A., Barkai, R., Marder, O., 1998. Cultural contacts in the Neolithic period:
+Anatolian obsidians in the Southern Levant. In: Otte, M. (Ed.), Préhistoire d'Anatolie.
+Genèse de Deux Mondes. ERAUL, Liège, pp. 641–650.
+Helms, M.W., 1988. Ulysses Sail: An Ethnographic Odyssey of Power, Knowledge, and
+Geographical Distance. Princeton University Press, Princeton.
+Helms, M.W., 1993. Craft and the Kingly Ideal: Art, Trade and Power. University of Texas
+Press, Austin.
+Hesse, B., 2002. Between the revolutions: animal use at Sha'ar Hagolan during the
+Yarmukian. In: Garfinkel, Y., Miller, M.A. (Eds.), Sha'ar Hagolan I. Neolithic Art in
+Context. Oxbow Books, Oxford, pp. 247–255.
+Hodder, I., 1999. The Archaeological Process. Blackwell, Oxford.
+Hours, F., Aurenche, O., Cauvin, J., Cauvin, M.-C., Copeland, L., Sanlaville, P., 1994. Atlas
+des Sites du Proche Orient (14 000–5700 BP). (Travaux de la Maison de l'Orient
+Lyon).
+Kadowaki, S., Nagai, K., Nishiaki, Y., 2013. Technology and use of space in the production
+of obsidian bladelets at Tell Seker al-Aheimar. In: Nieuwenhuyse, O.P., Bernbeck, R.,
+Akkermans, P.M.M.G., Rogasch, J. (Eds.), Interpreting the Late Neolithic of Upper
+Mesopotamia. Brepols, Turnhout, pp. 147–159.
+Kartal, M., 2007. Analyse préliminaire des ensembles lithiques de Hakemi Use, site du
+Néolithique final dans le sud-est de la Turquie. l'Anthropologie 111, 96–105.
+Kenyon, K., 1960. Archaeology of the Holy Land. E. Benn, London.
+Khalaily, H., Bar-Yosef, O., Barzilai, O., Boaretto, E., Bocquentin, F., Le Dosseur, G.,
+Eirikh-Rose, A., Goring-Morris, N.A., Greenhut, Z., Marder, O., Sapir-Hen, L., Yizhaq,
+M., 2007. Excavations at Motza in the Judean Hills and the early Pre-Pottery
+Neolithic B in the southern Levant. Paléorient 33 (2), 5–37.
+Knappett, C., 2011. An Archaeology of Interaction. Network Perspectives on Material
+Culture and Society. Oxford University Press, Oxford.
+Kobayashi, K., Mochizuki, A., 2002. X-ray fluorescence analysis and source identification
+of obsidian artifacts excavated from the Early Bronze Age stratum at Kaman
+Kalehöyük. In: Anatolian Archaeological Studies. 11. pp. 159–162.
+Lechevallier, M., 1978. Abu Gosh et Beisamoun, deux gisements du VIIème millenaire
+avant l'ere Chretiénne en Israël. In: Memoirs et Travaux du Centre de Recherches
+Prehistoriques Francais du Jerusalem 2. Association Paléorient, Paris.
+Lightfoot, K.G., Martinez, A., Schiff, A.M., 1998. Daily practice and material culture in
+pluralistic social settings: an archaeological study of culture change and persistence
+from Fort Ross, California. Am. Antiq. 63 (2), 199–222.
+Maeda, O., 2003. Prehistoric obsidian distribution in the Rouj Basin. In: Iwasaki, T.,
+Tsuneki, A. (Eds.), Archaeology of the Rouj Basin. A Regional Study of the Transition
+from Village to City in Northwest Syria. Vol. 1. University of Tsukuba, Studies for
+West Asian Archaeology, Tsukuba, pp. 167–184.
+Maeda, O., 2013. Cultural affinities and the use of lithics during the 8th to 7th millennia
+cal. BCE in the Northern Levant and Northern Mesopotamia. In: Nieuwenhuyse, O.P.,
+Bernbeck, R., Akkermans, P.M.M.G., Rogasch, J. (Eds.), Interpreting the Late
+Neolithic of Upper Mesopotamia. Brepols, Turnhout, pp. 267–276.
+Miller, M., 2002. The spatial distribution of ancient human occupation: Results of an
+intensive surface survey and test excavations. In: Garfinkel, Y., Miller, M.A. (Eds.),
+Sha'ar Hagolan I. Neolithic Art in Context. Oxbow Books, Oxford, pp. 35–46.
+Mills, B.J., Clark, J.J., Peeples, M.A., Haas Jr., W.R., Roberts Jr., J.M., Hill, J.B., Huntley,
+D.L., Borcka, L., Breigere, R.L., Clauset, A., Shackley, M.S., 2013. Transformation of
+social networks in the late pre-Hispanic US Southwest. Proc. Natl. Acad. Sci. 110
+(15), 5785–5790.
+Mortensen, P., 1970. Preliminary study of chipped stone industry from Beidha - early
+Neolithic village in southern Jordan. Acta Archaeologica 41, 1–54.
+Nadel, D., 1997. The chipped stone industry of Netiv Hagdud. In: Bar-Yosef, O., Gopher,
+A. (Eds.), An Early Neolithic Village in the Jordan Valley Part I: The Archaeology of
+Netiv Hagdud. 43. American School of Prehistoric Research, Harvard, pp. 71–149.
+Newman, M.E.J., Girvan, M., 2004. Finding and evaluating community structure in networks. Phys. Rev. E 69, 1–16.
+Orange, M., Carter, T., Le Bourdonnec, F.-X., 2013. Sourcing obsidian from Tell Aswad
+and Qdeir 1 (Syria) by SEM-EDS and EDXRF: methodological implications. CR
+Palevol 12, 173–180.
+Ostaptchouk, S., 2016. L'Économie des Matières Premières de la Pierre Taillée d'Anatolie
+Centrale au Chalcolithique Ancien (6000–5500 cal. BC/ECA IV). BAR International
+Series.
+Özdöl-Kutlu, S., Carter, T., Czerniak, L., Marciniak, A., 2015. The end of the Neolithic
+settlement. Çatalhöyük and its neighbors. In: Hodder, I., Marciniak, A. (Eds.),
+Assembling Çatalhöyük. EAA Monograph Series - Themes in Contemporary
+Archaeology I Maney Publishing, Wakefield, pp. 179–195.
+Peeples, M.A., 2011. R script for calculating the Brainerd-Robinson Coefficient of similarity and assessing sampling error. http://www.mattpeeples.net/br.html.
+Pelegrin, J., 1988. Débitage expérimental par pression ‘Du plus petit au plus grand’. In:
+Technologie Préhistorique. Notes et Monographies Techniques No. 25. CNRS, Paris,
+pp. 37–53.
+Pelegrin, J., 2012. New experimental observations for the characterization of pressure
+blade production techniques. In: Desrosiers, P.M. (Ed.), The Emergence of Pressure
+Blade Making: From Origin to Modern Experimentation. Springer, New York, pp.
+465–500.
+Perlman, I., Yellin, J., 1980. The provenience of obsidian from Neolithic sites in Israel.
+Israel Exploration Journal 30 (1/2), 83–88.
+Poidevin, J.-L., 1998. Les gisements d'obsidienne de Turquie et de Transcaucasie:
+géologie, géochimie et chronométrie. In: Cauvin, M.-C., Gourgaud, A., Gratuze, B.,
+Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L'Obsidienne au Proche
+et Moyen Orient: Du Volcan à l'Outil. BAR International Series, pp. 105–203.
+Poupeau, G., Delerue, S., Carter, T., de B. Pereira, C.E., Miekeley, N., Bellot-Gurlet, L.,
+2005. How homogeneous is the “East Göllü Dağ” (Cappadocia Turkey) obsidian
+‘source’ composition? International Association of Obsidian Studies Bulletin 32, 3–8.
+Poupeau, G., Le Bourdonnec, F.-X., Carter, T., Delerue, S., Shackley, M.S., Barrat, J.A.,
+Dubernet, S., Moretto, P., Calligaro, T., Milić, M., Kobayashi, K., 2010. The use of
+SEM-EDS, PIXE and EDXRF for obsidian provenance studies in the Near East: a case
+study from Neolithic Çatalhöyük (central Anatolia). J. Archaeol. Sci. 37 (11),
+2705–2720.
+Renfrew, C., Dixon, J.E., Cann, J.R., 1966. Obsidian and early culture contact in the Near
+East. Proc. Prehist. Soc 32, 30–72.
+Rollefson, G.O., 1989. The Late Aceramic Neolithic of the Levant: a synthesis. Paléorient
+15 (1), 168–173.
+Rollefson, G., Kafafi, Z., Simmons, A., 1993. The Neolithic village of Ain Ghazal, Jordan:
+preliminary report on the 1989 season. Annu. Am. Sch. Orient. Res. 51, 107–126.
+Schechter, H.C., Marder, O., Barkai, R., Getzov, N., Gopher, A., 2013. The obsidian assemblage from Neolithic Hagoshrim, Israel: pressure technology and cultural influence. In: Borrell, F., Ibáñez, J.J., Molist, M.M. (Eds.), Stone Tools in Transition: From
+Hunter-Gatherers to Farming Societies in the Near East. Proceedings of the 7th PPN
+Stone Tools Workshop Universitat Autònoma de Barcelona Press, Barcelona, pp.
+509–527.
+Schechter, H.C., Gopher, A., Getzov, N., Rice, E., Yoroshevich, A., Milevski, I., 2016. The
+obsidian assemblages from the Wadi Rabah occupations at Ein Zippori, Israel.
+Paléorient 27–48.
+Shackley, M.S., 2005. Obsidian: Geology and Archaeology in the North American
+Southwest. University of Arizona Press, Tucson.
+Stekelis, M., 1951. A new Neolithic industry: the Yarmukian of Palestine. Israel
+Exploration Journal 1, 1–19.
+Stekelis, M., 1972. The Yarmukian Culture of the Neolithic Period. Magnes, Jerusalem.
+Wasse, A., 2002. Final results of an analysis of the sheep and goat bones from Ain Ghazal,
+Jordan. Levant 34, 59–82.
+Yellin, J., Garfinkel, Y., 1986. The source of archaeological obsidian from a Pre-Pottery
+Neolithic B site at Yiftahel, Israel. Paléorient 13, 99–104.
+T. Carter et al. Journal of Archaeological Science: Reports 15 (2017) 305–317
+317

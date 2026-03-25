@@ -1,0 +1,132 @@
+A SHORT HISTORY OF OBSIDIAN STUDIES AND X-RAY FLUORESCENCE
+SPECTROMETRY AT BERKELEY
+In 1968 Robert Jack and Robert F. Heizer (Departments of Geology and Geophysics, and
+Anthropology, UC, Berkeley) published the first x-ray fluorescence spectrometric (XRF)
+analysis of archaeological obsidian in the New World. The next year (1969) Jack and Ian
+Carmichael (Department of Geology and Geophysics, UC, Berkeley, now the Department of
+Earth and Planetary Science - EPS) published “The Chemical ‘Fingerprinting’ of Acid Volcanic
+Rocks”. And while Cann and Renfrew (1964) had four years earlier published their NAA
+characterization of Mediterranean obsidian, Berkeley’s XRF analysis of obsidian artifacts for
+source provenance was the first in the New World, and the first of a multitude of XRF obsidian
+projects at Berkeley. For nearly 40 years now, Berkeley has remained a center for obsidian
+studies using x-ray fluorescence spectrometry (Jack 1971, 1976; Jack and Carmichael 1969; Jack
+and Heizer 1968). Robert Jack analyzed over 1500 obsidian artifacts worldwide during this
+period with Thomas Jackson (1974) who began to focus on California studies. Since that time a
+list of the ceramic, obsidian, and other rock provenance studies using Berkeley XRF facilities by
+faculty, graduate students, undergraduate students and scholars from other universities using
+Berkeley facilities would fill pages (see Hughes 1983, 1984; Jackson 1974, 1986; Shackley
+2005a). And since 1990, the Geoarchaeological XRF Laboratory at UC, Berkeley has analyzed
+literally more than 10,000 artifacts, mostly obsidian and other volcanic rocks supporting faculty,
+student, government, and cultural resource management studies worldwide, and particularly from
+the North American Southwest (see Shackley 2005a). After the demise of the Spectrace 440 in
+EPS, Shackley purchased a Spectrace analog QuanX EDXRF instrument to continue the work in
+2003. While the early studies were primarily focused on developing source standard data bases
+for various regions of the world, more recent graduate student and senior scholar research using
+these facilities are now integrating obsidian provenance studies into current archaeological
+theory and method in western North America, South America, East Africa, Oceania, and
+Mesoamerica (Craig 2005; Dillian 2002; Hull 2002; Joyce et al. 2004; Kahn 2005; Negash and
+Shackley 2006; Negash et al. 2006; Shackley 1991, 1992, 1995, 1998a, 1998b, 2005a; Silliman
+2000; Weisler 1993, 1997). Indeed, while other techniques have been shown to exhibit more
+instrumental precision, XRF, particularly energy-dispersive XRF, has remained the leader in
+non-destructive studies of artifacts (see Davis et al. 1998; Hughes 1983; Shackley 1998a, 2005a;
+c.f. Speakman and Neff 2005).
+Now, in part due to recognition as a leader in obsidian provenance studies and x-ray fluorescence
+spectrometry, in 2007 the National Science Foundation became a sponsor of the
+Geoarchaeological XRF Laboratory at Berkeley through the Archaeometry Competition in the
+Anthropology Program. Thermo Scientific the producer of the new digital Quant’X EDXRF and
+the industry leader in XRF spectrometry has graciously extended the maintenance warranty for
+the lab to four years insuring continual volcanic rock, ceramic, and historic artifact studies in
+archaeology well into the future.SELECTED BIBLIOGRAPHY
+Bayman, J. and M.S. Shackley
+1999 Dynamics of Hohokam Obsidian Circulation in the North American Southwest. Antiquity 73:836-845.
+Cann, J.R., and A.C. Renfrew
+1964 The Characterization of Obsidian and its Application to the Mediterranean Region. Proceedings of the
+Prehistoric Society 30:111-133.
+Carter, T., and M.S. Shackley
+2007 Sourcing Obsidian from Neolithic Çatalöyük (Turkey) Using Energy-Dispersive X-Ray Fluorescence.
+Archaeometry, 49, 437-454.
+Davis, M.K., T.L. Jackson, M.S. Shackley, T. Teague, and J.H. Hampel
+1998 Factors Affecting the Energy-Dispersive X-Ray Fluorescence (EDXRF) Analysis of Archaeological
+Obsidian. In Archaeological Obsidian Studies: Method and Theory, edited by M.S. Shackley, pp. 159-180.
+Springer/Plenum Press, New York.
+Dillian, Carolyn
+2002 More than Toolstone: Differential Utilization of Glass Mountain Obsidian. Ph.D. dissertation, Department
+of Anthropology, University of California, Berkeley.
+Dillian, C., M.S. Shackley, and C. Bello
+2007 Long Distance Exchange? The Case of an Obsidian Projectile Point from the University of Pennsylvania
+Museum. The Pennsylvania Archaeologist, in press.
+Hughes, Richard E.
+1983 Exploring Diachronic Variability in Obsidian Procurement Patterns inNortheast California and
+Southcentral Oregon: Geochemical Characterization of Obsidian Sources and Projectile Points by Energy
+Dispersive X-Ray Fluorescence. Unpublished Ph.D.Dissertation, Department of Anthropology, University of
+California, Davis.
+1984 (editor) Obsidian Studies in the Great Basin. Contributions of the University of California Archaeological
+Research Facility 45, Berkeley.
+Hull, Kathleen L.
+2002 Culture Contact in Context: A Multiscalar View of Catastrophic Depopulation and Culture Change in
+Yosemite Valley, California. Ph.D. dissertation, Department of Anthropology, University of California, Berkeley.
+Jack, Robert N.
+1971 The Source of Obsidian Artifacts in Northern Arizona. Plateau 43(1):103-114.
+1976 Prehistoric Obsidian in California I: Geochemical Aspects. In Advances in Obsidian Glass Studies:
+Archaeological and Geochemical Perspectives, edited by R.E. Taylor, pp. 183-217. Noyes Press, Park
+Ridge, New Jersey.
+Jack, R.N., and I.S.E. Carmichael
+1969 The Chemical Fingerprinting of Acid Volcanic Rocks. California Division of Mines and Geology Special
+Report 100:17-32.
+Jack, R.N. and R.F. Heizer
+1968 “Finger-Printing” of some Mesoamerican Obsidian Artifacts. Contributions of the University of California
+Archaeological Research Facility 5:81-100. Berkeley.
+Jackson, T.L.
+1974 The Economics of Obsidian in Central California Prehistory: Applications of X-Ray Fluorescence
+Spectrography in Archaeology. Master’s thesis, Department of Anthropology, San Francisco State
+University.
+1986 Late Prehistoric Obsidian Exchange in Central California. Ph.D. dissertation, Department of
+Anthropology, Stanford University.Joyce, R.A., M. S. Shackley, R. Sheptak, and K. McCandless
+2004 Resultados Preliminares de una Investigación con EDXRF de Obsidiana de Puerto Escondido. In Memoria, VII
+Seminario de Antropología de Honduras “Dr. George Hasemann”, pp. 115-130. Instituto Hondureño de
+Antropología e Historia, Honduras.
+Kahn, Jennifer G.
+2005 Household and Community Organization in the Late Prehistoric Society Island Chiefdoms (French
+Polynesia). Ph.D. dissertation, Department of Anthropology, University of California, Berkeley.
+Kuzmin, Y.V., V.K. Popov, M.D. Glascock, and M.S. Shackley
+2002 Sources of Archaeological Volcanic Glass in the Primorye (Maritime) Province, Russian Far East,
+Archaeometry 44, 505-515.
+Negash, Agazi, and M. Steven Shackley
+2006 Geochemical Provenance of Obsidian Artefacts from the MSA Site of Porc Epic, Ethiopia. Archaeometry
+48:1-12.
+Negash, Agazi, M. Steven Shackley, and Mulugeta Alene
+2006 Source Provenance of Obsidian Artifacts from the Early Stone Age (ESA) Site of Melka Konture, Ethiopia.
+Journal of Archaeological Science 33:1647-1650.
+Shackley, M. Steven
+1991 Tank Mountains Obsidian: A Newly Discovered Archaeological Obsidian Source in East-Central Yuma
+County, Arizona. Kiva 57:17-25.
+1992 The Upper Gila River Gravels as an Archaeological Obsidian Source Region: Implications for Models of
+Exchange and Interaction. Geoarchaeology 7(4):315-326
+1995 Sources of Archaeological Obsidian in the Greater American Southwest: An Update and Quantitative
+Analysis. American Antiquity 60:531-551.
+1998b Geochemical Differentiation and Prehistoric Procurement of Obsidian in the Mount Taylor Volcanic Field,
+Northwest New Mexico. Journal of Archaeological Science 25:1073-1082
+1998c Intrasource Chemical Variability and Secondary Depositional Processes in Sources of Archaeological
+Obsidian: Lessons from the American Southwest. In Archaeological Obsidian Studies: Method and
+Theory, edited by M.S. Shackley, pp. 83-102. Springer/Plenum Press, New York.
+1998d Editor: Archaeological Obsidian Studies: Method and Theory. Advances in Archaeological and Museum
+Sciences 3, Springer/Plenum Publishing Corporation, New York.
+2005a Obsidian: Geology and Archaeology in the North American Southwest. University of Arizona Press,
+Tucson.
+2005b Paleoindian Basalt and Obsidian Sources in the North American Southwest: A Preliminary Model of Late
+Paleoindian Territoriality. Paper presented in the Symposium on Archaeological Geology, Geological
+Society of America, Annual Meeting, Salt Lake City, Utah.
+2007 Archaeological Petrology and the Archaeometry of Lithic Materials. 50th Anniversary Volume, edited by
+A.M. Pollard. Archaeometry 50: 194-215.
+Shackley, M.S., J.R. Hyland, and M. de la Luz Gutiérrez M.
+1996 Mass Production and Procurement at Valle del Azufre: A Unique Archaeological Obsidian Source in Baja
+California Sur.
+Shackley, M.S. and D. Tucker
+2001 Limited Procurement of a Source of Archaeological Obsidian in Southwestern Arizona. Kiva 66(3):345374.
+Silliman, Stephen
+2000 Colonial Worlds, Indigenous Practices: The Archaeology of Labor on a 19th Century California Rancho.
+Ph.D. dissertation, Department of Anthropology, University of California, Berkeley.Speakman, R.J. and H. Neff (editors)
+2005 Laser Ablation ICP-MS in Archaeological Research. University of New Mexico Press, Albuquerque.
+Weisler, Marshall I.
+1993 Long-Distance Interaction in Prehistoric Polynesia: Three Case Studies. Ph.D. dissertation, Department of
+Anthropology, University of California, Berkeley.

@@ -1,0 +1,1337 @@
+Vol.:(0123456789)1 3https://doi.org/10.1007/s12520-022-01570-x
+ORIGINAL PAPER
+The obsidian beads from Middle Chalcolithic Tel Tsaf (ca.
+5,200–4,700 cal. BC), Jordan Valley, Israel: technology, provenance,
+and socio‑economic significance
+Danny Rosenberg1 · Branden Cesare Rizzuto 2 · Florian Klimscha3 · Tristan Carter 4
+Received: 3 December 2021 / Accepted: 28 April 2022
+© The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, part of Springer Nature 2022
+Abstract
+It has long been recognized that the use of beads for bodily adornment was a powerful means of creating and expressing
+social identities. Their symbolic significance and meaning-making lies in the intersection of how and where they are worn,
+their life histories of production and ownership, the time and skill invested in their manufacture, plus the cosmological import
+and values accorded their raw materials. While obsidian is known to have traveled to the southern Levant from various
+Anatolian sources since the Epipalaeolithic period, its use to make beads is rare. Over eight seasons, excavations at Tel Tsaf
+(ca. 5,200–4,700 cal. BC) in the Jordan Valley, Israel, have produced the richest obsidian bead assemblage in the southern
+Levant, part of a larger set of objects, and raw materials that attest to this Middle Chalcolithic community’s participation
+in long-distance exchange networks. This paper details the obsidian bead assemblage, its morphometric and technological
+characteristics, and raw material sources based on their chemical compositions. It then discusses the assemblage’s broader
+socio-economic significance, and the possible means through which members of the community came to procure them.
+Keywords Obsidian beads · Chalcolithic · Tel Tsaf · Near East · Trade and Exchange
+Introduction
+In this paper, we detail the obsidian beads found at Middle Chalcolithic Tel Tsaf, the largest assemblage currently
+known from the southern Levant. Methodologically, we
+characterize the assemblage through reference to the beads’
+techno-typological specificities, and the source of the obsidian employed to make them, as determined by a non-destructive elemental analysis using X-ray fluorescence (XRF) techniques, and report on comparanda from sites elsewhere in
+the southern Levant, and beyond. The study’s primary aim
+is to employ the beads as a means of further understanding the complexity of the obsidian trade and exchange networks connecting certain southern Levantine communities
+with distant locales to the north; a fuller discussion on the
+significance of the beads, vis-à-vis, their role in adornment
+practices, and the creation and expression of social identities
+will be presented elsewhere.
+Over the past 50-plus years (since Cann and Renfrew
+1964), obsidian sourcing studies have comprised a primary means of detailing long-distance trade and exchange
+between Anatolian, Mesopotamian, and southern Levantine
+populations in later prehistory (Ibanez et al. 2015, 2016;
+* Danny Rosenberg
+drosen@research.haifa.ac.il
+Branden Cesare Rizzuto
+branden.rizzuto@mail.utoronto.ca
+Florian Klimscha
+florian.klimscha@landesmuseum-hannover.de
+Tristan Carter
+stringy@mcmaster.ca
+1 Laboratory for Ancient Food Processing Technologies
+at the Zinman Institute of Archaeology, University of Haifa,
+199 Abba Khoushy Ave. Mount Carmel, 3498898 Haifa,
+Israel
+2 Department of Anthropology, University of Toronto, 19
+Ursula Franklin St, Toronto, ON M5S 2S2, Canada
+3 Department of Research/Collections, Lower Saxony State
+Museum, Archaeology Division, Willy- Brandt-Allee 5,
+30169 Hanover, Germany
+4 Department of Anthropology and School of Geography
+and Earth Sciences, McMaster University, CNH 524, 1280
+Main Street West, Hamilton, ON L8S 4L9, Canada
+/ Published online: 25 May 2022
+Archaeological and Anthropological Sciences (2022) 14: 1131 3Poupeau et al. 2010). Considering the distance of southern
+Levantine sites from the closest geological sources of obsidian in Anatolia, ca. 1000 km to the north (Fig. 1), obsidian artefacts found in this region are frequently regarded
+as prestige items that played a dynamic role in local and
+pan-regional socio-economics (Carter 2011; Garfinkel 2011;
+Healey 2007, 2013). The procurement of obsidian by southern Levantine communities is also believed to have occurred
+in tandem with the movement of other goods from the north
+(e.g., Getzov 2011; Rosenberg et al. 2010; Streit 2020; Streit
+and Garfinkel 2015).
+Modelling the exchange of obsidian to the southern
+Levant is challenging due to its multi-layer complexity.
+Fundamental issues concerning the movement of obsidian
+in the greater region were first discussed in the 1960s by
+Cann and Renfrew (1964; see also Renfrew et al. 1966,
+1968), who posited a ‘down-the-line’ model to explain
+the apparent decrease in obsidian quantity as the distance
+from the source grows, where goods are exchanged with
+neighbouring groups of roughly equal status through a
+variety of configurations that are essentially reciprocal.
+Alternative hypotheses have also been forwarded, invoking
+the circulation of obsidian via itinerant specialists (e.g.,
+Binder 2002), or the existence of complex multi-nodal
+exchange networks (Ibáñez et al. 2015). More recent studies of southern Levantine obsidian assemblages have considered in greater detail the means by which different raw
+materials were circulating, and the uneven distribution of
+source products and manufacturing activities amongst the
+later prehistoric communities of the region. Such work
+has indicated clearly (a) diachronic shifts in which raw
+materials were being circulated, (b) differences in how
+specific source products were circulating (e.g., preformed
+cores, or ready-made blades), (c) that certain populations
+had greater access to different obsidians, and likely acted
+as regional intermediaries for these resources’ distribution (e.g., Carter et al. 2017, 2020; Garfinkel 2008, 2011;
+Gopher et al. 1998, 2011; Ibánez et al. 2015; Ortega et al.
+2014). One of the key discoveries was that different raw
+materials were in circulation between the Pre-Pottery Neolithic and the Late Pottery Neolithic/Early Chalcolithic
+periods, with Central Anatolia as the dominant source
+region represented in the former period, while in the latter
+most obsidian originated from eastern Anatolia (Campbell
+Fig. 1 A map showing the location of Tel Tsaf and other sites and obsidian sources mentioned in the text
+113 Page 2 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3and Healey 2018; Healey and Campbell 2014; Perlman and
+Yellin 1980; Yellin and Frachtenberg 1992).
+A tiny amount of obsidian is first documented in the
+Levant in the Upper Palaeolithic (Frahm and Hauck 2017;
+Shimelmitz et al. 2018). Thereafter the amount of this exotic
+material being procured by southern Levantine populations
+slowly increases, reaching its peak during the Pre-Pottery
+Neolithic period (Garfinkel 2011), followed by a gradual
+decline in the use of obsidian from the Pottery Neolithic
+onwards (e.g., Carter et al. 2017; Delerue 2007; Delerue
+et al. 2012; Garfinkel 2008, 2011; Gopher et al. 1998, 2011;
+Prausnitz 1969; Schechter et al. 2013, 2016; Perlman and
+Yellin 1980; Rosen et al. 2005; Yellin et al. 1996; Yellin and
+Frachtenberg 1992).
+It is in the Chalcolithic, however, that we see the greatest
+diversity of obsidian source products in southern Levantine
+assemblages, with an expanded range of Cappadocian and
+eastern Anatolian raw materials in circulation, together with
+products from the Caucasus (Campbell and Healey 2018;
+Frahm et al. 2016). This is best evidenced at ‘Ein el-Jarba
+and Hagoshrim (Carter et al. 2020; Schechter et al. 2013),
+the former scientifically shown to have obsidian from Göllü
+Dağ and Nenezi Dağ (Cappadocia), Bingöl B, Gürgürbaba
+Tepe, and Nemrut Dağ (eastern Anatolia), Pasinler-Eksisu,
+and Syunik-Satanakar (Caucasus), plus the ‘Group 3d’
+source of unknown origin.
+These long-term shifts in southern Levantine raw material
+procurement traditions form part of a supra-regional reconfiguration in raw material choices, modes of consumption,
+and associated value regimes. In the seventh millennium
+cal. BC of central Anatolia, we see the first use of obsidian
+to make mirrors (Guilbeau in press; Vedder 2005), while
+in northern Mesopotamia of the sixth millennium cal. BC,
+we start to see not only the manufacture of tools and mirrors, but also vessels, and a range of adornments, such as
+beads and pendants (Campbell and Healey 2018; Healey
+and Campbell 2014).
+Throughout the Late Epipalaeolithic, Neolithic, and Chalcolithic periods, it is notable how certain sites have produced considerably larger obsidian assemblages than their
+contemporaries, and these, including Eynan (Delerue and
+Poupeau 2007; Khalaily and Valla 2013), Jericho (Gopher
+et al. 1998), Motza (Khalaily et al. 2007), Nahal Lavan 109
+(Burian and Friedman 1988; Burian et al. 1999), Beisamoun
+(Rosenberg 2010), Hagoshrim (Gopher et al. 2011), and ‘Ein
+Zippori (Schechter et al. 2016). The size and structure of
+these sites’ assemblages clearly reflect a greater complexity
+of obsidian exchange and distribution within the southern
+Levant than the down-the-line model posited by Renfrew
+and colleagues in the 1960s. Of conceptual pertinence to
+this paper, is the fact that from at least the sixth-millennium
+cal. BC onwards, we witness the emergence of a few communities in northern Mesopotamia that appear to have both
+acted as major hubs of procuring obsidian from an array of
+sources from central and eastern Anatolia, and the Caucasus,
+and as centres where skilled craftspeople transformed some
+of these raw materials into adornments, and vessels (Healey
+and Campbell 2014).
+Our focus in this study is the use of obsidian in the
+southern Levant during the Chalcolithic period. At this
+time, obsidian from various sources is found in the form
+of tool production waste, blanks, and end-products (mainly
+fashioned from flakes and bladelets), plus a few items of
+adornment (e.g., Schechter et al. 2013: Fig. 11, 2016) and
+other elaborate objects, the most famous being a mirror from
+Kabri (Prausnitz 1969; Stekelis 1958). It is the subject of
+adornments, specifically beads, that concerns us here.
+Beads, a form of material culture that were designed to
+convey information about their manufacturers, owners, and
+their society (e.g., DeCorse et al. 2003; Dubin 2009; Mellaart 1964, 1967; Sciama and Eicher 2001; Wright et al.
+2008), have been produced by humans for more than a hundred thousand years (Bar-Yosef Mayer 2005; Vanhaeren
+et al. 2006). While personal adornments are often considered
+markers of identity and social status (Costin Wright Brumfiel 1998; White 2007; Wright and Garrard 2003), the specific use of obsidian to make beads in the southern Levant
+may have provided the objects with additional magical, apotropaic, and/or religious significance (Cauvin 1998), in part
+due to the material’s reflective qualities, rarity and distant
+origin (cf. Decourt 1998; Helms 1988; Saunders 2001).
+The background to Tel Tsaf
+Tel Tsaf is situated in the Jordan Valley, near the modern city of Beit Shean (Fig. 1). The site was discovered in
+the 1940s and has been excavated by several expeditions
+since the late 1970s (Garfinkel et al. 2007, 2009; Gophna
+and Sadeh 1988–1989; Tzori 1958). The current project,
+initiated in 2013, has focused on various aspects of longdistance contacts, the community’s economy and social
+organization, and ecology (Rosenberg and Klimscha 2018;
+Rosenberg et al. 2017b, a). Tel Tsaf is a large site of ca. 5 ha
+(Figs. 2 and 3) established over three low hills and the area
+around them (Garfinkel et al. 2009; Horn et al. 2019), its
+occupation spanning ca. 5,200–4,700 cal. BC (Rosenberg
+et al. 2014; Streit and Garfinkel 2015). Several courtyard
+buildings were exposed at the site (Garfinkel et al. 2009), the
+structures built of sun-dried mudbricks that were coated with
+plaster (Rosenberg et al. 2020). Excavations also revealed
+many silos reflecting large-scale storage, plus roasting pits
+that were likely related to feasting events (Ben-Shlomo et al.
+2012; Garfinkel et al. 2007, 2009; Rosenberg et al. 2017b,
+a). The faunal assemblage is large, diverse, and comprised of
+mainly domesticated animals (Hill 2011), while the botanic
+Page 3 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3remains (Graham 2014; Rosenberg et al. 2014) attest to the
+earliest evidence for the Mediterranean diet in the Jordan
+Valley (Rosenberg and Klimscha 2018, 2021; Rosenberg
+et al. 2021).
+Among the numerous finds from Tel Tsaf are some that
+demonstrate the community’s participation in far-reaching
+exchange networks, with evidence for connections with
+Transjordan (beads), Egypt (beads, Nilotic shells), Anatolia
+(obsidian), an unknown copper source in the north (the earliest evidence for smelted copper in the southern Levant [Garfinkel et al. 2014]), Mesopotamia (Ubaid style pottery and
+figurines) and the Mediterranean (seashells). Notable is the
+massive bead assemblage that consists of over 2,500 ostrich
+eggshell beads (Garfinkel et al. 2009), dozens of beads made
+from mostly non-local rocks and minerals (Silvain 2012),
+clay, bone, and wooden beads, Theodoxus Jordani shell
+beads (Rosenberg et al. 2022), plus the obsidian beads that
+are the focus of this paper.
+The Tel Tsaf obsidian beads
+Twenty obsidian beads (Tables 1, 2, and 3, Fig. 4) have been
+retrieved during the new Tel Tsaf excavations (Rosenberg
+et al. 2014, 2021; Rosenberg and Klimscha 2018). Ten came
+from Room C70, three in Room C377, and the rest in various
+fills and pits. Worth mentioning are the eight beads found
+in Locus 972, a surface/floor preserved in the northern part
+of Room C70 (Fig. 5) that were probably part of a single
+string that made up a bracelet, or necklace, one of several
+unique finds from this context, attesting to the room’s socioeconomic significance (e.g., Rosenberg et al. 2017b, a).
+Fig. 2 Tel Tsaf: An aeriel view
+of the site (a) and a view from
+the west (b)
+113 Page 4 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3All beads underwent attribute, macro- and microscopic
+analyses in the Laboratory for Ground Stone Tools Research
+and Ancient Food Related Technologies at the Zinman Institute of Archaeology, University of Haifa, before sending 12 of
+those excavated before 2016 to McMaster University for geochemical characterization. In the first stage, we focused on their
+morphometric properties and production technology using a
+Zeiss DISCOVERY V8 stereoscope (magnification 10–80x).
+Contextual information, the degree of preservation, shape/type,
+color, and profile were recorded. Production characteristics and
+preferences were noted as well as the beads’ dimensions.
+Several attributes were recorded for the Tel Tsaf obsidian
+beads (Tables 2 and 3). While obsidian knappers and artisans are known to have had the knowledge and expertise to
+produce highly symmetrical and meticulously made objects
+(Healey and Campbell 2014), most of the Tel Tsaf obsidian
+beads are not perfectly round. This is interesting, given that
+producing the shaft is a much more demanding task than
+producing a round bead (making the bead requires much
+effort but the artisan has a larger margin of error compared
+to the production of the shafts). The production of obsidian
+beads is difficult because the bead and aperture are small,
+and the material is both hard to polish, while simultaneously
+easy to fracture (see also Belcher 2011; Moorey 1999).
+The Tel Tsaf beads are mostly made of black or blackgrey obsidian, while two have white spherulites (#12 and
+#18). Most are intact (Table 2), and it seems that their imperfect symmetry did not have any notable effect on the beads’
+use (most scars were smoothed over). Two are broken across
+the perforation; these beads are apparently cruder, and it is
+possible that after a rough preparation of the bead preform,
+the hole was made.
+Fig. 3 Tel Tsaf: Room C70 (a
+and b) and probe AR16 (c and
+d) where the obsidian beads
+were found
+Table 1 The context of the Tel Tsaf obsidian beads. *Items in boldface underwent XRF and hhXRF analyses
+Item Area Locus Basket Context Figure
+1 C 972 2512 Surface in Room C70 4:1
+2 C 972 2512 Surface in Room C70 4:2
+3 C 972 2512 Surface in Room C70 4:3
+4 C 972 2512 Surface in Room C70 4:4
+5 C 972 2512 Surface in Room C70 4:5
+6 C 972 2512 Surface in Room C70 4:6
+7 C 972 2512 Surface in Room C70 4:7
+8 C 972 2512 Surface in Room C70 4:8
+9 C 958 2364 Fill 4:9
+10 C 918 2269 Fill in Room 377 4:10
+11 C 918 2269 Fill in Room 377 4:11
+12 C 742 152 Season opening cleaning in
+C70
+4:12
+13 C 735 129 Mud plaster floor in Room C70 4:13
+14 C 1014 2820 Fill 4:14
+15 C 1020 2687 Pit 4:15
+16 C 1003 2577 Cleaning 4:16
+17 C 2180 3946 Pit 4:17
+18 C 919 2255 Fill in the entrance of Room
+377
+4:18
+19 C 1018 2719 Pit? 4:19
+20 C 2194 4019 Fill 4:20
+Page 5 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3Most of these can be classified as disc beads, like other
+beads found in the southern Levant made of other raw
+materials (e.g., Bar-Yosef Mayer 2013). Most have bi-plano
+cross-sections (with both opposing faces flattened), though
+bi-convex profiles were also occasionally noted. The beads
+were produced by flaking and abrading the faces. The
+planes were created in most cases by working the bead
+faces against an unknown, abrasive surface (perhaps with
+the aid of water and sand [cf. Vedder 2005]), while the
+circumferences were mostly shaped by flaking or, in some
+cases, by using a pressure technique and abrasion. The
+circumferences occasionally bear a central ‘ridge’ located
+at the middle of the bead that was created by abrading
+the sides of the beads at an angle (e.g., Fig. 4:14). The
+beads weigh between 0.015 and 1.570 g. Their minimum
+external diameters range between 3.15 and 8.03 mm
+(average 5.16 mm), and their maximum external diameters
+range between 3.18 and 8.30 mm (average 5.37 mm). The
+thickness of the obsidian beads ranges between 0.80 and
+4.99 mm (average 2.20 mm).
+The perforations (Table 3, Fig. 6) are in most cases round
+and symmetrical, suggesting that they had been drilled
+(probably with a bow-drill), even when there are no visible drill marks. Sometimes the shafts were made off-centre.
+Pecking marks are still noted in the shaft’s opening, suggesting that pecking was used in an early stage of the boring
+sequence, as with the Late Chalcolithic perforated flint discs
+(Rosenberg et al. 2017a). The shaft was either initiated from
+both faces (bidirectional) or from one (unifacially); however, directionality is not always clear. The minimum diameters of the perforation range between 0.90 and 2.47 mm
+and their maximum external diameters range between 1.01
+and 2.88 mm for side A and between 1.10 and 2.99 mm
+for side B (sides A and B were independently selected for
+each bead). Some variations in the size of the apertures were
+noted as well, although we did not observe very small apertures like those reported from ‘Ein Zippori (Schechter et al.
+2016: 7:2, 7:4).
+Studies of obsidian beads from other Near Eastern sites
+indicate that they were often made on broken blades/bladelets (Healey and Campbell 2014; Schechter et al. 2016;
+Fig. 7:1). In the Tel Tsaf assemblage, the original blank is
+unidentifiable as the beads were thoroughly reduced and
+abraded, however, it seems that at least some blanks were
+prepared specifically for bead making (thus were not reused
+blades/bladelets). In the absence of experimental and usewear analysis, it is difficult to identify the tools used in
+the manufacture of these beads and their perforation (see
+Table 2 The characteristics and properties of the obsidian beads
+Bead Color Preservation Shape in plan Profile Circ. flaking Weight (g) Minimum
+external diameter (mm)
+Maximum
+external diameter (mm)
+Thickness
+(mm)
+1 Black Complete Roundish Bi-plano + 0.115 6.12 6.38 2.33
+2 Gray/black Complete Roundish Bi-plano + 0.071 3.89 4.51 2.40
+3 Black Complete Roundish Bi-plano + 0.078 4.21 4.38 2.69
+4 Gray/black Complete Roundish Bi-plano + 0.145 6.27 6.30 2.61
+5 Gray Complete Roundish Bi-plano 0.142 6.36 6.64 2.97
+6 Gray Complete Roundish Bi-plano 0.109 5.77 5.99 2.35
+7 Gray/black Complete Roundish Bi-plano + 0.084 6.65 6.77 1.57
+8 Gray/black Complete Roundish Bi-plano + 0.107 5.81 5.83 2.50
+9 Black Complete Roundish Bi-plano 1.570 4.87 5.36 2.52
+10 Gray/black Complete Roundish Bi-plano 0.141 6.05 6.16 2.31
+11 Black Complete Roundish Bi-plano 0.180 6.16 6.37 3.14
+12 Black with
+inclusions
+Complete Roundish/
+Squareish
+Bi-plano 0.210 3.97 4.14 0.80
+13 Gray Complete Roundish Bi-plano 0.039 4.26 4.28 1.7
+14 Gray Complete Roundish Bi-plano 0.438 8.03 8.3 4.99
+15 Black Complete Roundish /
+irregular
+Bi-plano + 0.320 3.86 4.00 1.37
+16 Gray Complete Roundish Bi-plano 0.020 3.22 3.59 1.26
+17 Gray Complete Roundish Bi-plano + ? 0.034 4.18 4.49 1.21
+18 Black Broken Bead? +
+19 Black Broken Roundish /
+irregular
+Plano-convex +
+20 Black/red Complete Roundish Bi-plano 0.015 3.15 3.18 1.03
+113 Page 6 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3however Coşkunsu 2008, 2011; Wright and Garrard 2003).
+Hard stone bead production involved in many cases knapping, abrading, smoothing, and polishing as well as drilling
+and pecking for the preparation of the apertures. All these
+manufacturing techniques are evidenced in the Tel Tsaf
+obsidian bead assemblage.
+Obsidian characterization
+The 12 obsidian beads were geochemically analyzed to
+determine the origin of the raw materials used to fashion the objects. The beads were elementally characterized
+using non-destructive X-ray fluorescence (XRF) techniques.
+The artefacts were initially analyzed using energy dispersive XRF (EDXRF) at the McMaster Archaeological XRF
+Laboratory (MAX Lab), which has experience characterizing several other obsidian assemblages from the southern
+Levant and neighboring regions (e.g., Carter et al. 2017,
+2020; Orange et al. 2019), and hosts North America’s largest collection of geo-referenced samples from the Anatolian
+sources.
+Unfortunately, the data generated by the EDXRF analyses
+were problematic, with their elemental concentrations never
+quite matching those produced by the same instrument and
+under similar conditions as the source samples. These results
+were not entirely unexpected as experimental analysis shows
+that small and thin samples can cause issues for EDXRF (see
+Davis et al. 2011). If the detector’s field of view extends
+beyond the artefact’s margins, then the relative deficit in
+X-rays from the object can impact measured elemental concentration values. The same is true for samples that are thinner than the critical thickness (≈4 mm) needed to prevent
+the transmission of incident X-rays through the sample in a
+manner that will reduce the X-ray fluorescence peak intensities associated with certain elements of interest (Davis et al.
+2011). With all but one of the Tel Tsaf beads exhibiting
+thicknesses less than 4.0 mm, most of the beads do not meet
+the critical thickness thresholds typical of EDXRF analyses
+of obsidian.
+The Thermo Scientific ARL Quant’X EDXRF at the
+MAX Lab is equipped with an X-ray collimator with a
+diameter of 8.8 mm. A collimator is a device that narrows a beam of particles or waves. Thus, the X-ray beam
+diameter is determined by the diameter of the collimator,
+and the object analyzed needs to be larger than the beam;
+otherwise, there is interference between the object and the
+background of the instrument. This interference is negligible when the sample is larger and is the only material
+excited by the incident X-ray beam. However, the Tel Tsaf
+beads have a maximum external diameter of 8.3 mm, in
+addition to having a perforation in their centers (Fig. 4).
+Hence, the concentrations from the analysis were derived
+Table 3 Details of the perforation of the Tel Tsaf obsidian beads
+Item Perforation Perforation boring
+directionality (unifacial/
+bifacial)
+Pecking Drilling Perforation
+minimum diameter
+(mm)
+Perforation max
+diameter of side A
+(mm)
+Perforation max
+diameter of side B
+(mm)
+1 Round Bidirectional + ? + 1.60 2.43 2.49
+2 Round Bidirectional + + ? 0.90 1.05 1.52
+3 Round Bidirectional + + ? 1.00 1.13 1.21
+4 Round Bidirectional + ? + 1.63 1.91 1.97
+5 Round Bidirectional + 1.25 2.28 2.49
+6 Round Bidirectional + 1.10 1.32 1.7
+7 Round Bidirectional + ? + 1.22 1.53 1.66
+8 Round Bidirectional + + 1.30 1.53 1.75
+9 Round Bidirectional + + 1.00 1.69 1.8
+10 Round Bidirectional + ? + 1.62 2.03 2.6
+11 Round Bidirectional + ? + 1.79 2.44 2.51
+12 Round Unidirectional? + 2.06 2.06 2.18
+13 Round Bidirectional + 1.25 1.57 1.96
+14 Round Bidirectional + 2.47 2.88 2.94
+15 Round Bidirectional + ? + 1.00 1.53 1.63
+16 Round Bidirectional + ? + 0.91 1.01 1.1
+17 Round Bidirectional + 1.40 1.4 1.78
+18 Round? Unidirectional? Not available
+19 Round Bidirectional + ? + 1.67 2.2 2.99
+20 Round Bidirectional + ? + ? 1.00 2 2.3
+Page 7 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3from a combination (of unknown proportions) of X-ray
+fluorescence from the instrument background and the
+actual obsidian bead. In previous instances where small
+obsidian artefacts were analyzed, this issue has been
+resolved by working with elemental ratios rather than
+absolute values (e.g., Carter 2016: 11–13, Fig. 9; Carter
+et al. 2018: 178–179: Fig. 8). Alas, the Tel Tsaf material
+provided a further challenge in that the notable diversity
+in the obsidian represented meant that even when working
+with ratio plots, it remained extremely difficult to confidently assign some of the beads’ raw material to a unique
+source. We thus employed alternative XRF analyses to
+source the obsidian, and we choose not to reproduce the
+problematic EDXRF data here.
+The second approach was to employ a hand-held XRF
+(hhXRF) instrument. This approach—along with EDXRF—
+is also known to be capable of discriminating the obsidian
+sources of Anatolia and neighboring regions (e.g., Campbell
+Fig. 4 The Tel Tsaf obsidian
+beads
+Fig. 5 Eight obsidian beads found in Locus 972, a surface/floor preserved in the northern part of Room C70 in Area C
+113 Page 8 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3and Healey 2016; Frahm 2013, 2014; Milić 2014). Analyses of the Tel Tsaf beads were performed using a Bruker
+Tracer III-SD handheld XRF spectrometer. The instrument
+is fitted with a rhodium target X-ray tube recommended by
+the instrument manufacturer to be operated at a maximum
+voltage of 40 kV, a maximum current of 60 μA, and a maximum output of 1.2 Watts. It is further fitted with a 10.0
+mm 2 X-Flash silicon drift detector with a typical resolution of 145 eV at 200,000 counts-per-second MnKα. The
+instrument’s X-ray beam is estimated to have a diameter of
+approximately 4 mm at the instrument’s sample window.
+This beam diameter is still larger than the diameter of some
+of the obsidian beads from Tel Tsaf, but it is significantly
+smaller than the Thermo Scientific ARL Quant’X EDXRF
+at the MAX Lab. As such, though not completely resolving
+the issues relating to sample thickness and perforations, the
+smaller beam diameter reduces the impact that the beads’
+diameters have on the accuracy of elemental quantification
+when using XRF.
+Five repeat measurements were conducted on a single
+spot using the same orientation for each of the 12 obsidian beads from Tel Tsaf as well as several samples each
+from geological sources in Anatolia and the Caucasus that
+were considered potential raw material sources based on the
+logic detailed above: Bingöl A, Bingöl B, East Göllü Dağ,
+Gürgürbaba Tepe/Muş, Nemrut Dağ, Pasinler, Sarakımış,
+and Suphan Dağ. All measurements were taken in dry air
+using a 40 kV tube voltage, a 30 μA beam current, a 90 s
+acquisition time, and a metal filter composed of a 300 μm
+layer of aluminum, a 25 μm layer of titanium, and a 150 μm
+layer of copper. A pressed-powder pellet of RGM-2 (obsidian rhyolite) from the United States Geological Survey was
+also analyzed under the same conditions at the beginning
+and end of each run of measurements. This permitted instrument drift and other factors which impact quantification to
+be monitored. To prevent contamination of the instrument’s
+sample window during the analyses, a 2.5 μm thick film of
+Mylar was positioned between the samples and the instrument’s sample window. Tests on internationally certified
+reference standards (see below) demonstrate that the use of
+Mylar does not significantly impact the accuracy of analyses
+(see also Rennie 2019, Appendix A).
+Elemental quantification was achieved using empirical
+calibrations constructed for 10 elements of interest: Mn, Fe,
+Zn, Ga, Rb, Sr, Y, Zr, Nb, and Th. All calibrations were
+constructed in CloudCal v3.0 (Drake 2018) using commaseparated values (CSV) data files supplied by the manufacturer of the Tracer III-SD instrument. The files pertain to
+data generated from the analyses of 39 obsidian secondary
+reference standards initially prepared at the Missouri University Research Reactor (MURR) Archaeometry Laboratory
+(see Glascock and Ferguson 2012, also Glascock 2020). To
+test the accuracy of these calibrations, RGM-2 and three
+additional certified reference standards from the Geological
+Survey of Japan were analyzed: JR-1 (obsidian rhyolite),
+JR-2 (obsidian rhyolite), and JR-3 (peralkaline rhyolite). The
+results of these analyses are presented in Table 4.
+For all elements, the results demonstrate good agreement
+between measured concentrations and reference values for
+RGM-2, JR-1, and JR-2. JR-3 also shows good agreement,
+excluding several elements that are close to or above the
+upper concentration limit of the empirical calibrations (Ga,
+Zr and Th). Barring issues of sample morphology, the results
+Fig. 6 A close-up view of some of the beads’ apertures
+Page 9 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3demonstrate the ability of the constructed calibrations to
+accurately quantify the concentrations of the 10 elements
+listed above in obsidian materials.
+Given the issues that accompany working with very small
+and thin samples, it was important to rely as best as possible
+on ratio data, particularly regarding elements that have similar
+Fig. 7 A–F Biplots of the elemental concentrations obtained from the
+hhXRF analyses of the Tel Tsaf obsidian beads and geological obsidian source samples. Concentration ratios have been used to compare
+the results obtained from the beads with those obtained from source
+samples due to the impact of bead morphology on the accurate elemental quantification of the former. Labelled datapoints indicate concentration ratios for each of the 12 beads analyzed
+113 Page 10 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3X-ray fluorescence energies and where measured fluorescence
+intensities will be impacted somewhat similarly by issues of
+sample morphology (cf. Frahm 2016; Glascock 2020): Mn/Fe,
+Th/Rb, Rb/Sr, Sr/Y and Zr/Nb. However, even with using ratio
+data, it was still difficult to source each bead with absolute
+confidence as we discuss below. Ultimately, a non-destructive
+and targeted technique such as afforded by PIXE might be a
+more appropriate analytical technique for small objects such
+as beads (e.g., Carter et al. 2011), or the micro-destructive
+method of LA-ICP-MS (e.g., Orange et al. 2016).
+Fig. 7 (continued)
+Page 11 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3Results of the sourcing study
+The results of the hhXRF analyses of the 12 obsidian beads,
+source samples, and the RGM-2 reference standard are presented in Tables 5 and 6. The 12 obsidian beads elementally characterized were shown to be made from at least
+four geochemically distinct obsidians from three different
+source regions: central Anatolia (Cappadocia), eastern Anatolia, and the Caucasus (Fig. 7). Beads #1 and #3 are by far
+the most distinctive geochemically and visually, being made
+of peralkaline obsidian, green in hue, and with very high
+(> 800 ppm) levels of Zr (Tables 5 and 6, Fig. 7).
+The only peralkaline sources in the larger region are in
+eastern Anatolia, specifically the southern outcrops of the
+Bingöl volcanic massif (‘Bingöl A’) and 150 km further to
+the east at Nemrut Dağ on the western shore of Lake Van
+(Fig. 1). While hhXRF was able to clearly discern these two
+sources from each other based on the geological samples, it
+is unfortunately unclear as to which source the beads’ obsidian derived from given the loss in accuracy for the bead
+data given issues of sample morphology (they are simply
+too small and/or thin). That we were unable to discriminate these artefacts’ raw materials is not without precedent,
+even with larger items (e.g., Carter et al. 2008). We do suggest, however, that one or both beads are likely to have been
+fashioned from Nemrut Dağ obsidian. In part this is through
+reference to the fact that this source is known to have been
+used to make obsidian beads that are green elsewhere,
+for example the necklace from the ‘Burnt House’ at Tell
+Arpachiyah (Healey and Campbell 2014: 88, Fig. 7). Arguably more telling, the Tel Tsaf bead assemblage includes
+two examples (not included in this characterization study)
+of green obsidian with white spherulites (Fig. 3:12, 3:18),
+an inclusion characteristic of most Nemrut Dağ obsidian, not
+least that from inside the caldera and around the volcano’s
+rim (T. Carter pers. obs.). Staying with eastern Anatolian
+raw materials, the chemical signature of bead #15 most
+closely aligns with those of calc-alkaline source products
+from the northern outcrops of Bingöl, i.e., the ‘Bingöl B’
+source group (Fig. 7).
+The hhXRF results further suggest that the best match
+for the obsidian employed to make bead #4 is source material from Pasinler Tizgi (see Chataigner et al. 2014: 362)
+in northeast Anatolia (a region that can be geographically
+conceptualized as part of the Caucasus following the definition of Frahm et al. 2016: 545). Finally, beads #2, #5, #6,
+#7, #8, and #13 would appear to be made of East Göllü Dağ
+obsidian. Beads #14 and #16 may also be made of these
+raw materials, though there are some notable discrepancies
+for some elements, particularly elevated Mn/Fe ratios for
+Fig. 8 Obsidian disc and other
+beads and possible bead blanks
+from the south-Levantine sites
+and other sites in Anatolia:
+1. An obsidian bead found in
+the Sefunim cave (Shimelmitz
+et al. 2016: Fig. 10:11); 2–5.
+Obsidian beads from ‘Ein
+Zippori (after Schechter et al.
+2016: Fig. 7:1–4); 6–8. Obsidian beads and a possible bead
+blank from Hagoshrim (after
+Schechter et al. 2013: Fig. 11a);
+9–10. Obsidian beads from Kh.
+‘Uza (after Getzov et al. 2009:
+Fig. 3.14:3–4); 11–16. Possible
+obsidian bead blanks and beads
+from Domuztepe (after Healey
+and Campbell 2014: figs. 4:6–8
+and 3:7–9); 17. An obsidian
+bead from Mezraa-Teleilat,
+south-east Anatolia (Coşkunsu
+2011 after Fig. 13:8)
+113 Page 12 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3bead #14 and elevated Zr/Nb ratios for both beads #14 and
+#16. These deviations are once again likely the result of loss
+of accuracy caused by bead size/thickness, and this lowers
+the extent to which these beads can be assigned to obsidian
+sources with a high degree of confidence.
+Discussion
+The earliest reference to obsidian beads from the larger
+region comes from the Middle Pre-Pottery Neolithic B
+site of Tell Halula in the Middle Euphrates. This is a single butterfly bead whose green color suggests that it was
+made from one of the eastern Anatolian peralkaline sources:
+Bingöl A, or Nemrut Dağ (Alarashi 2016: 496, Fig. 4c,
+Table 2; Delerue 2007: 40). Obsidian beads (disc beads
+and less so other types) appear subsequently at several sites
+dated mainly to the Late Neolithic and Chalcolithic (e.g.,
+Coşkunsu 2011; Healey 2007; Healey and Campbell 2014:
+figs. 3:7–9, 4:6–8; Watson 1983: 239).
+Obsidian disc beads first appear in the southern Levant
+probably during the Early Chalcolithic period (however see
+below), made of various Anatolian raw materials. However,
+obsidian disc beads are rare even at sites where large obsidian
+assemblages were found, such as Hagoshrim (Gopher et al.
+1998 and 2011; Schechter et al. 2013), Beisamoun (Rosenberg
+Table 4 Results of quantitative hhXRF analyses conducted on internationally certified reference standards using the constructed empirical calibrations. All values in parts-per-million (ppm) unless otherwise specified. Values that are italicized are outside the concentration
+ranges of the empirical calibrations. Legend: n.r., not reported; x̅,
+mean; σ, standard deviation; CV, coefficient of variation; Δ, absolute
+difference between measured mean and reference value mean; δ, relative difference between measured mean and reference value mean
+JR-1 Stat Mn Fe Zn Ga Rb Sr Y Zr Nb Th
+Measured (n = 30) x 756 6317 33.1 14.8 253 25.1 42.6 99.5 15.9 26.3
+σ 49 173 5.0 2.1 6 1.6 2.4 10.7 1.3 2.2
+CV (%) 6.5 2.7 15 14 2.6 6.5 5.6 11 7.9 8.5
+Δ − 11 92 2.5 − 1.3 − 4 − 4.0 − 2.5 − 0.4 0.7 − 0.4
+δ (%) − 1.4 1.5 8.3 − 8.3 − 1.5 − 14 − 5.5 − 0.4 4.9 − 1.3
+Reference values x 767 6225 30.6 16.1 257 29.1 45.1 99.9 15.2 26.7
+σ 54 490 4.6 1.4 16 5.2 5.2 6.3 1.7 2.6
+JR-2 Stat Mn Fe Zn Ga Rb Sr Y Zr Nb Th
+Measured (n = 30) x 842 5642 30.6 15.7 300 6.7 48.7 98.7 18.1 31.3
+σ 40 103 4.0 1.9 6 0.9 2.6 5.8 1.2 2.7
+CV (%) 4.7 1.8 13 12 2.1 13 5.3 5.8 6.9 8.5
+Δ − 25 256 2.8 − 2.2 − 3 − 1.4 3.6 − 1.2 2.9 4.6
+δ (%) − 2.9 4.8 10 − 12 − 1.0 − 17 8.0 − 1.2 19 17
+Reference values x 867 5386 27.8 17.9 303 8.11 45.1 99.9 15.2 26.7
+σ 54 420 2.7 2.5 24 2.31 5.2 6.3 1.7 2.6
+JR-3 Stat Mn Fe Zn Ga Rb Sr Y Zr Nb Th
+Measured (n = 30) x 668 32,809 201 40.4 455 13.7 172 1575 517 95
+σ 63 526 8 2.6 11 1.2 6 32 10 3
+CV (%) 9.4 1.6 4.1 6.4 2.4 8.8 3.3 2.0 1.8 3.4
+Δ 25 − 232 − 8 3.8 2 3.3 6 81 7 − 17
+δ (%) 3.9 − 0.7 − 3.8 10 0.4 32 3.4 5.4 1.4 − 15
+Reference values x 643 33,041 209 36.6 453 10.4 166 1494 510 112
+σ 33 609 12 1.57 12.2 1.66 4.59 115 30.4 4.8
+RGM-2 Stat Mn Fe Zn Ga Rb Sr Y Zr Nb Th
+Measured (n = 30) x 260 12,925 36 15 151 107 23 228 10 15
+σ 49 191 5 2 4 3 2 11 1 2
+CV (%) 19 1.5 15 12 2.4 2.8 7.6 5.0 8.3 12
+Δ − 13 − 75 3 − 1 4 − 1 − 1 6 1 0
+δ (%) − 4.6 − 0.6 8.6 − 4.5 3.0 − 1.0 − 5.5 2.8 12 0
+Reference values x 273 13,000 33 16 147 108 24 222 9 15
+σ 8 300 2 1 5 5 2 17 n.r 1
+Page 13 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 32010), ‘Ein Zippori (Schechter et al. 2016), Motza (Khalaily
+et al. 2007), and Nahal Lavan 109 (Burian and Friedman
+1988). The handful of southern Levantine sites where obsidian
+disc beads and possible bead blanks are known (Fig. 8) include
+a bead found in the Sefunim cave in a layer primarily dated to
+the Epipalaeolithic period that also includes a few items from
+later periods (Shimelmitz et al. 2018: Fig. 10:11). Four obsidian beads were found at ‘Ein Zippori in the Galilee; three are
+disc beads found in the Early Chalcolithic layer, and one is a
+bead formed on a proximal bladelet fragment (Schechter et al.
+2016: Fig. 7:1–4). Three obsidian disc beads were found at
+Hagoshrim in the Hula Valley, one from the Early Chalcolithic
+Table 5 Results of the quantitative hhXRF analyses conducted on the obsidian beads from Tel Tsaf. All values in parts-per-million (ppm) unless
+otherwise specified. Legend: x̅, mean; σ, standard deviation; CV, coefficient of variation
+Sample Stat Mn Fe Zn Ga Rb Sr Y Zr Nb Th Source
+Bead 1 x 490 28,403 213 32 211 0.2 113 988 45 27 Bingöl A or Nemrut Dağ A
+σ 71 451 11 4 6 0.8 4 14 3 4
+CV (%) 15 1.6 5.0 12 2.9 455 3.4 1.5 7.1 14
+Bead 2 x 354 5313 71 16 152 6.9 16 70 19 17 East Göllü Dağ
+σ 112 194 6 2 6 1.5 1 8 2 3
+CV (%) 32 3.7 8.3 12 4.2 22 9.0 11 10 15
+Bead 3 x 455 24,130 195 35 160 0.8 83 829 35 25 Bingöl A or Nemrut Dağ A
+σ 74 416 20 6 3 0.5 6 52 4 4
+CV (%) 16 1.7 10 16 2.1 65 6.6 6.3 10 18
+Bead 4 x 312 7910 62 14 156 0.3 29 183 22 25 Pasinler Tizgi
+σ 63 261 8 3 4 0.4 1 4 2 1
+CV (%) 20 3.3 13 21 2.5 108 5.0 2.4 8.2 5
+Bead 5 x 376 5640 46 14 173 7.8 16 61 19 17 East Göllü Dağ
+σ 38 90 9 3 1 1.4 1 13 1 2
+CV (%) 10 1.6 19 21 0.7 18 8.1 21 6.5 13
+Bead 6 x 353 5485 49 15 164 6.5 15 63 18 14 East Göllü Dağ
+σ 9 126 4 2 4 1.4 1 4 2 2
+CV (%) 2.5 2.3 7.4 16 2.4 21 5.8 5.7 13 16
+Bead 7 x 498 6756 61 18 195 8.3 15 73 19 19 East Göllü Dağ
+σ 91 173 13 3 5 1.6 2 9 2 2
+CV (%) 18 2.6 22 14 2.8 19 13 13 9.4 9
+Bead 8 x 390 5830 62 13 166 7.8 15 56 19 15 East Göllü Dağ
+σ 66 158 10 2 6 0.7 1 7 0.5 1
+CV (%) 17 2.7 17 17 3.7 8.5 9.0 13 2.6 7
+Bead 13 x 371 5971 94 18 160 3.9 13 41 16 17 East Göllü Dağ
+σ 61 206 7 3 4 1.9 4 15 2 2
+CV (%) 17 3.5 7.4 16 2.7 49 30 36 11 12
+Bead 14 x 527 4006 45 14 188 9.9 20 58 47 21 East Göllü Dağ?
+σ 63 145 4 3 3 1.1 3 8 2 3
+CV (%) 12 3.6 8.5 20 1.4 11 13 15 5.0 13
+Bead 15 x 195 12,903 127 23 182 33 19 222 13 22 Bingöl B
+σ 47 396 15 3 8 2 2 20 2 6
+CV (%) 24 3.1 11 14 4.6 5.7 13 9.0 18 27
+Bead 16 x 373 6171 131 19 132 4.7 9.3 23 12 15 East Göllü Dağ?
+σ 84 242 23 3 4 1.3 3.3 18 1 5
+CV (%) 23 3.9 18 16 3.1 27 35 81 8.5 36
+RGM-2 x 280 12,551 40 15 148 105 22 216 9.9 16 Standard
+σ 67 268 5 2 4 3 1 8 1.3 3
+CV (%) 24 2.1 14 15 2.8 2.9 3.3 3.8 14 22
+RGM-2 x 264 12,435 43 15 148 103 21 216 9.6 13 Standard
+σ 45 105 3 1 3 4 1 4 1.2 1
+CV (%) 17 0.8 6.3 8.5 2.4 4.0 5.8 1.9 12 10
+113 Page 14 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3Table 6 Results of the
+quantitative hhXRF analyses
+conducted on the geological
+obsidian source samples from
+Anatolia and the Caucasus used
+in the sourcing of the Tel Tsaf
+obsidian beads
+Sample Mn Fe Zn Ga Rb Sr Y Zr Nb Th
+Bingöl A 592 30,415 191 31 236 4.4 143 1355 59 34
+Bingöl A 622 32,115 210 35 245 4.8 148 1353 60 36
+Bingöl A 623 30,475 194 30 241 4.4 148 1337 61 34
+Bingöl A 584 30,007 193 31 253 4.5 155 1413 63 36
+Bingöl B 293 13,238 50 16 221 43 31 339 18 27
+Bingöl B 327 13,541 45 17 226 43 29 357 19 28
+Bingöl B 340 13,687 45 18 227 43 34 348 19 28
+Bingöl B 318 13,307 49 17 224 44 31 345 18 26
+Bingöl B 312 13,289 47 18 223 44 29 346 19 28
+East Göllü Dağ 465 5886 24 14 196 6.6 23 88 24 22
+East Göllü Dağ 502 5834 24 11 186 9.8 22 87 22 21
+East Göllü Dağ 533 6149 22 13 195 9.6 22 94 25 23
+East Göllü Dağ 541 5977 23 14 199 7.4 21 79 24 21
+East Göllü Dağ 443 5807 28 14 189 8.4 20 87 23 21
+East Göllü Dağ 512 5877 24 13 195 7.3 21 76 23 21
+Gürgürbabatepe 527 9888 75 18 203 17 54 298 32 24
+Muş 395 9242 99 24 182 1.0 63 249 73 22
+Nemrut Dağ A 664 24,904 158 29 210 2.8 126 1241 70 27
+Nemrut Dağ A 661 25,198 179 30 207 2.9 125 1232 67 27
+Nemrut Dağ A 683 23,272 152 28 194 3.3 119 1205 62 26
+Nemrut Dağ A 683 23,918 162 28 201 3.0 122 1218 65 28
+Nemrut Dağ A 679 23,538 161 29 205 3.7 131 1229 64 26
+Pasinler Eksisu 330 11,567 42 15 131 115 12 179 19 21
+Pasinler Eksisu 379 11,842 43 16 134 97 12 177 20 22
+Pasinler Eksisu 396 12,010 46 14 134 105 13 180 20 20
+Pasinler Eksisu 440 11,237 46 14 132 95 12 183 21 21
+Pasinler Eksisu 428 11,473 43 14 131 102 12 176 20 22
+Pasinler Tizgi 362 7754 37 15 190 0.7 34 188 29 34
+Pasinler Tizgi 368 7406 32 14 180 0.7 32 181 28 31
+Pasinler Tizgi 416 9535 45 17 176 4.1 33 281 28 31
+Pasinler Tizgi 375 7560 36 15 181 1.4 34 189 28 33
+Pasinler Tizgi 378 7622 40 17 184 1.2 33 176 28 33
+Pasinler Tizgi 361 7867 40 14 186 1.9 32 184 27 33
+Sarakımış Hamamli 645 7921 64 16 140 4.0 47 263 30 18
+Sarakımış Hamamli 647 7822 56 16 139 3.8 50 250 30 18
+Sarakımış Hamamli 638 8030 62 18 145 3.9 49 286 31 20
+Sarakımış Hamamli 647 8243 64 18 145 4.2 51 269 30 18
+Sarakımış Hamamli 663 8411 71 18 146 3.6 50 264 30 18
+Sarakımış Sehetin 617 7640 59 18 142 4.1 48 242 29 20
+Sarakımış Sehetin 604 7655 66 15 141 3.8 49 240 29 18
+Sarakımış Sehetin 611 7664 62 16 143 4.5 48 256 30 18
+Sarakımış Sehetin 627 7680 61 16 136 4.6 48 248 30 18
+Sarakımış Sehetin 637 7899 63 15 141 4.7 48 247 29 19
+Süphan Dağ 262 9147 39 15 150 15 30 114 10 15
+RGM-2 245 12,542 38 15 147 103 22 216 10 13
+RGM-2 267 12,847 38 15 152 107 22 229 9.8 15
+RGM-2 288 12,961 32 15 149 104 23 227 10 17
+RGM-2 297 12,887 36 15 152 107 24 234 10 16
+RGM-2 264 12,803 35 16 150 107 22 231 9.5 15
+Page 15 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3layer and two from the site’s surface (Schechter et al. 2013:
+figs. 11a:a–b). Another possible bead blank was also noted at
+Hagoshrim (Schechter et al. 2013: Fig. 11a:c), which is similar to other examples from Domuztepe (Healey and Campbell 2014: figs. 4:6–8). In turn, there is a single bead reported
+from the Late Chalcolithic burial cave of Peqi’in (Bar-Yosef
+Mayer and Porat 2013: table 10:3), plus two-disc beads from
+the Intermediate Bronze layer at Kh. ‘Uza (Getzov et al. 2009:
+Fig. 3.14:3–4), a site that also has Early Chalcolithic strata.
+With 20 beads, the Tel Tsaf assemblage clearly stands out
+in a southern Levantine context. It remains here to consider
+the obsidians employed, and the mechanisms by which these
+adornments and/or raw materials were procured and redistributed amongst the region’s populations during the Middle
+Chalcolithic periods (ca. 5,200–4,700 cal. BC).
+That the Tel Tsaf beads were shown to be mostly made
+of obsidian from the East Göllü Dağ, Nemrut Dağ / Bingöl
+A, and Bingöl B sources was not unexpected, with these
+raw materials well attested at southern Levantine sites from
+the later Neolithic/Early Chalcolithic (e.g. ‘Ein el-Jarba, see
+Carter et al. 2020). Moreover, East Göllü Dağ obsidian is
+known to have been used for bead manufacture in an earlier period, at Halafian Domuztepe in southeast Anatolia
+(Healey and Campbell 2014), while Nemrut Dağ and Bingöl
+B raw materials were similarly employed to make adornments (including necklace links) at Halafian Tel Arpachiyah in northern Mesopotamia (Healey and Campbell 2014:
+Table 1). Conversely, Pasinler obsidian is much more rarely
+documented in archaeological assemblages (Chataigner et al.
+2014: 362), restricted largely to sites close to the source,
+specifically Sos Hüyük (Late Chalcolithic – Iron Age,
+see Sagona et al. 1996), plus Tepecik Koy 1 and Tepecik
+2 (Bronze Age, see Brennan 2000). Quantities of Pasinler
+obsidian have, however, been documented from Halaf-period
+Domuztepe in southeast Anatolia, distinctive in their reddish
+hue (Campbell and Healey 2018: 150; Healey and Campbell
+2009: Table 1). Reddish obsidian—which comprises both
+Pasinler and Arteni obsidian at Domuztepe—was used to
+make not only blades and flakes but also vessels (Healey
+and Campbell 2009).
+While there is no clear evidence for beads made of Pasinler obsidian from elsewhere, our discoveries fit the larger
+pattern of an expanded range of obsidian sources being used
+from the later Neolithic onwards by Near Eastern communities (Campbell and Healey 2018; Carter et al. 2020). The
+greater use of obsidian from the Caucasus (northeast Anatolia and Armenia) is a characteristic of this shift in raw
+material procurement traditions, with obsidian from two
+Syunik sources in Armenia being used to make beads at
+Early Dynastic (ca. 2700 cal. BC) Kish in southern Mesopotamia (Campbell and Healey 2017).
+The evidence currently suggests that Tel Tsaf inhabitants procured these beads ready-made, with the excavation
+having produced no preforms or waste products from the
+manufacture of such adornments. That said, a separate MAX
+Lab characterization study of obsidian tools from Tel Tsaf
+(from another project) has identified tools made of East
+Göllü Dağ, and Nemrut Dağ raw materials, whereby the
+community, in theory, had the blanks from which the beads
+could have been fashioned.
+The Tel Tsaf obsidian disc beads were mostly found
+complete, though some are slightly damaged (it is unclear
+if this was during production, use, or post-deposition). The
+beads were found in various contexts and layers in Area C
+(Table 1), mostly on surfaces, floors, pits or fills, open areas,
+and rooms. In one case, eight were found together, probably
+a part of a single string representing a bracelet, or necklace;
+interestingly these beads were made of obsidian from three
+sources: five from East Göllü Dağ, two from either Bingöl
+A or Nemrut Dağ A, and one from Pasinler Tizgi.
+The study by Healey and Campbell (2014) clearly demonstrates that the manufacture and use of obsidian adornments
+is a phenomenon that took off during the Halaf period. This
+is best attested at Tell Kurdu and Domuztepe, the latter having evidence for a bead workshop (Campbell 2005), that
+used an array of raw materials, including obsidian; in both
+instances, non-peralkaline obsidian seems to have been preferred (Healey 2007: 181, 2013: 254–257, figs. 22.3–22.5;
+Healey and Campbell 2014: 83–84, figs. 4–5). Some of these
+beads, or the idea behind their manufacture, then made their
+way to the southern Levant, part of a range of Halafian connections witnessed at such Early Chalcolithic sites as ‘Ein
+el-Jarba, Kabri, Hagoshrim, and ‘Ein Zippori (Carter et al.
+2020: 16–18). We suggest that the bead evidence from Tel
+Tsaf, and other later sites, indicates that these relationships
+between southern Levantine communities, and those based
+in the northern Levant and northern Mesopotamia continued
+during the timespan of the Early Ubaid, at least until ca.
+4,700 cal. BC.
+Sites in this area to the north with beads and other ornaments of obsidian include (Healey and Campbell in press)
+Arpachiyah (Healey and Campbell 2014), Mezraa Teleilat
+(Coşkunsu 2008: 31, Özdoğan 2011: figs. 64–65), and Tell
+al-Judaidah (Braidwood and Braidwood 1960: 252, 385,
+Fig. 190.5; Rennie 2019: table 2.0). Other sites from the
+‘traditional sphere of Halaf influence’ and beyond (southern Mesopotamia and the Gulf) that yielded obsidian beads
+include Chagar Bazar, Choga Mami, Tepe Gawra, Tell Aqab,
+Tell Halaf, Umm Qseir, and Yarim Tepe (Healey and Campbell 2014: 93–94, Table 1).
+Tel Tsaf, at ca. 5,200–4,700 cal. BC, represents a later
+period of obsidian bead use, whereby Early Ubaid assemblages comprise more chronologically pertinent comparanda. Healey (2010: 174) notes how, as with the preceding Halaf period, obsidian was used to make a range of
+adornments and vessels in the Early Ubaid, with decorative
+113 Page 16 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3items comprising the sole use for this raw material at a
+workshop in Tülintepe (Upper Euphrates), and as-Sabiyah
+(Kuwait). We can also refer to obsidian beads from Early
+Ubaid contexts that have been found at Tell Kurdu (Amuq
+Valley), Ras Shamra (Levantine coast), Tell Kosak Shamali
+(Upper Euphrates), Oueili (Iraq), Tell Songor (Iraq), and
+Khor (Qatar) (see Healey 2010: table 12.4 for a summary).
+Where reported, the obsidian used to make these adornments is described as grey and translucent (Coqueugniot
+1998: 292; Healey 2010: 174), characteristics we associate
+strongly with East Göllü Dağ obsidian. This is not to say
+that all beads are made of these southern Cappadocian raw
+materials—as there are other Caucasian obsidians that have
+a similar appearance (e.g., some of the Sarakımış products),
+though it may point towards a common aesthetic.
+Conclusion
+The circulation of obsidian in the prehistoric southern
+Levant has received significant attention, with discussions
+focusing on the mechanisms by which these exotic raw materials circulated, the ways in which they were worked, and
+the socio-economic significance of their uneven distribution
+amongst the region’s inhabitants (e.g., Carter et al. 2017,
+2020; Garfinkel 2011; Gopher et al. 1998; Ibánez et al. 2015;
+Ortega et al. 2014; Schechter et al. 2013, 2016 inter alia).
+Given the large distances from the source to site and the
+overall rarity of obsidian in the southern Levant (Garfinkel 2011: Table 1), it is often suggested that those artefacts
+made from these raw materials may have often enjoyed a
+symbolic, or prestigious significance for these populations,
+rather than a quotidian resource for household activities
+(Gopher et al. 1998: 646; see also Carter et al. 2017: 308,
+2020: 16–18; Healey 2007, 2013), the objects potentially
+having a key role in mediating social and economic relationships (Healey and Campbell 2009).
+The use of obsidian for adornment may be the most obvious expression of these raw materials’ role in the creation,
+maintenance, and expression of social identities, their distinct colors, reflectivity, and position on the wearer, a powerful means of distinguishing an individual from their peers,
+most of whom—at Tel Tsaf—were presumably wearing the
+far more common ostrich shell beads (Garfınkel et al. 2009).
+One wonders if bead manufacture represented an emblem of
+a particular community (or sodality within that population),
+such as Domuztepe, or Hagoshrim for example, with a few
+end-products then being gifted to (or exchanged with) members of other settlements as a means of brokering important
+external relations, a form of bridewealth for example. The
+exchange of obsidian beads may have taken place in more
+restricted social spaces, amongst different types of people,
+occurring as a more isolated phenomenon seen mainly in
+‘islands’ or capsules of distinct cultural phenomena, such
+as Tel Tsaf.
+While obsidian beads may have enjoyed a different meaning and status from tools made from the same raw materials,
+there is clearly a close relationship between the two sets of
+material culture objects, given that the former were often
+made from the latter. Similarly, while the exchange of beads
+and tools may have occurred at different times, and places,
+it remains that these objects both ultimately derived from
+the movement of preformed and/or part-worked blade cores
+from northern Levantine and/or northern Mesopotamian
+communities (Carter et al. 2020). It is important to appreciate the commonalities and distinctions between adornments
+and other types of objects, specifically tools and implements,
+rather than taking a reductionist view that focuses primarily
+on ‘obsidian’, the shared raw material.
+The value accorded to the products of exotic materials
+from distant locales (cf. Helms 1988) may have been at
+least part of the motivation for obtaining or making obsidian beads. Furthermore, the properties of obsidian (reflectivity, iridescence, or ‘brilliance’) and its possible association
+with divinity or magical properties (cf. Aufrère 2001: 160;
+Coqueugniot 1998; Decourt 1998; Helms 1993: 150–152;
+Saunders 2001) may have been instrumental factors that
+supported their circulation and use. If the obsidian beads
+portray non-functional qualities and significance, then the
+obsidian beads from the Middle Chalcolithic site (contemporary with the Early Ubaid phase 3), represent tokens of
+connectivity and communication between the northern and
+southern Levant and northern Mesopotamia, which continued through the fifth-millennium cal. BC. This is not to say
+that the objects were not necessarily produced at another
+southern Levantine site, but more a matter of the manufacture and use of such adornments can be viewed as linking
+certain members of the Tel Tsaf community with ideological
+practices that emerged in northern regions in the preceding
+millennium.
+Summing up, beads are one of the most notable objects
+associated with personal adornment, symbolic representation, and status (Baysal 2019). The recovery of a relatively
+large number of obsidian beads at Tel Tsaf, known as a hub
+for long-distance trade and pan-regional contacts, can thus
+be viewed as a token of the complexity of the ties between
+the southern Levant and communities to the north. We can
+see the Tel Tsaf beads as deeply meaningful objects, with
+those who wore them being entangled (cf. Hodder 2014) in
+a web of interpersonal relations, exchange networks, skilled
+technical practices, and value regimes. These adornments
+are more likely to have been gifted in avowedly social settings (cf. Mauss 1950; Godelier 1999), rather than circulating via a simple economic exchange, though this may be to
+forge a false dichotomy for the movement of exotica in the
+Middle Chalcolithic.
+Page 17 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3Arguably the Tel Tsaf obsidian beads formed part of a
+system of social distinction (cf. Bourdieu 1987), yet another
+reflection of emerging social complexity during the end of
+the sixth- and early fifth-millennia cal. BC (Rosenberg and
+Klimscha 2021), a process that continued to intensify during
+the Late Chalcolithic period, with its lavish copper industry
+(e.g., Bar-Adon 1980; Levy and Shalev 1989).
+Acknowledgements The Tel Tsaf research project was conducted
+under IAA licenses G-43/2013, G-8/2015, G-18/2015, G-46/2016,
+G-39/2017, G-20/2018, G-45/2019, and G-43/2020. We would like to
+thank S. Haad for her assistance with the graphics and illustrations, and
+H. Schechter and N. Getzov for information regarding the ‘Ein Zippori
+and Hagoshrim beads, plus H. Alarashi, E. Baysal, and E. Healey for
+their insights. K. Campeau ran the initial EDXRF analyses, while H.
+Ashkenazi helped with GIS and the production of Fig. 1.
+Author contribution All authors contributed to the study conception
+and design. Material preparation, data collection, and analysis were
+performed by Danny Rosenberg, Branden Cesare Rizzuto, and Tristan
+Carter. The first draft of the manuscript was written by Danny Rosenberg, Branden Cesare Rizzuto, and Tristan Carter and all authors commented on previous versions of the manuscript. All authors read and
+approved the final manuscript.
+Funding The Tel Tsaf research project is supported by the Israel Science Foundation (ISF grant 216/17), the Rust Family Foundation, the
+Irene Levi-Sala CARE Foundation, the Eurasia Department of the German Archaeological Institute (DAI) in Berlin, and the Zinman Institute
+of Archaeology, University of Haifa. The MAX Lab was established
+by a Canada Foundation for Innovation Leader’s Opportunity Fund /
+Ontario Research Fund; the Anatolian source samples’ collection was
+funded by a Social Sciences and Humanities Research Council – Standard Research Grant (#41020102034).
+Data availability All data used in this paper is provided in the text.
+Declarations
+Ethics approval None needed.
+Consent to participate Not needed.
+Consent for publication The authors agree to the publication of this
+paper in the Journal Anthropological and Archaeological Sciences.
+Conflict of interest The authors declare no competing interests.
+References
+Alarashi H (2016) Butterfly beads in the Neolithic Near East: evolution, technology and socio-cultural implications. Camb Archaeol
+J 26(3):493–512. https://doi.org/10.1017/S0959774316000342
+Aufrère S (2001) The Egyptian temple, substitute for the mineral universe. In: Davies WV (ed) Colour and painting in ancient Egypt.
+The British Museum Press, London, pp 158–163
+Braidwood, R.J. & L.S. Braidwood, 1960. Excavations in the Plain of
+Antioch. (Oriental Institute Publication 61.) Chicago (IL): University of Chicago Press.
+Bar-Adon P (1980) The cave of the treasure: the finds from the caves in
+Nahal Mishmar. Israel Exploration Society, Jerusalem
+Bar-Yosef Mayer DE (2005) The exploitation of shells as beads in the
+Paleolithic and Neolithic of the Levant. Paléorient 31(1):176–
+185. https://doi.org/10.3406/paleo.2005.4796
+Bar-Yosef Mayer DE, Porat N (2013) Beads. In: Gal Z, Shalem D,
+Smithline H (eds) Peqi’in: A Late Chalcolithic burial cave, Upper
+Galilee, Israel. Israel Antiquities Authority, Jerusalem, 337–364.
+https://doi.org/10.1073/pnas.0709931105
+Bar-Yosef Mayer DE (2013) Towards a typology of stone beads in the
+Neolithic Levant. J Field Archaeol 38(2):129–142. https://doi.
+org/10.1179/0093469013Z.00000000043
+Baysal EL (2019) Personal ornaments in prehistory: an exploration
+of body augmentation from the Palaeolithic to the Early Bronze
+Age. Oxbow Books, Oxford
+Belcher EH (2011) Halaf bead, pendant and seal ‘workshops’ at
+Domuztepe: technological and reductive strategies. In: Healey E, Campbell S, Maeda O (eds) The state of the stone: terminologies, continuities and contexts in Near Eastern lithics.
+Studies in Early Near Eastern Production, Subsistence, and
+Environment 13, Ex Oriente, Berlin, 135–143.
+Ben-Shlomo D, Hill AC, Garfinkel Y (2012) Storage, feasting and
+burials at Chalcolithic Tel Tsaf. In: Matthews R, Curtis J (eds)
+Mega-cities and mega-sites: the archaeology of consumption
+and disposal, landscape, transport and communication. Proceedings of the 7 th ICAANE, April 2010, London. Harrassowitz Verlag, Wiesbaden, pp 229–250
+Binder, D (2002) Stones making sense: what obsidian could tell
+us about the origins of the Central Anatolian Neolithic. In:
+Gérard, F., Thissen, L. (eds), The Neolithic of Central Anatolia: Internal Developments and External Relations During the
+9th – 6th Millennia Cal BC. Ege Yayınları, Istanbul, pp. 79–90.
+Bourdieu P (1987) Distinction: a social critique of the judgement of
+taste. Harvard University Press, Cambridge, MA
+Brennan P (2000) Obsidian from volcanic sequences and recent alluvial deposits, Erzurum district, north-eastern Anatolia: chemical characterisation and archaeological implications. Ancient
+Near Eastern Studies 37:128–152
+Burian F, Friedmann E (1988) The obsidian assemblage of site Nahal
+Lavan 109 from the PPNB in the Negev. J Israel Prehis Soc
+21:58–60
+Burian F, Friedman E, Mintz E (1999) Nahal Lavan 109 – A PrePottery Neolithic site in the Western Negev, Israel. Festchrift
+für Gunter Samulla. Materialien Zur Vor- Und Frühgeschichte
+Von Hessen 8:95–120
+Campbell S, Fletcher A (2013) Scale and integration in Northern
+Mesopotamia in the early 6th millennium cal BCE. In: Nieuwenhuyse OP, Bernbeck R, Akkermans PMMG, Rogasch J
+(eds) Interpreting the Late Neolithic of Upper Mesopotamia.
+Brepols, Turnhout, 39–50.
+Campbell, S. 2005. ‘Domuztepe 2005’, Anatolian Archaeology 11:
+13-15.
+Campbell S, Healey E (2016) Multiple sources: The pXRF analysis
+of obsidian from Kenan Tepe, SE Turkey. J Archaeol Sci Rep
+10:377–389. https://doi.org/10.1016/j.jasrep.2016.10.014
+Campbell S, Healey E (2017) The sources of some obsidian beads
+found at Kish, Southern Iraq. In: Pereira T, Terradas Batlle X,
+Bicho N (eds) The exploitation of raw materials in prehistory:
+sourcing, processing and distribution. Cambridge Scholars
+Press, Cambridge, pp 538–548
+Campbell S, Healey E (2018) Diversity in obsidian use in the prehistoric and early historic Middle East. Quatern Int 468:141–154.
+https://doi.org/10.1016/j.quaint.2017.09.023
+Cann JR, Renfrew C (1964) The characterization of obsidian and
+its application to the Mediterranean region. Proc Prehist Soc
+30:111–133. https://doi.org/10.1017/S0079497X00015097
+113 Page 18 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3Carter T (2011) A true gift of Mother Earth: The use and significance
+of obsidian at Çatalhöyük. Anatol Stud 61:1–19. https:// doi.
+org/10.1017/S0066154600008759
+Carter T (2016) Obsidian consumption in the Late Pleistocene-Early
+Holocene Aegean: contextualising new data from Mesolithic
+Crete. Annu Bri Sch Athens 111:1–22. https://doi.org/10.1017/
+S006824541600006X
+Carter T, Dubernet S, King R, Le Bourdonnec F-X, Milić M, Poupeau
+G, Shackley MS (2008) Eastern Anatolian obsidians at Çatalhöyük and the reconfiguration of regional interaction in the
+Early Ceramic Neolithic. Antiquity 82(318):900–909. https://
+doi.org/10.1017/S0003598X00097660
+Carter T, Le Bourdonnec F-X, Kartal M, Poupeau G, Calligaro T,
+Moretto P (2011) Marginal perspectives: sourcing obsidian
+from the Öküzini Cave (SW Turkey). Paléorient 37(2):123–
+149. https://doi.org/10.3406/paleo.2011.5427
+Carter T, Batist Z, Campeau K, Garfinkel Y, Streit K (2017) Investigating Pottery Neolithic socio-economic “regression” in the
+southern Levant: characterising obsidian consumption at Sha’ar
+Hagolan (N. Israel). J Archaeol Sci Rep 15:305–317. https://doi.
+org/10.1016/j.jasrep.2017.08.016
+Carter T, Strasser T, Panagopoulou E, Campeau K, Mihailović DD
+(2018) Obsidian circulation in the Early Holocene Aegean: a
+case study from Mesolithic Damnoni (SW Crete). J Archaeol Sci
+Rep 17:173–183. https://doi.org/10.1016/j.jasrep.2017.11.012
+Carter T, Campeau K, Streit K (2020) Transregional perspectives: characterizing obsidian consumption at Early Chalcolithic Ein el-Jarba
+N Israel. J Field Archaeol 45(4):249–269. https://doi.org/10.1080/
+00934690.2020.1717857
+Chataigner C, Işıklı M, Gratuze B, Çil V (2014) Obsidian sources in
+the regions of Erzurum and Kars (North-East Turkey): New data.
+Archaeometry 56(3):351–374. https://doi.org/10.1111/arcm.12002
+Cauvin, M.-C. 1998 L'obsidienne: Données Récentes Provenant de
+Sites-Habitats Néolithiques. In L'obsidienne au Proche et MoyenOrient: Du Volcan à l'Outil, edited by M. C. Cauvin, A. Gourgaud, B. Gratuze, N. Arnaud, G. Poupeau, J. L. Poidevin and C.
+Chataigner, pp. 259-271. BAR International Series.
+Coqueugniot É (1998) L’obsidienne en Méditerranée orientale aux
+époques post-Néolithiques. In: Cauvin M-C, Gourgaud A,
+Gratuze B, Arnaud N, Poupeau G, Poidevin J-L, Chataigner C
+(eds) L’Obsidienne au Proche et Moyen Orient: Du Volcan à
+l’Outil. BAR International Series 738, Oxford, 351–361.
+Coşkunsu G (2008) Hole-making tools of Mezraa Teleilat with special
+attention to micro-borers and cylindrical polished drills and bead
+production. Neo-Lithics 1(08):25–36
+Coşkunsu G (2011) Flint and obsidian industry of Mezraa-Teleilat (Urfa,
+south-east Anatolia), PPN-PN. In: Healey E, Campbell S, Maeda O
+(eds) The state of the stone: terminologies, continuities and contexts
+in Near Eastern lithics. Studies in Early Near Eastern Production,
+Subsistence, and Environment 13, Ex Oriente, Berlin 385–394.
+Costin CL, Wright RP, Brumfiel EM (eds) (1998) Craft and social
+identity. Archeological Papers of the American Anthropological
+Association 8, Washington, DC.
+Davis MK, Jackson TL, Shackley MS, Teague T, Hampel J (2011) Factors affecting the energy-dispersive x-ray fluorescence (EDXRF)
+analysis of archaeological obsidian. In: Shackley MS (ed) X-Ray
+fluorescence spectrometry (XRF) in geoarchaeology. Springer,
+New York, pp 45–63
+DeCorse CR, Richard FG, Thiaw I (2003) Toward a systematic
+bead description system: a view from the Lower Falemme,
+Senegal. J Afr Archaeol 1:77–110. https:// doi. org/ 10. 3213/
+1612-1651-10003
+Decourt J-C (1998) L’obsidienne dans les sources anciennes: Notes
+sur l’histoire due mot et l’utilisation de la roche dans l’Antiquité.
+In: Cauvin M-C, Gourgaud A, Gratuze B, Arnaud N, Poupeau
+G, Poidevin J-L, Chataigner C (eds) L’Obsidienne au Proche et
+Moyen Orient: Du Volcan à l’Outil. BAR International Series
+738, Oxford, 363–77.
+Delerue S, Gopher A, Poupeau G, Milton A, Barrat JA (2012) Obsidians of Nahal Zehora II and their provenance. In: Finkelstein I
+(ed) Village communities of the Pottery Neolithic period in the
+Menashe Hills, Israel. Monograph Series 29, Tel Aviv University, Tel Aviv, 1101–1109.
+Delerue S, Poupeau G (2007) La provenance des obsidiennes du Natoufien final de Mallaha. J Israel Prehis Soc 37:291–296
+Delerue S (2007) L’obsidienne dans le processus de Néolithisation du
+Proche-Orient (12000–6500 BC). Dissertation, Université Michel
+de Montaigne-Bordeaux.
+Drake BL (2018) CloudCal v3.0. GitHub. https:// github. com/ leedr
+ake5/CloudCal. 10.5281/zenodo.2596154. Accessed 20 April
+2021.
+Dubin LS (2009) The history of beads: From 100,000 B.C. to the present. Abrams, New York.
+Frahm E (2013) Validity of “off-the-shelf” handheld portable XRF
+for sourcing Near Eastern obsidian chip debris. J Archaeol
+Sci 40:1080–1092. https://doi.org/10.1016/j.jas.2012.06.038
+Frahm E (2014) Characterizing obsidian sources with portable XRF:
+accuracy, reproducibility, and field relationships in a case study
+from Armenia. J Archaeol Sci 49:105–125. https://doi.org/10.
+1016/j.jas.2013.10.007
+Frahm E (2016) Can I get chips with that? Sourcing small obsidian
+artifacts down to microdebitage scales with portable XRF. J
+Archaeol Sci Rep 9:448–467. https://doi.org/10.1016/j.jasrep.
+2016.08.032
+Frahm E, Hauck TC (2017) Origin of an obsidian scraper at Yabroud
+Rockshelter II (Syria): Implications for Near Eastern social
+networks in the early Upper Palaeolithic. J Archaeol Sci Rep
+13:415–427. https://doi.org/10.1016/j.jasrep.2017.04.021
+Frahm E, Campbell S, Healey E (2016) Caucasus connections? New
+data and interpretations for Armenian obsidian in northern
+Mesopotamia. J Archaeol Sci Rep 9:543–564. https://doi.org/
+10.1016/j.jasrep.2016.08.023
+Frahm E (2010) The Bronze Age obsidian industry at Tell Mozan
+(ancient Urkesh), Syria: Redeveloping electron microprobe
+analysis for 21st-century sourcing research and the implications for obsidian use and exchange in northern Mesopotamia
+after the Neolithic. Dissertation, The University of Minnesota.
+Garfinkel Y, Freikman M, Ben-Shlomo D, Vered A (2007) Tel Tsaf:
+The 2004–2006 excavation seasons. Isr Explor J 57(1):1–33
+Garfınkel Y, Ben-Shlomo D, Kuperman T (2009) Large-scale storage of grain surplus in the sixth millennium BC: the silos of
+Tel Tsaf. Antiquity 83:309–325. https://doi.org/10.1017/S0003
+598X00098458
+Garfinkel Y, Klimscha F, Shalev S, Rosenberg D (2014) The beginning of metallurgy in the southern Levant: a late 6th millennium cal BC copper awl from Tel Tsaf, Israel. PloS ONE
+9(3):e92591. http:// www. ploso ne. org/ artic le/ info% 3Adoi%
+2F10.1371%2Fjournal.pone.0092591#pone-0092591-g005
+Garfinkel Y (2008) The obsidian. In: Garfinkel Y, Dag D (eds) Neolithic Ashkelon. Qedem 47, Institute of Archaeology of the
+Hebrew University, Jerusalem, 203–208.
+Garfinkel Y (2011) Obsidian distribution and cultural contacts in
+the southern Levant during the 7 th millennium cal. BC. In:
+Heally E, Campbell S, Maeda O (eds), The state of the stone:
+terminologies, continuities and contexts in Near Eastern lithics. Studies in Early Near Eastern Production, Subsistence, and
+Environment 13, Ex Oriente, Berlin, 403–409.
+Getzov N, Lieberman-Wander R, Smithline H, Syon D (2009) Horbat
+‘Uza: The 1991 excavations, volume I: The early periods. IAA
+Reports 41, Israel Antiquities Authority, Jerusalem.
+Getzov N (2011) Seals and figurines from the beginning of the Early
+Chalcolithic period at Ha-Gosherim. ’Atiqot 67:81–83.
+Page 19 of 21 113Archaeological and Anthropological Sciences (2022) 14: 1131 3Glascock MD (2020) A systematic approach to geochemical sourcing
+of obsidian artifacts. Scientific Culture 6(2):35–47. https://doi.
+org/10.5281/zenodo.3724847
+Glascock MD, Ferguson JR (2012) Report on the analysis of obsidian
+source samples by multiple analytical methods. University of
+Missouri Research Reactor Center, Columbia
+Godelier M (1999) The enigma of the gift. The University of Chicago Press, Chicago
+Gopher A, Barkai R, Marder O (1998) Cultural contacts in the Neolithic period: Anatolian obsidian in the southern Levant. In:
+Otte M (ed) Préhistoire d’Anatolie, Genèse de Deux Mondes.
+Université de Liège, Liège, pp 641–650
+Gopher A, Marder O, Barkai R (2011) An obsidian industry from Neolithic Hagoshrim, Upper Galilee. In: Healey E, Campbell S, Maeda
+O (eds) The state of the stone: terminologies, continuities and contexts in Near Eastern lithics. Studies in Early Near Eastern Production, Subsistence, and Environment 13, Ex Oriente, Berlin, 395–402
+Gophna R. & Sadeh S., 1988-1989, Excavation at Tel Tsaf: An Early
+Chalcolithic site in the Jordan Valley, Tel Aviv, 15-16: 3–36.
+Graham P (2014) Archaeobotanical remains from late 6th/early 5th millennium BC Tel Tsaf, Israel. J Archaeol Sci 43:105–110. https://
+doi.org/10.1016/j.jas.2013.12.018
+Guilbeau D (in press) Tepecik Çiftlik (Turkey) and the exploitation of
+Cappadocian obsidian during the 7th millennium. In: Nishiaki Y,
+Arimura M, Maeda O (eds) Proceedings of the 9th International
+Conference on the PPN chipped and ground stone industries of
+the Near East. Tokyo, November 12–16, 2019.
+Healey E (2007) Obsidian as an indicator of inter-regional contacts
+and exchange: three case-studies from the Halaf period. Anatol
+Stud 57:171–189. https://doi.org/10.1017/S0066154600008590
+Healey E (2010) Ubaid Lithics revisited: their significance for the interpretation of Ubaid Society. In: Carter R (ed) Beyond the Ubaid:
+Transformation and integration in the late prehistoric societies
+of the Middle East. The Oriental Institute, Chicago, pp 181–200
+Healey E, Campbell S (2014) Producing adornment: Evidence of different levels of expertise in the production of obsidian items of adornment at two late Neolithic communities in northern Mesopotamia.
+J Lithic Stud 1(2):79–99. https://doi.org/10.2218/jls.v1i2.966
+Healey E, Campbell S (2009) The challenge of characterising large
+assemblages of exotic materials: a case study of the obsidian
+from Domuztepe, S.E. Turkey. Internet Archaeology 26. http://
+intarch.ac.uk/journal/issue26/healey_index.html
+Healey E, Campbell S (in press) Innovation, adaptation or just a development? Alternative uses of obsidian the Early Neolithic of the
+Near East. In: Nishiaki Y, Arimura M, Maeda O (eds) Proceedings of the 9th International Conference on the PPN chipped and
+ground stone industries of the Near East.
+Healey E (2013) Exotic, aesthetic and powerful? The non-tool use of obsidian in the later Neolithic of the Near East. In: Nieuwenhuyse OP,
+Bernbeck R, Akkermans PMMG, Rogash J (eds) Interpreting the
+Late Neolithic of Upper Mesopotamia. Brepols, Turnhout, 251–266.
+Helms MW (1988) Ulysses sail: an ethnographic odyssey of power,
+knowledge, and geographical distance. Princeton University
+Press, Princeton
+Helms MW (1993) Craft and the kingly ideal: Art, trade and power.
+University of Texas Press, Austin
+Hill AC (2011) Specialized pastoralism and social stratification—analysis of the fauna from Chalcolithic Tel Tsaf, Israel. Dissertation,
+University of Connecticut.
+Hodder I (2014) The entanglements of humans and things: a long-term
+view. New Literary History 45:19–36. https://doi.org/10.1353/
+nlh.2014.0005
+Horn C, Klimscha F, Rosenberg D (2019) Exploring the dimensions
+of Chalcolithic settlements in the southern Levant—a geomagnetic survey on Tel Tsaf, Israel. J Archaeol Sci Rep 24:380–
+390. https://doi.org/10.1016/j.jasrep.2019.02.007
+Ibánez JJ, Ortega D, Campos D, Khalidi L, Vicenc M (2015) Testing
+complex networks of interaction at the onset of the Near Eastern
+Neolithic using modelling of obsidian exchange. J R Soc Interface 12:1–11. https://doi.org/10.1098/rsif.2015.0210
+Ibánez JJ, Ortega D, Campos D, Khalidi L, Méndez V, Teira L (2016)
+Developing a complex network model of obsidian exchange in
+the Neolithic Near East: linear regressions, ethnographic models
+and archaeological data. Paléorient 42:9–32. https://www.jstor.
+org/stable/44653799
+Khalaily H, Bar-Yosef O, Barzilai O, Boaretto E, Bocquentin F, Le Dosseur
+G, Eirikh-Rose A, Goring-Morris N, Greenhut Z, Marder O, SapirHen L, Yizhaq M (2007) Excavations at Motza in the Judean
+Hills and the early Pre-Pottery Neolithic B in the southern Levant.
+Paléorient 33(2):5–37. https://doi.org/10.3406/paleo.2007.5218
+Khalaily H, Valla FR (2013) Obsidian in Natufian context: The case
+of Eynan (Ain Mallaha), Israel. In: Bar-Yosef O, Valla FR (eds)
+Natufian foragers in the Levant. Terminal Pleistocene social
+changes in Western Asia. Archaeological Series 19, International
+Monographs in Prehistory Ann Arbor, pp 193–202.
+Levy TE, Shalev S (1989) Prehistoric metalworking in the southern
+Levant: archaeometallurgical and social perspectives. World
+Archaeol 20(3):352–372. https:// doi. org/ 10. 1080/ 00438 243.
+1989.9980078
+Mauss M (1950) The gift. The form and reason for exchange in archaic
+societies. W.W. Norton, New York.
+Mellaart J (1964) A Neolithic city in Turkey. Sci Am 4:94–104
+Mellaart J (1967) Catal Huyuk: A Neolithic town in Anatolia. Thames
+and Hudson, London
+Milić M (2014) PXRF characterisation of obsidian from central Anatolia, the Aegean and central Europe. J Archaeol Sci 41:285–296.
+https://doi.org/10.1016/j.jas.2013.08.002
+Moorey PRS (1999) Ancient Mesopotamian materials and industries:
+the archaeological evidence. Eisenbrauns, Pennsylvania.
+Orange M, Le Bourdonnec F-X, Scheffers A, Joannes-Boyau R (2016)
+Sourcing obsidian: a new optimized LA-ICP-MS protocol. STAR
+Sci Technol Archaeol Res 2(2):192–202. https://doi.org/10.1080/
+20548923.2016.1236516
+Orange M, Carter T, Le Bourdonnec F-X (2019) Obsidian consumption
+at Qdeir 1, a Final Pre-Pottery Neolithic site in Syria: an integrated characterization study. CR Palevol 18(2):268–282. https://
+doi.org/10.1016/j.crpv.2018.08.002
+Ortega D, Ibañez JJ, Khalidi L, Méndez V, Campos D, Teira L (2014)
+Towards a multi-agent-based modelling of obsidian exchange in
+the Neolithic Near East. J Archaeol Method and Theory 21:461–
+485. https://doi.org/10.1007/s10816-013-9196-1
+Özdoğan M (2011) Mezraa Tleilat. In: Özdoğan M, Başgelen N,
+Kuniholm P (eds) The Neolithic in Turkey. Art and Archaeology Publications, Istanbul, New excavations and new research.
+The Euphrates basin, pp 1–17
+Perlman I, Yellin J (1980) The provenience of obsidian from Neolithic
+sites in Israel. Israel Exploration Journal 30:83–88
+Poupeau G, Lugliè C, D'Anna A, Carter T, Le Bourdonnec F-X (2010)
+Circulation et origine de l'obsidienne préhistorique en Méditerranée: Un bilan de cinquante années de recherches. In: Delestre
+X, Marchesi H (eds) Archéologie des rivages méditerranéens: 50
+ans de recherche: Actes du colloque d'Arles (Bouches-du-Rhône)
+28–29–30 octobre 2009. Editions Errance, Arles, pp 183–191.
+Prausnitz MW (1969) The Excavations at Kabri Eretz Israel 9:122–129
+Renfrew C, Dixon JE, Cann JR (1966) Obsidian and early cultural
+contacts in the Near East. Proc Prehist Soc 32:30–72. https://doi.
+org/10.1017/S0079497X0001433X
+Renfrew C, Dixon JE, Cann JR (1968) Further analysis of Near Eastern
+obsidians. Proc Prehist Soc 34:319–331. https://doi.org/10.1017/
+S0079497X0001392X
+Rennie L (2019) A study on supra-regional socio-economic relationships in the Near East as seen through obsidian consumption
+113 Page 20 of 21 Archaeological and Anthropological Sciences (2022) 14: 1131 3practices in the Amuq Valley (S.E. Turkey) (CA. 6000 – 2400
+B.C.E.). Dissertation, McMaster University.
+Rosen S, Tykot RH, Gottesman M (2005) Long distance trinket trade:
+Early Bronze Age obsidian from the Negev. J Archaeol Sci
+32:775 784. https://doi.org/10.1016/j.jas.2005.01.001
+Rosenberg D, Klimscha F (2018) Prehistoric dining at Tel Tsaf. Bib
+Archaeol Rev 44(4):54–56
+Rosenberg D, Klimscha F (2021) Social complexity and ancient diet
+– the renewed research project at Tel Tsaf, Jordan Valley. Qadmoniyut 161:12–17
+Rosenberg D, Getzov N, Assaf A (2010) New light on long-distance
+ties in the Late Neolithic/Early Chalcolithic Near East: the chlorite vessels from Hagoshrim, northern Israel. Curr Anthropol
+51(2):281–293. https://doi.org/10.1086/650562
+Rosenberg D, Klimscha F, Graham P, Hill C, Weissbrod L, Katlav I,
+Love S, Boaretto E, Pinsky S, Hubbard E (2014) Back to Tel
+Tsaf: a preliminary report on the 2013 season of the renewed
+project. J Isr Prehis Soc 44:148–179
+Rosenberg D, Garfinkel Y, Klimscha F (2017a) Large scale storage
+and storage symbolism in the ancient Near East: a clay silo
+model from Tel Tsaf. Antiquity 91(358):885–900. https://doi.
+org/10.15184/aqy.2017.75
+Rosenberg D, Ktalav I, Groman-Yaroslvski I, Klimscha F (2022)
+Unique Theodoxus jordani shell beads from the Middle Chalcolithic site of Tel Tsaf (ca. 5200–4700 cal BC), Jordan Valley. Isr
+Archaeol Res in Asia 29:1–9
+Rosenberg D, Love S, Hubbard E, Klimscha F (2020) 7,200 years old
+constructions and mudbrick technology: the evidence from Tel
+Tsaf, Jordan Valley, Israel. PLoS ONE 15(1):e0227288. https://
+doi.org/10.1371/journal. pone.0227288
+Rosenberg D, Pinsky S, Klimscha F (2021) The renewed research project at Tel Tsaf, Jordan Valley – 2013–2019. Hadashot Arkeologiyot – Excavations and Surveys in Israel 133. http://www.hadas
+hot-esi.org. il/Report_Detail_Eng.aspx?id= 25891
+Rosenberg D (2010) The obsidian assemblage. In: Rosenberg D (ed)
+An early Pottery Neolithic occurrence at Beisamoun, the Hula
+Valley, northern Israel. BAR International Series S2095, Oxford,
+73–76.
+Sagona A, Erkmen M, Sagona C, Thomas I (1996) Excavations at Sos
+Höyük, 1995: Second preliminary report. Anatol Stud 46:27–
+52. https://doi.org/10.2307/3642998
+Saunders N (2001) A dark light: reflections on obsidian in Mesoamerica. World Archaeol 33:220–236. https://doi.org/10.1080/
+00438240120079262
+Schechter HC, Marder O, Barkai R, Getzov N, Gopher A (2013) The
+obsidian assemblage from Neolithic Hagoshrim, Israel: pressure technology and cultural influence. In: Borrell F, Ibñáez JJ,
+Molist M (eds) Stone tools in transition: From hunter-gatherers
+to farming societies in the Near East. Universitat Autònoma de
+Barcelona, Barcelona, pp 509–528
+Schechter H, Gopher A, Getzov N, Milevski I (2016) The obsidian
+assemblages from the Wadi Rabah occupations at Ein Zippori.
+Israel Paléorient 42(1):27–48. https:// doi. org/ 10. 3406/ paleo.
+2016.5692
+Sciama LD, Eicher JB (2001) Beads and bead makers: gender, material
+culture and meaning. Bloomsbury Publishing, New York, Oxford
+Shimelmitz R, Friesem DE, Clark JL, Groman-Yaroslavski I, Weissbrod L, Porat N et al (2018) The Upper Paleolithic and Epipaleolithic of Sefunim Cave, Israel. Quatern Int 464:106–125. https://
+doi.org/10.1016/j.quaint.2017.05.039
+Silvain M (2012) La Parure de Tel Tsaf: site de la Première Moitié du
+5e Millénaire au Levant Sud. Dissertation, Universite Paris X.
+Stekelis M (1958) An obsidian core found at Kibbutz Kabri. Eretz
+Israel 5:35–38
+Streit K, Garfinkel Y (2015) Tel Tsaf and the impact of the Ubaid
+culture on the southern Levant: Interpreting the radiocarbon evidence. Radiocarbon 57:865–880. https://doi.org/10.2458/azu_rc.
+57.18200
+Streit K (2020) The ancient Near East in transregional perspective.
+material culture and exchange between Mesopotamia, the Levant
+and Lower Egypt from 5800 to 5200 cal BC. Austrian Academy
+of Sciences Press, Vienna.
+Tzori N (1958) Neolithic and Chalcolithic sites in the valley of BethShan. Palest Explor Q 90(1):44–51
+Vanhaeren M, d’Errico F, Stringer C, James SL, Todd JA, Mienis HK
+(2006) Middle Paleolithic shell beads in Israel and Algeria. Science 312:1785–1788. https://doi.org/10.1126/science.1128139
+Vedder JF (2005) The obsidian mirrors of Çatalhöyük. In: Hodder I (ed) Changing materialities at Çatalhöyük: reports from
+the 1995–99 seasons. McDonald Institute for Archaeological
+Research and British Institute of Archaeology at Ankara, Cambridge, pp 597–619
+Watson PJ (1983) The Halafian culture: a review and synthesis. In:
+Young TC Jr, Smith PEL, Mortensen P (eds) The hilly flanks and
+beyond: Essays on the prehistory of Southwestern Asia. SAOC
+36, Chicago, 231–250.
+White R (2007) Systems of personal ornamentation in the early Upper
+Palaeolithic: Methodological challenges and new observation.
+In: Mellars P, Boyle K, Bar-Yosef O, Stringer C (eds) Rethinking
+the human revolution: New behavioural and biological perspectives on the origin and dispersal of modern humans. McDonald
+Institute for Archaeological Research, Cambridge, pp 287–302
+Wright K, Garrard A (2003) Social identities and the expansion of
+stone bead-making in Neolithic western Asia: new evidence from
+Jordan. Antiquity 77:267–284. https://doi.org/10.1017/S0003
+598X00092267
+Wright K, Critchley P, Garrard A (2008) Stone bead technologies and
+early craft specialization: Insights from two Neolithic sites in
+eastern Jordan. Levant 40:131–165. https:// doi. org/ 10. 1179/
+175638008X348016
+Yellin J, Frachtenberg F (1992) A re-examination of Nahal Lavan
+obsidian. In: Waelkens M, Herz N, Moens L (eds) Ancient
+stones: quarrying, trade and provenance. Leuven University
+Press, Leuven, pp 139–148
+Yellin J, Levy TE, Rowan YM (1996) New evidence on prehistoric
+trade routes: the obsidian evidence from Gilat, Israel. J Field
+Archaeol 23:361–368. https://doi.org/10.1179/009346996791973
+873
+Publisher's note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations.
+Page 21 of 21 113Archaeological and Anthropological Sciences (2022) 14: 113

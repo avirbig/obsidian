@@ -1,0 +1,615 @@
+23
+1.2. The conTrIbuTIon of obsIdIan characTerIzaTIon sTudIes
+To early PrehIsTorIc archaeology
+M. YaMada & a. O nO
+Lithic raw material exploitation and circulation in Préhistory.
+A comparative perspective in diverse palaeoenvironments
+liège, ERAUL 138, 2014, p. 23-33
+tristan carter
+Department of Anthropology
+McMaster University
+CNH 524 - 1280 Main Street West
+Hamilton, L8S 4L9 (CANADA)
+Tel: +1-905-525-9140 x23910
+stringy@mcmaster.ca
+Résumé
+Cet article détaille le rôle caractéristique que peut jouer l’obsidienne dans les études d’archéologie préhistorique ancienne. Nous allons tenter d’examiner l’apport des débats récents sur le développement cognitif de l’hominidé archaïque, la complexité sociale, la question de la mobilité néander-
+thalienne et comment l’approvisionnement en obsidienne met en lumière le processus de colonisation à l’échelle globale. Méthodologiquement, on
+pense qu’en adoptant un cadre global pour la chaîne opératoire, intégrant les données élémentaires des artefacts avec leurs caractéristiques technotypologiques, on pourra maximaliser le potentiel interprétatif de nos données et fournir des moyens plus puissants pour reconstituer les réseaux
+passés d’interactions, ou de ‘communities of practice’.
+Abstract
+This paper details the interpretative role obsidian characterisation studies can play in earlier prehistoric archaeology. It reviews recent contributions
+to debates on early hominin cognitive development and social complexity, the question of Neanderthal mobility, and how obsidian sourcing is shedding light on colonisation processes globally. Methodologically it is suggested that by adopting a more holistic chaîne opératoire analytical framework,
+which integrates an artefacts’ elemental data with its techno-typological attributes, we can maximise the interpretative potential of our data, and
+provide a more powerful means of reconstructing past networks of interaction, or ‘communities of practice’.
+Keywords: obsidian characterisation, Palaeolithic, hominins, Neanderthals, cognition, mobility, colonisation, communities of practice
+1 – Obsidian characterisation studies in the 21st century
+Over the past 50 years obsidian sourcing has become a well established method, one of
+the great success stories of archaeological science (Carter in press; Freund, 2013). In the
+Old World scholars the studies of Colin Renfrew and colleagues in the1960s represents
+the field’s seminal work, not only for their methodological innovations, but also for
+the fact that they were using this technique to ask some major research questions of
+global archaeological significance (Renfrew et al., 1965, 1966, 1968, inter alia). This is a
+hugely important point to remember, namely that obsidian sourcing for Renfrew was
+a means to an end. The work was not just about reconstructing source histories and raw
+material distributions, but to use these data to interrogate emergent societal complexity
+and to propose society-specific modes of behaviour (Renfrew 1975). Ultimately
+however, there were problems with the claim that different distribution patterns could
+be equated with distinct modes of exchange, and by extent different types of society
+(Hodder and Orton 1976: 138). This led to
+something of a lull in sourcing studies, with
+few large scale projects in the region during
+the 1970’s and 80’s (though see WilliamsThorpe et al., 1984a, 1984b). This radically
+changed in the 1990’s with a new wave of
+Eurasian projects whose results provide
+us with rich histories of raw material
+exploitation, and the ability to chemically
+discriminate the products of the region’s
+major obsidian sources (Cauvin et al., 1998;
+Chataigner et al., 2003; Cherry et al., 2010;
+Delerue 2007; Frahm 2012; Gratuze 1999;
+Le Bourdonnec 2007; Oddone et al. 1999;
+Poupeau et al., 2010; Tykot 1996, inter alia).
+This increase in obsidian characterisation
+studies is a global phenomenon, with the
+Figure 1
+Number of obsidian characterisation papers
+published in Archaeometry and the Journal of
+Archaeological Science over the past decade.
+0
+5
+10
+15
+20
+25
+2001-02 2003-04 2005-06 2007-08 2009-10 2011-1224Part I : General perspectives
+production of a significant number of journal articles over the past decade (Fig. 1
+[see also Freund, 2013, Figure 1]), in part relating to the development of portable
+XRF instruments that enable he analysis of museum-based collections and much
+larger samples (Nazaroff et al., 2009; Golitko et al., 2010; Phillips and Speakman 2009;
+Sheppard et al., 2011, inter alia). There are also powerful new means of geo-spatially
+analysing our data, through GIS and Social Network Analysis (Chataigner and Barge
+2008; Contreras 2011; Golitko et al., 2012; Tripcevich 2007; Taliaferro et al., 2010, inter
+alia). These methodological developments are opening new areas of research and
+a return to questions of old. Here I shall focus on this work’s contribution to our
+understanding of earlier prehistoric societies.
+2 – Obsidian characterisation and early hominin studies
+Stone tools of course represent one of our primary forms of evidence for reconstructing
+earl human behaviour (Braun and Hovers 2009). Technological studies, use-wear
+and cut-mark analyses shed light on Australopithecine and early Homo subsistence
+(McPherron et al., 2010), while the study of flaking techniques and raw material choice
+have allowed scholars to re-evaluate early hominin cognitive skills, showing Oldowan
+hominids to be more much more complex characters than originally thought (Roche
+et al., 1999; Stout et al., 2010, inter alia; Toth, 1985 ). In this context obsidian sourcing
+studies is providing crucial information on not only the range of these early hominins’
+movement / home-range, but also their cognitive development in terms of planning,
+forethought and curation vis-à-vis raw material choice, procurement and use (cf. Braun
+and Hovers 2009; Goldman-Neuman and Hovers 2009).
+Recent studies by Ambrose (2012), and Moutsiou (2011, 2012), provide important new
+insights into Earlier Stone Age / Lower Palaeolithic raw material procurement practices
+in Africa and Eurasia (for a non-obsidian perspective see Braun et al., 2008). These
+obsidian sourcing data enable us to reconstruct early hominin mobility and provide
+indices of behavioural complexity. For Moutsiou (2011: 64), a major issue concerning
+the earliest use of obsidian was to understand whether the transport distances
+involved fell “within the daily foraging radii of hunter-gatherer life, or if its acquisition
+required specially organised trips.” Drawing on data from anatomy, primatology
+and ethnography, Moutsiou defines five spatial units of hominin networking: local,
+mesolocal, regional, extended and exotic, measured at distances of 0-10 km, 10-50 km,
+50-100 km, >100 km, and >200 km respectively (Tab. 1). The earliest data suggests that
+late Australopithecines, Homo habilis and Homo erectus/ergaster tended to only procure
+relatively local raw materials. For the Oldowan, maximum site-to-source distances are
+usually in the range of 15-20 km, and 11-17 km for the Acheulean (Ambrose 2012: 64
+[see also Braun et al. 2008; Moutsiou 2012: 86]). For example, at the Olduvai Gorge
+most stone tools were made from igneous and metamorphic rocks that were available
+within 2-4 km of the site, suggesting that at this early date we are primarily dealing with
+very small territorial ranges, with largely self-sufficient and introspective social groups.
+Obsidian thus tends only to be found at those early hominid sites close to a volcanic
+source. For example, at Melka Kunture in Ethiopia obsidian is well represented in the
+Oldowan stone tool assemblages, the material characterised as coming from the Balchit
+source only 7 km distant (Negash et al., 2006; Piperno et al., 2009). Similar patterns
+are noted amongst Acheulean assemblages from Kenya and the Caucasus, with raw
+material transport usually in the 15-30 km range, as for example at the Armenian sites
+Table 1 – Obsidian distribution in early
+prehistory by units of social networking
+(ESA/MSA = Earlier/Middle Stone
+Age; L/MP = Lower/Middle Palaeolithic
+[adapted from Moutsiou 2011: Table 7.4,
+2012: Figure 1, with data added from
+Golovanova et al., 2010; Le Bourdonnec
+et al., 2012]); *depending on HLK-East,
+Olduvai Gorge obsidian source.
+Local Mesolocal Regional Extended Exotic
+0-10 km 10-50 km 50-100 km >100 km >200 km
+ESA East
+Africa 5 3 2(1)* 0(1)*
+LP Eurasia 2 2 1 2
+MSA East
+Africa 9 8 9 2
+MP Eurasia 2 7 3 4 225T RIST AN C ARTER – The Contribution of obsidian characterization studies to early prehistoric archaeology
+of Arzni and Dzhraber (Moutsiou 2011: 168, Table 3.13), while at Kaletepe- Deresi in
+central Turkey, the occupation sits directly atop an obsidian source (Slimak et al., 2008)
+Characterisation studies do however provide us with limited evidence for obsidian
+having been moved over significantly larger distances (Tab. 1). Arguably the most
+striking evidence comes from the HWK-East site, Olduvai Gorge where two pieces
+of obsidian were recovered from strata associated with Homo habilis remains dated
+1.9 – 1.7 million years old (Leakey 1971: 89, 264). This represents the earliest evidence
+for obsidian use in the world, yet the closest sources are thought to be at least 100 km
+away in Kenya (Moutsiou 2011: 256); indeed the original excavators claimed it may
+have come from over 270 km (Hay 1976: 185). Of slightly later date is the Acheulean
+site of Gadeb in Ethiopia where there handaxes made of obsidian that came from at
+least 160 km away (Clark and Kurashina 1979; Moutsiou 2011: 313), while at Kudaro I
+in Georgia obsidian was similarly transported over 100 km, presumably by Homo erectus
+(Moutsiou 2011: 308).
+To summarise, for the Earlier Stone Age and Lower Palaeolithic of Africa and Eurasia,
+most cases involved early hominins accessing obsidian from sources no further than
+7 – 30 km away, i.e. at the local and mesolocal levels to use Moutsiou’s terms. The
+data suggests that obsidian procurement was a relatively straightforward process,
+accomplished within general hunting and foraging practices, i.e.; there is no need to
+believe that it was either a special activity or one that involved exchange (Ambrose 2012:
+64). That said, these are not insignificant data, because even when operating at the local
+and mesolocal level, they still indicate that early hominins were capable of recognising
+that the tool they had just made in one location would be useful at a later time and
+carried with them, or while moving through the landscape they could appreciate that a
+stone would be useful at a future date to make tools. In both instances we are talking
+about curation, i.e. foresight and planning, a level of behavioural intelligence quite
+above that of modern chimpanzees (Toth 1987: 781-782), or other tool making/using
+apes (cf. Mercader et al., 2002; Toth et al., 1993).
+So what is the significance of those few cases where obsidian was transported at the
+extended and exotic level, as at the Olduvai Gorge, Gadeb, and Kudaro I? In these
+instances Moutsiou (2011: 316-323, 2012: 88-94) argues that the acquisition of raw
+materials required something far more behaviourally complex than the ‘embedded
+procurement’ of obsidian within habituated subsistence hunting and foraging practices.
+Instead, it is argued that the tools or materials could only have circulated over such
+distances via exchange, and by extent interaction with members of other social groups.
+For Moutsiou (2011: 316) these practices – the distant movement of raw materials via
+exchange networks, and the curation of such exotic resources – represent “a signature
+of hominins behaving in an essentially modern way”, i.e. engaging in activities that had
+hitherto only been associated with Homo sapiens. The ability of these early hominins to
+create and maintain social networks to access distant materials, and to retain feelings
+of relatedness to these other characters ‘in absentia’, implies a far greater behavioural
+complexity than many had previously accorded Homo habilis and Homo erectus/ergaster.
+Moreover, Moutsiou (2012: 93) claims that at this point the obsidian would have played
+just as much of a role in mediating these social relations, as it represented a resource
+for tool-making. These claims are quite radical, as the idea of exchange, and materials
+acting as media for establishing social relations, are themes that until recently we again
+would only have associated with modern human behaviour, i.e. something we could
+only really talk about from the later Middle Stone Age onwards. Here we view an area
+of early prehistoric research, where obsidian characterisation studies are clearly making
+an enormous impact.
+3 – Neanderthal Mobility and Cognitive Development
+By extent, sourcing studies are making important contribution to long-standing debates
+concerning Neanderthal mobility and social complexity. While recently the former issue
+has been approached via isotopic studies (Richards et al., 2008) and zooarchaeological
+data (Delagnes and Rendu 2011), it has been lithic procurement studies that have26Part I : General perspectives
+contributed most to the discussions upon territoriality and cognitive development, as
+for example the oft-quoted works of Geneste (1989) and Féblot-Augustins (1993; see
+also Wilson 2007). The fact that Neanderthal tool kits were dominated by local raw
+materials led many to suggest that they had relatively low mobility, and small daily
+ranges (Richards et al., 2008: 1251). Conversely, Mellars (1996: 148-151) places greater
+emphasis on the minority component of tools from these assemblages that were made
+of raw materials ranging from 20-30 km, up to 80-100 km, data that led him to view
+Neanderthals as not only far-ranging in their movement, perhaps seasonally moving
+over long distances, but also engaging in “some form of exchange relationships
+with neighbouring groups” (see also Kaufmann 2002). This view is now held by an
+increasing number of scholars based on lithic analyses across Eurasia, with some cases
+of raw materials/tools moving up to 400 km from their source (cf. Slimak and Giraud
+2007; Spinapolice 2012).
+Obsidian characterisation studies have provided a number of case studies where such
+long-distance movement is attested, as for example with the recent analyses of artefacts
+from the Mezmaiskaya Cave in the Russian Caucasus, and Ortvale Klde in NW Georgia,
+that demonstrated the procurement of obsidian from sources in excess of 225 and 125
+km respectively (Golovanova et al., 2010; Le Bourdonnec et al., 2012). In turn, a late
+Neanderthal assemblage from the Czech site of Kůlna contained a small quantity of
+obsidian from the Carpathian sources, almost 400 km distant (Féblot-Augustins 1997;
+Moutsiou 2011: 155-156). In sum, the Eurasian Middle Palaeolithic provides us with an
+increased proportion of sites that attest to extended and exotic level scales of obsidian
+movement compared to what we view in the Earlier Stone Age / Lower Palaeolithic
+(Moutsiou 2012: 86-87, Figure 1). As before, it can be inferred that here too we are
+dealing with circulation of obsidian through exchange, with the likelihood that some of
+the distant material had significance above and beyond its use-value.
+While the Middle Palaeolithic data of Eurasia is mainly associated with Neanderthals,
+the Middle Stone Age assemblages from Africa relate to Anatomically Modern Humans
+(cf. Ambrose 2012: 64-65; Negash and Shackley 2006; Negash et al., 2011; Vogel et
+al., 2006). The fact that a number of sites from East Africa (pre 125,000 BP) had
+small quantities of obsidian from long-distance sources, was at one point viewed as a
+reflection of significant changes in human behaviour, and by extent an index of the
+appearance of Homo sapiens (Ambrose 2012: 64). Yet as we have detailed above, the
+distant circulation of raw materials and/or tools has a much older heritage (Moutsiou
+2012: 91-94). Admittedly the relative proportion of sites with obsidian from sources in
+the extended and exotic ranges is greater than that for the preceding Earlier Stone Age
+(Table 1), but the difference is not that great; nor, importantly, is it radically different
+from the behavioural patterns of Neanderthal populations in contemporary Eurasia.
+4 – Late Pleistocene / Early Holocene Migration and Colonisation
+The final area of early prehistoric archaeology that obsidian sourcing is contributing to,
+is the study of Pleistocene and early Holocene colonisation processes, both terrestrial,
+and maritime. Of particular use to this discussion is the work of Civalero and Franco
+(2003) that employed obsidian characterization to chart the peopling of Patagonia
+in South America. Focusing on technical strategies and raw material use, they were
+able to propose a three-phase model, of: exploration, then colonisation, followed by
+full occupation. This is a particularly helpful means of conceptualising population
+movements; the idea in part being that an ever increasing quantity of obsidian will
+begin to circulate as external populations move into a source area. Characterisation
+studies appear to detail much the same processes in the late Pleistocene / early
+Holocene peopling of the Aegean islands. The initial stage of maritime forays into
+the Cyclades from the nearby Greek mainland are attested by tiny quantities of Melian
+obsidian from the Upper Palaeolithic cave sites of Klisoura, Franchthi and Ulbrich
+(Galanidou 2003: 107-108; Koumouzelis et al 2003: Table 3; Renfrew and Aspinall
+1990). The second phase, represented by the first Early Mesolithic communities in
+the Cyclades (Sampson et al., 2010) led to a steady increase in the quantity of obsidian
+being procured by mainland populations during the Early Holocene, after which we27T RIST AN C ARTER – The Contribution of obsidian characterization studies to early prehistoric archaeology
+view a major surge in the raw materials’ circulation after a full settlement of the islands
+during the Late Neolithic (Torrence 1986: 13-15, 135-36). Current work is now using
+obsidian characterisation studies to document the pace and direction of population
+movement into the same islands from the opposing Anatolian coastline (Milić, 2014).
+It has long been appreciated that obsidian sourcing studies were a productive line of
+enquiry for charting prehistoric population movement (Green 1962), a field of inquiry
+now truly coming into its own as a number of recent case studies attest. These include
+the analysis of mid-Holocene return migrations from Colorado to New Mexico
+(Arakawa et al 2011), plus a plethora of studies using obsidian sourcing to detail the
+migration of people, languages and material culture into island SE Asia, the Pacific
+islands and New Zealand (Kirch 1988; Reepmeyer et al 2011; Sheppard et al 2011;
+Specht 2002; Summerhayes and Allen 2007, inter alia).
+Another region where obsidian characterisation analyses stand to make a major
+contribution to reconstructing colonisation processes is NE Asia, not least the debates
+surrounding the peopling of Japan, the Kuril Islands and the Americas (cf. Grebennikov
+et al 2010; Kuzmin 2011, Kuzmin et al., 2008; Phillips 2010; Phillips and Speakman
+2009, inter alia). For example, the recovery of small quantities of Japanese obsidian
+from Kyushu Island from Upper Palaeolithic sites on the opposing Korean peninsula
+might be viewed as evidence for early late Pleistocene exploration of the archipelago
+by mainland peoples c. 25,500 BP (Kim et al 2007; Kuzmin 2010: 148; Matsufiji 2003).
+Finally, it is also important to highlight where obsidian sourcing studies have led to
+conclusions that argue against migration as a means of explaining culture change. For
+example, Torrence and Swadling (2008) argue that the spread of the Lapita Culture into
+New Guinea and New Britain involved the introduction of new objects and practices
+through a pre-existing maritime obsidian exchange system, rather than being the result
+of an influx of new people as previously claimed.
+5 – From Composition to Character: Integrated Sourcing Studies
+While obsidian sourcing studies provide us with a powerful means of contributing to
+the above debates, I often worry that we are not maximising the interpretative potential
+of our data. Too often when talking of characterisation we are in fact only considering
+elemental composition. Over the past few years I worked with a number of collaborators
+to produce a more integrated archaeometric approach to characterisation studies,
+beginning with a series of analyses at the Anatolian Neolithic site of Çatalhöyük (Carter
+et al 2006, 2008; Carter and Shackley 2007, inter alia), plus the Cretan site of Malia
+(Carter and Kilikoglou 2007), and continued today through our work at the McMaster
+Archaeological XRF Lab (MAX Lab [http://maxlab.ca]).
+First and foremost, the methodology that we employ in the MAX Lab characterisation
+studies involves the reintroduction of an archaeological aesthetic. Firstly we talk of
+‘artefacts’, not ‘samples’. Secondly, we acknowledge that these artefacts have far richer
+‘characters’ than their geo-chemistry, whereby we consider how they were made,
+their typological form, date, context etc (for a comparable approach see Briois et al
+1997). Raw material characterisation is thus located within a chaîne opératoire analytical
+framework, because we believe that specific raw material and technical choices were
+culturally constructed, and by extent will reflect a particular prehistoric group’s cultural
+traditions.
+One research question that our lab is currently investigating is to what extent obsidian
+exchange networks of the late Pleistocene and early Holocene facilitated the spread
+of agriculture from the Near East into Anatolia. The idea that ‘Neolithisation’ was
+articulated via pre-existing obsidian exchange systems is not new (Cauvin 2000); our
+aim was to try and reconstruct more specifically the inter-community networks through
+which such new practices might have spread. In order to do this, we were interested in
+a more nuanced understanding of how obsidian was circulating amongst these people,
+through considering not only which raw materials were involved, but also the specific
+modes by which they were ‘consumed’ (procured-worked-used-discarded).28Part I : General perspectives
+Previously, representations of obsidian distribution patterns in the Epi-Palaeolithic
+and earliest Neolithic had simply documented the dissemination of source-specific
+products across space, an example of which we reproduce in Figure 2 (see also Cauvin
+and Chataigner 1998; Roaf 1990: 14, inter alia). We argue that such maps implicitly
+lead the viewer to believe that everyone using the same raw materials was somehow
+linked, yet this need not be the case at all. We can all imagine how different people at
+the same time could have procured, exchanged and worked obsidian in a number of
+different ways, yet such distinctions in procurement and consumption are masked if
+our characterisation studies consider chemical composition alone. One of our recent
+projects addressed these issues via the characterisation of 120 artefacts from the
+Terminal Pleistocene – Early Holocene site of Körtik Tepe in southeast Anatolia (11 th
+– 10th millennia cal BC), a study that melded elemental data with techno-typological
+attributes and contextual considerations (Carter et al., 2013). When these data were
+located within a broader consideration of how contemporary (Pre-Pottery Neolithic
+A) populations were employing the same raw materials, it was possible to distinguish
+at least two regional traditions within what had hitherto been represented as a singular
+raw material distribution ‘zone’ (Fig. 3). In essence our research aimed to reveal distinct
+‘communities of practice’, i.e. common traditions of raw material choice / technical
+practice amongst contemporary populations (Knappett 2011: 98-123). Following
+debates from the sociology of technology it can be argued that such closely shared
+practices imply a significant level of on-the-ground interaction between populations,
+traditions that would emerged and been maintained through inter-marriage and other
+deeply binding socio-economic relations. We feel that it is through these social networks
+that new ideas – such as farming – would have spread. For instance, in our Near Eastern
+/ southeast Anatolian case study, the pressure-blade tradition most closely related to
+early agriculturalists, whereas the bladelet technologies were part of a contemporary,
+neighbouring group of populations who largely retained a hunter-gatherer lifestyle.
+These distinctions in economic practices and lithic traditions was only truly appreciated
+through a more detailed and nuanced form of characterisation study, what we would
+refer to a ‘thick description’ approach (Geertz 1973: 3-30; Hodder 1990: 66-79).
+Figure 2 – Typical source product
+distribution map: circulation of obsidian
+from East Göllü Dağ and Nenezi Dağ
+during the Pre-Pottery Neolithic B, 7,5007,000 cal BC (reproduced from Carter et al.,
+2005: Figure 12.6d).29T RIST AN C ARTER – The Contribution of obsidian characterization studies to early prehistoric archaeology
+Figure 3 – The distribution of Anatolian
+obsidian during the Pre-Pottery Neolithic A,
+10,000-8,300 cal BC; the red line represents
+the division between communities
+consuming these raw materials via bladelet
+traditions (to the north), and those using the
+obsidian to make pressure-flaked blades (to
+the south [from Carter et al., 2013: Figure
+10).
+The elucidation of such communities of practice through chaîne opératoire characterisation
+studies also offers a powerful means of engaging with other research questions, not
+least the aforementioned focus on reconstructing the routes and populations involved
+in colonisation processes.
+5 – Endnote
+Over the past decade obsidian characterisation studies have finally begun to live up
+to the intellectual standards set by Colin Renfrew in the 1960’s, and are now making a
+significant impact in the study of early prehistory. Our work can continue to make major
+contributions to debates on human behaviour, from early hominin social complexity, to
+Neanderthal mobility, colonisation processes, and the spread of new cultural traditions,
+but arguably only if we meld our hard and social science approaches and shift from a
+fixation upon composition, to a far richer notion of characterisation.
+Acknowledgements
+I am extremely grateful to Professor Akira Ono, and Dr. MasayoshiYamada, and Dr.
+Yoshimitsu Suda for allowing me to participate in their symposium and for being such
+wonderful hosts. I also thank Dr. Dora Moutsiou for subsequent discussions on the
+early prehistoric use of obsidian. The work referenced in the paper undertaken at the
+MAX Lab, a facility established by a Canada Foundation for Innovation Leader’s Opportunity
+Fund / Ontario Research Fund.30Part I : General perspectives
+References
+ARAKAWA, F., ORTMAN, S.G., SHACKLEY, M.S. & DUFF, A.I. (2011) – Obsidian evidence
+of interaction and migration from the Mesa Verde region, southwest Colorado, American
+Antiquity 76(4), pp. 774-796.
+BRAUN, D.R. & HOVERS, E. (2009) – Introduction: Current issues in Oldowan research.
+In E. Hovers and D.R. Braun (eds.), Interdisciplinary Approaches to the Oldowan, pp. 1-14.
+Dordrecht: Springer.
+BRAUN, D.R., PLUMMER, T., DITCHFIELD, P., FERRARO, J.V., MAINA, D., BISHOP, L.C.
+& POTTS, R. (2008) – Oldowan behavior and raw material transport: Perspectives from
+the Kanjera formation, Journal of Archaeological Science 35, pp. 2329-2345.
+BRIOIS, F., GRATUZE, B. & GUILAINE, J. (1997) – Obsidiennes du site Néolithique
+Précéramique de Shillourokambos (Chypre), Paléorient 23.1, pp. 95–112.
+CARTER, T. (in press) – Obsidian provenance studies, in M. Fayek and S. Hull (eds.), Provenance
+Studies in Archaeology. Boulder: Colorado University Press.
+CARTER, T., DUBERNET, S., KING, R., LE BOURDONNEC, F.-X., MILIć, M., POUPEAU,
+G. & SHACKLEY, M.S. (2008) – Eastern Anatolian obsidians at Çatalhöyük and the
+reconfiguration of regional interaction in the Early Ceramic Neolithic, Antiquity 82(318),
+pp. 900-909.
+CARTER, T., GRANT, S., KARTAL, M., öZKAYA, V. & COşKUN, A. (2013) – Networks
+and Neolithisation: Sourcing obsidian from Körtik Tepe (SE Anatolia), Journal of
+Archaeological Science 40(1), pp. 556-569.
+CARTER, T. & KILIKOGLOU, V. (2007) – From reactor to royalty? Aegean and Anatolian obsidians
+from Quartier Mu, Malia (Crete), Journal of Mediterranean Archaeology 20.1, pp. 115-143.
+CARTER, T., POUPEAU, G., BRESSY, C. & PEARCE, N.J.G. (2005) – From chemistry to
+consumption: towards a history of obsidian use at Çatalhöyük through a programme of
+inter-laboratory trace-elemental characterization, In I. Hodder (ed.), Changing Materialities
+at Çatalhöyük: Reports from the 1995-1999 Seasons, pp. 285-305 & 535-57. Cambridge:
+McDonald Institute Monographs and BIAA.
+CARTER, T., POUPEAU, G., BRESSY, C. & PEARCE, N.J.G. (2006) – A new programme of
+obsidian characterization at Çatalhöyük, Turkey, Journal of Archaeological Science 33(7), pp.
+893-909.
+CARTER, T. & SHACKLEY, M.S. (2007) – Sourcing obsidian from Neolithic Çatalhöyük
+(Turkey) using Energy Dispersive X-ray Fluorescence, Archaeometry 49(3), pp. 437-454.
+CAUVIN, J. (2000) – The Birth of the Gods and the Origins of Agriculture. Cambridge: Cambridge
+University Press.
+CAUVIN, M.C., GOURGAUD, A., GRATUZE, B., ARNAUD, N., POUPEAU, G., POIDEVIN, J.L.
+& CHATAIGNER, C. (eds.) (1998) – L’Obsidienne au Proche et Moyen Orient: Du Volcan à l’Outil.
+Maison de l’Orient Méditerranéen, BAR International Series 738, Archaeopress, Oxford.
+CHATAIGNER, C., BADALIAN, R., BIGAZZI, G., CAUVIN, M.-C., JRBASHIAN, R.,
+KARAPETIAN, S.G., NORELLI, P., ODDONE, M. & POIDEVIN, J.L. (2003) –
+Provenance studies of obsidian artefacts from Armenian archaeological sites using the
+fission-track dating method, Journal of Non-Crystalline Solids 323, pp. 167-171.
+CHATAIGNER, C. and BARGE, O., (2008) Quantitative approach to the diffusion of obsidian
+in the ancient northern Near East, in A. Posluschny, K. Lambers, I. Herzog (eds.), Layers
+of Perception. Proceedings of the 35th International Conference on Computer Applications and
+Quantitative Methods in Archaeology, pp. 1-7. Bonn: Habelt.
+CHERRY, J.F., FARO, E.Z. & MINC, L. (2010) – Field survey and geochemical characterization
+of the South Armenian obsidian sources, Journal of Field Archaeology 35(2), pp. 147-163.
+CLARK, J.D. & KURASHINA, H. (1979) – An analysis of Early Stone Age bifaces from Gadeb
+(Locality 8E), Northern Bale Highlands, Ethiopia, The South African Archaeological Bulletin
+35, pp. 93-109.
+CIVALERO, M.T. & FRANCO, N.V. (2003) – Early human occupations in western Santa Cruz
+Province, southernmost South America, Quaternary International, 109–10, pp. 77–86.
+CONTRERAS, D.A. (2011) – “How far to Conchucos? A GIS approach to assessing the implications
+of exotic materials at Chavín De Huántar, World Archaeology 43(3), pp. 380-397.
+DELAGNES, A. & RENDU, E. (2011) – Shifts in Neanderthal mobility, technology and
+subsistence strategies in western France, Journal of Archaeological Science 38, pp. 1771-1783.
+DELERUE, S. (2007) – L’Obsidienne dans le Processus de Neolithisation du Proche-Orient (12000-6500
+av. J.-C. cal). Ph.D. dissertation, Université Michel de Montaigne Bordeaux 3.
+FÉBLOT-AUGUSTINS, J. (1993) – Mobility strategies in the late Middle Paleolithic of Central
+Europe and Western Europe: elements of stability and variability, Journal of Anthropological
+Archaeology 12, pp. 211-265.
+FÉBLOT-AUGUSTINS, J. (1997) – Middle and Upper Paleolithic raw material transfers in
+Western and Central Europe: assessing the pace of change, Journal of Middle Atlantic
+Archaeology 13, pp. 57-90.31T RIST AN C ARTER – The Contribution of obsidian characterization studies to early prehistoric archaeology
+FRAHM, E. (2012) – Distinguishing Nemrut Dağ and Bingöl A obsidians: geochemical and
+landscape differences and the archaeological implications, Journal of Archaeological Science
+39, pp. 1436-1444.
+FREUND, K.P. (2013) – An assessment of the current applications and future directions of
+obsidian sourcing studies in archaeological research, Archaeometry, 55(5): 779-793.
+GALANIDOU, N. (2003) – ‘Reassessing the Greek Mesolithic’, in N. Galanidou and C. Perlès
+(eds.), The Greek Mesolithic. Problems and Perspectives. British School at Athens Studies 10,
+Nottingham: 99-112.
+GEERTZ, C. (1973) – The Interpretation of Cultures. New York: Basic Books.
+GENESTE, J.-M. (1989) – Systèmes d’approvisionnement en matières premières au paléolithique
+moyen et au paléolithique supe ́rieur en Aquitaine. In: M. Otte (ed.), L’Homme de
+Néandertal. La Mutation, Vol. 8, pp. 61-70. Liège: Etudes et Recherches Archéologiques
+de l’Université de Liège.
+GOLDMAN-NEUMAN, T. & HOVERS, E. (2009) – Methodological issues in the study of
+Oldowan raw material selectivity: insights from A. L. 894 (Hadar, Ethiopia). In E. Hovers
+and D.R. Braun (eds.), Interdisciplinary Approaches to the Oldowan, pp. 71–84. Dordrecht:
+Springer.
+GOLITKO, M., MEIERHOFF, J., FEINMANN, G.M. & WILLIAMS, P.R. (2012) –
+Complexities of collapse: the evidence of Maya obsidian as revealed by social network
+graphical analysis, Antiquity 86 (332), pp. 507-523.
+GOLITKO, M., MEIERHOFF, J. & TERRELL, J.E. (2010) – ‘Chemical characterization of
+sources of obsidian from the Sepik coast (PNG)’, Archaeology Oceania 45, pp. 120–129.
+GOLOVANOVA, L.V., DORONICHEV, V.B., CLEGHORN, N.E., KOULKOVA, M.A.,
+SAPELKO, T.V. & SHACKLEY, M.S. (2010) – Significance of ecological factors in the
+Middle to Upper Paleolithic transition, Current Anthropology 51, pp. 655-691.
+GREBENNIKOV, A.V., POPOV, V.K., GLASCOCK, M.D., SPEAKMAN, R.J., KUZMIN, Y.V.
+& PTASHINSKY, A.V. (2010) – Obsidian provenance studies on Kamchatka Peninsula
+(Far Eastern Russia): 20039 results. In Y.V. Kuzmin and M.D. Glascock (eds.), Crossing the
+Straits: Prehistoric Obsidian Source Exploitation in the North Pacific Rim, pp. 89-120. Oxford:
+British Archaeological Records International Series 2152, Archaeopress.
+GRATUZE, B. (1999) – Obsidian characterization by Laser Ablation ICP-MS and its application
+to prehistoric trade in the Mediterranean and the Near East: Sources and distribution of
+obsidian with the Aegean and Anatolia’, Journal of Archaeological Science 26, pp. 869–881.
+GREEN, R.C. (1962) – Obsidian, its application to archaeology, New Zealand Archaeological
+Association Newsletter 5, pp. 8-16.
+HAY, R.L. (1976) – Geology of the Olduvai Gorge. Berkeley: University of California Press.
+HODDER, I. (1990) – The Domestication of Europe. Structure and Contingency in Neolithic Societies.
+Oxford: Wiley-Blackwell.
+HODDER, I. & ORTON, C. (1976) – Spatial Analysis in Archaeology. Cambridge: Cambridge
+University Press.
+KIM, J.C., KIM, D.K., YOUN, M., YUN, C.C., PARK, G., WOO, H.J., HONG, M.-Y. & LEE,
+G.K. (2007) – PIXE provenancing of obsidian artefacts from Paleolithic sites in Korea,
+Indo-Pacific Prehistory Association Bulletin 27, pp. 122-128.
+KIRCH, P.V. (1988) Long-distance exchange and island colonization: The Lapita case, Norwegian
+Archaeological Review 21(2), pp. 103-117.
+KOUMOUZELIS, M., KOZLOWSKI, J.K. & GINTER, B. (2003) – Mesolithic finds from
+Cave 1 in the Klisoura Gorge, Argolid. In N. Galanidou and C. Perlès (eds.), The Greek
+Mesolithic. Problems and Perspectives, pp. 113-122. Nottingham: British School at Athens
+Studies 10.
+KUZMIN, Y.V. (2010) – Crossing mountains, rivers and straits: A review of the current
+evidence for prehistoric obsidian exchange in northeast Asia. In Y.V. Kuzmin and M.D.
+Glascock (eds.), Crossing the Straits: Prehistoric Obsidian Source Exploitation in the North Pacific
+Rim, pp. 137-153. Oxford: British Archaeological Records International Series 2152,
+Archaeopress.
+KUZMIN, Y.V. (2011) – The patterns of obsidian exploitation in the late Upper Pleistocene of
+the Russian Far East and neighbouring Northeast Asia, Natural Resource Environment and
+Humans 3, pp. 67-81.
+KUZMIN, Y.V., SPEAKMAN, R.J., GLASCOCK, M.D., POPOV, V.K., GREBENNIKOV,
+A.V., DIKOVA, M.A. & PTASHINSKY, A.V. (2008) – Obsidian use at the Ushki
+Lake complex, Kamchatka Peninsula (Northeastern Siberia): implications for terminal
+Pleistocene and early Holocene migrations in Beringia, Journal of Archaeological Science 35,
+pp, 2179-2187.
+LEAKEY, M.D. (1971) – Olduvai Gorge. Volume 3. Excavations in Beds I and II, 1960-1963.
+Cambridge: Cambridge University Press.32Part I : General perspectives
+LE BOURDONNEC, F.-X. (2007) – Aspects Archéométriques de la Circulation de l’Obsidienne
+Préhistorique. Développements Analytiques et Applications en Corse, Sardaigne et Éthiopie. Ph.D.
+dissertation, Université Michel de Montaigne Bordeaux 3.
+LE BOURDONNEC, F.-X., NOMADE, S., POUPEAU, G., GUILLOU, H.,
+TUSHABRAMISHVILI, N., MONCEL, M.-H., PLEURDEAU, D., AGAPISHVILI,
+T., VOINCHET, P., MGELADZE, A. & LORDKIPANIDZE, D. (2012) – Multiple
+origins of Bondi Cave and Ortvale Klde (NW Georgia) obsidians and human mobility
+in Transcaucasia during the Middle and Upper Palaeolithic, Journal of Archaeological Science
+39, pp. 1317-1330.
+MATSUFIJI, K. (2003) – A cultural exchange between Kyushu Island and the Korean peninsula
+in the Upper Palaeolithic age. In Y.-J. Lee (ed.), Ethiopia, Palaeolithic Men’s Lives and Their
+Sites, pp. 641-659. Seoul: Hakyeon Press.
+MCPHERRON, S.P., ALEMSEGED, Z., MAREAN, C.W., WYNN, J.G., REED, D., GERAADS,
+D., BOBE, R. & BÉARAT, H.A. (2010) – Evidence for stone-tool-assisted consumption
+of animal tissues before 3.39 million years ago at Dikika, Ethiopia, Nature 466, pp. 857–
+860.
+MELLARS, P. (1996) – The Neanderthal Legacy: An Archaeological Perspective from Europe. Princeton:
+Princeton University Press.
+MERCADER, J., PANGER, M. & BOESCH, C. (2002) – Excavation of a chimpanzee stone
+tool site in the African rainforest, Science 296, pp. 1452-1455.
+MILIć, M. (2014) – PXRF characterisation of obsidian from central Anatolia, the Aegean and
+central Europe, Journal of Archaeological Science.
+MOUTSIOU, T. (2011) – The Obsidian Evidence for Scale of Social Life During the Palaeolithic. Ph.D.
+dissertation, Royal Holloway, University of London.
+MOUTSIOU, T. (2012) – Changing scales of obsidian movement and social networking. In K.
+Ruebens, Iza Romanowska and Rachel Bynoe (eds) Unravelling the Palaeolithic: Ten years of
+research at the Centre for the Archaeology of Human Origins (CAHO, University of Southampton),
+pp. 85-96. Southampton: University of Southampton Series in Archaeology No. 8.
+NAZAROFF, A.J., PRUFER, K.M. & DRAKE, B.L. (2009) – Assessing the applicability of
+portable x-ray fluorescence spectrometry for obsidian provenance research in the Maya
+Lowlands, Journal of Archaeological Science 30, pp. 1–11.
+NEGASH, A., BROWN, F. & NASH, B. (2011) – Varieities and sources of artefactual obsidian
+in the Middle Stone Age of the Middle Awash, Ethiopia, Archaeometry 53, pp. 661-673.
+NEGASH, A. & SHACKLEY, M.S. (2006) – Geochemical provenance of obsidian artefacts
+from the MSA site of Porc Epic, Ethiopia, Archaeometry 48, pp. 1-12.
+NEGASH, A., SHACKLEY, M.S. & ALENE, M. (2006) – Source provenance of obsidian
+artifacts from the Early Stone Age (ESA) site of Melka Konture, Ethiopia, Journal of
+Archaeological Science 33, pp. 1647-1650.
+ODDONE, M., MARTON, P., BIGAZZI, B. & BIRó, K.T. (1999) – ‘Chemical characterizations
+of Carpathian obsidian sources by instrumental and epithermal neutron activation
+analysis’, Journal of Radioanalytical and Nuclear Chemistry 240, pp. 147–153.
+PHILLIPS, S.C. (2010) – Bridging the gap between two obsidian source areas in northeast Asia:
+LA-ICP-MS analysis of obsidian artifacts from the Kurile Islands of the Russian Far
+East. In Y.V. Kuzmin and M.D. Glascock (eds.), Crossing the Straits: Prehistoric Obsidian
+Source Exploitation in the North Pacific Rim, pp. 121-136. Oxford: British Archaeological
+Records International Series 2152, Archaeopress.
+PHILLIPS, S.C. & SPEAKMAN, R.J. (2009) – Initial source evaluation of archaeological
+obsidian from the Kuril Islands of the Russian Far East using portable XRF, Journal of
+Archaeological Science 36, pp. 1256–1263.
+PIPERNO, M., COLLINA, C., GALLOTI, R., RAYNAL, J.-P., KIEFFER, G., LE
+BOURDONNEC, F.-X., POUPEAU, G. & GERAADS, D. (2009) – Obsidian
+exploitation and utilization during the Oldowan at Melka Kunture (Ethiopia). In E.
+Hovers & D.R. Braun (eds.), Interdisciplinary Approaches to the Oldowan, pp. 111-128.
+Dordrecht: Springer.
+POUPEAU, G., LE BOURDONNEC, F.-X., CARTER, T., DELERUE, S., SHACKLEY, M.S.,
+BARRAT, J.-A., DUBERNET, S., MORETTO, P., CALLIGARO, T., MILIć, M. &
+KOBAYASHI, K. (2010) – The use of SEM-EDS, PIXE and EDXRF for obsidian
+provenance studies in the Near East: a case study from Neolithic Çatalhöyük (central
+Anatolia), Journal of Archaeological Science 37, pp. 2705–2720.
+REEPMEYER, C., SPRIGGS, M., ANGGRAENI, LAPE.P., NERI, L., RONQUILLO, W.P.,
+SIMANJUNTAK, T., SUMMERHAYES, G., TANUDIRJO, D. & TIAUZON, A. (2011)
+– Obsidian sources and distribution systems in Island Southeast Asia: New results and
+implications from geochemical research using LA-ICPMS, Journal of Archaeological Science
+38, pp. 2995-3005.33T RIST AN C ARTER – The Contribution of obsidian characterization studies to early prehistoric archaeology
+RENFREW, C. & ASPINALL, A. (1990) – Aegean obsidian and Franchthi Cave, in T.W.
+Jacobsen (ed.), Excavations at Franchthi Cave, Greece. Fascicle 5, pp. 257-279. Bloomington:
+Indiana University Press.
+RENFREW, C., CANN, J.R. & DIXON, J.E. (1965) – Obsidian in the Aegean, Annual of the
+British School at Athens 60, pp. 225-247.
+RENFREW, C., DIXON, J.E. & CANN, J.R. (1966) – Obsidian and early culture contact in the
+Near East, Proceedings of the Prehistoric Society 32, pp. 30-72.
+RENFREW, C., DIXON, J.E. & CANN, J.R. (1968) – Further analysis of Near Eastern obsidians,
+Proceedings of the Prehistoric Society 34, pp. 319-31.
+RICHARDS, M., HARVATI, K., GRIMES, V., SMITH, C., SMITH, T., HUBLIN, J.-J.,
+KARKANAS, P. & PANAGOPOULOU, E. (2008) – Strontium isotope evidence of
+Neanderthal mobility at the site of Lakonis, Greece using laser-ablation PIMMS, Journal
+of Archaeological Science 35, pp. 1251-1256.
+ROAF, M. (1990) – Cultural Atlas of Mesopotamia and the Ancient Near East. Oxford: Andromeda.
+ROCHE, H., DELAGNES, A., BRUGAL, J.-P., FEIBEL, C., KIBUNJIA, M., MOURREL, V. &
+TEXIER, P.-J. (1999) Early hominid stone tool production and technical skill 2.34 Myr
+ago in West Turkana, Kenya, Nature 399, pp. 57-60.
+SAMPSON, A., KACZANOWKSA, M. & KOZLOWSKI, J.K. (2010) – The Prehistory of the
+Island of Kythnos (Cyclades, Greece) and the Mesolithic Settlement at Maroulas. Kraków: The
+Polish Academy of Arts and Sciences / The University of the Aegean.
+SHEPPARD, P.J., IRWIN, J.G., LIN, S.C. & MCCAFFREY, C.P. (2011) – Characterization of
+New Zealand obsidian using PXRF, Journal of Archaeological Science 38, pp. 45–56
+SLIMAK, L. & GIRAUD, Y. (2007) – Circulations sur plusieurs centaines de kilomètres durant
+le Paléolithique moyen. Contribution à la connaissance des sociétés néandertaliennes,
+Comptes Rendus Palevol 6, pp. 359-368.
+SLIMAK, L., KUHN, S.L., ROCHE, H., MOURALIS, D., BUITENHUIS, H., BALKAN-ATLI,
+N., BINDER, D., KUzUCUOğLU, C. & GUILLOU, H. (2008) – Kaletepe Deresi 3
+(Turkey): Archaeological evidence for early human settlement in Central Anatolia, Journal
+of Human Evolution 54, pp. 99-111.
+SPECHT, J. (2002) – Obsidian, colonising and exchange. In S. Bedford, C. Sand and D. Burley
+(eds.), Fifty Years in the Field. Essays in Honour and Celebration of Richard Shutler Jr’s Archaeological
+Career, pp.37-49. Auckland: New Zealand Archaeological Association Monograph 25.
+SPINAPOLICE, E.E. (2012) – Raw material economy in Salento (Apulia, Italy): New perspectives
+on Neanderthal mobility, Journal of Archaeological Science 39, pp. 680-689.
+STOUT, D., SEMAW, S., ROGERS, M.J. & CAUCHE, D. (2010) – Technological variation in the
+earliest Oldowan from Gona, Afar, Ethiopia, Journal of Human Evolution 58, pp. 474-491.
+SUMMERHAYES, G. & ALLEN, J. (2007) – Lapita writ small? Revisiting the Austronesian
+colonisation of the Papuan south coast, Terra Australis 26, pp. 97-122.
+TALIAFERRO, M.S., SHRIEVER, B.A. & SHACKLEY, M.S. (2010) – Obsidian procurement,
+least cost path analysis, and social interaction in the Mimbres area of southwestern New
+Mexico, Journal of Archaeological Science 37, pp. 536-548.
+TOTH, N. (1985) – The Oldowan reassessed: A close look at early stone artifacts, Journal of
+Archaeological Science 12, pp. 101-120.
+TOTH, N. (1987) – Behavioral inferences from Early Stone artifacts: an experimental model,
+Journal of Human Evolution 16, pp. 763-787.
+TOTH, N., SCHICK, K.D., SAVAGE-RUMBAUGH, E.S., SEVIK, R.A. & RUMBAUGH, D.
+(1993) – Pan the tool-maker: Investigations into the stone tool-making and tool-using
+capabilities of a bonobo (Pan paniscus), Journal of Archaeological Science 20, pp. 81-91.
+TRIPCEVICH, N. (2007) – Quarries, Caravans, and Routes to Complexity: Prehispanic Obsidian in the
+South-Central Andes. Ph.D. dissertation, University of California, Santa Barbara.
+TORRENCE, R. (1986) – Production and Exchange of Stone Tools. Cambridge: Cambridge University Press.
+TYKOT, R.H. (1996) – Obsidian procurement and distribution in the central and western
+Mediterranean, Journal of Mediterranean Archaeology 9, pp. 39-82.
+VOGEL, N., NOMADE, S., NEGASH, A. & RENNE, P.R. (2006) – Forensic 40
+Ar/ 39
+Ar dating:
+a provenance study of Middle Stone Age obsidian aritacts from Ethiopia, Journal of
+Archaeological Science 33, pp. 1647-1650.
+WILLIAMS THORPE, O., WARREN, S.E. & COURTIN, J. (1984a) – The distribution and
+sources of archaeological obsidian from southern France, Journal of Archaeological Science
+11(2), pp. 135-146.
+WILLIAMS-THORPE, O., WARREN, S.E. & NANDRIS, J.G. (1984b) – The distribution
+and provenance of archaeological obsidian in Central and Eastern Europe, Journal of
+Archaeological Science 11, pp. 183–212.
+WILSON, L. (2007) – Understanding prehistoric lithic raw material selection: Application of a
+gravity model, Journal of Archaeological Method and Theory 14, pp. 388-411.

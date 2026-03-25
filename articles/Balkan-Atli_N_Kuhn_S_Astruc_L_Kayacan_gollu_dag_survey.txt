@@ -1,0 +1,692 @@
+INTRODUCTION
+The Göllü Dağ complex is located in Cappadocia,
+in Central Anatolia. This volcanic massif, about
+12 km wide with a maximum elevation of 2143 m,
+was first occupied in the Lower Paleolithic. The
+earliest archaeological levels of Kaletepe Deresi 3
+have yielded the remains of an Acheulean occupation,
+the only one excavated in Anatolia so far (Slimak et
+al. 2008). Several find spots with Lower Paleolithic
+assemblages were identified during the Göllü Dağ
+survey (Balkan-Atlı et al. 2008-2009, this paper).
+Early cultural remains found both at Dursunlu in
+the Konya plain (Güleç et al. 2009) and in the Göllü
+Dağ area suggest that these landscapes can help us
+to further understand the place of Anatolia in early
+hominin dispersals (Kuhn in press).
+The Central Anatolian Volcanic Province, and
+more specifically the two volcanoes of Göllü Dağ
+and Nenezi Dağ, are even more important for later
+pre- and proto-history. Obsidian from theses areas
+was exploited and traded or transported on a large
+scale from the Epi-Paleolithic to the Late Bronze
+Age. Since the pioneering interdisciplinary work of
+C. Renfrew (1966), archaeometrical approaches to
+source attribution have developed in many directions,
+involving a multiplication of methods and techniques
+and laboratories. The absence of sufficient coordination
+in the sampling strategies, in the establishment of a
+real geological reference collection, and in assembling
+databases with the results of chemical analyses both
+for geological and archaeological items, is becoming
+striking (Gratuze et al. 2005, Delerue 2007, Poupeau
+et al. 2007, Hancock and Carter 2010). The integration
+of results from diverse projects and methodologies
+is a significant challenge to further work on obsidian
+diffusion in Anatolia, the Near-East and Cyprus,
+necessary for investigating the mobility of ancient
+groups, reconstructing exchange networks, and for
+understanding the role of the Central Anatolian
+plateau in the economic and social fabrics of the
+Neolithic.
+When research first began in the Göllü Dağ
+area, the complexity of the massif, the intricate
+series of eruption events, and the richness of sites,
+workshops and other archaeological remains was
+far greater than could have been imagined when
+studying assemblages found in sites, in Cyprus for
+instance, hundreds of kilometers from the source.
+Moreover, labels such as ‘ Göllü Dağ’ – ‘Kaletepe’,
+‘Bitlikeler’, ‘Ekinlik’ or ‘Nenezi Dağ’ used in
+chemical characterization do not adequately describe
+of the number and diversity of individual obsidian
+outcrops within the volcanic area. Fieldwork, including
+detailed obsidian dyke identification, geomorphological study, and the use of GIS to organize archaeological and geological data are needed to establish
+the background for understanding human occupations
+and mobility in the obsidian procurement zone as
+well as for understanding links to each location of
+the diffusion zone, starting with Cappadocia and
+Central Anatolia.
+The third campaign of survey in the Göllü Dağ
+massif took place in 2009. Our primary aim this
+year was to cover an area comprised between Bozköy,
+Gösterli and Kayırlı (Fig. 1). Three large workshops
+were already known in this area. The Ilbiz-Bozköy
+workshop is found near to a source of good quality
+Anatolia Antiqua XVIII (2010), p. 191-202
+Nur BALKAN-ATLI *, Steve KUHN **, Laurence ASTRUC***,
+Nurcan KAYACAN * , Berkay DİNÇER**** and Gökhan ÇAKAN *
+GÖLLÜ DAĞ SURVEY 20091
+*) Istanbul University, Prehistory Department.
+**) Arizona University.
+***) CNRS, IFEA, Istanbul.
+****) Archaeology Department, Uludağ University.
+1) The 2009 survey was done with the collaboration of Dr. Çiler Altınbilek-Algül and Dr. Semra Yıldırm-Balcı who joined us for
+several days and the hard and constant work of all the members of the KAOP, being Ezgi Avar, Gizem Dertürk, Merve Yurtsever, Okan
+Sezer, Yıldıray Saruhan, Emel Yıldırım, Volkan Tamer, Özgür Toprak (2007-2008). The Ministry of Culture was represented by
+İbrahim Sezer Zehra Taşkıran from Çankırı Anatolian Civilizations Museum. The maps were made by Yasin Çakan, the photograps
+were taken by Berkay Dinçer and the illustrations were executed by Michel Grenet and Zehra Taşkıran. Many thanks to each of them.obsidian exposures at Müne’nin Yeri. Unipolar
+débitage is dominant and much of the workshop
+debris has been attributed to the Late Neolithic or
+Chalcolithic. In Kayırlı, further to the north-east,
+two huge multi-period workshops – the richest found
+so far, with remains dated from Lower Paleolithic
+to post-Chalcolitic periods – have been recognized.
+This complex of workshops and outcrops has been
+divided into two areas: Bitlikeler on the east and
+Ekinlik on the west side of a deep ravine (BalkanAtlı et al. 2008, Balkan-Atlı et al. 2009). However,
+the large area between Ilbiz-Bozköy, Gösterli and
+Kayırlı had not been subject to systematic field reconnaissance. Our purpose this year was to conduct
+systematic pedestrian survey of this area, which
+shows a diversity of landforms in order to identify
+new obsidian outcrops and possibly related workshops,
+to recognize new shelters or settlements and to
+recover new data that would help trace the mobility
+of ancient groups within the Göllü Dağ complex. In
+this paper we summarize archaeological and geoarchaeological findings from different parts of the
+survey area.
+GEOLOGICAL SOURCES
+A substantial amount of work was been completed
+on the obsidian sources (Fig. 2a) with samples collected from 29 new localities in the Bozköy, Kayırlı,
+Gösterli areas. A geological reference collection is
+being assembled for three reasons: to better understand
+the diversity of the Göllü Dağ volcanic complex
+and the relation between the different eruptive events
+and the position and chemical composition of the
+obsidian dykes; to build a secure geo-referenced
+database of obsidian sources in the area that can be
+used for provenience analysis of obsidian archaeological samples in Cappadocia, Anatolia and in the
+Near-East; and, to provide an empirical basis to
+study the relation between the choices of ancient
+groups to use different raw material according to
+their mechanical properties (in correlation with the
+major and minor chemical elements of the obsidians)
+and/or accessibility in the landscape.
+DISTRIBUTION OF FINDS
+Paleolithic artifacts are widespread throughout
+the Göllü Dağ volcanic complex. However, the
+nature of the Paleolithic finds, and the contexts in
+which they occur, vary across the area (Fig. 2b).
+The area surveyed in 2009 can be divided into
+several general zones according to the nature of
+finds from different periods and the geological and
+topographic contexts in which they occur: 1) Akcağıl
+Deresi, north of Bozköy, 2) Ridges and drainages
+between Genvenlik Tepesi and Kayırlı/Gösterli,
+3) Karakuz Tepesi and Yaprak Tepesi, 4) Kötüyaylı,
+Karakuyu, Derebaşı, 5) Küçük Göllü Tepe, 6) The
+upper reaches of Gökdere, and 7) The mouths of
+Nohutlu dere and Gökdere, and slopes between. In
+strong contrast, the distribution of Holocene cultural
+remains is for the most part directly related to
+obsidian outcrops (Fig. 2c). We will emphasize finds
+and locations in two of the previously identified
+contexts: 2) Ridges and drainages between Genvenlik
+tepesi and Kayırlı/Gösterli and 6) the upper reaches
+of Gökdere.
+Akcağıl Deresi, north of Bozköy
+The Akcağıl Deresi area consists of low-lying
+slopes and drainage bottoms north of Bozköy. Natural
+obsidian is found only as scattered, small nodules.
+There is very little Neolithic or later material. Paleolithic finds, mainly Middle Paleolithic, are usually
+associated with deposits of brownish reworked ash
+containing with abundant clasts of volcanic stones
+10-15 cm in diameter. Typical finds include Levallois
+cores, some retouched tools and small (8-10 cm) bifaces of basalt and obsidian. The Paleolithic artifacts
+generally exhibit high levels of patina and surface
+erosion, likely indicating a prolonged residence on
+the surface.
+192 NUR BALKAN-ATLI et alii
+Fig. 1 : Göllü Dağ survey 2007, 2008 and 2009.Ridges and drainages between
+Genvenlik Tepesi and Kayırlı/Gösterli
+The ridge tops, slopes, add drainages between
+Genvenlik Tepesi and Kayırlı/Gösterli are comparatively rich in sites of all periods: localities recorded
+include small obsidian sources, Neolithic/Chalcolithic
+workshops, and Paleolithic findspots. As in Akcağıl
+Deresi, Paleolithic artifacts are often associated with
+exposures of brownish reworked ash with volcanic
+stones. Much of the Paleolithic material is patinated
+or eroded, indicating long residence time on the surface. Several sites yielded relatively large, minimally
+prepared discoid and Levallois cores which could
+represent an earlier Middle or even Lower Paleolithic
+component. One especially rich locality (366) contained comparatively fresh-looking obsidian Levallois
+cores as well as handaxes. Two other localities (445,
+446), situated at foot of basalt promontory northwest
+of Gevenlik Tepesi, are notable for presence of
+many Levallois flakes and heavily retouched flake
+tools. These latter sites appear more like habitations
+than production locales. At the east side of the
+ravine leading to the north at the foot of Gevenlik
+Tepesi, elements which might be attributed to Epipaleolithic or early Neolithic of Epipaleolithic
+tradition (?) were collected (359, 360).
+The slopes and top of Kalebaşı Tepe, just south
+of Gösterli are an exception to the general description
+above. Artifacts, mainly flakes and amorphous cores,
+are widely scattered. There are a few sparse concentrations associated with natural shelters on the eastern
+slopes of the hill. Natural obsidian is present in the
+form of isolated nodules and very small fragments,
+but no usable sources were identified.
+Concerning Holocene finds, on the west side of
+Bozköy-Kayırlı road we recorded a probable Chalcolithic site with grinding stones, ceramics and obsidian flakes (417). On the east side of the road, associated with obsidian outcrops, is a workshop
+which shows a very peculiar unipolar débitage resulting in production of twisted bladelets (381).
+This ‘chaîne opératoire’ has never been identified
+before in the Göllü Dağ area. It is very distinctive
+and might become a good chronological marker if it
+is recognized in the well stratified and dated sites of
+the region.
+The Gösterli area, which we visited only briefly,
+showed material of real interest with clearly Neolithic material found above the dere of Gösterli
+(i.e. Bunuş ?) and Chalcolithic pottery in the bottom
+dere. In both locations we collected assemblages of
+different kind of obsidian coming from the Göllü
+Dağ and the Nenezi Dağ. The area of Gösterli is a
+high priority for further exploration in the future.
+Karakuz Tepesi and Yaprak Tepesi
+Around Karakuz Tepesi and Yaprak Tepesi, Paleolithic findspots are few and highly dispersed.
+The material present seems to represent long-term
+accumulations on stable or eroding surfaces, rather
+than real concentrations of artifacts. An exception is
+one remarkable locality on a low ridge at intersection
+of two drainages, north-east of Karakuz Tepesi, and
+immediately west of rich obsidian sources on the
+Ekinlik ridge. This site (392) contains material from
+several periods, including Middle Paleolithic, Neolithic
+and later (ceramic) periods. The Middle Paleolithic
+component is represented by beautifully executed,
+GÖLLÜ DAĞ SURVEY 2009 193
+Fig. 2 : Findspots of the 2009 Göllü Dağ survey: a) Obsidian sources,
+b) Paleolithic artifacts, c) Neolithic and post-Neolithic artifacts.
+a) b) c)symmetrical Levallois cores, following “centripetal
+recurrent” system of exploitation. These artifacts
+show little patination or surface alteration, indicating
+that they have recently been exposed. The quality of
+the Levallois production is unique for survey area
+although a single similar example recovered from
+field on opposite side of Karakuz Tepesi.
+Kötüyaylı, Karakuyu, Derebaşı
+The Kötüyaylı, Karakuyu, and Derebaşı areas
+have very good surface exposure and visibility of
+the ground surface, but very little prehistoric material
+is present either in the valley bottom (Kötüyaylı,
+Karakuyu), or on the basalt escarpment (Derebaşı).
+The more than 10 recorded findspots in the area are
+mostly isolated finds or small scatters of cores and
+flakes. No obsidian sources were recorded in the
+area.
+Küçük Göllü Tepe
+The high slopes and summit of Küçük Göllü
+Tepe contains very little material from any period.
+A few isolated cores and flakes representing the Paleolithic and later periods were collected from the
+area. Natural obsidian occurs only as very small
+pieces, unsuitable for artifact manufacture.
+The upper reaches of Gökdere
+The upper reaches of Gökdere, between 1900
+and 2100 m elevation, are very rich in obsidian outcrops as well as workshops. Concerning Neolithic /
+Chalcolithic, the most exciting discovery was made
+in the high ridges (between 1900 and 2100 m elevation) and slopes above the southern branch of
+Gökdere. The area contains several large obsidian
+sources associated with extensive workshops, completely undocumented until this year. Two small
+shelters with archaeological sediments – rare in the
+study area – were found at proximity of the outcrops.
+Most of the material found in the workshops and in
+one of the shelter dates to the Holocene. Paleolithic
+finds are found as well in the area, particularly at localities 483 and 486.
+Obsidian sources can be described as follows:
+476 is a small outcrop, at the bottom of a recent adjacent dere; 480 A and 480 B are very rich exposures
+with large blocks and nodules, near the top of the
+dere; 480 C, an exposure at the top of the ridge, not
+exposed by the dere erosion, with tabular pieces,
+oriented vertically, and, outcrops with nodules on
+the slopes below.
+A series of small caves and rockshelters below a
+rhyolite cliff on the southeastern slopes of Necibin
+Yatak Sırtı (477, Fig. 3a-3b) have been identified.
+The openings are 2-4 m wid e and 1-2 m high. The
+slopes in front of them contains abundant
+Neolithic/Chalcolithic material, including blade
+cores, blades and bladelets. There is not much level
+area in front of these rockshelters, but there may
+have been more before the downcutting of Gökdere.
+At least one of the caves does contain sediment,
+which is full of blades and flakes. The shelters face
+south and southwest. The collected assemblage is
+composed of unipolar production, including roughouts, cores showing at least a partial shaping, blades
+and flakes.
+Locality 481 is the extensive scatter of workshop
+debris on the ridge above the sources (Fig. 4). Three
+points were taken, representing the east and west
+edges and the center of the workshop distribution.
+Flaking debris is extremely abundant, in some places
+completely covering the ground surface. Unipolar
+194 NUR BALKAN-ATLI et alii
+Fig. 3 a-b : Rockshelter 477.
+a) b)core production testifies of rather expedient technology, with a flat platform at 90 degrees to the face
+of detachment. Shaping is minimal with an opportunist
+use of the morphology of the block. Elongated
+blanks are irregular and not standardized both in
+shape and size.
+Locality 483 (Fig. 5a-5b) is a small cave near
+the top of the southern slope of the dere, below the
+main workshops. It opens to the northeast. The cave
+is nearly full of sediment, and there appear to be additional deposits on the slope below. An illegal excavation has enlarged the opening, and the cave appears to extend back at least 3 or 4 meters. The area
+around the mouth and the slopes below it is covered
+with blades and blade cores. There are also dense
+workshop deposits above the cave. The collected
+assemblage is Holocene, composed of a very irregular
+bifacial “Çatal preform” abandoned because of the
+presence of perlite inclusions, and, material representing unipolar production with rough-outs, unipolar
+cores, and various non standardized blanks. At least
+one Levallois flake and several patinated flakes and
+cores came from the sediment unearthed by the
+illegal excavation.
+Site 486 is located in the upper bank of a steeply
+eroded side dere, just below a large obsidian exposure.
+The slopes contain abundant Middle Paleolithic material, especially Levallois cores. These appear to
+be eroding out from 1-2 meters below the crest of
+the ridge. Although the cores are patinated they are
+not rounded, so they may have been buried quickly.
+The sample is also unusual in that most the cores
+were exploited using a unipolar convergent strategy,
+unusual for the study area. Neolithic/Chalcolithic
+artefacts include products from unipolar débitage
+with poor shaping, as is well represented in this
+area.
+The mouths of Nohutlu Dere and Gökdere,
+and slopes between
+The alluvial fans at the mouths of Nohutlu Dere
+and Gökdere, and the slopes between them are
+deeply dissected by recent erosion. The area is very
+rich in natural obsidian blocks and nodules, some
+quite large, eroded from exposures higher in the
+drainage. The alluvial fan at the mouth of Gökdere
+is covered with natural obsidian in some places.
+Tested nodules, Levallois cores and occasional
+finished artifacts are widely scattered across the uneroded surfaces. These artifacts seldom occur in
+large enough concentrations to merit identification
+as a site. Instead, the surface deposits seem to
+represent generalized use of the area over a long period.
+DISCUSSION
+As in previous years the majority of Paleolithic
+finds from the Göllü Dağ area refer to the Middle
+Paleolithic sensu lato. These include Levallois cores
+(more than 200 examples), Levallois flakes and
+blades, and a range of side-scrapers and points,
+GÖLLÜ DAĞ SURVEY 2009 195
+Fig. 4 : Workshop 481.
+Fig. 5 a-b : Cave 483.
+a)
+b)Artifact form Obsidian Basalt Other Total
+Core tools
+Small biface (< 8cm) 13 9 22
+Large biface/ handaxe 9 13 1 23
+Cleaver 1 2 1 4
+Other core tools 11 4 15
+Disc 1 1
+Chopper/core 4 1
+Fragments 1
+Cores
+Levallois core 205 2 207
+Blade/bladelet core 3 3
+Core on flake 8 8
+Discoid core 12 3 2 17
+Other core forms 95 95
+Core fragment 28 28
+Truncated/faceted piece 3 3
+Retouched tools
+Simple & double
+sidescraper 41 1 42
+Déjeté scraper 1 1 2
+Transverse scraper 11 1 12
+Bifacial scraper 1
+Limace 1
+Convergent sidescraper/
+point 7 1 8
+Endscraper 3 3
+Notch 2 2
+Denticulate 3 3
+Indet. retouched piece and
+fragments 28 1 29
+Flakes and blades
+Levallois flake/blade 47 1 48
+Eclat debordant 6 6
+Plain flake 105 8 1 114
+Plain blade 18 18
+Biface flake 1
+Total 667 49 6 713
+identified based on blank form, characteristic retouch,
+and patina. Artifacts clearly attributable to the Lower
+Paleolithic (Acheulean) include large bifacial handaxes
+and cleavers. Some large discoid and “proto-Levallois”
+cores, as well as large, heavily patinated flake tools
+may also be attributable to the Lower Paleolithic
+(Table 1).
+Handaxes and other core tools (Fig. 6-7) are the
+most common basalt artifacts, but we also recovered
+discoid and Levallois cores and large flake tools of
+this material. The presence of both large bifaces and
+flake production on basalt may be linked to the
+presence of high-quality basalt within the area surveyed in 2009. Although we did note several large
+exposures of fine-grained basalt, no workshops or
+production areas were observed.
+As in previous years, both small (< 8 cm) and
+large (> 8 cm) bifacial handaxes were collected the
+study area. It is probable that these artifacts refer to
+different periods. The small specimens come mainly,
+though not exclusively, from sites between Bozköy
+and the Akcağıl Deresi. They are more often made
+of obsidian than basalt, are generally fully shaped
+on both faces, and are frequently associated with
+Levallois cores. It is hypothesized that the smaller
+handaxes are Middle Paleolithic in age. In contrast,
+larger handaxes and cleavers are more often made
+on basalt, and many are made on large flakes, with
+extensive shaping on one face only. The recovery of
+several large cleavers, never before found on surface
+in the survey area, is also noteworthy. Technologically,
+the larger handaxes and cleavers are consistent with
+the distinctive “Large Flake” Acheulean assemblages
+collected from levels V-XII at Kaletepe Deresi 3.
+Apparently, the early Acheulean occupation of the
+Göllü Dağ area was fairly widespread, although in
+situ deposits are seldom preserved or exposed.
+Levallois cores (Fig. 8) are by far the most common type of Paleolithic artifacts found in the Göllü
+Dağ area (Table 1)2. Most unidentified fragments
+also appear to be pieces of Levallois cores. A wide
+range of Levallois core forms and systems of exploitation is represented in the sample (Table 2)3 .
+As in the 2008 sample, the most common system is
+characterized by production of large “preferential”
+flakes. Unipolar and “centripetal recurrent” productions are second and third in order of abundance:
+other systems of Levallois production are considerably
+less common. Although the diversity of Levallois
+cores is high in the sample as a whole, some localities
+are dominated by a single Levallois system (e.g.,
+sites 392, 486). At least some assemblages with a
+single Levallois system are also characterized by
+fresh, lightly-patinated artifacts. This suggests that
+material was not exposed on the surface for a long
+period, and that the site may contain a single, rapidly
+buried Middle Paleolithic component.
+2) Only artifacts that could be attributed to the Paleolithic period(s) with a high degree of certainty are included. Non-diagnostic
+flakes and blades are not included, unless the degree of patina and surface alteration or other features indicated that they pre-date the
+Neolithic period.
+3) Specimens for which system of exploitation could not be ascertained are not included.
+196 NUR BALKAN-ATLI et alii
+Table 1 : Paleolithic artifacts from the 2009
+Göllü Dağ survey, by raw material.GÖLLÜ DAĞ SURVEY 2009 197
+Fig. 6 : Basalt bifacial cleaver.
+Fig. 7 : Basalt handaxe.The presence of an Upper Paleolithic occupation
+is still in question in the Göllü Dağ area as no clear
+remains have been identified. It may simply be
+difficult to recognize materials from this period in
+the absence of habitation sites with a range of tool
+forms. Small, amorphous bladelet cores and patinated
+endscrapers, with possible Upper/Epi-Paleolithic
+forms, were collected from sites 345 and 348. Several
+other bladelet cores were found but no associated
+microliths: these include a semi-peripherical bladelet
+core with a flat natural back, a “carenated” bladelet
+core and a bladelet core on a shaping flake with the
+débitage surface on one edge. It is at the stage of research still difficult to attribute these remains to
+either the Epi-Paleolithic or the early Neolithic of
+Epi-Paleolithic tradition as the assemblages of Pınarbaşı, Aşıklı and Boncuklu in Central Anatolia
+are still in the course of publication.
+Chronological or cultural attribution of Holocene
+finds is also difficult. There is scarcity of formal, typologically classifiable tools, and a near complete
+absence of chronological markers for Holocene
+periods (Table 3).
+One small fragment of a probable Neolithic arrowhead on a bipolar blade bearing pressure retouch,
+and a rough Chalcolithic bifacial preform were collected in 2009. Generalized, non-diagnostic shaped
+tools were found in many loci. The list given above
+does not include tools that bore obvious post-depositional damage.
+There is a striking scarcity of techno-typological
+analyses of assemblages from the excavated stratified
+Neolithic and post-Neolithic sites of the region,
+which hinders our attempts to place survey materials
+in chronological position. No strict relation is found
+between formal tools and the morphological or technological characters of the blanks. These scarce
+lithic elements do however show activities other
+than knapping took place even in workshops. They
+illustrate the daily toolkit of groups that occupied
+the area even seasonally. To complete the picture,
+one must add the numerous hammers made of
+rhyolite used in indirect percussion from the IlbizBozköy workshops, first recognized by M. Grenet.
+But they are not specific to this workshop as a comparable specimen made of obsidian was been recognized this year in Bitlikeler. Experiments will allow
+198 NUR BALKAN-ATLI et alii
+PATINA
+Light Moderate Heavy
+surface surface surface
+Levallois system alteration alteration alteration Total
+Preferential flake 11 28 27 66
+Unipolar 5 25 15 45
+Centripetal recurrent 9 19 10 38
+Orthogonal preferential 0 6 3 9
+Opposed preferential 3 7 5 15
+Bipolar 2 3 4 9
+Convergent 1 7 3 11
+Total 31 95 67 193
+Table 2 : Levallois cores from the 2009 Göllü Dağ survey,
+listed according to system of exploitation and degree of
+surface alteration.
+Fig. 8 : Obsidian Levallois core.us to understand the use of these tools either for
+quarrying or for knapping, as some of them might
+have been used as punches.
+As regards technology, the dominant component
+throughout the 2009 surveyed area consists of
+unipolar production manifesting a rather low level
+of skill compared with, for example, naviform technology. The sizes and morphologies of the obsidian
+blocks in the outcrops had a great deal of influence
+on the forms of cores (Fig. 8-10). Shaping sequences
+are very limited: they are mainly restricted to the
+opening of the platform (with angle from 65° to
+more than 90°), although natural platforms are not
+rare. Natural surfaces or cortical areas are often preserved both on cores and related flakes and blades.
+Products are in general of small dimensions, elongated
+and irregular in shape, with plain butts. In most
+cases there is a main unipolar sequence of extraction
+followed by one or several opposed or crossed
+unipolar removals (Fig. 9-10). Several flat cores
+with opposed unipolar sequences have been recovered
+this year. Fig. 11 shows, for example, an eroded
+specimen of a shaped core with the extraction of
+two opposed unipolar series. The varieties of unipolar
+production observed in the Göllü Dağ area and the
+stratified sites of the region will have to be further
+studied in order to build a real correspondence
+between the post-Neolithic workshops and sites.
+At the present it seems that Neolithic workshops
+such as Kaletepe-Kömürcü or Kayırlı (BitlikelerEkinlik), with a large proportion of bipolar and naviform débitage, are fairly rare in the Göllü Dağ
+area. Isolated blades or even rough-outs are occasionally recovered, but it is difficult to see in them
+as more than the testimony of the mobility of
+knappers, hunters or villagers in the landscape. Remains of unipolar débitage using pressure technique
+are found at these two workshops and at a few other
+findspots: this year, an isolated complete bladelet
+GÖLLÜ DAĞ SURVEY 2009 199
+Typology Blank Number of
+Sites
+Arrowhead Blade 1
+Bifacial preform Flake 3
+End-scraper Blade 2
+Side-scraper Flake 1
+Circular scraper Flake 1
+End-scraper and Lateral retouch Flake 3
+Burin Flake 1
+Truncation Blade 3
+Truncation and Lateral retouch Blade 4
+Truncation and ‘Pièce esquillée’ Blade 1
+Notches and lateral retouch Shaping flake 1
+Lateral retouch Flake 6
+Lateral retouch (by pressure) Flake 1
+Lateral retouch Shaping Flake 1
+Lateral retouch Blade 5
+Lateral retouch Bladelet 2
+Backed piece Flake 2
+Pièce esquillée Flake 10
+Pièce esquillée Shaping Flake 1
+Pièce esquillée Opening platform 1
+Pièce esquillée Blade 1
+Pièce esquillée and lateral retouch Flake 1
+Table 3 : Typology for Neolithic/Chalcolithic
+and even later sites.
+Fig. 9 : Frontal unipolar production on a core
+showing a partial shaping.
+Fig. 10 : Crossed unipolar series on an
+unshaped core.found together with a fragment of blade core of
+good quality, testifying to the presence of a Neolithic
+occupation in a settlement which is above Gösterli
+Dere.
+Although the distribution of early Neolithic
+workshops is restricted, the number of apparent
+post-Neolithic workshops increases every year. Ilbiz-Bozköy remains rather peculiar, with its very
+homogeneous unipolar production attributed to late
+Neolithic or Chalcolithic periods (Balkan et al.
+2008). The workshops found at Hamid’in Yeri are
+so extended in surface that they remind us in this respect of the Kayırlı area. The 2007 systematic collections can be preliminarily attributed mostly to
+late Neolithic, Chacolithic or even later periods. For
+the 2009 season, we emphasize the importance of
+the documentation in the area of Gökdere of multiple
+previously unknown sources, workshops and shelters
+that must be further explored: the surface collection
+does not suggest date before to the Late Neolithic
+however.
+CONCLUSIONS
+The 2009 Göllü Dağ Survey allowed to explore
+a range of surfaces, landscape elements, locations
+which had not been covered before (Balkan et al.
+2008, 2009). Given the geomorphologic complexity
+of the Göllü Dağ area, the fact that we found completely unknown outcrops and related workshops
+was expected. The 2009 survey allowed us as well
+to enlarge the list of shelters with archaeological
+material, especially in the area of Gökdere.
+The distribution of artifacts varies broadly by
+time period. The Lower Paleolithic is represented
+by isolated find spots yielding one or two handaxes
+and cleavers. In contrast, Middle Paleolithic remains
+are practically ubiquitous in the Göllü Dağ area,
+and often quite concentrated. Levallois cores and
+other artifacts typically appear in concentrations associated with exposures of natural obsidian in primary
+or secondary contexts. Farther from raw material
+sources, locations contain more Levallois flakes and
+retouched tools, while cores are comparatively few
+in number. The pattern of distribution is radically
+different in Holocene, with large workshops at immediate proximity of sources. These workshops are
+often multi-period but each of them shows its own
+unique characteristics in size, position in the Göllü
+Dağ complex, topographical characteristic, the presence of associated rock-shelters, and lithic assemblages
+and corresponding periods of use. Several settlements,
+200 NUR BALKAN-ATLI et alii
+Fig. 11 : Two opposed unipolar series extracted from a flat shaped core.with ceramics and groundstone as well as obsidian
+artifacts, have also been identified. A few isolated
+finds, especially of arrow or spear heads, show the
+mobility of Neolithic and later groups within the
+area. The ‘scarcity’ of Upper Paleolithic or Epi-Paleolithic in the Göllü Dağ area is difficult to interpret.
+It is possible that sediments of the appropriate age
+are either not preserved or not exposed. The absence
+of stratified and dated assemblages from the surrounding area, and the ubiquity of different varieties
+of blade production representing later periods makes
+it difficult to attribute surface finds to the Upper Paleolithic and Epi-paleolithic. As a consequence, it
+would be premature to interpret this scarcity of
+material as evidence that Upper Paleolithic populations
+were absent from or seldom visited the Göllü Dağ
+area.
+From the technological point of view, results
+from the 2009 survey also highlight pronounced
+differences in raw material procurement through
+time. There appear to be larger numbers and a
+greater variety of basalt artifacts on the western and
+northern parts of the Göllü Dağ complex than in
+areas surveyed in previous years. Lower Paleolithic
+hominids selected both obsidian and basalts for producing large tools, whereas Middle Paleolithic hominids exploited obsidians almost exclusively. Toolmakers of the latter period often selected small,
+lenticular nodules or tabular pieces of raw material,
+even where larger fragments were available. The
+range in quality and execution of Levallois technology
+within the study area, and the selection of “preformed” nodules shows that Middle Paleolithic
+artisans were able to exploit core volumes using a
+well-understood geometry and not simply following
+a fixed set of procedures.
+During the Neolithic, the interest in differential
+flaking properties of obsidians increased and led to
+the deliberate selection of very specific raw materials,
+such as the one found at Kaletepe-Kömürcü, to
+execute highly standardized naviform and unipolar
+production. From these ‘chaînes opératoires’ to the
+rather simple unipolar débitage identified at several
+localities in the 2009 surveyed area, the technical
+input varies tremendously. There is no deterministic
+link between the morphologies and mechanical properties of raw materials and their exploitation to
+fulfill technical needs, but there are some interesting
+correlations which must be further studied.
+In parallel with the archaeological survey, fully
+mapping the distribution of obsidian dykes, investigating the relationships between erosional processes
+and the distribution of cultural remains, and understanding the general geomorphologic complexity of
+the Göllü Dağ massif are all important priorities for
+future research. Further research will also focus on
+nearby Nenezidağ, another very important center
+for obsidian acquisition and diffusion.
+N.B.-A. et al.
+AKNOWLEDGEMENTS
+This work was realized with the permission of
+the Department of Cultural Assets and Museums,
+Ministry of Tourism and Culture. It was supported
+financially by the Research Find of Istanbul University
+(project n° 3539) with scientific help from l’ANR
+(Project ANR-08-BLAN-0318). We are grateful to
+these institutions.
+GÖLLÜ DAĞ SURVEY 2009 201
+REFERENCES
+Balkan-Atlı, N., Binder D. and Gratuze, B., 2008 :
+“Göllü Dağ (Central Anatolia) : ObsidianSources, Workshops and Trade”, in Y. Ünsal (ed), Anatolian Metal IV,
+Bochum : 203-210.
+– 2008 : “Göllü Dağ 2007 Survey”, Anatolia Antiqua
+XVI : 293-312.
+– 2009 : “Göllü Dağ 2008 Survey”, Anatolia Antiqua
+XVII : 301-315.
+Cauvin, M.-C., Gourgaud, A., Gratuze, B., Poidevin,
+J.L., Poupeau, G. and Chataignier, C. (éds), 1998 : L’obsidienne au Proche et Moyen Orient : du volcan à l’outil,
+Lyon, Maison de l’Orient Méditerranéen, Oxford, B.A.R
+Inter. Ser. 738.
+Chataignier, C., 1998 : “Sources des artefacts du
+Proche-Orient d’après la caractérisation géochimique des
+artefacts archéologiques”, in M.-C. Cauvin et al. 1998 :
+273-324.
+Coqueugniot, E., 1998 : “L’obsidienne en Méditerranée
+orientale aux époques post-néolithiques”, in Cauvin M.C. et al. 1998 : 351-362.
+Delerue, S., 2007 : L’obsidienne dans le processus
+de néolithisation du Proche-Orient (12000-6500 B.C.),
+Thèse de doctorat, Université de Bordeaux, France.
+Gratuze, B., Boucetta, S., Binder, D., Balkan-Atlı,
+N., Bellot-Gurlet, L. and Mouralis, D., 2005 : New Investigations of the Gollu-Dag Obsidian Lava Flows
+System : Comparison between Chemical, Mineralogical,
+and Fission Track Data, Highlights from the 2003 International Specialized Workshop : Recent Advances in Obsidian Dating and Characterization, Melos, Greece. Or-ganized by the Laboratory of Archaeometry, University
+of the Aegean and the International Association for
+Obsidian Studies. IAOS Bulletin 33 : 18.
+Güleç, E., White, T., Howell, F. C., Özer, I., Sağır,
+M., Yılmaz, H. and Kuhn, S., 2009 : “The Lower
+Pleistocene Lithic Assemblage from Dursunlu (Konya),
+central Anatolia, Turkey”, Antiquity 83 : 11-22.
+Hancock, R.G.V. and Carter, T., 2010 : “How reliable
+are our archaeometric data ? Effects of analytical techniques
+through time on the elemental analysis of obsidian”,
+Journal of Archaeological Science, Vol. 37/2 : 243-250.
+Kuhn, S., in press : “Was Anatolia a bridge or a
+barrier to early hominin dispersals ?”, Quaternary International.
+Poupeau, G., Le Bourdonnec, F.X., Dubernet, S.,
+Scorzelli, R. B., Duttine, M. et Carter T., 2007 : “Tendances
+actuelles dans la caractérisation des obsidiennes pour les
+études de provenance”, ArchéoSciences, Revue
+d’Archéométrie 31 : 79-86.
+Renfrew, C., Dixon, J. E., et Cann, J. R., 1966 : “Obsidian and early cultural contact in the Near East”, Proceedings of the Prehistoric Society, XXXII : 30-72.
+Slimak, L., Kuhn, S. L., Roche, H., Mouralis, D.,
+Buitenhuis, H., Balkan-Atlı, Binder, D., Kuzucuoğlu, C.
+and Guillou, H., 2008 : “Kaletepe Deresi 3 (Turkey) : Archaeological evidence for early human settlement in
+Central Anatolia”, Journal of Human Evolution 54 : 99111.
+202 NUR BALKAN-ATLI et alii

@@ -1,0 +1,617 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/260087117
+PPN Pressure Technology: views from Anatolia
+Chapter · January 2007
+CITATIONS
+15
+READS
+214
+1 author:
+Some of the authors of this publication are also working on these related projects:
+on the barremo-bedoulian cherts from south-eastern France, and Bergeracois evolution View project
+réseau de lithothèques View project
+Didier Binder
+Université Côte d'Azur, CNRS
+152 PUBLICATIONS 881 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Didier Binder on 08 May 2014.
+The user has requested enhancement of the downloaded file. All in-text references underlined in blue are added to the original document
+and are linked to publications on ResearchGate, letting you access and read them immediately.PPN Pressure Technology:
+Views from Anatolia
+Didier Binder*
+Abstract. During the last decades, many studies dedicated to pressure blade productions have shown its
+interest as a cultural marker, and for understanding cultural and social dynamics during the Late Pleistocene
+and Holocene. Recent work in Anatolia allowed us to precise the context and chronology of appearance of
+these techniques and to analyse their variability and trend of evolution.
+Currently, pressure blade technology appears quite suddenly during the Early PPNB, in the second half of the
+9th millennium cal. BC: on one hand in the context of Cayönü tepesi Channelled buildings (Upper Mesopotamia), on the other hand in the Kaletepe obsidian workshop (Cappadocia).
+Within Eastern Anatolia, evolution is fast: flint and obsidian micro-bladelets from semi-conical cores during
+the EPPNB; preference for obsidian bladelets from frontal débitage obtained from flat inclined platforms during
+the MPPNB; during the LPPNB débitage is more and more regular, wider and standardized, and pressure
+débitage with a lever is used.
+Within Central Anatolia, pressure débitage is used for obsidian that is diffused since the beginning of EPPNB
+towards the Levantine Corridor and Cyprus; the débitage is frontal, from flat and moderately inclined platforms,
+quite similar to Eastern Anatolia MPPNB modes. Pressure techniques, which disappeared from Central Anatolia
+in the beginning of the 8th millennium with the development of the As ̧ıklı-Musular-Çatal höyük complex, come
+back strongly in the middle of the 7 th millennium cal. BC, probably due to a reactivation of Eastern networks.
+Keywords. High Mesopotamian valleys, Central Anatolia, PPNB, Pressure methods and techniques, Blade
+technology.
+Résumé. Le débitage par pression en Eurasie a fait depuis de nombreuses années l’objet d’études mettant
+en évidence sa valeur de marqueur culturel et son intérêt pour la compréhension des dynamiques culturelles et sociales à la fin du Pléistocène et au cours de l’Holocène. Les travaux récents ont permis de préciser
+le contexte et la chronologie d’apparition de ces techniques en Anatolie et d’analyser leurs variabilités et
+tendances évolutives.
+Il en ressort actuellement que la pression apparaît assez brutalement au PPNB ancien, au milieu ou dans la
+seconde moitié du 9e millénaire cal. BC, d’une part dans le contexte des « Channelled buildings » de Cayönü
+tepesi et d’autre part dans celui des exploitations artisanales d’obsidienne cappadocienne (Kaletepe atelier P).
+En Anatolie orientale, l’évolution est rapide : débitage de micro-lamelles sur silex et obsidienne selon un
+mode semi-conique au PPNB ancien ; débitage privilégié de lamelles d’obsidienne selon une modalité plus frontale à partir de plans de pression lisses extrêmement inclinés au PPNB moyen ; au PPNB récent les débitages sont
+de plus en plus réguliers, de plus en plus larges et standardisés faisant parfois appel à la pression au levier.
+En Anatolie centrale les débitages par pression sont dédiés à l’obsidienne qui est diffusée dès le début du
+PPNB ancien dans le corridor levantin et à Chypre ; les modes de débitage, frontaux, à plan lisse modérément
+incliné s’apparentent à ceux du PPNB moyen d’Anatolie orientale. Les méthodes de taille par pression, abandonnées en Anatolie centrale à partir des débuts du 8e millénaire avec la mise en place du complexe culturel
+d’As ̧ıklı-Musular-Çatal höyük, réapparaissent avec force au milieu du 7 e millénaire, en lien probable avec la
+réactivation de réseaux orientaux.
+Mots-clés. Hautes vallées mésopotamiennes, Anatolie centrale, Néolithique précéramique B, méthodes et
+techniques de débitage par pression, technologie laminaire.
+* Centre d’études Préhistoire, Antiquité, Moyen Âge (CEPAM), Université de Nice-Sophia Antipolis, CNRS, 250 rue Albert-Einstein,
+06560 Valbonne, France <binder.cepam.cnrs.fr>; http://www.cepam.cnrs.fr.
+Systèmes techniques et communautés du Néolithique précéramique au Proche-Orient
+Technical Systems and Near Eastern PPN Communities
+sous la direction de Laurence Astruc, Didier Binder et François Briois
+Éditions APDCA, Antibes, 2007, p. 235-243
+235Didier Binder
+236
+The interest of pressure blade technology for understanding Eurasian and North African Pleistocene and
+Holocene traditions within chipped stone industries
+has been underlined by different authors during the
+last decades (e.g. Inizan, 1988; Inizan and Lechevallier,
+1994; Inizan, Lechevallier et al., 1990; Pelegrin, 1988,
+2003; Tixier, 1976; and various contributions in Tixier,
+Inizan et al., 1984).
+Pressure blade production techniques and methods
+show great differences throughout time and space,
+which is of a particular interest for discussing cultural
+identity and transfers as well as social organization and
+complexity.
+PPN productions of blades and bladelets, using pressure techniques, have been documented in Central
+Anatolia (Kaletepe, Kayırlı...) as well as in Eastern
+Anatolia (Çayönü tepesi, Cafer höyük...). This paper
+deals with the variability of these productions and tries
+to define trends within pressure technology evolution.
+originS
+Pressure bladelet production is are supposed to be
+common in Eastern Mesopotamia, at least during the
+last third of the 10th millennium cal. BC (M’lefaat) and
+during the first half of the 9 th millennium (Nemrik 9).
+The origins of these methods are probably to be found
+in the Central Asian Upper Paleolithic (e.g. Aq Kupruk,
+Afghanistan) or in the Caucasus (Sosruko, Azerbaïdjan)
+and to be considered overall as a heritage of the Eastern
+Asian traditions, Yubetsu and Gobi (Brunet, 2002;
+Inizan, Lechevallier, 1994; Inizan, Lechevallier et al.,
+1990; Inizan, Tixier, 2001).
+In Eastern Mesopotamia, the data suggest the predominance of conical débitage processes, leading to bullet core shapes, using flint as well as obsidian. As the
+heat treatment is attested in M’lefaat and Nemrik as well
+(Inizan, Tixier, 2001), one can suggest that the bimodality of the blade width distribution observed in PPN
+Nemrik (Kozłowski, 2002) could correspond to a separation between heat-treated and non-heat treated productions or even to different sub-phases within a single
+“chaîne opératoire”. Such a dichotomy – with quite the
+same ranges – had already been identified in very different contexts (Binder, 1984).
+The situation seems to be similar in the Northern
+Levant (Abbès, Belot-Gurlet et al., 2001). The question
+of pressure cores at Mureybet III and Early Abu Hureira
+is discussed.
+In Mureybet III, one broken obsidian core could
+have been knapped in that way (Cauvin, 1991, fig. 5, 3,
+p. 168), but recently M.C. Cauvin doubted the presence
+of pressure techniques in this context. This piece was
+introduced in the settlement as a pre-core, probably
+from Cappadocia according to our current knowledge
+of obsidian diffusion within the PPNA or PPNA-PPNB
+transition; but some Eastern Anatolian obsidian is also
+known during this phase and the core provenience has
+to be checked.
+In Abu Hureira, conical obsidian pressure cores, as
+well as blades, are present (Moore et al. 1975) but recent
+papers (e.g. Moore, 2000) let suspect that obsidian bladelets coming from the earliest phases could be intrusive, due to many perturbations.
+eaStern anatolia evidenCeS
+for PreSSure
+Regarding the development of technological studies
+within Neolithic Central Anatolia (Binder, Balkan-Atlı,
+2001), new work has been recently carried out on the
+Çayönü series (Binder, submitted). Actually this settlement is of a major interest for understanding neolithization processes in the High Mesopotamian Valleys
+(Balkan-Atlı, 1994; Braidwood, Braidwood, 1982;
+Caneva, Conti et al., 1994; Caneva, Lemorini et al., 1996,
+1998; Özdogˇan, 1999; Özdogˇan, Balkan-Atlı, 1994).
+EPPNB
+During the early stages of Cayönü, probably equivalent to the PPNA and the beginning of EPPNB, we
+don’t know of any local pressure production in Anatolia,
+either in the contexts of Round houses nor in the Grill
+building sub-phases; these results are in contradiction
+with previous papers (i.e. Özdogˇan, Balkan-Atlı, 1994).
+Actually, as far as we know, pressure methods appear in
+Eastern Anatolia within the Channelled building subphase of Cayonu tepesi (fig. 1).
+This sub-phase could be dated late, probably from
+the second part of the 9th millenium cal. BC (8500-8250
+cal. BC, EPPNB) considering (i) the radiocarbon measurements available for the basal pits related to the Early
+Grill sub-phase (8700-8500 cal. BC, EPPNB) and (ii) the
+hypothesis that it could be more or less contemporary
+with the Early Nevalı Çori.
+No artifact could be attributed to pressure processes in the previous stages corresponding to the Round
+houses and Grill buildings, even within the Late Grill
+building sub-phase.
+0 5 cm
+Fig. 1. Core shaped from a flake of pink white dotted bioclastic
+flint; Channelled building sub-phase (EPPNB).PPN Pressure Technology: Views from Anatolia
+237
+During the Channelled building sub-phase, pressure
+predominates among the knapping techniques: considering the series from courtyard 20M-7 & 8, 111 items
+(64%) are detached by pressure. Three main raw material categories are used for this purpose: obsidian (51%),
+buff detritic local flint (23%) and pink flint imported as
+flakes to be shaped into “bullet-cores” (less than 5%).
+Obsidian width distribution seems to be bimodal with
+a first set between 8.5 mm and 13 mm (bladelets) and
+a second between 4 mm and 8.5 mm (micro-bladelets);
+the thickness of the latter group is always less than
+2 mm. Most of the wider pieces are central ones (including ca. half of 212’ pieces, fig. 2) without any shaping
+out scars, and made from high quality obsidian probably
+imported as selected products. Few of the narrow ones
+are from low quality obsidian, collected as small river
+pebbles. Visible platforms (n=16) are flat (n=9), facetted, dihedral or concave (n=7); 1/3 of the cornices are
+blunted.
+Buff flint was used mainly for bladelets with a width
+range of 8-12 mm. These bladelets where locally produced on conical cores with normal facetted platforms,
+without any evidence of heat treatment. It needs to
+be determined whether the pre-cores had really been
+shaped out of thick flakes.
+Pink flint was only used for micro-bladelets with a
+width range of 4-8.5 mm and a very reduced thickness
+(less than 2 mm). Despite this suggestive pink color,
+there’s no evidence of heat treatment; but we have to
+take in account that the natural outcrops of this pink
+flint are not yet defined (maybe the heating produces
+a change in color and not in glossy, this requires experimentation). Micro-bladelets were obviously produced
+from semi-conical or conical cores shaped out from
+flakes; some of the exhausted cores are quite close to
+typical bullet-cores, but residue of the inferior face of
+the original flake can often be observed, indicating that
+the débitage is not totally peripheral. I have already suggested that copper, commonly in use at Cayönü at that
+time (Özdogˇan, 1999), could be used for these detachments, considering the bulbs, the precise definition of
+the contact area and the overhanging cornice of the bladelets, which is only rarely reduced (Pelegrin, 1994).
+According to J. Pelegrin’s and P. Wilke’s papers and
+experiments (Pelegrin, 1988; Wilke, 1996), the microbladelet production could be easily done within the
+hand; the wider series, and especially those on buff
+flint could have been knapped with a small shoulder or
+abdominal crutch. Such a bimodality seems to be quite
+close to that seen for Zagros – Nemrik, with a question mark concerning the use of heat treatment. The
+idea of a close relationship between Iraqi and Cayönü
+Channelled building sub-phase traditions is consistent
+but needs further examples.
+MPPNB
+Despite the fact that the sample from the Cobble
+paved building sub-phase (Building CM, beginning of
+the 8 th millennium cal. BC?) is quite small, pressure
+technique is clearly attested there by 52 items (20% of
+the blade production).
+The major part of the bladelet set is from obsidian
+(56%). Visible butts are often flat, rarely punctiform and
+abraded or dihedral. On the contrary of the Channelled
+building sub-phase, there is a lack of obsidian micro-
+bladelets. Bladelets constitute two sub-groups: medium
+size, with a width range between 8.5 mm and 13 mm;
+large size between 13 mm and 16 mm. Two pieces of obsidian coming from another sample previously published
+(Caneva, Lemorini et al., 1996) show a bladelet production including rather wide pieces and the corresponding opening platforms.
+Local buff flints are few (23%), including some
+narrow bladelets, the majority of medium size between
+10 m and 13 mm and a single large one (around 18 mm).
+Few platforms are known.
+Micro-bladelets from pink imported flint are present
+(ca. 9%) as well as wider ones. Kombewa surfaces attest
+that the cores were shaped from flakes. Platforms are
+flat or prepared, sometimes abraded. Central blades are
+lacking, unlike lateral ones, which are dominant.
+Cobble paved building sub-phase pressure techniques
+are very similar to the Channelled building sub-phase’s
+and one wonders if the lack of micro-bladelets could be
+due to the intensity and precision of sewing activity.
+Cell building sub-phase samples from Building CF
+and Courtyard 20M-2 (second part of the 8th millennium cal. BC?) provided a large set of 231 blade(-let)s.
+The latter include 34 bidirectional items and 110 prismatic pressure blade(let)s; the rest includes undetermined
+or unidirectional percussion items. With 48% pressure,
+evidence increases compared to the previous stages.
+The proportion of obsidian increases simultaneously
+(75% of the pressure production). The in situ production of obsidian bladelets is demonstrated by the
+presence of pre-cores shaped from large flakes (fig. 3),
+some shaping flakes and opening platforms or crests,
+1 2 3 3 2 1 2 1 2'
+Fig. 2. Patterns of pressure central blades.Didier Binder
+238
+from the Building DS deposit previously discussed during the Nig ̆de PPN4 conference
+(Binder, submitted), as well as exhausted cores.
+3 of the 4 pressure cores have a very oblique
+flat platform inclined towards the core back.
+The fourth shows two alternate series, correlated to the presence of 2 unidirectional bladelets
+and one bidirectional narrow bladelet, corresponding to repairs from an opposite secondary
+platform (fig. 4).
+Obsidian platforms are rarely prepared or
+concave and are, most of the time, punctiform
+and abraded or flat. Some of the flat platforms
+are extremely inclined towards the dorsal face.
+Narrow bladelets (less than 8.5 mm width)
+are present (n=11), but decrease compared to
+the middle size (8.5 mm-13 mm) (n=48.75%).
+Large ones (more than 13 mm width) are still
+very few (n=4).
+Flint pressure bladelets are few (n=22) and
+cover the same width range as obsidian (3 microbladelets, 16 medium range, 3 wide ones).
+Flint varieties seem to enlarge still, including
+buff and pink, but also brown translucent flint
+(n=7). The novelty is the probable presence of
+heat treatment of pinkish flint. This observation
+has been made for 4 prismatic medium bladelets, 2 undetermined bladelets and 4 thin flakes.
+Without experiments it is difficult to evaluate
+the intensity of this treatment, which is not easy
+to observe with the naked eye. Buff flint also
+provides 2 cores: one was clearly exploited by
+pressure with a very oblique platform and axial
+posterior crest; the other with a very oblique
+platform and a cortical side, could have been
+started by pressure and then transformed by
+percussion. Pinkish flint also provides a core
+with an oblique platform and a bifacial shaping out with anterior and posterior crests, very
+similar to obsidian cores.
+Obsidian work during these phases could
+be quite similar to Cafer höyük where obsidian pressure technique was studied by S.
+Calley (1985). It appears within the early phase
+(8250-7850 cal. BC) and seems to continue
+during the whole MPPNB. The “chaîne opératoire” is well described: a bifacial shaping
+preserving a flat, and often oblique, pressure
+platform. Sometimes the cores are shaped out
+from flakes. The range of the pressure bladelet
+0 5 cm Fig. 3. Pre-core shaped from a thick and large obsidian
+flake; Cell building sub-phase (MPPNB).PPN Pressure Technology: Views from Anatolia
+239
+width is comprised between 8 mm and 14 mm. Calley,
+referring to Redman’s study (1982), underlined the
+links between Cafer and Cayönü pressure techniques.
+LPPNB
+A Large Room building sub-phase sample from
+Building BF, at the transition between the 8th and the
+7 th millenium (LPPNB) includes 190 items. It provided
+65 pressure blade(-let)s and only 19 percussion blades
+including 5 bidirectional items.
+Flint pressure bladelets are rare; their width are situated within a 7 mm-12.5 mm range. A single piece provides evidence of a heat treatment.
+Obsidian proportion increases again. Visible platforms are punctiform on an abraded surface, flat oblique or concave. The 49 bladelets width range is between
+7 mm and 16 mm with only 8 items larger than 13 mm
+and only 3 between 7 mm and 8.5 mm. Width standardization increases clearly as well as the regularity of
+the débitage rhythms, as indicated by the ratio of 212’
+sequences (3/4 of the observable patterns). There were
+no cores in the sample studied but the inclinations
+observed on some platforms are consistent with the core
+shapes from the Cell building sub-phase.
+Most of the pressure techniques in use during the
+Channelled building sub-phase till the Large Room building sub-phase could be easily done with light devices.
+The trends given by measurements show a gradual
+increase in width and a decrease in thickness, visible
+within the Large Room buildings, and may be compared
+to Sabi Abyad II items discussed by Astruc and Pelegrin
+(this volume).
+Among the obsidian pressure sample, one item
+appears totally different from the others. It is a “Cayönü
+tool” from a wide blade (proximal width close to
+20 mm), quite long despite it’s having been broken in
+the distal part (over 12 cm) (Caneva, Conti et al., 1994,
+p. 257, fig. 4, 12). This one suggests a different immobilization and pressure system, at least a crutch to be used
+standing up. During the late PPN phases in Cayönü, the
+existence of much more complex pressure devices is
+reinforced by the presence, of a very wide (32 mm) and
+long (over than 16 cm) fragment of a prismatic pressure
+blade from the Cell building sub-phase (sample S3-1/4)
+(fig. 5). The latter could indicate, following Pelegrin’s
+experiments and papers (Pelegrin, 1996, 2003), that
+a lever system was in use. These very preliminary data
+let us wonder about the knapping techniques that were
+used for some of the widest blades from Cell building
+DS, which are unfortunately still not characterized
+because of the melting and for some unidirectional blades transformed into Cayönü tools as well.
+Central anatolia
+On the slopes of the Göllü dagˇ volcano, two different
+obsidian workshops, Kayırlı-Bitlikeler and KömürcüKaletepe, have given evidence of pressure production.
+The latter provides many data related to the production
+of prismatic bladelets associated with a highly specialized naviform industry (Binder, Balkan-Atlı, 2001).
+At Kaletepe, locus P, layer 3.2, the pressure bladelet
+production was obtained from bifacial pre-cores with an
+oblique flat platform (fig. 6). The series of 5 items (two
+lateral blades rejected as wastes, 3 central blades kept for
+diffusion if not broken and longer than 70 mm) were
+very recurrent and standardized with a careful abrasion
+of point in contact with the crutch. Cores were rejected
+when the blades no longer attained 70 mm in lenght,
+and in these conditions no micro-bladelets were intentionally produced.
+The range of the most regular central blades width
+(design 212’), perfectly unimodal, was mainly (69%)
+0 5 cm
+Fig. 4. Exhausted obsidian cores; Cell building sub-phase (MPPNB).Didier Binder
+240
+between 1.04 and 1.48 cm; with 16% under 1.04 and 15%
+over 1.48 cm. This range fits perfectly, as J. Pelegrin’s
+experiments demonstrated, to a sitting position.
+During PPNB times, and especially EPPNB, obsidian
+from the Göllü dagˇ workshops had been diffused as prismatic bladelets within Cyprus and the Levant.
+On one hand the radiocarbon dates obtained
+directly from the Kaletepe workshop situate this production between 8300 and 8200 cal. BC, at the transition
+E-MPPNB.
+On the other hand indirect evidences leads us to suggest that these workshops were active earlier, during the
+EPPNB and maybe during the PPNA-PPNB transition.
+Imported materials from Göllü dagˇ workshops have
+been characterized for example in Shillourokambos,
+phase ancienne A, with one early date between 8650 and
+8450 cal. BC (Briois, Gratuze et al., 1997); in Dja’de III,
+EPPNB with several dates between 8450 and 8250 cal. BC
+(Coqueugniot, 2000); in Mureybet IV probably between
+8550 and 8250 cal. BC (Cauvin, 1998).
+general trendS for anatolian PreSSure
+débitageS
+Considering the radiocarbon data available today,
+the first evidence of pressure could be more or less
+contemporaneous in Eastern and Central Anatolia, in
+the second half of the 9 th millennium cal. BC (Cayonü
+– Channelled building sub-phase; Göllü dagˇ workshops’
+exports towards the Levant).
+During this early stage, these regions show marked
+differences in pressure blade technology: on one hand,
+“Çayönü – Channelled building methods” linked to Eastern
+Mesopotamian, Caucasian and/or Central Asian bulletcore tradition; on the other hand, “Göllü dagˇ methods”, a
+frontal débitage using an oblique flat pressure platform.
+Except for the lack of heat-treatment, the “Çayönü –
+Channelled building methods” seem to be very close to the
+Eastern Mesopotamian or Caucasian bullet-core tradition
+from the 10th and early 9th millennia cal. BC. They are
+used for flint and obsidian as well. They produce conical
+0
+5 cm
+Fig. 5. Medial fragment of a long obsidian pressure blade;
+lever technique; Large Room building sub-phase (LPPNB).
+0 5 cm
+Fig. 6. Obsidian core and its refitted platform
+removal; Kaletepe, workshop P (EPPNB).PPN Pressure Technology: Views from Anatolia
+241
+or semi-conical cores with normal prepared platforms.
+Sharp triangular central bladelets with a broad variety of
+patterns are produced within overlapping short series.
+Bladelet width shows a bimodal distribution, including
+micro-bladelets knapped in the hand, and medium ones
+that need a sitting position.
+It probably appeared in Eastern Anatolia during the
+Channelled building sub-phase in Cayönü between 8550
+and 8250 cal. BC after the end of the Grill building subphase. It seems to disappear in Eastern Anatolia within the
+end of the Cobble paved building sub-phase (if this subphase really exists!) in the Early 8th millennium cal. BC.
+The “Göllü dagˇ methods” show very superficial similarities with Yubetsu, considering the bifacial pre-cores, but
+they are in fact completely different considering the size
+of the products. They use mainly obsidian, but the same
+shapes can be made from flint (Çayönü). It produces
+back crested cores with a flat oblique pressure platform.
+The frontal débitage, swiping the débitage front from
+one edge to the other and again, with recurrent series of
+5 items, produced much more regular prismatic blades
+with a preferential 212’ pattern.
+The débitage surface, more or less triangular during
+the early stages (Kaletepe, Cafer inf), seems to be much
+more quadrangular later (Cayönü Cell building subphase). This trend supposes the increasing production
+of parallel sided bladelets and the rarefication of triangular shapes. Bladelet production uses to be unimodal with
+variable means between 9.5 mm and 12.2 mm width,
+needing a sitting position.
+It appeared in Central Anatolia maybe before 8450 cal.
+BC, as indicated by exported Göllü dagˇ items, and certainly
+around 8250 cal. BC, considering Kaletepe P dates.
+It could appear later in Eastern Anatolia: after 8250
+cal. BC in the Early Cafer Höyük settlement, even later
+in Cayönu during the Cell building sub-phase. Some
+compatible elements attributed to the Cobble paved
+building sub-phase, more or less contemporary with
+Early Cafer, have to be checked.
+It seems very interesting to notice that the trends observed in Eastern Anatolia during the PPN are very similar
+to those observed in the Middle and late Neolithic of
+south-eastern France, more than 4 millennia later: pressure bladelet débitage on heated pre-cores appearing
+around 4100 cal. BC, the same trend between 4100 and
+3500 cal. BC leading from conical to quadrangular “flat”
+débitage surfaces with extremely (critically) inclined
+platforms; and finally lever pressure appearing around
+3500 or 3200 cal. BC for very big prismatic blades.
+As these traditions are, of course, not directly related
+to one another, that could mean that pressure techniques and methods, once mastered, should have independently followed specific trends in order to increase, on
+one hand, the regularity and flatness of the blanks and,
+on the other hand, their size.
+In other terms, we should say that craftsmen, in
+Cayonu or elsewhere, were able to take the best part of
+these methods and techniques and go as far as possible
+in specific mechanisms of pressure.
+As far as we know, the pressure styles changed quite
+slowly within Eastern and Central Asia between the first
+Upper Palaeolithic evidence from around 24 kY, and
+Nemrik 9.
+Eastern Anatolia looks like the place where pressure
+evolution skills were processed, “from the smallest to the
+biggest”, during a single millennium.
+Around 8200 cal. BC new methods probably related
+to those in Göllü dagˇ’s, appeared in Eastern Anatolia
+(Cafer höyük) and developped within the “Late PPNB”
+(Cayönü – Cell building and Large Room building
+sub-phases).
+During the Middle and Late PPNB period, the
+collapse of the specialized workshops in Cappadocia,
+and decreasing of their diffusion towards the Levant,
+is probably due to the fact that obsidian sources were
+then under the control of the As ̧ıklı-Musular Culture,
+which seems to be little concerned by any specialized
+lithic production or long distance diffusion, and which
+did not use pressure techniques at all for the blade production (Binder, 2002; 2005).
+During the same period of time, in Eastern Anatolia,
+the use of pressure techniques increases as do the skills
+involved in blade production. This region could not
+only appear as a centre of exchange networks but also as
+a pole of innovation for pressure technology.
+The comeback of pressure débitage and related skills
+in Central Anatolia, with conical cores and a great abundance of prismatic blades, seems to fit with a renewal
+of technical systems within the Pottery Neolithic (Çatal
+höyük VIA, around 6500-6250 cal. BC) as suggested by
+Conolly (1999).
+Eastwards, in Cayonu and related settlements, it
+seems that renewal of pressure processes did not stop in
+the Middle and Late PPNB, nor in the PNA as well.
+We suggest that the pressure comeback in Central
+Anatolia could be the consequence of a reactivation of
+networks towards the West and presages the diffusion of
+pressure techniques throughout western Anatolia and
+Europe.
+Acknowledgments
+This study was carried within the “Mission de Préhis-
+toire anatolienne” (ministère des Affaires étrangères
+et européennes, direction générale de la Coopération
+internationale et du Développement), thanks to the
+collaboration of the Department of Prehistory of the
+University of Istanbul. Drawings and photographs are
+by D. Binder, B. Bireaud and M. Grenet (Mission de préhistoire anatolienne). Many thanks to Kaletepe team,
+Ç. Altınbilek and P. C. Anderson for their help.Didier Binder
+242
+ABBès f., Bellot-Gurlet l., Bressy c., cAuvin M.-c. GrAtuze
+B., poupeAu G., 2001.– Nouvelles recherches sur l’obsidienne de Cheikh Hassan (Vallée de l’Euphrate, Syrie) au
+Néolithique : PPNA et PPNB ancien, Syria, 78, p. 5-17.
+BAlkAn-Atli n., 1994.– La néolithisation de l’Anatolie, vol. 7.
+Varia Anatolica, Istanbul, De Boccard.
+Binder D., 1984.– Systèmes de débitage laminaire par pression :
+exemples chasséens provençaux, in : Tixier J., Inizan M.-L.,
+Roche H. (éd.), Préhistoire de la pierre taillée, 2 : Économie
+du débitage laminaire : Technologie et expérimentation,
+Paris, CREP, p. 71-84.
+Binder D., 2002.– Stones making sense: what obsidian could
+tell about the origins of the Central Anatolian Neolithic,
+in: Gérard F., Thissen L. (eds), The Neolithic of Central
+Anatolia. Internal developments and external relations
+during the 9th-6th millenia cal. BC, Proceedings of the
+International Canew Table Ronde, Istanbul, 23-24
+novembre 2001, Yayinlari, Istanbul, p. 79-90.
+Binder D., 2005.– Autour de l’obsidienne : un aspect des processus
+d’interaction entre agro-pasteurs et chasseurs-cueilleurs
+en Anatolie centrale, in : Guilaine J. (éd.), Populations,
+économies et environnements, du Néolithique et de
+l’Âge du Bronze, Séminaires du Collège de France, Paris,
+Errance, p. 117-134.
+Binder D., submitted.– Technologie lithique et comportement
+social dans le PPN de Çayönü tepesi : un aperçu à travers
+l’analyse des matières premières, Paléorient.
+Binder d., BAlkAn-Atli N., 2001.– Obsidian exploitation and
+blade technology at Kömürcü-Kaletepe (Cappadocia,
+Turkey), in: Caneva I., Lemorini C., Zampetti D., Biagi P.
+(eds), Beyond Tools. Redefining the PPN Lithic Assemblages
+of the Levant, SENEPSE, 9, Berlin, ex oriente, p. 1-16.
+BrAidWood l. s., B rAidWood R. J. (eds), 1982.– Prehistoric
+village Archaeology in South-Eastern Turkey, Oxford,
+British Archaeological Reports.
+Briois f., GrAtuze B., GuilAine J., 1997.– Obsidiennes du site
+néolithique précéramique de Shillourokambos (Chypre),
+Paléorient, 23, 1, p. 95-112.
+Brunet F., 2002.– Asie centrale : vers une redéfinition des
+complexes culturels de la fin du Pléistocène et des débuts
+de l’Holocène, Paléorient, 28, p. 9-24.
+cAlley S., 1985.– Le nucléus en obsidienne du Néolithique
+de Cafer Höyük (Turquie). Étude préliminaire sur les
+techniques de taille, Cahier de l’Euphrate, 4, p. 87-107.
+cAnevA I., conti A.-M., leMorini C., zAMpetti D., 1994.– The
+Lithic Production at Çayönü: a Preliminary Overview of
+the Aceramic Sequence, in: Gebel H. G. K., Kozłowski S.
+K. (eds), Neolithic Chipped Lithic Industries of the Fertile
+Crescent, Proceedings of the First Workshop on PPN
+Chipped Lithic Industries, SENEPSE, 1, Berlin, ex oriente,
+p. 253-266.
+cAnevA I., leMorini C., zAMpetti D., 1996.– Lithic technology
+and functionality through time and space at Çayönü, in:
+Kozłowski S. K., Gebel H. G. K. (eds), Neolithic Chipped
+Stone Industries of the Fertile Crescent, and Their
+Contemporaries in Adjacent Regions, SENEPSE, 3, Berlin,
+ex oriente, p. 385-402.
+cAnevA I., leMorini C. zAMpetti D., 1998.– Chipped Stones
+at Aceramic Çayönü: Technology, Activities, Traditions,
+Innovations, in: Arsebük G., Mellink M. J., Schirmer W.
+(eds), Light on top of the black hill, studies presented to
+Halet Çambel, Istanbul, Ege Yarinlar, p. 199-206.
+cAuvin M.-C., 1991.– L’obsidienne au Levant préhistorique :
+provenance et fonction, Cahiers de l’Eurphrate, 5-6,
+p. 163-190.
+cAuvin M.-C., 1998.– L’obsidienne : données récentes
+provenant de sites d’habitats néolithiques, in: Cauvin
+M.-C., Gourgaud A., Gratuze B., Arnaud N., Poupeau
+G., Poidevin J.-L., Chataigner C. (éd.), L’obsidienne
+au Proche- et Moyen-Orient: du volcan à l’outil,
+Oxford, Archaeopress, BAR International Series, 738,
+p. 259-272.
+conolly J., 1999.– The Çatalhöyük flint and obsidian industry, Technology and Typology in context, Oxford,
+Archaeopress, BAR International Series, 787.
+coqueuGniot É., 2000.– Dja’de (Syrie), un village à la veille de
+la domestication (seconde moitié du 9e millénaire av.
+J.-C.), in: Guilaine J. (éd.), Premiers paysans du monde.
+Naissance des agricultures, Paris, Errance, (Séminaire du
+Collège de France), p. 63-79.
+inizAn M.-L., 1988.– Technologie lithique : le débitage par
+pression en Orient. Perspectives de recherche, in: L’Asie
+centrale et ses rapports avec les civilisations orientales
+des origines à l’Âge du Fer, Paris, CNRS, p. 53-58.
+inizAn M.-L., lechevAllier M., pluMet P., 1990.– Le débitage
+laminaire par pression, marqueur technologique du
+peuplement de l’Amérique du Nord. Son origine au
+Paléolithique de l’Asie septentrionale et sa diffusion,
+Colloque international, Novosibirsk.
+inizAn M.-L., tixier J., 2001.– L’émergence des arts du feu : le
+traitement thermique des roches siliceuses, Paléorient,
+26, 2, p. 23-36.
+kozłoWski S. K., 2002.– Nemrik, an aceramic village in
+Northern Iraq. Warsaw, Institute of Archaeology, Warsaw
+University.
+Moore A. M. t., 2000.– The settlement of Abu Hureira 1: stone
+and other artifacts, in: Moore A. M. T., Hillman G., Legge
+A. J., Village on the Euphrates. From foraging to farming
+in Abu Hureyra, Oxford, University Press, p. 165-188.
+Moore A. M. t., hillMAn G. et al., 1975.– The excavation of Tell
+Abu Hureyra in Syria: a preliminary report, Proceedings of
+the prehistoric society, 41, p. 50-77.
+BibliographyPPN Pressure Technology: Views from Anatolia
+243
+ÖzdoGˇ An A., 1999.– Çayönü, in: Özdogˇ an M., Basgelen N.
+(eds), Neolithic archaeology in Turkey. The cradle of
+civilization. New discoveries, Istanbul, Arkeoloji ve Sanat
+Yayinlari, 1, p. 35-64.
+ÖzdoGˇ An M., BAlkAn-Atli N., 1994.– South-East Anatolian
+chipped stone sequence (Approach for a synthesis), in:
+Gebel H. G. K., Kozłowski S. K. (eds), Neolithic Chipped
+Lithic Industries of the Fertile Crescent, Proceedings of
+the First Workshop on PPN Chipped Lithic Industries,
+SENEPSE, 1, Berlin, ex oriente, p. 205-206.
+peleGrin j., 1988.– Débitage expérimental par pression : du
+plus petit au plus grand, in : J. Tixier, Technologie pré-
+historique, Paris, CNRS, p. 37-53.
+peleGrin j., 1994.– Lithic technology in Harappan times, in:
+Parpolla A., Koskikallio P., South asian archaeology,
+1993, Helsinki, 2, p. 585-598.
+peleGrin j., 1996.– Débitage au Chalcolithique de grandes lames
+de silex par pression au levier, in: La science au présent,
+Paris, Encyclopaedia Universalis, 17 p.
+peleGrin j., 2003.– Blade-Making Techniques from the Old World.
+Insights and Applications to Mesoamerican Obsidian
+Lithic Technology, in: Hirth K. G. (ed.), Mesoamerican
+lithic technology. Expérimentation and Interpretation,
+Utah University Press, p. 55-71.
+redMAn C. L., 1982.– The Cayönü chipped stone industry : the
+1968 and 1970 excavations seasons, in: Braidwod L. S.,
+Braidwood R. J. (eds), Prehistoric village Archaeology
+in South-Eastern Turkey, Oxford, British Archaeological
+Reports, 138, p. 17-71.
+tixier j., 1976.– L’industrie lithique capsienne de l’Aïn Dokkara,
+région de Tebessa, Algérie, Libyca, 24, p. 21-54.
+tixier j., inizAn M.-l., roche h. (éd.), 1984.– Préhistoire de
+la pierre taillée, 2 : Économie du débitage laminaire :
+Technologie et expérimentation, Paris, CREP.
+W ilke P., 1996.– Bullet-shaped microblade cores of the Near
+Eastern Neolithic: experimental replicative studies, in:
+Kozłowski S. K., Gebel H. G. K. (eds), Neolithic Chipped
+Stone Industries of the Fertile Crescent, and Their
+Contemporaries in Adjacent Regions, SENEPSE, 3, Berlin,
+ex oriente, p. 289-310.
+View publication statsView publication stats

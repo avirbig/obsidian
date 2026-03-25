@@ -1,0 +1,574 @@
+PROVENANCE OF OBSIDIAN EXCAVATED FROM LATE
+CHALCOLITHIC LEVELS AT THE SITES OF TELL
+HAMOUKAR AND TELL BRAK, SYRIA*
+L. KHALIDI†
+Centre d’Etudes Préhistoire, Antiquité, Moyen-Age (CEPAM), UMR 6130, CNRS,
+Université de Nice, Sophia-Antipolis (UNSA), 250 rue Albert Einstein,
+Sophia-Antipolis, F-06560 Valbonne, France
+B. GRATUZE
+Institut de Recherche sur les ArchéoMATériaux (IRAMAT), UMR 5060, CNRS,
+Université d’Orléans, Centre Ernest-Babelon, 3D rue de la Férollerie,
+F-45071 Orléans, Cedex, France
+and S. BOUCETTA
+IRAMAT, UMR 5060, CNRS, Université d’Orléans, Centre Ernest Babelon, 3D, rue de la Ferollerie,
+F-45071 Orléans, Cedex, France
+X-ray fluorescence and laser ablation inductively coupled plasma mass spectrometry (LA–
+ICP–MS) analyses conducted on 40 obsidian samples from the Late Chalcolithic 2 levels at
+Tell Hamoukar and Tell Brak in north-east Syria have shown trends towards the exploitation
+of obsidian sources in the eastern Taurus. While the Bingöl region appears to provide the
+majority of obsidian to both sites, there is also evidence of more minor exploitation of a
+source in the Lake Van area and an altogether unknown source (X). This paper presents the
+data acquired from the analyses of the archaeological obsidian and situates these results
+within their chronological and regional contexts.
+KEYWORDS: SYRIA, NORTHERN MESOPOTAMIA, LATE CHALCOLITHIC, TELL BRAK,
+TELL HAMOUKAR, OBSIDIAN, GEOCHEMICAL ANALYSES, X-RAY FLUORESCENCE,
+LA–ICP–MS
+INTRODUCTION
+Geochemical obsidian provenance studies have become a standard procedure at many archaeological sites. Such analyses have enabled archaeologists to expand on concepts of trade and
+interaction in the ancient world by matching obsidian found on archaeological sites with the
+source deposits from which they came. Since the seminal work of Renfrew, Dixon and Cann
+(Cann and Renfrew 1964; Renfrew et al. 1966, 1968; Renfrew and Dixon 1976) on obsidian
+exchange in the ancient world, much progress has been made in the field of archaeometry and
+its application to obsidian source characterization in the Mediterranean and Western Asia
+(Francaviglia 1984; Cauvin et al. 1998; Costa 2007).
+*Received 25 August 2008; accepted 8 December 2008
+†Corresponding author: email lamya.khalidi@gmail.com
+Archaeometry 51, 6 (2009) 879–893 doi: 10.1111/j.1475-4754.2009.00459.x
+© University of Oxford, 2009For instance, a great deal of work has been undertaken in the obsidian source areas with
+which this paper is concerned: Anatolia and Transcaucasia (Francaviglia 1990; Cauvin et al.
+1991; Chataigner 1994; Blackman et al. 1998; Gratuze 1998; Poidevin 1998; Poupeau et al.
+1998). While a few obsidian sources in the region remain uncharacterized, the available data
+has enabled scholars to greatly expand our knowledge of intra-regional obsidian material
+procurement and trade, and its distribution to sites in the greater Mesopotamian region.
+Chronologically, studies have demonstrated a long-term exploitation of Anatolian and
+Transcaucasian sources from at least as early as the Neolithic period (Cauvin et al. 1986, 1998;
+Bader et al. 1994; Francaviglia 1994; Gratuze 1994; Balkan-Atli et al. 1999; Cauvin 2002;
+Barge and Chataigner 2003; Chataigner and Barge 2005). However, despite the presence of a
+small number of lithic studies that have integrated obsidian analyses into wider research
+agendas (Fornaseri et al. 1975–7; Edens 2000: Nishiaki and Matsutani 2003), there has been
+little focus on obsidian provenance studies in the Late Chalcolithic period.
+More recent surveys and excavations at Tell Hamoukar and Tell Brak (Fig. 1) are increasingly
+demonstrating that this period witnessed the expansion of towns and the establishment of
+territories and inter-regional contacts (Gibson et al. 2002; Ur 2002; Oates and Oates 2004;
+McMahon et al. 2007; Oates et al. 2007; Ur et al. 2007; Ur in press) that were precursors to
+the first cities and to large trade networks. Chronological and regional cycles of obsidian versus
+chert use have been observed in the Syrian Jezira (Khalidi in press) and in north-west Iraq
+Figure 1 A map of Anatolia and northern Syria, situating Tell Hamoukar among contemporaneous sites and known
+obsidian source areas (map prepared by J. Ur).
+880 L . Khalidi, B. Gratuze and S. Boucetta
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893(Wilkinson and Tucker 1995, 87). Such trends may be useful indicators of changing economic,
+social and political strategies. The modalities of introduction, movement and choice of certain
+raw materials over others are significant factors that are likely to have led populations to
+change strategies, shift orientations and contacts and expand. It is within the context of
+mapping out the diachronic and regionally variable cycles of raw material use at these sites
+that we encountered wealth in obsidian availability and use that reached its height in the LC2
+period and significantly decreased in following periods. While the same cycle of obsidian
+versus chert use appears roughly contemporaneously at Tell Brak and Tell Hamoukar, their
+comparison is interesting precisely because the role of obsidian and its quantity is different at
+each of these sites, and very often rare to non-existent at neighbouring sites. Consequently,
+geochemical analyses of obsidian recovered from sites that fall into this chronological and
+regional setting are fundamental to our understanding of changes in the accessibility of, and
+exchange of, raw materials. These economic shifts are likely to have had an impact on the
+development of complex societies and the early stages of urbanization in this region.
+X-ray fluorescence and laser ablation inductively coupled plasma mass spectrometry (LA–
+ICP–MS) analyses were conducted on 40 archaeological obsidian samples from excavated late
+fifth millennium (LC2) contexts at the sites of Tell Brak and Tell Hamoukar in north-east
+Syria. The results demonstrate that there is a preponderance of obsidian originating from the
+Bingöl A and B sources at both sites, but they have also revealed more minute quantities that
+were procured from the Meydan Dag ̆ source in the Lake Van region. In addition, two samples
+from the site of Tell Hamoukar have confirmed the exploitation of an altogether unknown
+source (X).
+METHODS OF ANALYSIS
+The analyses of the obsidian fragments were conducted at the Centre Ernest-Babelon of the
+IRAMAT (Orléans). Two virtually non-destructive methods of analysis were used to determine
+the origin of the obsidian (Gratuze 1999; Astruc et al. 2007): X-ray fluorescence and laser
+ablation inductively coupled plasma mass spectrometry (LA–ICP–MS).
+X-ray fluorescence was used qualitatively. In other words, geological obsidian samples from
+sources in proximity to the study region were analysed alongside the archaeological fragments, and a source attribution was realized with the help of graphic aids where net signatures,
+or otherwise the relation of signatures, were obtained for the different elements detected
+(calcium, titanium, iron, manganese, rubidium, strontium, yttrium, zirconium and niobium).
+The X-rays were generated with a tungsten tube operating at 45 kV and 0.8 mA. The analytical
+parameters were as follows: acquisition time 1200 s, no beam filter, beam collimator diameter
+1.5 mm and energy domain for elemental analysis 0–25 keV. The net signal measured for each
+element was normalized by the La tungsten X-ray.
+LA–ICP–MS allows a quantitative analysis of a large number of minor and trace elements
+contained in obsidian. Here, the concentration of 23 elements is determined for each selected
+sample. Among them we find elements such as zirconium, yttrium, niobium, barium, strontium,
+cerium, lanthanum and titanium, which appear to be the most dominant in establishing
+discrimination between obsidian outcrops. The attribution to an obsidian source was carried
+out by comparing the composition of the archaeological samples to that of the obsidian source
+reference data set. The LA–ICP–MS operates as follows. The object placed in the ablation cell is
+sampled by the laser beam, which is generated by an Nd:YAG pulsed laser. Its frequency is
+quadrupled, allowing it to operate in the ultraviolet region at 266 nm. The diameter of the
+Provenance of obsidian from Tell Hamoukar and Tell Brak, Syria 881
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893ablation crater ranges from 60 mm to 100 mm, and its depth is around 250 mm. An argon gas
+flow carries the ablated aerosol to the injector inlet of the plasma torch, where the matter is
+dissociated, atomized and ionized. The ions are then injected into the vacuum chamber of a
+quadrupole system, which filters the ions depending upon their mass-to-charge ratio. The ions
+are then collected by a channel electron multiplier. The isotope 29 Si was used as an internal
+standard and the Standard Reference Materials 610 from the National Institute for Standards
+and Technology were used for external standardization. One of the main advantages of
+LA–ICP–MS over classical ICP–MS is that it is considered to be a virtually non-destructive
+method. Although a microscopic sample (about 80 mm in diameter) is removed using a laser,
+it is not visible to the naked eye. The object being analysed thus remains morphologically
+unaltered and intact.
+Depending on the geographical area under study, these two techniques are used in a concerted
+way to optimize on the cost and speed of analysis. First, the analysis by X-ray fluorescence is
+used to make a first grouping and a first allocation of samples to an obsidian outcrop. Because
+this method is only qualitative, the definitive allocation of samples to an obsidian source is
+then confirmed using LA–ICP–MS. Objects analysed using the latter technique are chosen
+according to their disparity within each group formed by X-ray fluorescence.
+PROVENANCE OF THE OBSIDIAN ANALYSED
+Forty obsidian flakes were studied in total. Eight of these were recovered from excavated
+contexts at the site of Tell Brak and 32 from excavated contexts at the site of Tell Hamoukar.
+The quantity of samples chosen from each site was partially relative to the quantity of obsidian
+present and studied on each site. Excavations at Tell Hamoukar produced more than 3000
+obsidian products, while the Tell Brak excavations produced significantly fewer (940 studied
+fragments). Due to export restrictions, the selection process was also limited to small fragments
+of obsidian debitage that had little or no technological significance. In addition, the selection
+aimed towards a diversity of obsidian varieties, despite the fact that peralkaline obsidian
+predominated at both sites. Because the quantities of obsidian were much higher at Tell
+Hamoukar, the gamut of small flakes and fragmentary obsidian products (and thus the potential
+for a greater variety of obsidian) to choose from was larger.
+Of the eight samples from Tell Brak, three were analysed by X-ray fluorescence, while five
+were analysed by both X-ray fluorescence and LA–ICP–MS. Of the 32 samples from Tell
+Hamoukar, 21 were analysed by X-ray fluorescence and the rest using both methods. Different
+geological samples were studied in tandem with the archaeological samples. These geological
+samples originated from the Göllü Dag ̆ sources in Cappadocia (Kalatepe and Birtlikeler
+flows), from the Bingöl sources in the Taurus (Çavuslar – Bingöl A and Çatak – Bingöl B) as well
+as from the region around Lake Van (Meydan Dag ̆ flows). A great number of elements were
+examined in the geological and archaeological obsidian samples. Among these, we found the
+elements that are most used in obsidian provenance studies: rubidium, strontium, zirconium,
+niobium and barium (Tables 1–3).
+Obsidian from Tell Brak
+The results demonstrate that the eight samples from Tell Brak divide into three different chemical
+composition groups (Tables 1 and 4; Figs 2–4). Two of these groups, making up seven of the
+eight samples, correspond to the composition of the geological obsidian from the Bingöl
+882 L . Khalidi, B. Gratuze and S. Boucetta
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893region (Table 4): groups Bingöl A (four fragments) and Bingöl B (three fragments). From a
+geochemical point of view, the obsidian originating from the Bingöl A source is very difficult
+to distinguish from that of the Nemrut Dag ̆ source (Chataigner 1994; Francaviglia and Palmieri
+1998, 335, 339). Using solely the results of the analyses, it is not possible to favour one or the
+other of these sources. Given that three archaeological obsidian fragments from the entire
+assemblage analysed correspond to the Bingöl B source, it is highly probable that the four
+other fragments thus correspond to the Bingöl A source and not to Nemrut Dag ̆. The last sample,
+which forms the third group, has a composition that corresponds to that of the obsidian from
+Meydan Dag ̆.
+Obsidian from Tell Hamoukar
+The 32 samples from Tell Hamoukar divide into four different chemical composition groups
+(Tables 2 and 4; Figs 2–4). Three of these groups, which make up 30 samples, correspond to
+the same groups of obsidian found at Tell Brak: Bingöl A group (27 fragments), Bingöl B (two
+fragments) and Meydan Dag ̆ (one fragment). The last two samples form a fourth group. These
+have a composition that does not correspond to any group of geological obsidian analysed to date.
+We should keep in mind that for both sites we find some obsidian originating from Meydan
+Dag ̆. As this volcano is close to the Lake Van and Nemrut Dag ̆ areas, it remains possible that
+Table 1 Chemical composition in minor elements and traces of obsidian samples excavated at the
+site of Tell Brak (contents in ppm)
+Oxide
+Bingöl A Bingöl B Meydan Dag ̆
+F2A3 1 F1A 1 F2B 1 F3ATW 1 F4A 1
+Li 68 73 67 77 74
+B 106 75 54 73 39
+Ca 1 244 5 022 5 927 5 563 3 068
+Ti 973 1 225 1 227 1 269 488
+Fe 20 672 12 883 13 149 13 325 10 350
+Mn 434 296 304 299 524
+Zn 199 54 57 53 83
+As 28 5 10 7.8 0
+Rb 206 228 220 244 177
+Sr 7.4 35 40 37 18
+Y 125 28 34 29 53
+Zr 1 214 305 373 337 267
+Nb 71 20 20 19 33
+Cs 8.4 10 10 11 9.4
+Ba 1.6 317 349 333 67
+La 90 35 42 37 30
+Ce 186 68 73 71 62
+Pr 18 5.5 6.6 5.8 6.1
+Nd 69 18 26 22 21
+Hf 24 6 7.5 5.8 7.3
+Ta 3.4 1.4 1.6 1.7 1.9
+Th 25 24 30 25 21
+U 7.8 8.4 8.7 9.3 7.8
+Provenance of obsidian from Tell Hamoukar and Tell Brak, Syria 883
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893some of the samples related to the Bingöl A obsidian source are in fact from Nemrut Dag ̆.
+It is not yet possible to fully distinguish between these two sources solely using elemental
+analysis.
+CONTEXTUALIZING THE SAMPLES ANALYSED
+Tell Brak
+Tell Brak is located in the southern part of the dry farming zone in the upper Khabur Plain.
+Late Chalcolithic levels have been recovered from different areas of the ancient mound. However,
+recent excavations in Area TW have exposed the most complete sequence of fifth to fourth
+millennium bc occupation. The obsidian samples analysed were excavated from Level 21 (A)
+in Area TW. Based on the study of the ceramic assemblage (al-Quntar and Abu Jayyab in
+prep.), this level corresponds to the LC2 period. Level 21 is characterized by small structures
+associated with oven working areas.
+The studied lithic assemblage points to a unipolar blade technology made equally with
+varieties of cherts, which make up 19% of the lithic assemblage, as with obsidian. The obsidian
+types found in these contexts are diverse, and include a moderate amount of cortical material
+Table 2 Chemical composition in minor elements and traces of obsidian samples excavated at the site
+of Tell Hamoukar (contents in ppm)
+Oxide
+Bingöl A Bingöl B Unknown
+source
+Meydan Dag ̆
+F12B 1 F2 1 F7A1 1 F7B2 1 F9B 1 F9C 1 F161 1 F162 1 F10 1 F3B 1 F20E 1
+Li 69 76 75 79 79 70 70 78 56 42 115
+B 132 120 109 118 164 104 48 68 31 48 61
+Ca 1 425 1 512 1 540 1 051 1 491 1 816 5 248 5 496 2 325 3 113 2 714
+Ti 1 031 1 087 1 011 1 022 1 022 1 006 1 228 1 328 456 458 436
+Fe 23 517 23 739 22 276 22 819 23 414 22 397 12 800 14 099 4 226 5 018 11 160
+Mn 487 486 464 469 484 451 286 327 587 652 496
+Zn 236 216 219 226 229 210 57 65 64 70 107
+As 28 30 25 27 31 24 5.9 8.7 4 2.1 3.5
+Rb 234 232 217 227 231 217 228 238 156 152 204
+Sr 1.7 0.6 0.2 0.3 0.6 3 37 40 6.2 6.6 10
+Y 131 134 124 126 126 126 28 34 52 48 50
+Zr 1 282 1 354 1 245 1 230 1 243 1 247 316 350 140 132 258
+Nb 75 79 72 77 75 74 20 21 37 36 36
+Cs 8.2 7.9 7.6 7.7 8.1 7.5 11 12 5.3 5.2 8.8
+Ba 2.3 1.7 1.4 1.3 1.4 2.4 321 364 100 97 37
+La 94 97 89 89 90 91 34 41 26 24 27
+Ce 204 204 197 192 199 191 70 79 51 49 63
+Pr 20 20 19 18 19 19 5.8 6.8 4.8 4.5 6.3
+Nd 74 74 68 68 74 71 19 23 19 21 23
+Hf 26 25 23 22 24 24 5.7 7.9 4.7 4.2 6.1
+Ta 3.9 3.7 3.1 3.2 3.6 3.5 1.5 1.7 2.1 2.1 2
+Th 28 26 24 24 25 25 24 29 20 18 20
+U 9.3 8.7 8.1 8.6 8.9 8.2 8.3 10 6.7 7.3 8.8
+884 L . Khalidi, B. Gratuze and S. Boucetta
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893and core preparation and rejuvenation products, suggesting on-site manufacture on a need-to-use
+basis. In addition to several obsidian blade cores and blade-core fragments, the presence of
+exhausted flake cores and pièces esquillées suggest that there was an economical use of the
+material (Khalidi in preparation). The eight samples analysed were recovered from secure levels
+corresponding to fill deposits or floors in Phase A (youngest) of Level 21 (Table 5).
+While too few obsidian samples were analysed from Tell Brak to fully determine to what
+extent Meydan Dag ̆ obsidian was traded to the site, visual analyses of the complete obsidian
+assemblage (Phases A–C) have demonstrated that in addition to a large percentage of peralkaline
+obsidian, a great variety of obsidian qualities and types were present in moderate quantities at
+the site. The lithics that do not fit into the green translucent peralkaline group or to the colour
+varieties present at Bingöl B include a few small flakes, pièces esquillées and blades. These
+were probably traded at the site as ready-made blade blanks and as larger flakes (that could have
+been re-exploited as pièces esquillées flake cores). The lithic assemblage clearly demonstrates
+that Area TW at Tell Brak was not a lithic manufacturing area at this time, but that individuals
+with the capacity to knap on a need-to-use basis, using whatever materials were available,
+were present. The moderate quantities, the large variety and yet the presence of traces of the
+complete sequence of blade manufacture of obsidian and chert at the site is consistent with its
+position as a major centre, lying at a crossroads of principal trade routes. The varied obsidian
+assemblage indicates that the site of Tell Brak was a recipient of the material alongside other
+goods, but was not directly involved in its procurement.
+Table 3 Chemical composition in minor elements and traces of the geological obsidian
+samples along with the archaeological samples analysed from Tell Brak and Tell Hamoukar.
+These samples originate from the Anatolian sources of Meydan Dag ̆ and Bingöl
+Oxide Bingöl A Bingöl B Meydan Dag ̆
+Li 112 114 72 91
+B 215 212 32 64
+Ca 1 303 1 675 5 074 2 972
+Ti 1 125 1 130 1 274 453
+Fe 28 217 28 330 12 665 8 681
+Mn 462 460 307 476
+Zn 277 269 55 87
+As 38 39 10 3
+Rb 289 297 241 192
+Sr 0.5 0.5 33 16
+Y 157 157 32 58
+Zr 1 456 1 459 355 305
+Nb 79 75 20 36
+Cs 17 18 12 8.6
+Ba 2 1.9 306 54
+La 107 105 38 31
+Ce 221 224 73 67
+Pr 22 21 6.3 6.9
+Nd 83 80 23 29
+Hf 28 28 6.9 7.5
+Ta 4 4.1 1.4 2
+Th 37 38 27 25
+U 14 14 8.9 7.7
+Provenance of obsidian from Tell Hamoukar and Tell Brak, Syria 885
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893Tell Hamoukar
+Tell Hamoukar is located midway between the Khabur Basin and the Tigris River. This large
+site’s main LC2 occupation can be found to the south and beyond its lower mound, where an
+extensive 300 ha area, termed the Southern Extension, is characterized by a continuous dense
+scatter of material culture (Ur 2002, 64). This vast area boasts little more than a series of heavily
+ploughed fields with an area of low undulating mounds at its centre, but has produced an
+impressive quantity of obsidian blades and debitage alongside an abundance of ceramics.
+Situated ENE of Tell Brak, its position is relatively isolated in relation to the Khabur basin
+(see Fig. 1). Tell Hamoukar undoubtedly lay along east–west and southern routes. However,
+its path to northern obsidian sources such as Bingöl appears to have been direct. This probable
+circumstance is consistent with the preliminary results of the study of its LC2 lithic assemblage which indicate that the Southern Extension was a centre for obsidian blade manufacture
+alongside the local manufacture of ceramics. At Tell Hamoukar’s Southern Extension, obsidian
+Table 4 Repartition of the obsidian samples collected from Tell Brak and Tell Hamoukar in relation
+to different groups of composition
+Bingöl A Bingöl B Meydan Dag ̆ Unknown source
+Tell Brak F1B F1A F4A
+F2A-2 F2B
+F2A-1 F3ATW
+F2A-3
+Tell Hamoukar F2 F16-1 F20E F3B
+F3AZ F16-2 F10
+F4
+F7A-1
+F7A-2
+F7B-1
+F7B-2
+F8A
+F8B
+F8C
+F9A
+F9B
+F9C
+F9D
+F12A
+F12B
+F14
+F17A-1
+F17A-2
+F17A-3
+F17B
+F20A
+F20B
+F20C-1
+F20C-2
+F20D
+F20F
+886 L . Khalidi, B. Gratuze and S. Boucetta
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893Table 5 Repartition of the obsidian samples collected from Tell Brak and Tell Hamoukar in relation to different groups of composition
+Site Artefact
+number
+Area Square Locus Level/phase Description of context Description of obsidian Provenance
+Tell Brak F.1A TW TW-S 3014 21A Room fill above floor Pink brown translucent blade flake Bingöl B
+Tell Brak F.1B TW TW-S 3014 21A Room fill above floor Green translucent blade flake Bingöl A
+Tell Brak F.2A TW TW-S 3022 21A Fill above room Speckled green translucent flake Bingöl A
+Tell Brak F.2A TW TW-S 3022 21A Fill above room Speckled green translucent flake Bingöl A
+Tell Brak F.2A TW TW-S 3022 21A Fill above room Speckled green translucent flake Bingöl A
+Tell Brak F.2B TW TW-S 3022 21A Fill above room Light banded opaque grey flake Bingöl B
+Tell Brak F.3A TW TW-S 3011.1 21A Room surface Brown translucent flake Bingöl B
+Tell Brak F.4A TW TW-S 3014 21A Room fill above floor Opaque grey flake Meydan Dag ̆
+Tell Hamoukar F.2 Z ZD2 172 III Occupation transitional layer Brown green speckled translucent blade Bingöl A
+Tell Hamoukar F.3A Z ZD2 172 III Occupation transitional layer Green translucent flake Bingöl A
+Tell Hamoukar F.3B Z ZD2 172 III Occupation transitional layer Grey opaque with light snowflaking blade flake Unknown X
+Tell Hamoukar F.4 Z ZD2 176 II Small pit Speckled green translucent flake Bingöl A
+Tell Hamoukar F.7A Z ZD2 124 III Ashy midden associated with architecture Green translucent flake Bingöl A
+Tell Hamoukar F.7A Z ZD2 124 III Ashy midden associated with architecture Green translucent flake Bingöl A
+Tell Hamoukar F.7B Z ZD2 124 III Ashy midden associated with architecture Green translucent flake Bingöl A
+Tell Hamoukar F.7B Z ZD2 124 III Ashy midden associated with architecture Green translucent flake Bingöl A
+Tell Hamoukar F.10 Z Sounding 10 310 III? Pit Cloudy grey with light snowflaking flake Unknown X
+Tell Hamoukar F.9A Z Sounding 10 305 III? Pit Green translucent flake Bingöl A
+Tell Hamoukar F.9B Z Sounding 10 305 III? Pit Green banded translucent flake Bingöl A
+Tell Hamoukar F.9C Z Sounding 10 305 III? Pit Speckled green translucent flake Bingöl A
+Tell Hamoukar F.9D Z Sounding 10 305 III? Pit Cloudy speckled green flake Bingöl A
+Tell Hamoukar F.8A Z Sounding 10 307 III? Pit Green translucent flake Bingöl A
+Tell Hamoukar F.8B Z Sounding 10 307 III? Pit Speckled green translucent flake Bingöl A
+Tell Hamoukar F.8C Z Sounding 10 307 III? Pit Brown green translucent flake Bingöl A
+Tell Hamoukar F.12A Z ZD3 71 III Fill between double wall Green translucent flake Bingöl A
+Tell Hamoukar F.12B Z ZD3 71 III Fill between double wall Grey-green opaque cortical flake Bingöl A
+Tell Hamoukar F.14 Z ZM1 329 I/mixed Levelling fill, midden with LC2/Islamic fill Green banded translucent flake Bingöl A
+Tell Hamoukar F.16 Z ZM1 330 I/mixed Plaster floor Brown flake Bingöl B
+Tell Hamoukar F.17A Z ZM1 330 I/mixed Plaster floor Green banded translucent flake Bingöl A
+Tell Hamoukar F.17A Z ZM1 330 I/mixed Plaster floor Green banded translucent flake Bingöl A
+Tell Hamoukar F.17A Z ZM1 330 I/mixed Plaster floor Green banded translucent flake Bingöl A
+Tell Hamoukar F.17B Z ZM1 330 I/mixed Plaster floor Speckled green translucent flake Bingöl A
+Tell Hamoukar F.20A Z ZM1 331 II Concentrated area of rich build-up of debris Green banded translucent flake Bingöl A
+Tell Hamoukar F.20B Z ZM1 331 II Concentrated area of rich build-up of debris Green translucent flake Bingöl A
+Tell Hamoukar F.20C Z ZM1 331 II Concentrated area of rich build-up of debris Speckled green translucent flake Bingöl A
+Tell Hamoukar F.20C Z ZM1 331 II Concentrated area of rich build-up of debris Speckled green translucent flake Bingöl A
+Tell Hamoukar F.20D Z ZM1 331 II Concentrated area of rich build-up of debris Cloudy banded green flake Bingöl A
+Tell Hamoukar F.20E Z ZM1 331 II Concentrated area of rich build-up of debris Reddish tint with leopard clouds flake Meydan Dag ̆
+Tell Hamoukar F.20F Z ZM1 331 II Concentrated area of rich build up of debris Green banded translucent flake Bingöl A
+Provenance of obsidian from Tell Hamoukar and Tell Brak, Syria 887
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893Figure 2 A diagram of Zr versus Y, which correlates the composition of the samples from Tell Brak and Tell Hamoukar
+with that of the obsidian sources from the regions of Bingöl and Meydan Dag ̆ (the results of the analyses were obtained
+using the fluorescence X method).
+Figure 3 A diagram of Nb/Zr versus Y/Zr, which correlates the composition of the samples from Tell Brak and Tell
+Hamoukar with that of the obsidian sources from the regions of Bingöl and Meydan Dag ̆ (the results of the analyses were
+obtained using the LA–ICP–MS method).
+888 L . Khalidi, B. Gratuze and S. Boucetta
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893makes up more than 97% of the lithic assemblage. In addition to an assemblage of cores,
+rough-out and preform flakes and blades, the presence of over 2500 obsidian unipolar blade
+fragments reaffirms the likelihood of its population having been direct actors in obsidian
+exchange with the Bingöl source area (Khalidi in press).
+It is worth mentioning that all of the obsidian blade cores are of the peralkaline variety. The
+great majority of obsidian core preparation and rejuvenation products can be attributed to
+Bingöl A and B sources. The number of obsidian products that may correspond to Meydan
+Dag ̆ and unknown source X are so few that a typological distinction would be unjustifiable.
+For the time being, it suffices to say that a chronological, rather than a typological, distinction
+can be made for these rarer varieties.
+The analysed obsidian samples correspond to three phases (III–I) of occupation of the
+Southern Extension. These have also been dated to the LC2 by correlation to the excavated
+ceramic sequences (Al-Quntar in press). The youngest phase (I) may overlap with the most
+ancient phase of Level 21 at Tell Brak. Phases III and II at the Southern Extension are therefore chronologically anterior to the Level 21 phases at Tell Brak.
+The obsidian analysed came from four excavated areas (ZM1, ZD2-3 and Sounding 10) of
+the Southern Extension. The majority of contexts are secure, and correspond to a variety of
+living and manufacturing spaces, including architectural fill, refuse pits and exterior midden
+areas. It must be noted that the obsidian chosen for analysis was a biased sample.
+The majority of the obsidian recovered at Tell Hamoukar is of the green translucent variety,
+generally attributed to either of the peralkaline sources in Anatolia (Nemrut Dag ̆ or Bingöl A).
+Although both types of obsidian were selected for analysis, the ratio of non-peralkaline
+(<10%) to peralkaline (>90%) samples is very small within the studied assemblage. Nonetheless,
+Figure 4 A diagram of Ba versus Zr, which correlates the composition of the samples from Tell Brak and Tell Hamoukar
+with that of the obsidian sources in the regions of Bingöl and Meydan Dag ̆ (the results of the analyses were obtained using
+the LA–ICP–MS method).
+Provenance of obsidian from Tell Hamoukar and Tell Brak, Syria 889
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893a larger portion of non-peralkaline obsidian was chosen for sampling than is represented in the
+total assemblage so as to determine its origins. Consequently, the analysed samples are not
+statistically representative of the entire assemblage, which leans heavily towards a Bingöl
+(A and B) area origin, with the rare presence of obsidian from alternative sources such as
+Meydan Dag ̆ and X (Table 5). Nonetheless, what further analyses hope to provide using the
+architectural and ceramic phasing as a guide, is a chronological attribution to the exploitation
+of these alternative sources. For the time being, it appears that unknown source X’s exploitation by the populations at the Southern Extension was limited to the most ancient phase (III) of
+occupation. Meydan Dag ̆ on the other hand, appears in the following phase (II), while the
+Bingöl source predominates throughout all phases of occupation as the preferred source for
+obsidian extraction.
+CONCLUSIONS
+The studied obsidian originates from four different obsidian sources. Three of these sources
+correspond to deposits in the regions of Bingöl and Meydan Dag ̆. Because it is very difficult
+to distinguish between the obsidian from the region of Bingöl A and that from Nemrut Dag ̆,
+the attribution to the Bingöl A source has been proposed merely as a result of the presence of
+obsidian from the Bingöl B source.
+Two of the obsidian samples from Tell Hamoukar originate from an obsidian source that
+remains unidentified. These samples do not correspond to analysed obsidian deposits from the
+south-east of Anatolia (Bingöl, Nemrut Dag ̆, Meydan Dag ̆), from the north-east of Anatolia
+(Erzincan, Erzurum, Pasinler, Sarikamis, Kars), from Transcaucasia (Armenia or Georgia) or
+from Cappadocia or western Anatolia. It must also be noted that several obsidian deposits
+located in the Lake Van area in south-east Anatolia, as well as to the east of this region, are
+yet to be analysed. It is therefore possible that these obsidian samples from Tell Hamoukar
+originate from unstudied sources in the Tendurek or Ararat regions, or from other non-analysed
+obsidian deposits near Lake Van.
+The analyses of the 40 obsidian samples from excavated Late Chalcolithic 2 (LC2) levels
+have established that two major sites of this period were engaged in obsidian trade with the
+Bingöl region. While it appears that the occupants of the Southern Extension at Tell Hamoukar
+were more directly involved in trade with this region, as well as with manufacture of the
+material, the Bingöl region also supplied a large percentage of the obsidian used by the
+occupants of Tell Brak. Furthermore, Meydan Dag ̆ is also implicated as an obsidian supplier
+to both sites, even if minutely. A third unknown source (X) opens up a new avenue for future
+research in the characterization of Anatolian obsidian sources. Most interestingly, signatures
+for this source have never been observed previous to these analyses. This implies that this
+source may have chiefly been exploited during this period of occupation, and may have simply
+become a minor provider to the occupants of Tell Hamoukar. These analyses highlight the
+need for continued obsidian research for the Late Chalcolithic period, and are proof of the
+potential for reconstructing previously unencountered obsidian source areas and routes of
+exchange in the archaeological record.
+The data acquired from geochemical analyses of excavated LC2 obsidian implicate Tell
+Hamoukar and Tell Brak in a northern-oriented sphere of interaction that was, in large part, tied
+to obsidian trade and circulation. The contexts and techno-typological data derived from each
+of these sites have reaffirmed that their roles were very different, affecting the nature of their
+inter-regional socio-economic contacts. For example, moderate quantities and large variations
+890 L . Khalidi, B. Gratuze and S. Boucetta
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893in quality of obsidian at Tell Brak suggest that it was a recipient from multiple suppliers, even
+if the majority of suppliers exploited the Bingöl sources. Conversely, the assemblage clearly
+shows that relatively large quantities of unworked obsidian nodules from the Bingöl sources
+were available and knapped at Tell Hamoukar. The complete chaîne opératoire of blade
+manufacture is recurrently found at the Southern Extension, whereas it is much rarer at Tell
+Brak. This fact proves that the populations of Tell Hamoukar had direct access to the Bingöl
+source, and may intimate that the Southern Extension was a seasonal home for semi-sedentary
+populations from Bingöl.
+This research has contributed new obsidian source data applicable to a period key to the
+development of late prehistoric societies. Moreover, this study has addressed the significance
+of obsidian exchange for understanding the major shifts in socio-economic strategies that
+occurred during and following the LC2 period in north-east Syria.
+ACKNOWLEDGEMENTS
+The analyses were made possible as part of a CNRS-funded Plan Pluri Formation (PPF)
+project between the CEPAM laboratory at the University of Nice, Sophia Antipolis and the
+IRAMAT laboratory at the University of Orléans. It is thanks to the Director of the CEPAM,
+Didier Binder, that this collaboration was realized. We would like to thank Augusta McMahon
+and Joan Oates, field and project directors of the Tell Brak Excavation, and Professor McGuire
+Gibson, Clemens Reichel and Salam al-Quntar, past and present directors of the Tell Hamoukar
+Syro-American Project, for having allowed us to study and analyse the archaeological samples.
+Finally, we would like to extend our gratitude to Dr Bassam Jamous, Dr Michel Maqdissi and Abd
+al Masih Baghdo of the Syrian Department of Antiquities and Museums, for their collaboration
+on these projects.
+REFERENCES
+al-Quntar, S., in press, Late Chalcolithic 2 period: the Southern Extension of Hamoukar, in The origins and development of urbanism in northeast Syria: The 2001–2007 seasons of Hamoukar (ed. C. Reichel), Oriental Institute
+Communications, Oriental Institute, Chicago.
+al-Quntar, S., and Abu Jayyab, K., in preparation, The political economy of the Upper Khabur in the Late Chalcolithic
+2: ceramic production and inter-regional exchange, in Preludes to urbanism in the ancient Near East: a conference
+in honour of Joan Oates: her 80th birthday and her 57th year of archaeological research in the Middle East,
+McDonald Institute for Archaeological Research, Cambridge.
+Astruc, L., Gratuze, B., Pelegrin, J., and Akkermans, P., 2007, From production to use: a parcel of obsidian bladelets
+at Sabi Abyad II, in La diversité des systèmes techniques des communautés du Néolithique pré-céramique vers la
+caractérisation des comportements sociaux, 5e colloque international sur les industries lithiques du Néolithique
+pré-céramique (eds. L. Astruc, D. Binder, and F. Briois), 327–41, Éditions APDCA, Antibes.
+Bader, N. O., Merpert, N. J., and Munchaev, R. M., 1994, Les importations d’obsidienne sur les sites des IXe –VII e
+millénaires B.P. du Djebel Sinjar, Iraq, Paléorient, 20(2), 6–8.
+Balkan-Atli, N., Binder, D., Cauvin, M. C., Biçakçi, E., Der Aprahamian, G., and Kuzucuoglu, C., 1999, Obsidian:
+sources, workshops and trade in central Anatolia, in Neolithic in Turkey: the cradle of civilization (eds. M.
+Özdogan and N. Basgelen), 133–43, Arkeoloji Ve Sanat Yayinlari, Istanbul.
+Barge, O., and Chataigner, C., 2003, The procurement of obsidian: factors influencing the choice of deposits, Journal
+of Non-Crystalline Solids, 323, 172–9.
+Blackman, J., Badaljan, R., Kikodze, Z., and Kohl, P., 1998, Chemical characterization of Caucasian obsidian geological
+sources, in L’obsidienne au Proche et Moyen Orient: du volcan à l’outil (eds. M. C. Cauvin, A. Gourgaud, B.
+Gratuze, N. Arnaud, G. Poupeau, J.-L. Poidevin, and C. Chataigner), 205–31, Archaeopress, Oxford.
+Cann, J. R., and Renfrew, C., 1964, The characterization of obsidian and its application to the Mediterranean region,
+Proceedings of the Prehistoric Society, 30, 111–31.
+Provenance of obsidian from Tell Hamoukar and Tell Brak, Syria 891
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893Cauvin, M. C., 2002, L’obsidienne et sa diffusion dans le Proche-Orient Néolithique, in Matériaux, productions,
+circulations du Néolithique à l’Age du Bronze : séminaire du Collège de France (ed. J. Guilaine), éditions errance,
+Paris.
+Cauvin, M. C., Balkan, N., Besnus, Y., and Saroglu, F., 1986, Origine de l’obsidienne de Cafer Höyük (Turquie):
+premiers résultats, Paléorient, 12, 89–97.
+Cauvin, M. C., Besnus, Y., Tripier, J., and Montigny, R., 1991, Nouvelles analyses d’obsidiennes du Proche-Orient:
+modèle de géochimie des magmas utilisé pour la recherche archéologique, Paléorient, 17, 5–20.
+Cauvin, M. C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.-L., and Chataigner, C. (eds.), 1998,
+L’obsidienne au Proche et Moyen Orient: du volcan à l’outil, Archaeopress, Oxford.
+Chataigner, C., 1994, Les propriétés géochimiques des obsidiennes et la distinction des sources de Bingöl et du Nemrut
+Dag, Paléorient, 20, 9–17.
+Chataigner, C., and Barge, O., 2005, L’analyse de la circulation de l’obsidienne dans le nord du Proche-Orient préhistorique, in Temps et espaces de l’homme en société: analyses et modèles spatiaux en archéologie. XXVe rencontres
+internationales d’archéologie et d’histoire d’Antibes (eds. J.-F. Berger, F. Bertoncello, F. Braemer, G. Davtian,
+and M. Gazenbeek), 405–9, Éditions APDCA, Antibes.
+Costa, L. J., 2007, L’obsidienne: un témoin d’échanges en Méditerranée préhistorique, éditions errance, Paris.
+Edens, C., 2000, The chipped stone industry at Hacinebi: technological styles and social identity, Paléorient, 25, 23–33.
+Fornaseri, M., Malpieri, L., Palmieri, A. M., and Taddeucci, A., 1975–7, Analyses of obsidians from the Late Chalcolithic levels of Aslantepe (Malatya), Paléorient, 3, 231–46.
+Francaviglia, V. M., 1984, Characterization of Mediterranean obsidian sources by classical petrochemical methods,
+Preistoria Alpina, 20, 311–32.
+Francaviglia, V. M., 1990, Les gisements d’obsidienne hyperalcaline dans l’Ancien Monde: étude comparative, Revue
+d’Archéométrie, 14, 43–64.
+Francaviglia, V. M., 1994, L’origine des outils en obsidienne de Tell Magzalia, Tell Sotto, Yarim Tepe et Kül Tepe,
+Iraq, Paléorient, 20, 18–31.
+Francaviglia, V., and Palmieri, A. M., 1998, Analisi di ossidiane dell’area del Habur (Giazira settentrionale), in Tell
+Barri/Kahat 2, Documenta Asiana V (ed. P. E. Pecorella), 335–44, Istituto per gli studi Micenei ed EgeoAnatolici, Rome.
+Gibson, M., Al-Azm, A., Reichel, C., Quntar, S., Franke, J. A., Khalidi, L., Hritz, C., Altaweel, M., Coyle, C., Colantoni,
+C., Tenney, J., Abdul Aziz, G., and Hartnell, T., 2002, Hamoukar: a summary of three seasons of excavation,
+Akkadica, 123, 11–34.
+Gratuze, B., 1994, Contribution à l’analyse d’outils provenant du site archéologique de Magzalia, Paléorient, 20, 32–4.
+Gratuze, B., 1998, Les méthodes de caractérisation de l’obsidienne, in L’obsidienne au Proche et Moyen Orient: du
+volcan à l’outil (eds. M. C. Cauvin, A. Gourgaud, B. Gratuze, N. Arnaud, G. Poupeau, J.-L. Poidevin, and C.
+Chataigner), 31–48, Archaeopress, Oxford.
+Gratuze, B., 1999, Obsidian characterisation by laser ablation ICP–MS and its application to the prehistoric trade in
+the Mediterranean and the Near East: the sources and distribution of obsidian within the Aegean and Anatolia,
+Journal of Archaeological Science, 26, 869–81.
+Khalidi, L., in preparation, Tools of the trade: LC3 obsidian products and their production from area TW, Tell Brak,
+in Preludes to urbanism in Mesopotamia: a conference in honour of Joan Oates’ 80th birthday and 57 years of
+archaeological work in the Near East, McDonald Institute of Archaeological Research, Cambridge.
+Khalidi, L., in press, Late Chalcolithic lithic assemblage at Tell Hamoukar’s Southern Extension, in The origins and
+development of urbanism in northeast Syria: The 2001–2007 seasons of Hamoukar (ed. C. Reichel), Oriental
+Institute Communications, Oriental Institute, Chicago.
+McMahon, A., Oates, J., al-Quntar, S., Charles, M., Colantoni, C., Hald, M. M., Karsgaard, P., Khalidi, L., Soltysiak,
+A., Stone, A., and Weber, J., 2007, Excavations at Tell Brak 2006–2007, Iraq, LXIX, 145–71.
+Nishiaki, Y., and Matsutani, T. (eds.), 2003, Tell Kosak Shamali: the archaeological investigations on the Upper
+Euphrates, Syria, Oxbow Books in association with The University Museum, University of Tokyo, Tokyo.
+Oates, J., and Oates, D., 2004, The role of exchange relations in the origins of Mesopotamian civilization, in Explaining
+social change: studies in honour of Colin Renfrew (eds. J. Cherry, C. Scarre, and S. Shennan), 177–92, McDonald
+Institute of Archaeological Research, Cambridge.
+Oates, J., McMahon, A., Karsgaard, P., al-Quntar, S., and Ur, J., 2007, Early Mesopotamian urbanism: a new view
+from the north, Antiquity, 81, 585–600.
+Poidevin, J.-L., 1998, Les gisements d’obsidienne de Turquie et de Transcaucasie: géologie, géochimie et
+chronométrie, in L’obsidienne au Proche et Moyen Orient: du volcan à l’outil (eds. M. C. Cauvin, A. Gourgaud,
+B. Gratuze, N. Arnaud, G. Poupeau, J.-L. Poidevin, and C. Chataigner), 105–56, Archaeopress, Oxford.
+892 L . Khalidi, B. Gratuze and S. Boucetta
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893Poupeau, G., Bigazzi, G., Bellot-Gurlet, L., and Dorighel, O., 1998, Fission-track dating of obsidians and archaeology,
+in L’obsidienne au Proche et Moyen Orient: du volcan à l’outil (eds. M. C. Cauvin, A. Gourgaud, B. Gratuze,
+N. Arnaud, G. Poupeau, J.-L. Poidevin, and C. Chataigner), 53–67, Archaeopress, Oxford.
+Renfrew, C., and Dixon, J. E., 1976, Obsidian in western Asia: a review, in Problems in economic and social archaeology
+(eds. G. D. G. Sieveking, I. H. Longworth, and K. E. Wilson), 137–50, Duckworth, London.
+Renfrew, C., Dixon, J. E., and Cann, J. R., 1966, Obsidian and early cultural contact in the Near East, Proceedings of
+the Prehistoric Society, 32, 30–72.
+Renfrew, C., Dixon, J. E., and Cann, J. R., 1968, Further analysis of Near Eastern obsidian, Proceedings of the
+Prehistoric Society, 34, 319–31.
+Ur, J., 2002, Settlement and landscape in northern Mesopotamia: the Tell Hamoukar survey 2000–2001, Akkadica,
+123, 57–88.
+Ur, J., Karsgaard, P., and Oates, J., 2007, Early urban development in the Near East, Science, 317, 1188.
+Ur, J. A., in press, Urbanism and cultural landscapes in northern Mesopotamia: the Tell Hamoukar survey, 1999–2001,
+Oriental Institute Publications, University of Chicago Oriental Institute, Chicago.
+Wilkinson, T. J., and Tucker, D. J., 1995, Settlement development in the North Jazira, Iraq: a study of the archaeological landscape, Aris and Phillips, Warminster.
+Provenance of obsidian from Tell Hamoukar and Tell Brak, Syria 893
+© University of Oxford, 2009, Archaeometry 51, 6 (2009) 879–893

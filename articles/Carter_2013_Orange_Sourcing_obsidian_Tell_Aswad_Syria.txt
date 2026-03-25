@@ -1,0 +1,628 @@
+C. R. Palevol 12 (2013) 173–180
+Contents lists available at SciVerse ScienceDirect
+Comptes Rendus Palevol
+w w w . s c i e n c e d i r e c t . c o m
+Human palaeontology and prehistory (Prehistoric archaeology)
+Sourcing obsidian from Tell Aswad and Qdeir 1 (Syria) by SEM-EDS and
+EDXRF: Methodological implications
+Étude de provenance de l’obsidienne de Tell Aswad et Qdeir 1 (Syrie) par MEB-EDS et
+EDXRF : implications méthodologiques
+Marie Orange a , Tristan Carter b , Franc ̧ ois-Xavier Le Bourdonnec a,∗
+a IRAMAT-CRP2A, UMR 5060 CNRS–Université Bordeaux 3, Maison de l’Archéologie, Esplanade des Antilles, 33607 Pessac, France
+b Department of Anthropology/McMaster Archaeological XRF Lab, CNH 524, McMaster University, 1280 Main Street, Hamilton, LS8 4L9, Ontario, Canada
+a r t i c l e i n f o
+Article history:
+Received 5 October 2012
+Accepted after revision 23 November 2012
+Available online 1 February 2013
+Presented by Yves Coppens
+Keywords:
+Obsidian
+Provenance studies
+SEM-EDS
+EDXRF
+Non-destructive
+Neolithic
+Syria
+a b s t r a c t
+While obsidian sourcing has long represented a powerful means of reconstructing past
+socio-economic interaction, the use of destructive techniques restricted most studies to
+analysing only a few artefacts per site. Non-destructive methods allow the characterization
+of much more material, thus providing more robust data upon which to base our archaeological interpretations. Here we report on one such study using EDXRF and SEM-EDS to
+analyse assemblages from Tell Aswad and Qdeir 1, two Syrian Neolithic sites. The study
+demonstrates for the first time that SEM-EDS can play an important role in discriminating
+Bingöl A and Nemrut Da ̆g sources, while the rapidity of EDXRF permits the analysis of a
+more statistically valid number of artefacts, providing a better impression of the assemblage. It enabled us to chart diachronic patterns in raw material procurement at Tell Aswad
+and detailed raw materials not recorded in a previous smaller-scale analysis of obsidian
+from Qdeir 1.
+© 2012 Académie des sciences. Published by Elsevier Masson SAS. All rights reserved.
+Mots clés :
+Obsidienne
+Études de provenance
+MEB-EDS
+EDXRF
+Non destructif
+Néolithique
+Syrie
+r é s u m é
+Alors que les études de provenance de l’obsidienne ont longtemps représenté un moyen efficace de reconstruire les interactions socio-économiques du passé, l’utilisation de méthodes
+destructives a restreint la plupart de ces études à l’analyse de seulement quelques artefacts par site. Les méthodes non destructives permettent de caractériser plus de matériel,
+nous prodiguant ainsi des données plus « solides » sur lesquelles fonder nos interprétations. Nous présentons ici ce type d’étude, utilisant l’EDXRF le MEB-EDS pour analyser
+deux assemblages provenant de Tell Aswad et Qdeir 1, deux sites néolithiques syriens.
+Cette étude démontre deux points principaux. Premièrement, nous prouvons, pour la première fois, que le MEB-EDS peut jouer un rôle important dans la discrimination des sources
+de Bingöl A et Nemrut Da ̆g, deux des plus importantes sources du Proche-Orient durant la
+Préhistoire, tandis que la rapidité de l’EDXRF a permis l’analyse d’un nombre statistiquement plus représentatif d’artefacts, nous apportant une meilleure vue d’ensemble de la
+∗ Corresponding author.
+E-mail addresses: marie.orange24@gmail.com (M. Orange), stringy@mcmaster.ca (T. Carter), francois-xavier.le-bourdonnec@u-bordeaux3.fr
+(F.-X. Le Bourdonnec).
+1631-0683/$ – see front matter © 2012 Académie des sciences. Published by Elsevier Masson SAS. All rights reserved.
+http://dx.doi.org/10.1016/j.crpv.2012.11.001174 M. Orange et al. / C. R. Palevol 12 (2013) 173–180
+série lithique en question. Cela nous a permis de noter des tendances diachroniques dans
+l’approvisionnement en matière première du site et de remarquer des matières premières
+non relevées lors de précédentes études de moins grande envergure sur l’obsidienne de
+Qdeir 1.
+© 2012 Académie des sciences. Publié par Elsevier Masson SAS. Tous droits réservés.
+1. Introduction
+Obsidian is a volcanic glass, whose excellent flaking
+qualities and razor-sharp edges made it a highly desired
+tool-making raw material for pre-metalworking prehistoric peoples. With obsidian a relatively rare resource,
+communities often had to procure the material over
+great distances, often through exchange with intermediary populations. With the product of each volcanic
+source (flow/emission) having a unique chemical signature, archaeologists have long been interested in sourcing
+their artefacts’ raw materials as a means of reconstructing
+ancient interaction networks. This is achieved by matching
+the chemical signature of an obsidian artefact to that of a
+distinct geological source, ideally using the same analytical
+technique (Glascock et al., 1998).
+Over the past 50 years, a variety of chemical and physical
+characterization techniques have been employed in Eastern Mediterranean/Near Eastern obsidian sourcing studies
+(Pollard and Heron, 2008), whereby virtually all of the
+archaeologically significant sources can now be discriminated (Carter, 2009; Chataigner, 1998; Poidevin, 1998).
+While this work has included numerous artefact analyses,
+most studies involved only a few pieces per excavation,
+whereby the statistical significance of these data has to be
+questioned. This is particularly true when one is dealing
+with a site that has:
+• a variety of tool-making strategies represented within
+the obsidian assemblage;
+• a multi-phase occupation;
+• a range of distinct contexts within which one finds obsidian (domestic, artisanal, burial inter alia), for if one wished
+to investigate the various modes of raw material consumption through time and space then it follows that
+one requires a not insignificant number of artefacts for
+analysis.
+This is the situation faced by many Near Eastern prehistorians, yet only at the central Anatolian Neolithic site
+of C ̧ atalhöyük (Fig. 1) do we thus far have such a largescale sampling strategy, with many hundreds of artefacts
+analysed as a means of addressing exactly these concerns
+(Carter et al., 2006; Carter and Shackley, 2007; Poupeau
+et al., 2010 inter alia).
+The fact that most studies only included a few artefacts per site arguably pertains to two interrelated issues,
+namely:
+• the bureaucracy involved in exporting archaeological
+objects for analysis;
+• the fact that so many of the early characterization techniques were partly, or wholly destructive, such as optical
+emission spectroscopy (Renfrew et al., 1966), neutron
+activation analysis (Aspinall et al., 1972; Yellin, 1995) and
+inductively coupled plasma–mass spectroscopy (Abbès
+et al., 2003).
+More recently there has been a turn towards nondestructive techniques such as EDXRF (Shackley, 1998),
+particle induced X-ray emission (PIXE) (Butalag et al., 2008;
+Le Bourdonnec et al., 2005) and SEM-EDS (Acquafredda and
+Muntoni, 2008) for reasons of cultural sensitivity, cost and
+speed of analysis, all of which is beginning to permit the
+characterization of significantly larger data sets (Carter and
+Shackley, 2007; Poupeau et al., 2010).
+This study continues this trend, using SEM-EDS and
+EDXRF to characterize large numbers of obsidian artefacts from two prehistoric sites in Syria, Tell Aswad and
+Qdeir 1 (Fig. 1). While this article is concerned with the
+interpretative implications for the production of larger
+data sets, it also aimed to examine the use of these techniques in a Near Eastern context. Our specific interest lay
+in their ability to discriminate between the products of
+eastern Anatolian sources, not least the important peralkaline products of Bingöl and Nemrut Da ̆g (Fig. 1), two
+of the most important sources in Near Eastern prehistory,
+whose chemical similarity has often made them difficult to
+discriminate (Frahm, 2012). Previous applications of these
+techniques have focused primarily on archaeological case
+studies where central Anatolian (Cappadocian) raw materials were of primary importance (Carter and Shackley,
+2007; Poupeau et al., 2010); it was thus our intention in
+this project to broaden the analytical remit of EDXRF and
+SEM-EDS through the study of assemblages that were more
+likely to contain tools made from eastern Anatolia obsidians.
+We do not imply that this is the first use of these techniques in a Near Eastern context, as XRF was employed to
+characterize obsidian from the Late Chalcolithic (5th–4th
+millennium BC) Syrian sites of Tell Brak and Tell Hamoukar
+(Khalidi et al., 2009), while SEM-EDS was used to source
+artefacts from the PPNA – early PPNB Syrian site of Jerf
+el Ahmar (Abbès et al., 2003) (Fig. 1). However, in neither
+cases were the analysts confident in their ability to assign
+a specific source to those artefacts made of peralkaline
+obsidians, arguing that their similar geochemistry made it
+difficult to distinguish between the distinctive green raw
+materials of ‘Bingöl A’ and Nemrut Da ̆g, despite the fact that
+these sources are 150 km apart. The implicit suggestion was
+that only by using more powerful techniques such as NAA
+was it possible to differentiate between these raw materials (Chataigner, 1994). For archaeologists who could not
+employ such techniques this was a highly frustrating situation, as the inability to discriminate these raw materials
+likely masked important differences in their exploitationM. Orange et al. / C. R. Palevol 12 (2013) 173–180 175
+EASTERN ANATOLIA
+CAPPADOCIA
+Mediterranean Sea Aswad
+El Kowm
+Qdeir 1
+Mureybet
+Açıgöl
+Nenezi Dağ
+Göllü Dağ
+Bingöl
+Nemrut Dağ
+Suphan Dağ
+Meydan Dağ
+Çatalhöyük
+Jerf el Ahmar
+200 km
+Brak
+Hamoukar
+Black Sea
+Sources
+Archaeological sites
+N
+Fig. 1. Archaeological sites and obsidian sources detailed in the text.
+Fig. 1. Sites archéologiques et sources d’obsidiennes cités dans le texte.
+histories and the existence of obsidian-specific exchange
+networks.
+2. Tell Aswad and Qdeir 1: Background and
+previous sourcing studies
+Tell Aswad and Qdeir 1 are two prehistoric sites in Syria
+(Fig. 1), excavated as part of the El Kowm-Mureybet mission, led by the Maison de l’Orient Méditerranéen (Lyon,
+France). They are both of pre-pottery Neolithic B [PPNB]
+date, i.e. early farming communities. The former is located
+in the Damascus basin (southern Syria) and dates to
+the Middle/Late PPNB, c. 8200–7500 cal BC (Stordeur and
+Jamous, 2009). The latter, of Final PPNB (or PPNC) date
+(c. 7100-5720 cal BC), is situated in the El Kowm oasis, a
+semi-nomadic occupation believed to be associated with
+the nearby permanent village site of El Kowm 2 – Caracol
+(Stordeur, 1993).
+Both sites produced rich stone tool assemblages; while
+most implements were made of local chert, there are also
+a few of obsidian, despite the fact the nearest sources are
+located over 100 km to the north, in central and eastern
+Anatolia (Fig. 1). Available to us for analysis were 105 artefacts from Tell Aswad and 517 from Qdeir 1.
+A previous analysis of 29 artefacts from Middle PPNB
+Tell Aswad by SEM-EDS and PIXE showed a reliance
+upon the south Cappadocian source of Göllü Da ̆g (n = 25),
+together with smaller quantities of eastern Anatolian products, with three artefacts of Bingöl B obsidian (or Bingöl
+calco-alkaline) and one of Nemrut Da ̆g obsidian (Delerue,
+2007). A further 34 artefacts from the Middle/Late PPNB
+were also analysed, showing much the same pattern, with
+31 pieces attributed to the Göllü Da ̆g, two Bingöl A/Nemrut
+Da ̆g and one to Nemrut Da ̆g. Some of the artefacts analysed
+in our study were also characterised by Delerue (2007);
+unfortunately, it was not possible to tell which ones were
+duplicated.
+For Qdeir 1, 25 artefacts were characterized by NAA
+(Gratuze et al., 1993), of which five were allocated to the
+analysts’ group 1b (Bingöl A/Nemrut Da ̆g), 11 to Bingöl B
+and nine to Kayırlı (Göllü Da ̆g).
+For our analysis we included data from an expanded
+range of Anatolian sources known to have been exploited
+by Near Eastern populations of the Early-Final PPNB
+(Chataigner, 1998), plus other nearby sources, including
+not only the raw materials previously attested at Tell
+Aswad and Qdeir 1, but also Acıgöl, Nenezi Da ̆g, Meydan
+Da ̆g and Suphan Da ̆g.
+3. Analytical methods: their choice and
+interrelationship
+A scanning electron microscope coupled with an energy
+dispersive spectrometer is an attractive technique for
+obsidian characterization analysis in the larger Mediterranean region, as a range of major and trace elements can
+be detailed non-destructively through surface analysis (Le
+Bourdonnec et al., 2010; Mulazzani et al., 2010).
+Energy dispersive X-ray fluorescence (EDXRF) uses a
+X-ray tube to bombard the sample and produce, by the
+interaction of these X-rays with the electrons in the deep
+layers of the atom, secondary X-rays, characteristic of the
+elements present. It is a technique of simultaneous analysis,
+straightforward to use and fast.
+In a previous sourcing study of C ̧ atalhöyük obsidian,
+Poupeau et al. (2010) demonstrated the efficacy of EDXRF176 M. Orange et al. / C. R. Palevol 12 (2013) 173–180
+and SEM-EDS to discriminate Anatolian obsidian sources,
+though it was noted that the latter was incapable of distinguishing products of two central Anatolian sources, Acıgöl
+and Göllü Da ̆g. Conversely, SEM-EDS is capable of working
+with small and thin samples (with low detection limits –
+about 0.1 wt% [see Kuisma-Kursula, 2000]) attributes that
+can present problems for EDXRF (Davis et al., 1998). As
+such, our study aimed to use the two techniques as complimentary to one another. We also wished to examine the
+capabilities of these techniques with regard to discriminating eastern Anatolian obsidian (something we knew
+we would be dealing with on the basis of prior studies
+on the Tell Aswad and Qdeir 1 assemblages), particularly
+with regard to their ability to discriminate between the
+peralkaline obsidians of Bingöl A and Nemrut Da ̆g.
+4. Sampling and experimental procedures
+4.1. SEM-EDS
+The study was conducted at the Centre de recherche de
+physique appliquée à l’archéologie (Bordeaux, France) using
+a JEOL JMS 6460 LV scanning electron microscope equipped
+with an energy dispersive spectrometer (Oxford Industries
+INCA x-sight), operating with a 20 kV accelerating potential. For each measurement, the electron beam diameter
+swept a surface of about 1.5 × 104 m2 . The fluorescence
+X-rays emitted by the samples were collected by an Oxford
+X-Max EDS Silicon Drift Detector (SDD) with 20 mm2 active
+area and a 125 eV resolution for the Mn K emission line.
+All spectra were obtained with a real acquisition time of 90
+s and a dead time of 30 to 40%. This involves spectra with
+more than 106 counts between 0 and 10 keV. The INCA
+data treatment software uses a XPP procedure φ(z) X-ray
+correction models to calculate element contents as percent
+oxides.
+Standards were used to calculate the chemical compositions (Corning B, Corning D, GaP, BCR-126 and pure mineral
+standards: Ti, Mn, Fe, MgO, albite). In order to check the
+reliability of the analysis, an obsidian geological standard
+was analysed at the beginning and at the end of each run.
+The study involved 61 artefacts from Tell Aswad and 180
+from Qdeir 1, i.e. 58% and 35% of our assemblages. After
+cleaning with ethylic alcohol and acetone, Na, Mg, Al, Si, K,
+Ca, Ti, Mn and Fe contents were obtained for each piece following the procedure of Le Bourdonnec et al. (2010). Due
+to the artefacts’ sizes and geometry, the elemental composition was determined as the average of two to eight
+‘punctual’ measurements.
+4.2. EDXRF
+This study was undertaken in the McMaster Archaeological XRF Lab [MAX Lab] using a Thermo Scientific Quant’X
+energy dispersive X-ray fluorescence spectrometer; the
+protocols and methods following those of Shackley (2005).
+The instrument is equipped with a ultra-high flux peltier
+air cooled Rh X-ray target with a 125 micron beryllium (Be)
+window, an X-ray generator operating from 4 to 50 kV/0.02
+to 1.0 mA at 0.02 increments and a 2001 min-1 Edwards
+vacuum pump for the analysis of elements below titanium
+(Ti). Data are acquired with a pulse processor and analog
+to digital converter. Fifteen major and trace elements were
+recorded: Ti, Mn, Fe, Ni, Cu, Zn, Ga, Rb, Sr, Y, Zr, Nb, Ba, Pb
+and Th.
+In order to evaluate these quantitative determinations,
+instrument data were converted to concentration estimates through reference to various standards, including
+those certified by the US Geological Service and Geological Survey of Japan (AGV-2, BCR-2, BHVO-2, BIR-1a, GSP-2,
+JR-1, JR-2, QLO-1, RGM-2, SDC-1, STM-2, TLM-1 and W-2a).
+The standard RGM-2 was analysed during each sample run
+to check machine calibration and accuracy.
+Each artefact was cleaned in an ultrasonic tank with
+distilled water for ten minutes. Very small artefacts, or
+those exhibiting anomalous concentrations, were re-run to
+ensure accuracy and precision.
+The speed and automation of this technique (approximately 3.5 h for 19 artefacts plus the standard) enabled us
+to analyse a major part of the two assemblages.
+5. Results and discussion
+5.1. SEM-EDS
+On the basis of the artefacts’ Al, Si, Ca and Fe contents the
+Tell Aswad material can be separated into three different
+geochemical groups, using a principal components analysis
+performed by SAS JMP Software (SAS, 2012) (Fig. 2); three
+groups can also be distinguished within the Qdeir 1 material, along with a fourth. The data ranges are reported in
+Table 1.
+PC1 (51.2%)
+PC2 (32.8%)
+Sources
+Tell Aswad
+Qdeir 1
+MDD NNZDNMRT
+GD/SD/ACGL
+BA
+BB
+NMRT
+Fig. 2. Principal components analysis using Al, Si, Ca and Fe contents
+determined by SEM-EDS, comparing obsidians from Tell Aswad, Qdeir 1
+and source samples. (NNZD: Nenezi Da ̆g; GD: Göllü Da ̆g; BB: Bingöl B;
+MDD: Meydan Da ̆g; SD: Suphan Da ̆g; ACGL: Acıgöl; NMRT: Nemrut Da ̆g).
+Fig. 2. Analyse en composantes principales utilisant les teneurs en Al,
+Si, Ca et Fe déterminées par MEB-EDS, comparant les obsidiennes de Tell
+Aswad, Qdeir 1 et les échantillons géologiques. (NNZD : Nenezi Da ̆g ; GD :
+Göllü Da ̆g ; BB : Bingöl B ; MDD : Meydan Da ̆g ; SD : Suphan Da ̆g ; ACGL :
+Acıgöl ; NMRT : Nemrut Da ̆g).M. Orange et al. / C. R. Palevol 12 (2013) 173–180 177
+Table 1
+SEM-EDS analytical data: ranges for Tell Aswad and Qdeir 1.
+Tableau 1
+Données analytiques obtenues par MEB-EDS : plages de valeurs pour Tell Aswad et Qdeir 1.
+Tell Aswad Qdeir 1
+Al2 O3 SiO2 CaO Fe2 O3 Al2 O3 SiO2 CaO Fe2 O3
+Calc-alkaline Göllü Da ̆g 12.6–14.6 74.9–77.0 0.38–0.77 0.54–0.80 12.0–13.2 76.3–78.0 0.41–0.64 0.58–0.81
+Nenezi Da ̆g – – – – 14.1 74.4 0.99 1.04
+Bingöl B 15 72.3 0.58 1.31 13.6–15.7 70.7–74.6 0.65–1.15 1.34–1.91
+Peralkaline Bingöl A – – – – 10.8–12.9 73.0–74.96 0.20–0.55 3.18–4.21
+Nemrut Da ̆g 11.7–11.8 75.4–75.5 0.21–0.27 2.30–2.40 – – – –
+Contents in oxides are in weight per cent (wt%).
+The first group is defined by low Fe (0.54–0.80%) and
+high Ca counts (0.38–0.77%), with 58 artefacts from Tell
+Aswad and 40 from Qdeir 1; these elemental profiles
+matched those of source samples from either Acıgöl or
+Göllü Da ̆g in Cappadocia (Fig. 3). The inability to discriminate between these two sources on the basis of their major
+elements has been noted in a previous SEM-EDS study
+(Poupeau et al., 2010).
+The second group is defined by one piece from Tell
+Aswad and 89 from Qdeir 1, the artefacts having higher
+iron contents (1.34–1.91%) and higher calcium rates
+(0.65–1.15%). This compositional group correlates with the
+eastern Anatolian source of Bingöl B (Fig. 2).
+The peralkaline groups comprise two artefacts from Tell
+Aswad and 47 from Qdeir 1 (Table 1) material that has
+a high iron content (2.30–4.21%) and low calcium values
+(0.21–0.55%). These values match those of the peralkaline
+products of the Bingöl A and Nemrut Da ̆g sources in east-
+CaO (wt%)
+Fe 2 O3 (wt%)
+Sources
+Tell Aswad
+Qdeir 1
+NNZDSD
+GD
+ACGL
+Fig. 3. CaO vs. Fe2 O3 contents determined by SEM-EDS for Tell Aswad and
+Qdeir 1 artefacts plus source samples from Göllü Da ̆g, Suphan Da ̆g, Nenezi
+Da ̆g and Acıgöl. 90 % normal density ellipses. Source abbreviations as in
+Fig. 2.
+Fig. 3. Teneurs en CaO vs. Fe2 O3 déterminées par MEB-EDS pour les artefacts de Tell Aswad et Qdeir 1, ainsi que pour les échantillons géologiques
+de Göllü Da ̆g, Suphan Da ̆g, Nenezi Da ̆g et Acıgöl. Ellipses normales de
+densité à 90 %. Voir abréviations des sources en Fig. 2.
+ern Anatolia, materials which have very similar chemical
+profiles despite being 150 km distant from one another
+(Fig. 1). Discriminating these sources has long been a challenge in Near East obsidian studies (though see Chataigner,
+1994), with many characterization studies attributing an
+artefact’s raw material to a “Bingöl A/Nemrut Da ̆g” compositional group (e.g. Abbès et al., 2003). However, it has
+already been demonstrated that it is possible to distinguish
+them through various means. For example, Poidevin (1998)
+already proved that, using some major elements implied
+in the peralkalinity of these obsidians, i.e. aluminum and
+iron, we can easily separate them. Unfortunately, as Frahm
+(2012) indicated in a recent paper, those elements were
+rarely or poorly measured in past studies. Our statistical analysis reveal two different geo-compositional groups
+for the Nemrut Da ̆g: one with higher (> 6.50%) and one
+with lower (< 3%) iron contents, while the aluminium content is comprised between 10.9 and 12.9%. The Bingöl A
+samples (n = 2) show intermediate Fe (3.82–4.07%) and
+higher Al (10.8–10.9%) values. As a result, we can show
+here a perfect match between the Qdeir 1’ artefacts and
+the Bingöl A source, while the two peralkaline obsidians
+from Tell Aswad are matching the Nemrut Da ̆g composition
+(Fe2 O3 < 3%) (Fig. 2 and Table 1). According to our knowledge, it is the first time that Bingöl A and Nemrut Da ̆g have
+been distinguished by SEM-EDS.
+The fourth compositional group is represented by one
+artefact from Qdeir 1, whose chemical profile matched
+source materials from Nenezi Da ̆g in southern Cappadocia (Figs. 2 and 3), with Fe and Ca values of respectively
+1.04% and 0.99% (Table 1). This raw material is not attested
+in the Tell Aswad assemblage; indeed it is rarely found in
+the Near East (Chataigner, 1998).
+5.2. EDXRF
+Using a Zr/Sr contents plot, we once again view three
+compositional groups amongst the Tell Aswad artefacts and
+four for Qdeir 1 (Fig. 4). For the first group common to
+both sites (respectively concerning 100 and 143 artefacts)
+Zr contents range from 64 to 108 ppm while the Sr values
+are between 9 and 20 ppm. This first group can be clearly
+attributed to Göllü Da ̆g, i.e. with EDXRF it is now possible to
+discriminate between the products of this source and those
+from Acıgöl, which was the problem we had with SEM-EDS
+(Figs. 3 to 5). We show here this distinction with principal
+components analysis using Ti, Mn, Fe, Cu, Zn, Ga, Rb, Sr, Y,178 M. Orange et al. / C. R. Palevol 12 (2013) 173–180
+Table 2
+EDXRF analytical data: ranges for Tell Aswad and Qdeir 1.
+Tableau 2
+Données analytiques obtenues par EDXRF : plages de valeurs pour Tell Aswad et Qdeir 1.
+Tell Aswad Qdeir 1
+Sr Zr Sr Zr
+Calc-alkaline Göllü Da ̆g 8–21 53–100 9–20 64–108
+Nenezi Da ̆g – – 95–104 142–149
+Bingöl B 43 311 40–53 279–346
+Peralkaline Bingöl A – – 3–11 1053–1334
+Nemrut Da ̆g 3–7 1092–1231 – –
+Element contents are in ppm.
+Sr (ppm)
+Zr (ppm)
+MDD
+NNZD
+GD
+NMRT
+GD/SD/ACGL
+BA/NMRT
+BB
+Sources
+Tell Aswad
+Qdeir 1
+Fig. 4. Zr vs. Sr contents determined by EDXRF for Tell Aswad and Qdeir 1
+artefacts plus source samples. 99 % normal density ellipses. Source abbreviations as in Fig. 2.
+Fig. 4. Teneurs en Zr vs. Sr déterminées par EDXRF pour les artefacts de
+Tell Aswad et Qdeir 1, ainsi que pour les échantillons géologiques. Ellipses
+normales de densité à 99 %. Voir abréviations des sources en Fig. 2.
+PC1 (35.6%)
+PC2 (22.2%)
+SD
+GD
+ACGL
+Sources
+Tell Aswad
+Qdeir 1
+Fig. 5. Principal components analysis using Ti, Mn, Fe, Cu, Zn, Ga, Rb, Sr,
+Y, Zr, Nb, Ba, Pb and Th contents obtained by EDXRF, comparing obsidians
+from Tell Aswad, Qdeir 1 and source samples from Göllü Da ̆g, Suphan Da ̆g
+and Acıgöl. Ninety-nine percent normal density ellipses. Source abbreviations as in Fig. 2.
+Fig. 5. Analyse en composantes principales utilisant les teneurs en Ti, Mn,
+Fe, Cu, Zn, Ga, Rb, Sr, Y, Zr, Nb, Ba, Pb et Th obtenues par EDXRF, comparant
+les obsidiennes de Tell Aswad, Qdeir 1 et les échantillons géologiques de
+Göllü Da ̆g, Suphan Da ̆g et Acıgöl. Ellipses normales de densité à 99 %. Voir
+abréviations des sources en Fig. 2.
+Table 3
+Total number of Tell Aswad and Qdeir 1 obsidian artefacts analysed by SEM-EDS and EDXRF.
+Tableau 3
+Nombre total d’artefacts en obsidienne de Tell Aswad et Qdeir 1 analysés par MEB-EDS et EDXRF.
+Tell Aswad Qdeir 1
+SEM-EDS EDXRF SEM-EDS EDXRF
+Calc-alkaline Göllü Da ̆g 58 100 40 143
+Nenezi Da ̆g – – 1 4
+Bingöl B 1 1 89 230
+Peralkaline Bingöl A – – 47 102
+Nemrut Da ̆g 2 2 – –
+Total artefacts analysed 61 103 177 479
+Total artefacts assemblage 105 517M. Orange et al. / C. R. Palevol 12 (2013) 173–180 179
+Sources
+Tell Aswad
+Qdeir 1
+Y/Nb
+Nb/Pb
+NMRT
+BA
+Fig. 6. EDXRF ratio plot of Nb/Pb vs. Y/Nb for Tell Aswad, Qdeir 1 and
+source samples from Bingöl A and Nemrut Da ̆g. 99 % (dotted line) and
+90 % (solid line) normal density ellipses. Source abbreviations as in Fig. 2.
+Fig. 6. Diagramme binaire Nb/Pb vs. Y/Nb comparant les artefacts de Tell
+Aswad et Qdeir 1 aux échantillons géologiques de Bingöl A et Nemrut
+Daˇg. Ellipses normales de densité à 99 % (ligne en pointillés) et 90 % (ligne
+continue). Voir abréviations des sources en Fig. 2.
+Zr, Nb, Ba, Pb and Th contents. The second common group,
+involving one piece of Tell Aswad and 230 of Qdeir 1, has
+higher Zr (279–346 ppm) and Sr (40–53 ppm) concentrations (Table 2). The chemical signatures of these artefacts
+match those of samples from the Bingöl B source.
+Peralkaline obsidian is documented at each site, as
+evidenced by those artefacts with very high Zr values
+(1053–1334 ppm) and low Sr contents (3–11 ppm), with
+102 artefacts from Qdeir 1 and two from Tell Aswad. EDXRF
+further allows us to distinguish Bingöl A and Nemrut Da ̆g
+products via a ratio plot of Nb/Pb vs. Y/Nb (Fig. 6), whereby
+all the Qdeir 1 artefacts can be attributed to the former
+source, while the two pieces of Tell Aswad were sourced to
+the latter.
+The fourth compositional group is only attested at Qdeir
+1 with four artefacts, whose Zr values range between 142
+and 149 ppm and Sr values of 95-104 ppm, which match
+source samples from Nenezi Da ̆g (Fig. 4).
+6. Conclusion
+In summary, three raw materials were documented at
+Tell Aswad and four at Qdeir 1 (Table 3). In the first case,
+most of the tools were made of obsidian from Göllü Da ̆g in
+southern Cappadocia, followed by a lesser reliance on raw
+materials from the eastern sources of Bingöl B and Nemrut
+Da ̆g. The occupants of Qdeir 1 used the same raw materials, though here the situation is reversed, with eastern
+products dominant, mainly Bingöl B, and smaller quantities of southern Cappadocian obsidian, which at this site
+also included a handful of Nenezi Da ̆g products.
+It has also been demonstrated for the first time that:
+• EDXRF can successfully discriminate the Cappadocian
+sources of Göllü Da ̆g and Acıgöl;
+• both EDXRF and SEM-EDS are capable of discriminating
+the eastern peralkaline source materials from Bingöl A
+and Nemrut Da ̆g.
+While we have only analysed a few eastern Anatolian
+source samples for the former technique, re-running the
+same artefacts on EDXRF and gaining the same results provides us with confidence in this assertion.
+Another significant result of our work has been to highlight the intellectual impact of working with larger data
+sets. By analysing entire assemblages, we have been able to
+provide a major archaeological contribution on both sites:
+thus in Tell Aswad we shown that Bingöl B obsidian was
+already consumed during the Middle/Late PPNB, while in
+Qdeir 1 we revealed for the first time the use of Nenezi
+Da ̆g obsidians. These data were not revealed in previous
+small-scale studies; the implication is clearly that to reconstruct obsidian exchange networks large sample sizes are
+required.
+In summary, we have established that both SEM-EDS
+and EDXRF can make important contributions to obsidian characterization studies in a Near Eastern context, not
+least due to their non-destructive capabilities. However,
+while source distinction with EDXRF is clear, it remains
+that SEM-EDS has a problem in differentiating the source
+products of Acıgöl and Göllü Da ̆g in Cappadocia; the former
+technique is also significantly faster. Nevertheless, we have
+demonstrated in this study that the SEM-EDS can distinguish sufficiently clearly the eastern Anatolian sources,
+thus adding to its value in Near Eastern sourcing studies.
+Acknowledgements
+The authors thank Frédéric Abbès for providing the
+obsidian assemblages and Yannick Lefrais for his management of the CRP2A scanning electron microscope. We
+also thank Pierre Machut and Brigitte Spiteri for the
+help during sample preparation for SEM-EDS analysis. The
+MAX Lab was established and is currently operated by
+a Canada Foundation for Innovation Leader’s Opportunity
+Fund/Ontario Research Fund. Orange’s time at the MAX
+Lab was funded by Aquimob (mobility grant allocated
+by the Region Aquitaine). This project was partly coordinated by the University of Bordeaux and has received
+support from the National Agency for Research under
+the ‘future investment’ program (ANR-10-52-LabX) while
+Carter’s involvement was covered by a Standard Research
+Grant of the Social Sciences and Humanities Research Council,
+Canada.
+References
+Abbès, F., Bellot-Gurlet, L., Cauvin, M.C., Delerue, S., Dubernet, S., Poupeau, G., Stordeur, D., 2003. Provenance of the Jerf el Ahmar (Middle
+Euphrates Valley, Syria) obsidians. J. Non-Cryst. Solids 323, 162–166.
+Acquafredda, P., Muntoni, I.M., 2008. Obsidian from Pulo di Molfetta
+(Bari, southern Italy): provenance from Lipari and first recognition180 M. Orange et al. / C. R. Palevol 12 (2013) 173–180
+of a Neolithic sample from Monte Arci (Sardinia). J. Archaeol. Sci. 35,
+947–955.
+Aspinall, A., Feather, S.W., Renfrew, C., 1972. Neutron activation analysis
+of Aegean obsidians. Nature 237, 333–334.
+Butalag, K., Calcagnile, L., Quarta, G., Maruccio, L., D’Elia, M., 2008. PIXE
+analysis of obsidian tools from radiocarbon dated archaeological contexts. Nucl. Instr. and Meth. B 266, 2353–2357.
+Carter, T., 2009. L’obsidienne égéenne: caractérisation, utilisation et culture. In: Moncel, M.H., Fröhlich, F. (Eds.), L’Homme et les matières
+minérales précieuses de la Préhistoire à aujourd’hui. BAR International
+Series 1934. John Erica Hedges Ltd, Oxford, pp. 199–212.
+Carter, T., Shackley, M.S., 2007. Sourcing obsidian from Neolithic
+C ̧ atalhöyük (Turkey) using energy dispersive X-ray fluoresence.
+Archaeometry 49, 437–454.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N.J.G., 2006. A new programme
+of obsidian characterization at C ̧ atalhöyük. Turkey. J. Archaeol. Sci. 33,
+893–909.
+Chataigner, C., 1994. Les propriétés géochimiques des obsidiennes et la
+distinction des sources de Bingöl et du Nemrut Da ̆g. Paleorient 20,
+9–17.
+Chataigner, C., 1998. Sources des artefacts du Proche-Orient d’après
+leur caractérisation géochimique. In: Cauvin, M.C., Gourgaud, A.,
+Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.),
+L’Obsidienne au Proche et Moyen Orient, du volcan à l’outil. BAR International Series 738. Archaeopress, Oxford, pp. 273–324.
+Davis, M.K., Jackson, T.L., Shackley, M.S., Teague, T., Hampel, J.H.,
+1998. Factors affecting the Energy-Dispersive X-Ray Fluorescence
+(EDXRF) analysis of archaeological obsidian. In: Shackley, M.S. (Ed.),
+Archaeological obsidian studies. Method and theory, Advances in
+Archaeological and Museum Science 3. Plenum Press, New York and
+London, pp. 159–180.
+Delerue, S., 2007. L’obsidienne dans le processus de néolithisation du
+Proche-Orient (12000–6500 BC). Université Michel de Montaigne,
+Bordeaux 3, Pessac, 541 p. (PhD Dissertation).
+Frahm, E., 2012. Distinguishing Nemrut Da ̆g and Bingöl A obsidians:
+geochemical and landscape differences and the archaeological implications. J. Archaeol. Sci. 39, 1436–1444.
+Glascock, M.D., Braswell, G.E., Cobean, R.H., 1998. A systematic approach to
+obsidian source characterization. In: Shackley, M.S. (Ed.), Archaeological obsidian studies. Method and theory, Advances in Archaeological
+and Museum Science 3. Plenum Press, New York and London, pp.
+15–63.
+Gratuze, B., Barrandon, J.N., Al Isa, K., Cauvin, M.C., 1993. Non-destructive
+analysis of obsidian artefacts using nuclear techniques: investigation
+of provenance of Near Eastern artefacts. Archaeometry 35, 11–21.
+Khalidi, L., Gratuze, B., Boucetta, S., 2009. Provenance of obsidian excavated from Late Chalcolithic levels at the sites of Tell Hamoukar and
+Tell Brak. Syria. Archaeometry 51, 879–893.
+Kuisma-Kursula, P., 2000. Accuracy, precision and detection limits of
+SEM–WDS, SEM–EDS and PIXE in the multi-elemental analysis of
+medieval glass. X-Ray Spectrom. 29, 111–118.
+Le Bourdonnec, F.X., Delerue, S., Dubernet, S., Moretto, P., Calligaro,
+T., Dran, J.C., Poupeau, G., 2005. PIXE characterization of western
+Mediterranean and Anatolian obsidians and Neolithic provenance
+studies. Nucl. Instr. and Meth. B 240, 595–599.
+Le Bourdonnec, F.X., Bontempi, J.M., Marini, N., Mazet, S., Neuville, P.F.,
+Poupeau, G., Sicurani, J., 2010. SEM-EDS characterization of western
+Mediterranean obsidians and the Neolithic site of A Fuata (Corsica). J.
+Archaeol. Sci. 37, 92–106.
+Mulazzani, S., Le Bourdonnec, F.X., Belhouchet, L., Poupeau, G., Zoughlami,
+J., Dubernet, S., Tufano, E., Lefrais, Y., Khedhaier, R., 2010. Obsidian
+from the Epipalaeolithic and Neolithic eastern Maghreb. A view from
+the Hergla context (Tunisia). J. Archaeol. Sci. 37, 2529–2537.
+Poidevin, J.L., 1998. Les gisements d’obsidienne de Turquie et de Transcaucasie : géologie, géochimie et chronométrie. In: Cauvin, M.C.,
+Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L.,
+Chataigner, C. (Eds.), L’Obsidienne au Proche et Moyen Orient, du volcan à l’outil. BAR International Series 738. Archaeopress, Oxford, pp.
+105–203.
+Pollard, A.M., Heron, C., 2008. Archaeological Chemistry, 2nd ed. RSC Publishing, Cambridge, 75–97.
+Poupeau, G., Le Bourdonnec, F.X., Carter, T., Delerue, S., Shackley,
+M.S., Barrat, J.A., Dubernet, S., Moretto, P., Calligaro, T., Mili  ́c,
+M., Kobayashi, K., 2010. The use of SEM-EDS, PIXE and EDXRF
+for obsidian provenance studies in the Near East: a case study
+from Neolithic C ̧ atalhöyük (central Anatolia). J. Archaeol. Sci. 37,
+2705–2720.
+Renfrew, C., Dixon, J.E., Cann, J.R., 1966. Obsidian and early cultural contact
+in the Near East. Proc. Prehist. Soc. XXXII, 30–72.
+SAS, JMP, Version 10. SAS Institute Inc., Cary, NC, 2012.
+Shackley, M.S., 1998. Archaeological obsidian studies: method and theory.
+Plenum Press, London and New York, 243 p.
+Shackley, M.S., 2005. Obsidian: Geology and Archaeology in the North
+American Southwest. University of Arizona Press, Tucson, 247 p.
+Stordeur, D., 1993. Sédentaires et nomades du PPNB final dans le désert
+de Palmyre (Syrie). Paleorient 19, 187–204.
+Stordeur, D., Jamous, B., 2009. La Damascène et la Révolution néolithique.
+Ann. Archéol. Arabes Syr. LI-LII, 7–16.
+Yellin, J., 1995. Trace-element characteristics of central Anatolian obsidian
+flows and their relevence to prehistory. Isr. J. Chem. 35, 175–190.

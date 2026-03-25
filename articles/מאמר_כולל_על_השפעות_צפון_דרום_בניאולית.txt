@@ -1,0 +1,1081 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/308368890
+North and South. Variable Trajectories of the
+Neolithic in the Levant
+Article
+CITATION
+1
+READS
+82
+2 authors:
+Some of the authors of this publication are also working on these related projects:
+The Upper Palaeolithic and Epipalaeolithic in the Near East View project
+The Clay Repertoire from Pre-Pottery Neolithic B Kfar HaHoresh View project
+Anna Belfer-Cohen
+Hebrew University of Jerusalem
+145 PUBLICATIONS 3,254 CITATIONS
+SEE PROFILE
+Adrian Nigel Goring-Morris
+Hebrew University of Jerusalem
+161 PUBLICATIONS 1,825 CITATIONS
+SEE PROFILE
+All content following this page was uploaded by Adrian Nigel Goring-Morris on 22 September 2016.
+The user has requested enhancement of the downloaded file. All in-text references underlined in blue are added to the original document
+and are linked to publications on ResearchGate, letting you access and read them immediately.1
+North and South – Variable Trajectories of the Neolithic in the
+Levant
+Anna Belfer-Cohen & Nigel Goring-Morris
+For years, there has been an ongoing debate about which region played a more pivotal role during the various stages
+of the Neolithization processes, the southern or the northern Levant. As more data accumulates through the larger
+region of West Asia it becomes clear that evolutionary developments coexisted, portraying individual local rhythms and
+varying interactions with neighbouring societies throughout the Levant (and beyond). Examples are provided through
+selected material culture features of the Early Neolithic entities generally accepted as markers of the various stages
+within the Neolithic sequence.
+Introduction
+With the beginning of archaeological research in the
+Near East it was clearly the southern Levant that received
+most of the attention, and the excavations at the unique site
+of Jericho provided a chrono-stratigraphic sequence that
+served (and indeed still serves) as the foundation for the basic
+four-fold subdivision of the Near Eastern Neolithic (Kenyon
+1956). In the famous debate between Kenyon (1957) and
+Braidwood (1957) concerning the precise location within the
+Fertile Crescent in which one should look for the beginnings
+of the Neolithic, the radiocarbon evidence then indicated
+the precedence of Jericho over Jarmo (Iraqi Kurdistan). Still,
+it was obvious that, while Kenyon believed that most new
+stages in the archaeological sequence represented incursions
+from elsewhere rather than local developments, she voiced the
+opinion of many others in recognizing the Natufian culture as
+a precursor of Neolithic developments in the region. Indeed,
+even quite recently the paradigm of the so-called ‘primacy
+of the southern Levant’ continued to rankle (e.g. Watkins
+2008). Through time, from the 1970s onwards, excavation
+projects took place in the greater region of the northern
+Fertile Crescent and new sites provided a plethora of solid
+data from the Early Neolithic rivalling the archaeological
+record of the southern Levant, e.g. the series ‘The Neolithic
+in Turkey’ (Özdogan et al. 2011–2014). While research has
+continued apace in the southern Levant, slowly but surely
+the geographic origin of purported innovations has shifted
+northwards towards the Middle Euphrates and Tigris regions.
+Thus, while opinions still differ as regards the PPNA, the
+south Levantine PPNB was considered to represent a cultural
+‘package’ imported from the north, comprising all its essential
+subsistence and material culture characteristics. The site of
+Jerf el-Ahmar (Stordeur 2012) has played a crucial role in the
+assumption of the PPNA–PPNB transition occurring in the
+north (and see Edwards et al. 2004; Kuijt 2003).
+Subsequently, new early Neolithic sites in the northern
+Levant have been reported from the region further to the
+east along the upper reaches of the Tigris, e.g. Körtik Tepe
+and Gusir Tepe (Karul 2011; Özkaya and Coşkun 2011),
+as well as the area between the Middle Euphrates and the
+Mediterranean coast, e.g. Tell Qaramel (Mazurowski 2006;
+Mazurowski and Kanjou 2012). There also have been
+renewed and new investigations in Central Anatolia at
+Boncuklu (Baird et al. 2012), Aşikli (Özbaşaran 2012) and
+Çatalhöyük (Hodder 2012).
+No less spectacular have been the series of investigations
+in Cyprus over the past two decades that have pushed back
+the systematic colonization of the island to the end of the
+late Epipalaeolithic, including a rich Early Neolithic record
+(Guilaine et al. 2011; McCartney 2011; 2010; Peltenburg et
+al. 2001; Simmons 2001, 2007; Vigne et al. 2012).
+At the same time, in the south-central Levant a plethora
+of projects were initiated from the late 1970s onwards
+– most notably east of the Rift Valley in Transjordan in
+the Mediterranean zone, e.g. ‘Ain Ghazal (Rollefson 1983;
+1986; 1998), Basta (Gebel et al. 2006b; Nissen et al. 2004;
+and references therein), but also in the semi-arid and arid
+peripheries in the eastern desert, Sinai and the Negev (e.g.
+Betts et al. 2013; Fujii 2010; Garrard 1998; Goring-Morris
+and Belfer-Cohen 2014; Henry 2005).
+The Damascus basin plays a key geographical role in
+connecting the southern and northern Levant, in the sense
+of whether Tell Aswad (Stordeur et al. 2010) is located within
+the south-central Levant, as we believe (Goring-Morris and
+Belfer-Cohen 2011a), or whether it relates to the northern
+Levant in terms of modern political boundaries.2 Gary Rollefson Festschrift
+Additionally, and notwithstanding contrary views (see
+above), the recent investigations at sites such as Motza
+(Khalaily et al. 2007) and Kfar HaHoresh (Goring-Morris et
+al. 2008) in the Mediterranean zone of the southern Levant
+have demonstrated convincingly that there is evidence for
+the in situ presence of the Early PPNB, a short ‘bridging’
+phase, chronologically and developmentally, between the
+end of the PPNA and the main PPNB phases, locally.
+Still, even after it has transpired that within the Near
+East local, regional variants of Neolithic evolutionary
+developments coexisted, each with its own rhythm, pace and
+varying interactions with neighbouring societies, questions
+regarding ‘origins’ and ‘first occurrences’ of the main/
+common Neolithic traits have remained open to debate,
+both in the practical as well as within the theoretical realms
+of ongoing research. We would like to present examples of
+the current state of the south-north ‘dichotomy’, as reflected
+by selected material culture characteristics of the Early
+Neolithic entities; these are generally accepted as markers of
+the various stages within the Neolithic sequence.
+Selected Facets of Early Neolithic Material Culture
+Since the realm of domestication, whether of plants or
+animals, though to be the core of ‘Neolithization’ processes,
+is too complex and wide a subject to be treated herein – and
+see current overviews concerning issues relating to plant (e.g.
+Asouti and Fuller 2013; Gopher, Lev Yadun & Abbo 2013)
+and animal (Vigne et al. 2011; Zeder 2012) domestication
+– we focus upon more discrete traits such as architectural
+features, distinct lithic techno-typological variants, symbolic
+motifs, and funerary practices.
+Architectural features
+The development of architectural features relates to both
+residential as well as communal/public spheres, the latter
+including monumental elements (e.g. Byrd 2005; Goring-
+Morris and Belfer-Cohen 2008; Schmidt 2012).
+In terms of Neolithic domestic structures there is a shift
+from oval to quadrilateral architecture in both north and
+south, considered, when first defined, as a major marker of
+the Neolithization processes. Research has demonstrated
+that there was continued use of oval structures throughout
+the course of the Neolithic and later still, especially in more
+peripheral areas, where adaptations were based on greater
+mobility and different subsistence patterns, i.e. pastoralism
+vs. agriculture (e.g. Fuiji 2013; Martin 1999). Moreover,
+even in the region where that shift was observed, it differed
+in magnitude and timing, regardless of whether it is a
+southern or a northern site. Indeed, in some instances both
+oval and quadrilateral structures co-existed within the same
+site, e.g. at Jerf el-Ahmar in the north (Stordeur 2012), and
+in the south at Early PPNB Motza and M/LPPNB Wadi
+Abu Tulayha (Fujii 2009; Khalaily et al. 2007).
+The initiation of public space and buildings relates to
+increasing community sizes and sedentism as mechanisms
+of social cohesion and solidarity in order to alleviate
+increasing scalar stress (Dunbar 2004; Johnson 1982). In
+terms of the history of research, Kenyon’s excavations at
+Jericho revealing the PPNA tower, wall and silos were the
+first discoveries of its kind. For decades the tower stood
+alone and inevitably led to claims concerning the supposed
+‘primacy’ of the south. This was sustained through the
+discoveries of cultic structures at PPNB Beidha and later
+on those at ‘Ain Ghazal (Kirkbride 1968; Rollefson 2000).
+However, matters were turned on their head during the past
+25 years by the discovery, seemingly ‘out of nowhere’, of
+‘kiva-type’ communal structures at the northern PPNA Jerf
+el-Ahmar and Tel ‘Abr 3 (Stordeur et al. 2000; Yartah 2005);
+and, retroactively, at Mureybet, too – previously interpreted
+as a residential structure (Cauvin 1994; Ibañez 2008). Of
+obvious relevance are the spectacular monumental enclosures
+at PPNA/B Göbekli Tepe and other similar sites in the area of
+the middle Euphrates (Schmidt 2012). Still, the more recent
+discovery of monumental communal structures in the south
+at PPNA Wadi Faynan 16 and early PPNB Kfar HaHoresh
+makes the dichotomous (south vs. north) overviews of early
+Neolithic developments in public architecture obsolete and
+misleading both as regards the data and their interpretation
+(Finlayson et al. 2011; Goring-Morris 2008; Goring-Morris
+et al. 2008).
+Chipped stone techno-typology
+Detailed techno-typological studies of Early Neolithic
+chipped stone industries have revealed a somewhat fractured
+picture concerning inventions, innovations and their
+subsequent diffusion in the northern and southern regions
+of the Levant.
+The current evidence would appear to indicate that
+the earliest lithic markers, namely the Khiam points and
+Hagdud/Gilgal truncations originated in the south with the
+transition from the final Natufian to the Khiamian (Enoch-
+Shiloh and Bar-Yosef 1997; Nadel 1997). Shortly thereafter
+similar forms appear also in the PPNA and ‘Round House
+Horizon’ in the north (e.g. Peasnall 2000; Watkins et al.
+1989). Additionally, the marked morphological similarity
+of the Late Epipalaeolithic Harif point reported from sites
+in the Negev and Sinai and the ‘Round House Horizon’
+Nemrik point of the Middle Euphrates and Upper Tigris is
+notable (Goring-Morris and Belfer-Cohen 2011b).
+However, the consensus of opinion posits that subsequently
+the primary direction of innovation and diffusion was from
+the north to the south: this includes both the innovation
+of the bidirectional (naviform) technique during the later
+stages of the PPNA at Jerf el-Ahmar producing targeted
+blade blanks, as well as arrowhead types such as the Helwan
+point (Abbès 2003; Gopher 1989; Barzilai 2013).3Belfer-Cohen & Nigel Goring-Morris: North and South – Variable Trajectories of the Neolithic in the Levant
+In the south, the picture is rather complex; there is the
+abrupt appearance of the bidirectional naviform method,
+well documented during the Early PPNB at certain
+southern sites such as Motza and Kfar HaHoresh (Barzilai
+2010). The raw material of the high quality naviform blades
+from Early PPNB levels at both sites is clearly non-local,
+but does not appear to derive from the Middle Euphrates
+region, so perhaps hitherto undocumented, geographically
+intermediate sources in the area between Gilead in northern
+Transjordan and the Palmyra basin should be sought
+(personal observations; Barzilai 2010; 2013; Khalaily et al.
+2007).
+With regards to the Helwan points in the south (Gopher
+1989), some are fashioned on elongated bidirectional blade
+blanks as at Mikhmoret, while in other coeval sites such as
+Nahal Lavan 109 morphologically similar Helwan points
+are fashioned on short blade/flake blanks deriving from
+other reduction sequences; and, indeed, sometimes both
+reduction sequences are found in the same assemblage, as at
+Motza (Barzilai 2013). Also of interest is the rare appearance
+of obsidian Helwan points, e.g. Nahal Lavan 109, Qumran
+cave 24, Motza and Kfar HaHoresh (Burian et al. 1999;
+Gopher, Lemorini et al. 2013; Goring-Morris et al. 2008;
+Khalaily et al. 2007). As an aside, no other projectile point
+types fashioned on obsidian have been reported from PPNA/
+B contexts in the south.
+As data accumulate and there is more information about
+the Levantine lithic industries, it becomes quite clear that
+the regional interactions observed regarding various aspects
+of the chipped stone technology and typology were by
+no means unidirectional; an interesting example of inter-
+regional exchange of projectile points has been reported
+from Tell Ain el-Kerkh in the north (Arimura 2013).
+Symbols and decorative motifs
+To illustrate our perspective detailed in the introduction,
+we shall touch briefly upon one symbol only and one motif
+– the ‘bull’ and the meander/chevron pattern, the association
+of which with the ‘Neolithic’ is unequivocal.
+The bull
+Stating that the ‘revolution of symbols’ is a major
+component of the ‘Neolithic revolution’, Jacques Cauvin
+(2000) mentions the appearance of the ‘bull’ as a most
+representative symbol of that revolution. Indeed, the ‘bull’,
+present already in symbolic contexts at PPNA Jerf el-Ahmar
+(Stordeur 2010) and PPNA/B Göbekli Tepe (Peters and
+Schmidt 2004 ; Schmidt 2012) as well as at the Round
+House Horizon site of Hallan Çemi (Rosenberg 1999)
+continued to figure prominently in symbolic contexts in
+northern regions, especially in central Anatolia, whether
+at Middle PPNB Aşikli (Özbaşaran 2012) or Late PPNB
+Çatalhöyük (Mellaart 1975; Hodder 2012).
+However, recent investigations conclusively demonstrate
+(and for detailed discussion see Goring-Morris and Belfer-
+Cohen 2011b), that the motif of the bull within symbolic
+contexts (burials and/or feasting) also featured in the
+southern Levant from at least the Late/Final Natufian, e.g.
+at Hilazon Tachtit cave (Munro and Grosman 2010), as well
+as the PPNA Khiamian, e.g. Hatula (Goring-Morris and
+Belfer-Cohen 2011b), and Early PPNB Kfar HaHoresh and
+Motza (Horwitz Kolska and Goring-Morris 2004; Khalaily
+et al. 2007; and see Twiss 2008). Here, too, we should recall
+the presence of small figurative stone items, interpreted as
+bucrania ‘horns’, which are found at Early Round House
+Horizon Hallan Çemi (Rosenberg 2011) and Körtik
+Tepe (Özkaya et al. 2013) in the north, as well as at Final
+Natufian Nahal Ein Gev II in the southern Levant (Bar-
+Yosef and Belfer-Cohen 2000). Accordingly, it is difficult
+to pinpoint exactly when and where the aurochs/bucrania/
+horns acquired their symbolic status.
+The meander/chevron pattern
+This pattern is a fairly simple but distinctive design that
+has a widespread geographical and chronological distribution
+throughout the Near East. It seems to first appear during the
+Natufian at Eynan (Perrot 1966), Wadi Mataha (Gregg et al.
+2011) and Upper Besor 6 (Goring-Morris 1998), continuing
+thereafter. Of interest is its presence in PPNA contexts in the
+southern Levant, on incised pebbles at Netiv Hagdud (Bar-
+Yosef and Gopher 1997) and (as a mirror image) at Wadi
+Faynan 16 (Finlayson et al. 2011); it was found also incised
+on benches in the kiva-like structures at PPNA Wadi Faynan
+16 in the south, and at PPNA Jerf el-Ahmar (Stordeur et
+al. 2000), and Early PPNB Djadé (Coqueugniot in press)
+on the Middle Euphrates, in the north. Needless to say, the
+meander/chevron pattern subsequently became a common
+theme, most especially with the appearance of pottery in the
+Late Neolithic throughout the Levant.
+Burial practices
+Mortuary practices are an integral part of the human
+social fabric, reflecting the nature and character of a
+particular group. This is particularly so for Levantine
+Neolithic societies, and it has been a common assumption
+that changes and variability in burial practices indicate
+the stage and degree of complexity of the Neolithization
+processes of the given society. Practices such as skull removal
+are considered as reflecting a long-standing tradition,
+originating in the Epipalaeolithic Natufian, still retained
+by many Neolithic communities, both in the south and
+north of the Levant. Other, novel and distinctive behaviours
+are thought to represent more ‘advanced’ stages of social
+evolution pertaining to the ‘Neolithic Revolution’. We
+detail several illustrations of such behaviours in mortuary
+treatments in the northern and southern spheres of the4 Gary Rollefson Festschrift
+Near East. For detailed discussion on such pertinent issues
+as skull removal and plastered skulls, see e.g. Bonogofsky
+2006; Goring-Morris and Belfer-Cohen 2011a, in press;
+and references therein.
+It is notable that the burial practices do not reflect a
+linear evolution. Thus particular associations observed
+in northern Early Neolithic sites, and not reported from
+contemporaneous southern sites, can be found in southern
+Epipalaeolithic sites. An example concerns the inclusion of
+tortoise/turtle carapaces within graves, e.g. in the Natufian
+sites of Eynan and Hilazon Tachtit Cave in the south
+(Grosman et al. 2008; Perrot and Ladiray 1988), as well as in
+the Early Round House Horizon (PPNA) at Körtik Tepe on
+the Tigris in the north (Özkaya and Coşkun 2011; Özkaya
+et al. 2013). The direct association in graves between human
+burials and other animal remains already begins during the
+Middle Epipalaeolithic Geometric Kebaran in the southern
+Levant, with the inclusion in a grave of an articulated fox
+at Uyun el-Hammam (Maher et al. 2011). This custom
+persists and can be observed during the Natufian as joint
+human/dog burials at Eynan and Hayonim Terrace (Davis
+and Valla 1978; Perrot and Ladiray 1988; Tchernov and
+Valla 1997), in the PPNA with a cattle cranium in a burial
+at Hatoula (Lechevallier and Ronen 1994), and the PPNB
+when cattle and fox bones at Kfar HaHoresh and wild boar
+at ‘Ain Ghazal were interred together with human burials
+(Goring-Morris and Horwitz 2007; Horwitz Kolska and
+Goring-Morris 2004; Lechevallier and Ronen 1994). In the
+north one can mention besides the burials at Körtik Tepe
+(see above) also the one with a sheep from Late PPNB levels
+at Çatalhöyük (Russell and During 2006).
+In examining the data set of burial practices in the greater
+Levant it becomes quite apparent that those mortuary
+practices were first observed during the Neolithic, occurred
+throughout the region, and, while some seemingly appeared
+first in the south, others appeared first in the north. Without
+giving a detailed account, it will suffice to mention a few of
+those occurrences.
+‘Seated’ burials were first reported in the literature from
+the Middle PPNB site of Tel Halula (Ortiz et al. 2013) in
+the northern Levant, but similar burials have recently been
+reported from the PPNA site of el-Hemmeh in the southern
+Levant (Makarewicz and Rose 2011), and there is also the
+Early Epipalaeolithic sitting burial at ‘Ayn Qasiyya (Richter
+et al. 2010). The same is true for the custom of burying in
+stone-lined cists, first reported from the PPNB northern
+sites of Djadé and Çayönu. Similar burials were recovered
+from the southern PPNB site of Ba’ja (Coqueugniot 2006;
+Croucher 2012; Gebel et al. 2006a). In the same vein one
+should note the existence of ‘charnel houses’ in the north at
+PPNB Çayönu (Özdogan 1999) and in the south at PPNB
+Shakrat Msiad (Kinzel et al. 2011). We may also include
+herein the use of plastic materials related to burial practices
+– gypsum/lime plaster was found in direct association with
+burials in the southern Levantine PPNA sites of Wadi
+Faynan 16 and el-Hemmeh (Finlayson and Mithen 2007;
+Makarewicz and Rose 2011), as well as in the northern sites
+at PPNA Körtik Tepe (Özkaya et al. 2013) and at Middle/
+Late PPNB Tell abu Hureyra (Moore et al. 2000). Much the
+same situation pertains with regards to the cinnabar pigment
+originating in central Anatolia (Mellaart 1975), found on
+skulls at Late PPNB Çatalhöyük (Boz and Hager 2013) and
+used for colouring one of the plastered skulls from Middle/
+Late PPNB Kfar Hahoresh (Goren et al. 2001).
+Discussion
+Sophisticated pretreatment of organic samples and
+the introduction of detailed calibration curves in recent
+years have revolutionized 14C dating for the period under
+discussion, namely the very end of the Pleistocene and
+the earlier Holocene. Additionally, greater awareness
+among researchers brought about the submission of series
+of samples, providing more precise data concerning their
+contexts. However, while there are often discussions of
+site-specific sequences (e.g. Boaretto et al. 2010; Edwards
+et al. 2004; Khalaily et al. 2007; Mazurowski et al. 2009),
+or sequences of selected groups of site (e.g. Bischoff 2006;
+Weninger et al. 2009), updated detailed inter-regional
+studies, i.e. northern vs. southern Levant, are lacking.
+Additionally there are issues of outliers and, sometimes,
+problematic contextual information and dubious dated
+materials. Accordingly, the current state of Levantine
+chronological frameworks is in flux, rendering meaningful
+comparisons at the inter-regional level, and the granting
+of ‘primacy’ of one area over another in specific domains,
+problematic and moot.
+Similar parallels and debates concern the processes
+involved in plant and animal manipulation and initial
+domestication. In recent decades it has become clear that such
+early developments, whether slow or rapid, should be viewed
+from a long-term perspective (Belfer-Cohen and Goring-
+Morris 2011). Was there indeed but a single ‘core’ region
+of origin as some have argued, e.g. Abbo et al. 2011? Taking
+into consideration the problem of defining ‘beginnings’ and
+the issue of their archaeological recognition, this is in our
+opinion but a non sequitur. Yet, once the process had begun,
+i.e. been archaeologically recognized, could innovations
+and inventions occur sporadically and independently in a
+number of places at about the same time? In other words,
+can we observe polycentric processes (Willcox 2007; and
+see Vigne et al. 2011; Zeder 2011 for overviews for both
+plants and animals)? Here, recent research on Cyprus, and
+its implications for developments on the mainland, are
+instructive and pivotal. For, with the earliest (currently)
+orderly colonization of the island during the PPNA and
+earlier PPNB we find the systematic introduction of non-5Belfer-Cohen & Nigel Goring-Morris: North and South – Variable Trajectories of the Neolithic in the Levant
+endemic carnivores, such as the dog, cat and fox, as well
+as other species. Some are domesticated (goat, sheep and
+cattle), others were never domesticated (fallow deer), while
+still others appear first as wild specimens (wild boar) and
+only later on as domesticates (pigs) (Vigne et al. 2009; 2012).
+Evidently animals were being transported systematically
+from the mainland, usually in sufficient numbers to establish
+viable and sustainable herds – though after some time the
+cattle disappeared from the faunal record at Shillourokambos
+(Guilaine et al. 2011). Moreover, some of the domesticated
+species are (at least currently) documented earlier on Cyprus
+than on the mainland.
+The early colonization of Cyprus conclusively
+demonstrates the mobility of Early Neolithic groups and
+even communities settling in new areas, sometimes, but not
+always, previously unoccupied. In this context it is instructive
+to ‘rescue’ the naïve early assumption by Kenyon (1970) that
+the archaeological record of the southern Levant was based
+upon waves of nomads from the ‘desert’. It is clear today, as
+reflected in shifting site distributions throughout the Near
+East during the terminal Pleistocene/early Holocene that
+groups and even communities abandoned certain localities
+and founded new settlements elsewhere. It is difficult to
+pinpoint the scale, both in numbers and in geographical
+spread involved, but we should perhaps brace ourselves for
+surprises as regards the distances and intensity of such posited
+movements. Indeed, some of the examples enumerated above,
+such as variable but distinctive architectural developments,
+funerary practices, symbolic motifs, aspects of knapping
+techniques and specific typological characteristics are likely
+to reflect the dynamics of groups moving over the landscape
+to found new settlements, sometimes in isolation and
+sometimes coalescing with other groups. Thus, retaining
+‘old’ traditions, while incorporating new behaviours through
+interactions between endemic groups and ‘new comers’, may
+explain the blend and variability of the archaeological data
+referred to above.
+During the PPNA and, especially, during the course of
+the PPNB, initial steps were taken to address issues stemming
+from the stresses of living in larger communities for longer
+periods of time, especially in the larger settlements in each
+region. Other tensions would have would have derived from
+differences in subsistence, disparities in access to actual
+resources and knowledge, and the emergence of wealth at
+the personal, extended family and community scales.
+Local attempts at alleviating such tensions would have
+been constrained by the ‘assets’ available, the knowledge
+and manpower at hand (see discussion in Goring-Morris
+and Belfer-Cohen 2014; Shelach et al. 2011). Moreover,
+endeavours to cope with socio-economic inequalities may
+have led to attempts to ‘level the playing field’ and emphasize
+(previous) egalitarian values, especially in the symbolic
+and ritual spheres, whether within settlements or between
+nearby communities. Of course each community or portion
+thereof brought with it its own particular traditions, which
+were then incorporated within the broader fabric of social
+relations. Local solutions led to separate and distinct, yet
+parallel, outcomes as reflected in the significant material
+variability apparent in the archaeological record. The Early
+Neolithic architectural phenomena and the considerable
+variability displayed can be easily explained by the above.
+This may also be an explanation of the central role of
+Göbekli Tepe as reflecting an amphictyony-like centre for
+competing communities in the region (Belfer-Cohen and
+Goring-Morris 2002, 44; Schmidt 2005, 15).
+Each innovation or invention that one can observe in the
+Early Neolithic took time to develop and was intrinsically
+involved with other technologies, each accordingly differing
+in tempo, scale and intensity between the different regions
+(e.g., the dependence of the pottery industry on evolving
+clay and plaster technologies, Ben-Michael 2014; Biton et
+al. 2014; Schmandt-Besserat 1974; 1977a; 1977b). Even if
+the very first notion pertaining to any particular invention
+was conceived in the brain of one particular person, at a
+certain time and in a specific locality, once the idea or the
+concept spread, its implementation and testing in everyday
+life could happen contemporaneously and independently in
+several places. It could occur at the same time, or at some
+stages earlier and other stages later in each locality, dependent
+upon local circumstances and contexts.
+There remains the issue of communication and
+connections between communities. Exchange and trade
+in valued commodities certainly increased significantly
+from the Natufian, the PPNA through to the PPNB. Most
+probably those could have been vehicles for the promotion
+of additional information relevant to various aspects of
+daily existence. Another possible means of disseminating
+information and knowledge is the specialists groups, not
+tied to specific locales, playing the ‘middlemen’ in such
+processes. They would most probably have passed on not
+just the actual goods, but also the ‘knowledge’ associated
+with their production, akin to the guilds or itinerant tinkers
+of the Middle Ages.
+The existence of ‘small-world exchange networks’
+probably provides a parsimonious framework to comprehend
+such dynamics at various levels. These may have involved the
+exchange of exotic items, other goods, or knowledge, with
+certain sites functioning as central nodes in such processes
+(and see Ortega et al. 2013). In the south, the megasite
+villages along the ‘King’s Highway’ in Transjordan, as well as
+those within the Rift valley may have served for major north-
+south and south-north connections (Gebel 2004; Goring-
+Morris et al. 2009), with subsidiary east-west and west-east
+branches of exchange and communication. In the north the
+major rivers may have served similar roles (Goring-Morris
+and Belfer-Cohen 2011a).6 Gary Rollefson Festschrift
+So, finally, what does all of the above have to do
+with the nature of relations between the southern and
+northern Levant? We believe that networks of interactions,
+communications and exchange between these two regions
+were already well developed by at least the end of the Late
+Epipalaeolithic, e.g., the presence of northern obsidian
+in southern Natufian sites (Delerue 2007; Khalaily and
+Valla 2013). The complex dynamics and rapid tempo of
+changes observed in the archaeological data, coupled with
+the problems of exact dating, preclude the assignment of
+‘primacy’ to one region or the other. Furthermore, when
+one tries to follow the evolution of a particular aspect of
+the material culture, it becomes apparent that what we
+actually see is a constant influx of ideas and materials,
+an ‘interaction sphere’ just like the famous PPNB koine
+(Bar-Yosef and Belfer-Cohen 1989). Trying to deduce at
+arbitrary points of the evolution process what was the
+direction of the diffusion (north-to-south or south-to-
+north) is rather counterproductive if we are to understand
+the whole of the process examined. Rather, it is of interest
+to try and unveil the mechanisms that enabled the pushing
+forward of the process, and to ask which component was
+more apt to be ‘accepted’ and incorporated within the
+fabric of the new life-ways. What circumstances helped
+in its adoption? What caused some of the archaeological
+phenomena observed to be abandoned? And what dictated
+the differences observed in similar realms within the two
+regions? Looking for absolute ‘origins’ and ‘supremacy’
+adds to the difficulties we face in trying to understand the
+nature of Neolithic phenomena. The most appropriate
+epitaph for such a futile enterprise is “looking through a
+glass darkly”.
+Acknowledgements
+Part of the research on which this contribution is based
+was supported by grants from the Israel Science Foundation
+funded by the Israel Academy of Sciences (to A. Belfer-
+Cohen – Grants 855/03, 202/05 and 989/10; and to A.
+N. Goring-Morris – Grants 840/01, 558/04, 755/07, and
+1161/10).
+References
+Abbès, F. (2003) Les O utillages Néolithiques en Syrie du Nord.
+Méthode de Debitage et Gestion Laminaire durant le PPNB.
+BAR International Series 1150. Oxford: Archaeopress.
+Abbo, S., Lev-Yadun, S. and Gopher, A. (2011) Origin of
+Near Eastern plant domestication: Homage to Claude
+Levi-Strauss and “La Pensée Sauvage”. Genetic Resources
+and Crop Evolution 58, 175–179.
+Arimura, M. (2013) Exchange of points in the PPNB: Points
+with the Palmyran retouch from Tell Ain el-Kerkh,
+northwest Syria. In F. Borrell, J. J. Ibáñez and M. Molist
+(eds.), Stone Tools in Transition: From Hunter-Gatherers
+to Farming Societies in the Near East, pp. 265–276.
+Barcelona: Universitat Autònoma de Barcelona Press.
+Asouti, E. and Fuller, D. Q. (2013) A contextual approach
+to the emergence of agriculture in southwest Asia:
+Reconstructing Early Neolithic plant-food production.
+Current Anthropology 54/3, 299–345.
+Baird, D., Fairbairn, A., Martin, L. and Middleton, C.
+(2012) The Boncuklu Project: The origins of sedentism,
+cultivation and herding in Central Anatolia. In M.
+Özdogan, N. Basgelen and P. Kuniholm (eds), The
+Neolithic in Turkey. New Excavations & Research, vol. 3.
+Central Turkey, pp. 219–244. Istanbul: Archaeology and
+Art Publications.
+Bar-Yosef, O. and Belfer-Cohen, A. (1989) The Levantine
+‘PPNB’ interaction sphere. In I. Hershkovitz (ed.), People
+and Culture in Change, pp. 59–72. BAR International
+Series 508, Oxford: Archaeopress.
+— (2000) Nahal Ein Gev II – A late Epi-Paleolithic site in
+the Jordan Valley. Mitekufat Haeven – Journal of the
+Israel Prehistoric Society 30, 49–71.
+Bar-Yosef, O. and Gopher, A. (eds) (1997) An Early Neolithic
+Village in the Jordan Valley. Part I: The Archaeology of
+Netiv Hagdud. Cambridge, MA: Peabody Museum of
+Archaeology and Ethnology, Harvard University.
+Barzilai, O. (2010) Social Complexity in the Southern
+Levantine PPNB as Reflected through Lithic Studies: The
+Bidirectional Blade Industries. BAR International Series
+2180, Oxford: Archaeopress.
+Barzilai, O. (2013) The bidirectional blade industries of the
+southern Levant. In F. Borrell, J. J. Ibáñez and M. Molist
+(eds), Stone Tools in Transition: From Hunter-Gatherers to
+Farming Societies in the Near East, pp. 59–72. Barcelona:
+Universitat Autònoma de Barcelona Press.
+Belfer-Cohen, A. and Goring-Morris, A. N. (2002) Recent
+developments in Near Eastern Neolithic research.
+Paléorient 28/2, 143–148.
+— (2011) Jacques Cauvin: The right man for the season.
+Paléorient 37/1, 89–99.
+Ben-Michael, J. (2014) Clay Technology in the Southern
+Levant from Objects to Pottery (Late Epipaleolithic–
+Early Neolithic Pottery). Unpublished PhD thesis, The
+Hebrew University of Jerusalem.
+Betts, A. V. G., Cropper, D., Martin, L. and McCartney, C.
+(2013) The Later Prehistory of the Badia. Excavations and
+Surveys in Eastern Jordan: Vol. 2. Levant Supplementary
+Series 11. Oxford: Oxbow Books.
+Bischoff, D. (2006) Upper Mesopotamia (SE Turkey, N Syria
+and N Iraq) 10,000 – 5000 cal BC. CANeW Material
+Culture Stratigraphic Tables.
+Biton, R., Goren, Y. and Goring-Morris, A. N. (2014)
+Ceramics in the Levantine Pre-Pottery Neolithic7Belfer-Cohen & Nigel Goring-Morris: North and South – Variable Trajectories of the Neolithic in the Levant
+B: Evidence from Kfar HaHoresh, Israel. Journal
+Archaeological Science 41, 740–748.
+Boaretto, E., Bar-Yosef, O., Gopher, A., Goring-Morris,
+A. N. and Kozlowski, S. K. (2010) Radiocarbon
+chronology of the Gilgal sites. In O. Bar-Yosef, A. N.
+Goring-Morris and A. Gopher (eds), Gilgal: Excavations
+at Early Neolithic Sites in the Lower Jordan Valley. The
+Excavations of Tamar Noy, pp. 33–38. Oakville, CT:
+ASPR Monograph Series and David Brown/Oxbow.
+Bonogofsky, M. (ed.) (2006) Skull Collection, Modification
+and Decoration. BAR International Series 1539, Oxford:
+Archaeopress.
+Boz, B. and Hager, L. D. (2013) Intramural burial practices
+at Çatalhöyük. In I. Hodder (ed.), Humans and
+Landscapes of Çatalhöyük: Reports from the 2000–2008
+Seasons. Los Angeles: Cotsen Institute.
+Braidwood, R. J. (1957) Jericho and its setting in Near
+Eastern history. Antiquity 31, 73–81.
+Burian, F., Friedman, E. and Mintz-Docter, E. (1999) Nahal
+Lavan 109 – A Pre-Pottery Neolithic site in the Western
+Negev, Israel. In F.-R. Hermann (ed.), Festschrift für
+Günter Smolla, pp. 95–120. Wiesbaden: Materialien zur
+Vor- und Fruhgeschichte von Hessen 8.
+Byrd, B. F. (2005) Reassessing the emergence of village life
+in the Near East. Journal of Archaeological Research 13/3,
+231–290.
+Cauvin, J. (1994) Naissance des Divinités, Naissance de
+l’Agriculture. Paris: CNRS éditions.
+— (2000) The Birth of the Gods and the Origins of Agriculture.
+Cambridge: Cambridge University Press.
+Coqueugniot, E. (2006) Diversified funerary practices: The
+case of Dja’de (Syria, Euphrates valley, 9th millenium cal.
+BC, late PPNA and EPPNB). Abstract of 5th ICAANE
+Workshop on: Houses for the Living and a Place for
+the Dead. Relationships Between Domestic Buildings
+and Their Use as a Burial Space in Prehistoric Societies
+of Near East Between the 12th and 5th Millennium.
+Madrid: Universidas Autonoma de Madrid.
+— (in press) Dja’de (Syria) and the 9th millennium cal. BC
+symbolic representations. In J. Guilaine, C. Manen and
+T. Perrin (eds), Transitions en Mediterranée ou Comment
+des Chasseurs Devinrent Agriculteurs (Epipaléolithique,
+Mésolithique, Néolithique Ancien). Toulouse: Errance.
+Croucher, K. (2012) Death and Dying in the Neolithic Near
+East. Oxford: Oxford University Press.
+Davis, S. J. M. and Valla, F. R. (1978) Evidence for
+domestication of the dog 12,000 years ago in the
+Natufian of Israel. Nature 276, 608–610.
+Delerue, S. (2007) L’Obsidienne dans le Processus de
+Neolithisation du Proche-Orient (12000–6500 av. J.-C.
+cal.). Unpublished PhD thesis, Université Bordeaux 3.
+Dunbar, R. I. M. (2004) The Human Story: A new history of
+mankind’s evolution. London: Faber and Faber.
+Edwards, P. C., Meadows, J., Sayej, G. and Westaway, M.
+(2004) From the PPNA to the PPNB: New views from
+the southern Levant after excavations at Zahrat adh-
+Dhra’ 2 in Jordan. Paléorient 30/2, 21–60.
+Enoch-Shiloh, D. and Bar-Yosef, O. (1997) Salibiya IX. In
+O. Bar-Yosef and A. Gopher (eds), An Early Neolithic
+Village in the Jordan Valley. Part I: The Archaeology
+of Netiv Hagdud, pp. 13–40. American School of
+Prehistoric Research Bulletin 43. Cambridge, MA:
+Peabody Museum of Archaeology and Ethnology,
+Harvard University.
+Finlayson, B. and Mithen, S. (eds) (2007) The Early Prehistory
+of Wadi Faynan, Southern Jordan. Oxford: Oxbow Books
+& CBRL.
+Finlayson, B., Mithen, S. J., Najjar, M., Smith, S., Maričević,
+D., Pankhurst, N. and Yeomans, L. (2011) Architecture,
+sedentism, and social complexity at Pre-Pottery Neolithic
+A WF16, Southern Jordan. Proceedings of the National
+Academy of Sciences 108/20, 8183–8188.
+Fujii, S. (2009) Wadi Abu Tulayha: A preliminary report
+of the 2008 summer final field season of the Jafr Basin
+Prehistoric Project, Phase 2. ADAJ 53, 173–209.
+— (2010) Domestication of runoff surface water. Neo-Lithics
+2/10, 14–32.
+— (2013) Chrononlogy of the Jafar prehistory and proto-
+history: A key to the process of pastoral nomadization
+in the Southern Levant. Syria 90, 49–125.
+Garrard, A. N. (1998) Environment and cultural adaptations
+in the Azraq Basin: 24,000–7,000 BP. In D. O. Henry
+(ed.), The Prehistoric Archaeology of Jordan, pp. 139–148.
+BAR International Series 705. Oxford: Archaeopress.
+Gebel, H.-G. K. (2004) There was no centre: The polycentric
+evolution of the Near Eastern Neolithic. Neo-Lithics
+1/04, 28–32.
+Gebel, H.-G. K., Hermansen, B. D. and Kinzel, M. (2006a)
+Ba’ja 2005: A two-storied building and collective burials.
+Results of the 6th season of excavation. Neo-Lithics 1/06,
+12–19.
+Gebel, H.-G. K., Nissen, H. J. and Zaid, Z. (eds) (2006b)
+Basta II. The Architecture and Stratigraphy. 5. Berlin:
+Biblioteca neolithica Asiae meridionalis et occidentalis
+& Yarmouk University, Monograph of the Faculty of
+Archaeology and Anthropology.
+Gopher, A. (1989) Diffusion process in the Pre-Pottery
+Neolithic Levant: The case of the Helwan Point. In
+I. Hershkovitz (ed.), People and Culture in Change,
+pp. 91–106. BAR International Series 508. Oxford:
+Archaeopress.
+Gopher, A., Lemorini, C., Boaretto, E., Carmi, I., Barkai,
+R. and Schechter, H. C. (2013) Qumran Cave 24, a
+Neolithic-Chalcolithic site by the Dead Sea: A short
+report and some information on lithics. In F. Borrell,
+J. J. Ibáñez and M. Molist (eds), Stone Tools in Transition:8 Gary Rollefson Festschrift
+From Hunter-Gatherers to Farming Societies in the Near
+East, pp. 101–114. Barcelona: Universitat Autònoma de
+Barcelona Press.
+Gopher, A., Lev Yadun, S. and Abbo, S. (2013) A response
+to ‘Arguments against the Core Area Hypothesis’ for
+plant domestication. Tel Aviv 40, 187–196.
+Goren, Y., Goring-Morris, A. N. and Segal, I. (2001)
+Skull modeling in the Pre-Pottery Neolithic B:
+Regional variability, the relationship of technology
+and iconography and their archaeological implications.
+Journal of Archaeological Science 28/7, 671–690.
+Goring-Morris, A. N. (1998) Mobiliary art from the Late
+Epipalaeolithic of the Negev, Israel. Rock Art Research
+15/2, 81–88.
+— (2008) Kefar Ha-Horesh. In E. Stern (ed.), The New
+Encyclopedia of Archaeological Excavations in the Holy
+Land. vol. 5, Supplementary Volume, pp. 1907–1909.
+Jerusalem & Washington, DC: Israel Exploration
+Society and Biblical Archaeology Society.
+Goring-Morris, A. N., Ashkenazi, H., Barzilai, O.,
+Birkenfeld, M., Eshed, V., Goren, Y., Horwitz, L. K.,
+Oron, M. and Williams, J. K. (2008) The 2007–8
+excavation seasons at Pre-Pottery Neolithic B Kfar
+HaHoresh, Israel. Antiquity 82, 318. http://www.
+antiquity.ac.uk:80/ProjGall/goringmorris/index.html.
+Goring-Morris, A. N. and Belfer-Cohen, A. (2008) A
+roof over one’s head: Developments in Near Eastern
+residential architecture across the Epipalaeolithic-
+Neolithic transition. In J.-P. Bocquet-Appel and O.
+Bar-Yosef (eds), The Neolithic Demographic Transition
+and its Consequences, pp. 239–286. Dordtecht: Springer
+Verlag.
+— (2011a) Neolithization processes in the Levant: The outer
+envelope. Current Anthropology 52/S4, S195–S208.
+— (2011b) Evolving human/animal interactions in the
+Near Eastern Neolithic: Feasting as a case study. In G.
+Aranda, S. Montón and M. Sanchez (eds), Guess Who’s
+Coming to Dinner. Feasting rituals in the prehistoric
+societies of Europe and Near East, pp. 64–72. Oxford:
+Oxbow Books.
+— (2014a). The Neolithic in Southern Levant: Yet another
+‘unique’ phenomenon... In J. Guilaine, C. Manen and
+T. Perrin (eds), Transitions en Mediterranée ou Comment
+des Chasseurs Devinrent Agriculteurs (Epipaléolithique,
+Mésolithique, Néolithique Ancien), pp. 55–71. Toulouse:
+Errance.
+— (2014b) The southern Levant (Cisjordan) during the
+Neolithic period. In M. Steiner and A. E. Killebrew
+(eds), The Oxford Handbook of the Archaeology of the
+Levant (ca. 8000 – 332 BCE), pp.147–169. Oxford:
+Oxford University Press.
+— (in press) Different strokes for different folks: Near
+Eastern Neolithic mortuary practices in perspective. In
+I. Hodder (ed.), Religion at Work in a Neolithic Society.
+Vital Matters, pp. 35–57. Cambridge: Cambridge
+University Press.
+Goring-Morris, A. N. and Horwitz, L. K. (2007) Funerals
+and feasts in the Near Eastern Pre-Pottery Neolithic B.
+Antiquity 81, 902–919.
+Goring-Morris, A. N., Hovers, E. and Belfer-Cohen, A.
+(2009) The dynamics of Pleistocene settlement patterns
+and human adaptations in the Levant – an overview.
+In J. J. Shea and D. Lieberman (eds), Transitions in
+Prehistory: Papers in honor of Ofer Bar-Yosef, pp. 187–
+254. Oakville CT: David Brown/Oxbow.
+Grosman, L., Munro, N. D. and Belfer-Cohen, A. (2008)
+A 12,000-year-old shaman burial from the southern
+Levant (Israel). Proceedings of the National Academy of
+Sciences 105/46, 17665–17669.
+Gregg, M. W., Chazan, M. and Janetski, J. (2011) Variability
+in symbolic behaviour in the southern Levant at the end
+of the Pleistocene. Before Farming 2011/1, 1–12.
+Guilaine, J., Briois, F. and Vigne, J.-D. (eds) (2011)
+Shillourokambos. Un établissement néolithique pré-
+céramique à Chypre. Les fouilles du secteur 1. Paris:
+Éditions Errance/École Française d’Athènes.
+Henry, D. O. (2005) Ayn Abu Nukhayla: Early Neolithic
+adaptation to the arid zone. Journal of the Israel Prehistoric
+Society 35, 353–370.
+Hodder, I. (2012) Renewed work at Çatalhöyük. In M.
+Özdogan, N. Basgelen and P. Kuniholm (eds), The
+Neolithic in Turkey. New Excavations & Research, vol. 3.
+Central Turkey, pp. 245–277. Istanbul: Archaeology and
+Art Publications.
+Horwitz Kolska, L. and Goring-Morris, A. N. (2004)
+Animals and ritual during the Levantine PPNB: A
+case study from the site of Kfar HaHoresh, Israel.
+Anthropozoologica 39/1, 165–178.
+Ibañez, J. J. (ed.) (2008) Le Site Néolithique de Tell Mureybet
+(Syrie du Nord). En hommage à Jacques Cauvin.
+BAR International Series 1843 (I), (II). Oxford:
+Archaeopress.
+Johnson, G. A. (1982) Organizational Structure and Scalar
+Stress. in C. A. Renfrew, M. J. Rowlands and B. A.
+Segraves (eds), Theory and Explanation in Archaeology,
+pp. 389–421. London: Academic Press.
+Karul, N. (2011) Gusir Höyük. In M. Özdogan, N.
+Basgelen and P. Kuniholm (eds), The Neolithic in Turkey.
+New Excavations & Research, vol. 1. The Tigris Basin, pp.
+1–17. Istanbul: Archaeology and Art Publications.
+Kenyon, K. M. (1956) Jericho and its setting in Near Eastern
+history. Antiquity 120, 184–195.
+Kenyon, K. M. (1957) Reply to Professor Braidwood.
+Antiquity 31, 82–84.
+Kenyon, K. M. (1970) The Archaeology of the Holy Land. 3rd
+edn. London: Ernest Benn Ltd.9Belfer-Cohen & Nigel Goring-Morris: North and South – Variable Trajectories of the Neolithic in the Levant
+Khalaily, H., Bar-Yosef, O., Barzilai, O., Boaretto, E.,
+Bocquentin, F., A., Eirikh-Rose, Greenhut, Z., Goring-
+Morris, A. N., Le Dosseur, G., Marder, O., Sapir-Hen,
+L. and Yizhaq, M. (2007) Excavations at Motza in the
+Judean hills and the Early Pre-Pottery Neolithic B in the
+Southern Levant. Paléorient 33/2, 5–38.
+Khalaily, H. and F. Valla (2013) Obsidian in Natufian
+context: The case of Eynan (Ain Mallaha), Israel. In O.
+Bar-Yosef and F. R. Valla (eds), The Natufian Foragers
+in the Levant. Terminal Pleistocene Social Changes in
+Western Asia, pp. 193–202. Archaeological Series 19.
+Ann Arbor, MI: Monographs in Prehistory.
+Kinzel, M., Abu-Laban, A., Jensen, C. H., Thuesen, I. and
+Jorkov, M.-L. (2011) Insights into PPNB architectural
+transformation, human burials, and initial conservation
+works: Summary of the 2010 excavation season at
+Shkarat Msaied. Neo-Lithics 1/11, 44–49.
+Kirkbride, D. (1968) Beidha 1967: An interim report. PEQ
+100, 90–96.
+Kuijt, I. (2003) Between foraging and farming: Critically
+evaluating the archaeological evidence for the Southern
+Levantine Early Pre-Pottery Neolithic B period. TUBA-
+AR VI, 1–19.
+Lechevallier, M. and Ronen, A. (1994) Le Gisement de
+Hatoula en Judée Occidentale, Israel. Paris: Association
+Paléorient.
+Maher, L. A., Stock, J. T., Finney, S., Heywood, J. J. N.,
+Miracle, P. T. and Banning, E. B. (2011) A unique
+human–fox burial from a pre-Natufian cemetery
+in the Levant (Jordan). PLoS ONE 6/1, e15815.
+http://www.plosone.org/article/info%3Adoi%2F10.13
+71%2Fjournal.pone.0015815
+Makarewicz, C. A. and Rose, K. (2011) Early Pre-Pottery
+Neolithic settlement at el-Hemmeh: A survey of the
+architecture. Neo-Lithics 1/11, 23–29.
+Martin, L. (1999) Mammal remains from the eastern
+Jordanian Neolithic, and the nature of caprine herding
+in the steppe. Paléorient 25/2, 87–104.
+Mazurowski, R. F. (2006) Tell Qaramel. Excavations 2005.
+Polish Archaeology in the Mediterranean XVII, 483–
+500.
+Mazurowski, R. F. and Kanjou, Y. (eds), (2012) Tell Qaramel
+1999–2007. Protoneolithic and Early Pre-Pottery Neolithic
+Settlement in Northern Syria. Warsaw: Polish Centre of
+Mediterranean Archaeology, University of Warsaw.
+Mazurowski, R. F., Michczynska, D. J., Pazdur, A. and
+Piotrowska, N. (2009) Chronology of the early Pre-
+Pottery Neolithic settlement Tell Qaramel, northern
+Syria, in the light of radiocarbon dating. Radiocarbon
+51/2, 771–781.
+McCartney, C. (2010) Outside the corridor? The
+Neolithisation of Cyprus. In D. Bolger and L. C.
+Maguire (eds), Development of Pre-State Communities
+in the Ancient Near East, pp. 185–196. Oxford: Oxbow
+Books.
+— (2011) The lithic assemblage of Ayia Varvara
+Asprokremnos: A new perspective on the Early Neolithic
+of Cyprus. In E. Healey, S. Campbell and O. Maeda
+(eds), The State of the Stone: Terminologies, Continuities
+and Contexts in Near Eastern Neolithic Lithics, pp. 185–
+196. Berlin: ex oriente.
+Mellaart, J. (1975) The Neolithic of the Near East. London:
+Thames and Hudson.
+Moore, A. M. T., Hillman, G. C. and Legge, A. J. (2000)
+Village on the Euphrates. From Foraging to Farming at
+Abu Hureyra. Oxford: Oxford University Press.
+Munro, N. D. and Grosman, L. (2010) Early evidence
+(ca. 12,000 BP) for feasting at a burial cave in Israel.
+Proceedings of the National Academy of Science 107/35,
+15362–15366.
+Nadel, D. (1997) Chipped stone industry of Netiv Hagdud.
+In O. Bar-Yosef and A. Gopher (eds), An Early Neolithic
+Village in the Jordan Valley. Part I: The Archaeology of
+Netiv Hagdud, pp. 71–149. Cambridge, MA: Peabody
+Museum of Archaeology and Ethnology, Harvard
+University.
+Nissen, H. J., Muheisen, M. and Gebel, H.-G. K. (eds),
+(2004) Basta I. The Human Ecology. Bibliotheca neolithica
+Asiae meridionalis et occidentalis. Berlin: Monograph of
+the Faculty of Archaeology and Anthropology, Yarmouk
+University.
+Ortega, D., Ibañez, J. J. Khalidi, L., Méndez, V.,
+Campos, D. and Teira, L. (2013) Towards a multi-
+agent-based modelling of obsidian exchange in the
+Neolithic Near East. Journal of Archaeological Method
+and Theory. DOI: 10.1007/s10816–013–9196–1.
+http://link.springer.com/article/10.1007%2Fs10816-
+013-9196-1#page-1
+Ortiz, A., Chambon, P. and Molist, M. (2013) ‘Funerary
+bundles’ in the PPNB at the archaeological site of Tell
+Halula (middle Euphrates valley, Syria): Analysis of
+the taphonomic dynamics of seated bodies. Journal of
+Archaeological Science 40, 4150–4161.
+Özbaşaran, M. (2012) Asikli. In M. Özdogan, N. Basgelen
+and P. Kuniholm (eds), The Neolithic in Turkey. New
+Excavations & Research, vol. 3. Central Turkey, pp. 135–
+158. Istanbul: Archaeology and Art Publications.
+Özdogan, A. (1999) Çayönu. In M. Özdogan and N.
+Basgelen (eds), The Neolithic in Turkey. The Cradle of
+Civilization / New Discoveries, pp. 35–63. Istanbul:
+Archaeology and Art Publications.
+Özdogan, M., Basgelen, N. and Kuniholm, P. (eds), (2011–
+2014) The Neolithic in Turkey. New Excavations &
+Research, volumes 1–6. Istanbul: Archaeology and Art
+Publications.
+Özkaya, V. and Coşkun, A. (2011) Körtik Tepe, a new Pre-10 Gary Rollefson Festschrift
+Pottery Neolithic A site in south-eastern Anatolia. In
+M. Özdogan, N. Basgelen and P. Kuniholm (eds), The
+Neolithic in Turkey. New Excavations & Research, vol. 1.
+The Tigris Basin, pp. 89–127. Istanbul: Archaeology and
+Art Publications.
+Özkaya, V., Coskun, A. and Soyukaya, N. (2013) Körtik
+Tepe. The first traces of civilization in Diyabakir. Istanbul:
+Archaeology and Art Publications.
+Peasnall, B. L. (2000) The Round House Horizon
+Along the Taurus-Zagros Arc: A synthesis of recent
+excavations of late Epipaleolithic and early Aceramic
+sites in southeastern Anatolia and northeastern Iraq.
+Unpublished PhD thesis, University of Pennsylvania.
+Peltenburg, E., Colledge, S., Croft, P., Jackson, A.,
+McCartney, C. and Murray, M. A. (2001) Neolithic
+dispersals from the Levantine corridor: A Mediterranean
+perspective. Levant 22, 35–64.
+Perrot, J. (1966) Le gisement Natoufien de Mallaha (Eynan),
+Israel. L’Anthropologie 70/5–6, 437–483.
+Perrot, J. and Ladiray, D. (1988) Les Hommes de Mallaha
+(Eynan), Israel. Mémoires et Travaux du Centre de
+Recherche Française de Jérusalem, No. 7. Paris:
+Association Paléorient.
+Peters, J. and Schmidt, K. (2004) Animals in the symbolic
+world of Pre-Pottery Neolithic Gobekli Tepe,
+south-eastern Turkey: A preliminary assessment.
+Anthropozoologica 39/1, 179–218.
+Richter, T., Stock, J. T., Maher, L. and Hebron, C. (2010)
+An Early Epipalaeolithic sitting burial from the Azraq
+Oasis, Jordan. Antiquity 84, 321–334.
+Rollefson, G. O. (1983) Ritual and ceremony at Neolithic
+Ain Ghazal (Jordan). Paléorient 9/2, 29–38.
+— (1986) Neolithic ‘Ain Ghazal (Jordan): Ritual and
+ceremony, II. Paléorient 12/1, 45–52.
+— (1998) Ain Ghazal (Jordan): Ritual and ceremony III.
+Paléorient 24/1, 43–58.
+— (2000) Ritual and social structure at Neolithic ‘Ain Ghazal.
+In I. Kuijt (ed.), Life in Neolithic Farming Communities.
+Social Organization, Identity, and Differentiation, pp.
+163–190. New York: Kluwer Academic/Plenum.
+Rosenberg, M. (1999) Hallan Çemi. In M. Özdogan and
+N. Basgelen (eds), Neolithic in Turkey. The Cradle of
+Civilization / New Discoveries, pp. 25–33. Istanbul:
+Archaeology and Art Publications.
+— (2011) Hallan Çemi. In M. Özdogan, N. Basgelen
+and P. Kuniholm (eds), The Neolithic in Turkey. New
+Excavations & Research, vol. 1. The Tigris Basin.,
+pp. 61–78. Istanbul: Archaeology and Art Publications.
+Russell, N. and During, B. S. (2006) Worthy is the lamb:
+A double burial at Neolithic Çatalhöyük (Turkey).
+Paléorient 32/1, 73–84.
+Schmandt-Besserat, D. (1974) The use of clay before pottery
+in the Zagros. Expedition 16/2, 11–17.
+— (1977a) The beginnings of the use of clay in Turkey.
+Anatolian Studies 27, 133–150.
+— (1977b) The earliest uses of clay in Syria. Expedition 19/3,
+28–42.
+Schmidt, K. (2005) ‘Ritual centers’ and the Neolithisation
+of Upper Mesopotamia. Neo-Lithics 2/05, 13–21.
+— (2012) Göbekli Tepe. A Stone Age Sanctuary in South-
+Eastern Anatolia. Berlin: ex oriente.
+Shelach, G., Raphael, K. and Jaffe, Y. (2011) Sanzuodian:
+The structure, function and social significance of the
+earliest stone fortified sites in China. Antiquity 85, 11–
+26.
+Simmons, A. H. (2001) The first humans and last pygmy
+hippopotami of Cyprus. In S. Swiny (ed.), The
+Earliest Prehistory of Cyprus: From First Colonization to
+Exploitation, pp. 1–18. CAARI Monograph series 2.
+ASOR Archaeological Reports 5. Boston, MA: ASOR.
+— (2007) The Neolithic Revolution in the Near East.
+Transforming the Human Landscape. Tucson, AZ:
+University of Arizona Press.
+Stordeur, D. (2010) Domestication of plants and animals,
+domestication of symbols? In D. Bolger and L. C.
+Maguire (eds), Development of pre-state communities in
+the ancient Near East., pp. 123–130. Oxford: Oxbow
+Books.
+Stordeur, D. (2012) Les villages et l’organisation des
+groupes au Néolithique Précéramique A. L’exemple de
+Jerf el Ahmar, Syrie du Nord. In J. L. Montero (ed.),
+Du village néolithique à la ville syro-mésopotamienne, pp.
+35–54, Ferrol: Bibliotheca Euphratica.
+Stordeur, D., Brenet, M., Der Aprahamian, G. and Roux,
+J.-C. (2000) Les batiments communautaires de Jerf el-
+Ahmar et Mureybet Horizon PPNA (Syrie). Paléorient
+26/1, 29–44.
+Stordeur, D., Helmer, D., Jamous, B., Khawam, R., Molist,
+M. and Willcox, G. (2010) Le PPNB de Syrie du Sud
+à travers les découvertes récentes à tell Aswad. In M. al-
+Maqdissi, F. Braemer and J.-M. Dentzer (eds), Hauran
+V. La Syrie du sud du néolithique à l’antiquité tardive,
+pp. 41–68. Recherches récentes. Actes du colloque de
+Damas 2007, Volume I. Beyrouth: Institut Français du
+Proche-Orient.
+Tchernov, E. and Valla, F. R. (1997) Two new dogs, and
+other Natufian dogs, from the Southern Levant. Journal
+of Archaeological Science 24/1, 65–95.
+Twiss, K. C. (2008) Transformations in an early agricultural
+society: Feasting in the southern Levantine Pre-Pottery
+Neolithic. Journal of Anthropological Archaeology 27,
+418–442.
+Vigne, J.-D., Briois, F., Zazzo, A., Willcox, G., Cucchi,
+T., Thiebault, S., Carrere, I., Franel, Y., Touquet, R.,
+Martin, C., Moreau, C., Comby, C. and Guilaine, J.
+(2012) First wave of cultivators spread to Cyprus at1Belfer-Cohen & Nigel Goring-Morris: North and South – Variable Trajectories of the Neolithic in the Levant
+least 10,600 y ago. Proceedings of the National Academy
+of Sciences 109/22, 8445–9.
+Vigne, J. D., Carrère, I., Briois, F. and Guilaine, J. (2011)
+Early Process of mammal domestication in the Near East:
+New Cypriot Pre-Neolithic and Pre-Pottery Neolithic
+evidence. Current Anthropology 52/S4, S255-S271.
+Vigne, J.-D., Zazzoa, A., Saliege, J.-F., Poplin, F., Guilaine,
+J. and Simmons, A. (2009) Pre-Neolithic wild boar
+management and introduction to Cyprus more than
+11,400 years ago. Proceedings of the National Academy of
+Sciences 106/38, 16135–16138.
+Watkins, T. (2008) Supra-Regional networks in the
+Neolithic of southwest Asia. Journal of World Prehistory
+21, 139–171.
+Watkins, T., Baird, D. and Betts, A. (1989) Qermez Dere
+and the early aceramic Neolithic in Northern Iraq.
+Paléorient 15/1, 19–24.
+Weninger, B., Clare, L., Rohling, E. J., Bar-Yosef, O.,
+Böhner R., Budja, M., Bundschuh, M., Feurdean, A.,
+Gebel, H.-G. K., Jöris, O., Linstädter, J., Mayewski,
+P., Mühlenbruch, T., Reingruber, A., Rollefson, G. O.,
+Schyle, D., Thissen, L., Todorova, H. and Zielhofer,
+C. (2009) The impact of rapid climate change on
+prehistoric societies during the Holocene in the eastern
+Mediterranean. Documenta Praehistorica XXXVI, 7–59.
+Willcox, G. (2007) The adoption of farming and the
+beginnings of the Neolithic in the Euphrates valley:
+Cereal exploitation between the 12th and 8th millennia
+cal BC. In S. Colledge and J. Conolly (eds), The Origins
+and Spread of Domestic Plants in Southwest Asia and
+Europe, pp. 21–36. Walnut Creek, CA: Left Coast
+Press.
+Yartah, T. (2005) Les bâtiments communautaires de Tell
+‘Abr 3 (PPNA, Syrie). Neo-Lithics 1/05, 3–9.
+Zeder, M. A. (2011) Plant and animal domestication in the
+Near East. Current Anthropology 52/S4, S221-S235.
+— (2012) The broad spectrum revolution at 40: Resource
+diversity, intensification, and an alternative to optimal
+foraging explanations. Journal of Anthropological
+Archaeology 31, 242–264.12 Gary Rollefson Festschrift
+View publication statsView publication stats

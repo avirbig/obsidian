@@ -1,0 +1,686 @@
+A N A S S E S SMENT OF THE CURR E N T A P P L I C AT I O N S A N D
+FU T U R E D I RECTIONS OF OBSIDI A N S O U R C I N G S T U D I E S I N
+ARCHAEOLOGICAL R E S E A R C H *
+K. P. FREUND†
+McMaster University, Department of Anthropology, 1280 Main Street West, CNH 526 Hamilton, Ontario, L8S4L8 Canada
+This paper thematically characterizes a large body of recent obsidian sourcing discourse as a
+means of highlighting the current place of obsidian provenance studies in larger archaeological discourse. It is shown that the field of obsidian sourcing is flourishing, with a clear upward
+trend in the number of published studies in the past decade. This paper further argues that
+sourcing is a means to an end, a way to determine where artefacts originate, and thus a means
+of addressing broader archaeological problems. Through this contextual framework, obsidian
+sourcing studies—and indeed all provenance studies—are seen as relevant because they
+transcend the increasingly specialized world of archaeological discourse.
+KEYWORDS: OBSIDIAN SOURCING, CURRENT APPLICATIONS, FUTURE DIRECTIONS,
+PROCUREMENT, EXCHANGE, CULTURAL CONTACT, EXOTICA, IDENTITY, MOBILITY,
+COLONIZATION
+INTRODUCTION
+This paper details the current applications, limitations and potential of obsidian sourcing studies
+in archaeological research as a means of highlighting the current place of obsidian provenance
+studies in larger archaeological discourse. The word ‘applications’ here refers to the questions
+and debates to which sourcing studies have been applied. This includes discussions about what
+archaeological questions have been asked of obsidian sourcing data and why, what questions
+cannot be asked of the data and what potential questions can be asked in the future. As such, there
+will not be an in-depth review of methods, although the nature of obsidian sourcing is discussed
+in the context of how it works and its inherent limitations in answering certain types of archaeological questions.
+Pollard and Heron (2008, 87) state that the ‘principal aim of any archaeological provenance
+study is an assessment of the economic and social factors which underlie the movement of
+materials’. I would argue that this viewpoint is somewhat limiting and fails to portray the full
+diversity of questions that archaeologists have used obsidian sourcing data to answer. To demonstrate this point, this paper is divided into five major sections that outline the various facets of
+contemporary obsidian sourcing discourse as well as potential avenues for future research. After
+a brief discussion of how geochemical characterization works, the next section examines how
+obsidian sourcing data have been applied to the analysis of lithic procurement. In many cases,
+this involves describing where artefacts originate, often characterizing the long-term history of
+obsidian exploitation at a particular site or obsidian source. Explanations are frequently proffered
+as to why particular sources were utilized over others. At other times, procurement is addressed
+*Received 8 May 2012; accepted 18 June 2012
+†Corresponding author: email freundkp@mcmaster.ca
+bs_bs_banner
+Archaeometry 55, 5 (2013) 779–793 doi: 10.1111/j.1475-4754.2012.00708.x
+© 2012 University of Oxfordby analysing the spatial distribution of obsidian at archaeological sites to reconstruct how
+obsidian was obtained. This can involve combining provenance data with techno-typological
+analyses and other archaeological information to infer direct procurement, exchange or other
+socio-economic transactions. The third section of this paper examines how obsidian sourcing data
+are used as indirect evidence for cultural contact between different groups of people, frequently
+conceptualized in the context of exotic or rare artefacts. The fourth section addresses how
+archaeologists have used obsidian sourcing data, specifically similar patterns of obsidian source
+exploitation, as markers of cultural identity. The fifth section describes how geochemical provenance data are used to infer the movement of people, often in the context of hunter–gatherer
+mobility and large-scale colonization events.
+Obsidian sourcing studies in archaeology are flourishing. Despite the diverse range of issues
+that are explored in the current discourse, it is still those studies that integrate source data with
+other information about the form and function of archaeological objects, as well as other cultural
+information about the people being studied, that are poised to contribute the most to our ongoing
+investigation of people from the past.
+IDENTIFYING OBSIDIAN SOURCES
+Obsidian is an igneous rock and a type of volcanic glass that is usually black in colour. It is an
+excellent raw material for the creation of stone tools and was widely exploited by people
+beginning as early 1.8 mya (Piperno et al. 2009), frequently across vast geographical distances.
+Due to its distinct chemical properties, obsidian can be easily sourced, and is therefore a central
+component of archaeological provenance studies. To identify the provenance, or source, of
+obsidian artefacts, several methods are available (for an in-depth review, see Pollard et al. 2007).
+The basic premise behind all obsidian sourcing techniques is that by studying the unique
+characteristics of obsidian artefacts and comparing them with geological material, one can match
+artefacts to the geological sources from which they were collected. From there, a number of
+archaeological issues can be addressed.
+PROCUREMENT
+This section concerns the analysis of procurement in the archaeological record. The current
+archaeological discourse encompasses a wide range of cultures, from hunter–gatherers to statelevel societies. Amidst such diversity, several patterns in the analysis of procurement are evident.
+A number of studies focus almost exclusively on describing where particular groups of people
+obtained their raw materials. In many cases, these descriptions of provenance are informative
+because they outline the history of exploitation at a particular archaeological site or group of sites.
+At other times, basic descriptions of archaeological sourcing results are the outcome of the lack
+of coherent research questions before sourcing is undertaken. This often results in the sourcing
+of artefacts from an amalgam of archaeological contexts; they are usually published due to their
+methodological or instrumental pertinence.
+Another large body of literature attempts to reconstruct the mechanisms by which obsidian was
+obtained. These studies can trace their intellectual roots to the rise of economic anthropology in
+the 1960s and 1970s, and more specifically to the work of prominent archaeologists studying the
+rise of social complexity using sourcing data in places such as the Near East and Mesoamerica
+(see Renfrew 1969, 1975; Rathje 1971; Sidrys 1976). Moreover, a surge of archaeological
+literature on the subjects of exchange, specialization and lithic procurement in the 1980s are often
+780 K. P. Freund
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793cited as foundational texts in the current discourse (see Ericson and Earle 1982; Ericson and
+Purdy 1984; Brumfield and Earle 1987a; Torrence 1989).
+Describing provenance
+Since obsidian sourcing determines where artefacts originate, a primary goal of many scholars is
+to reconstruct ancient procurement by describing the provenance of obsidian artefacts. In this
+sense, procurement studies aim to describe the history of exploitation of obsidian sources through
+time and space rather than to reconstruct how obsidian was obtained (i.e., direct procurement
+versus exchange). In such cases, determining provenance can be informative when there is tight
+spatial and chronological control of the material being analysed. For example, Chia et al. (2008,
+449) conclude from their analysis of a number of artefacts from two sites in Indonesia that
+prehistoric humans exploited the same obsidian resources for thousands of years. In other contexts,
+the archaeological site is not central but, rather, the history of exploitation is described at a single
+obsidian source, such as Pachuca in modern-day Mexico (see Ponomarenko 2004) or Yali in
+modern-day Greece (see Georgiadis 2008). These types of studies are informative in that they
+describe where people obtained their raw materials and how this may or may not have changed
+through time.
+In other cases, describing the origin of artefacts is related to demonstrating the importance of
+sources that have received little attention in the literature. For example, Khalidi et al. (2010)
+demonstrate the importance of highland Yemen obsidian sources in long-distance trade networks
+since the Neolithic. Since archaeologists have paid little attention to these sources, describing
+the provenance of artefacts establishes the importance of Yemen sources for future study and
+consideration. This is also the case in the Kuril Island archipelago in the North Pacific Ocean (see
+Colby-Phillips and Speakman 2009), southern Peru and northern Bolivia (see Burger et al. 2000)
+and modern-day Ecuador (see Santi et al. 2010).
+While many scholars simply describe changes in the exploitation of various sources through
+time or space, others attempt to relate these changes to the broader circumstances of their
+occurrence. In recent obsidian provenance studies, explanations as to why certain sources were
+exploited over others vary from issues of accessibility (see Ogburn et al. 2009; Shackley 2009;
+Cherry et al. 2010; Giesso et al. 2011) through raw material quality (see Braun et al. 2009;
+Juárez-Cossío et al. 2009; Obata et al. 2010), environmental change (Jones and Schwitalla 2008),
+cultural discontinuity (Brown et al. 2004; Carballo et al. 2007; Carter et al. 2008), degree of
+mobility (Eerkens et al. 2010; Smith and Kielhofer 2011) and symbolic value (Dillian 2002; Rath
+and Torrence 2003) to issues of political control over the source (Peterson et al. 1997; Knight and
+Glascock 2009). Some archaeologists have even combined sourcing data with techno-typological
+analyses to relate changes in source exploitation to changes in how people worked, used and
+conceptualized obsidian (see Carter et al. 2006; Doelman et al. 2008; Freund and Tykot 2011).
+One must note that the majority of explanations concerning procurement are functional or are
+seen as a product of institutionalized practice (e.g., political control). Only a handful of studies
+address issues of symbolism, social value or cultural preference. This is unfortunate, as it depicts
+people as static optimizing entities, often in contrast to the ethnographic realities of humanlandscape interaction (see Taçon 1991, 1999). Nevertheless, several scholars incorporate these
+considerations into their research. In an analysis of sites from first millennium ad Argentina,
+Lazzari (2010, 58) argues that obsidian was obtained because of its corporeal presence, which
+added another dimension to people’s lived experiences, capable of reinforcing a connection with
+distant places. Dillian (2002, 4) has also integrated concepts of symbolic value in her analysis of
+Obsidian sourcing studies in archaeological research 781
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793obsidian procurement at Glass Mountain, California, where she argues that the Glass Mountain
+obsidian quarry ‘provides evidence of the integration of prehistoric belief systems into toolstone
+procurement patterns as visible through differential toolstone use in prehistory and the selection
+of specific raw material types for particular categories of objects’. The point to be made is
+that there are always constraints on ancient procurement, such as source accessibility and raw
+material quality. Archaeologists must be aware that in many circumstances there are other factors
+influencing ancient decision-making that can be elucidated through a more careful consideration
+of the evidence, as well as those that cannot be, due to limitations of the archaeological record.
+Reconstructing procurement mechanisms
+A recurrent issue in obsidian sourcing discourse is how humans attained their raw materials. Earle
+(1999, 617) argues that at the simplest level, lithics are obtained either through direct procurement
+or through exchange, ‘exchange’ being the ‘mutual appropriative movement of goods between
+hands’ (Polanyi 1957, 266). Nevertheless, others have highlighted additional models of raw
+material procurement that must be considered in certain circumstances, such as redistribution,
+state-controlled procurement and prestige chain trade (see Spence 1984; Brumfield and Earle
+1987b). This section describes how obsidian sourcing specialists have integrated these concepts
+into their research.
+As early as 1969, Renfrew believed that by plotting the abundance of obsidian at archaeological sites against corresponding site distances from the obsidian sources, archaeologists could
+quantitatively define socio-economic systems and procurement strategies (1969, 157). Unfortunately, it has since been recognized that similar distributions of goods can be produced by a
+variety of processes (Bradley and Edmonds 2005, 5–11; Clark 2006). While few archaeologists
+continue to employ fall-off curves in their research, with some exceptions (see Barberena et al.
+2011), many archaeologists do retain Renfrew’s notion that there exists a certain distance from an
+archaeological source where obsidian is no longer obtained directly.
+For example, Negash et al. (2011, 671) describe obsidian procurement in Middle Stone Age
+(MSA) Ethiopia, where it is posited that ‘some form of exchange’ was in place because it was
+distributed several hundred kilometres from the source. Similarly, in an analysis of 79 artefacts
+from 35 sites on Sakhalin Island in the Russian Far East, Kuzmin et al. (2002, 748) argue that since
+obsidian was obtained from upwards of 1000 km away the existence of long-distance exchange
+systems is supported. While these assumptions may be correct, the criteria for evaluating longdistance exchange are not adequately defined. In contrast, some archaeologists have recontextualized Renfrew’s quantitative models by focusing on the distribution of obsidian in relation to
+factors other than straight-line distance from a source (see Barge and Chataigner 2003; Contreras
+2011). Barge and Chataigner (2003) utilize geographic information systems (GIS) software to
+distinguish between direct procurement and other economic transactions in fourth to first millennia
+bc Armenia by calculating travel times from archaeological sites to obsidian sources. When several
+sources are available, they conclude that a threshold appears corresponding to the maximum time
+people would have travelled to procure materials directly (ibid. 2003, 178).
+Despite these various approaches, many studies conceptualize obsidian distribution in terms of
+locating dots on maps, often ignoring the multiple contexts influencing the circulation of materials. As such, obsidian procurement should be studied by combining source data with technotypological analyses in order to gain a broader appreciation of the contexts in which artefacts are
+found (Carter et al. 2006, 907–8; Freund and Tykot 2011, 151). Moreover, there is a tendency to
+make generalizing statements about thousands of years of obsidian procurement concerning
+782 K. P. Freund
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793peoples from very different backgrounds and ways of life. When inferring ‘exchange’ in the past,
+archaeologists should contextualize their conclusions within the broader socio-economic circumstances of their discovery. Indeed, Helms (1988) has shown that notions of distance are highly
+variable between different groups of people. Archaeologists need to consider that the distances
+that members of a sedentary farming community would have travelled to procure raw materials
+are probably incomparable to those travelled by mobile bands of hunter–gatherers.
+In many cases, all of these various lines of evidence (sourcing, techno-typological and socioeconomic) have been combined to infer how people of the past obtained their raw materials. They
+range from contexts as diverse as the 15th–18th century Hawai’i Islands (see McCoy et al. 2011),
+to Middle and Upper Palaeolithic Transcaucasia (see Le Bourdonnec et al. 2012), to the first
+millennium ad American Southwest (see Taliaferro et al. 2010).
+CULTURAL CONTACT
+While many obsidian sourcing studies focus on procurement, other studies see obsidian exploitation as indirect evidence of cultural contact between different groups of people. In contexts where
+it is likely that obsidian was obtained through exchange, artefacts are seen as representative of
+socio-economic interaction. This is exemplified in the work of Burley et al. (2011), who analyse
+artefacts from 12 sites in the Kingdom of Tonga and highlight the long-standing importance of
+inter-island voyaging and interaction beginning around the first Lapita settlement (c. 2900 bp).
+In other cases, cultural interaction has been conceptualized in the context of ‘exotica’, defined
+as ‘something non-native or foreign which has been imported and appreciated by the receiving
+culture’ (Tykot 2011, 34). This can be seen in the work of Le Bourdonnec et al. (2011), who
+describe a find of Lipari obsidian in Neolithic Corsica, a rare occurrence. The authors state that
+the archaeological significance of this find is that it provides evidence for the occasional contact
+between ‘members’ of different socio-economic systems (Le Bourdonnec et al. 2011, 268).
+However, there is no discussion about what ‘members’ are being discussed. Indeed, the mechanism by which this obsidian was procured (i.e., directly or through exchange) has serious
+implications concerning cultural contact and the ‘members’ involved in such a transaction.
+Similar discussions of exotica have been applied to contexts ranging from third millennium bc
+Fiji (see Best 2002; Reepmeyer and Clark 2010), through 13th century ad New Zealand (see
+Sheppard et al. 2011) to the entire Mediterranean region (see Pollard and Heron 2008, 87–91).
+It is true that exotic artefacts are significant, but merely describing their presence in an
+archaeological assemblage is not enough. While exotic artefacts can be especially informative in
+terms of understanding ancient social interaction, they must be appreciated within the larger
+circumstances of their discovery. Through a careful consideration of the mechanisms by which
+artefacts were procured, made, used and discarded, archaeologists can properly contextualize the
+nature and degree of contact between different groups of people (Carter and Kilikoglou 2007,
+116; Tykot 2011, 35). This approach has been applied in several studies, to great effect (see Carter
+et al. 2008; White and Weinstein 2008; Perlès et al. 2011).
+IDENTITY
+Archaeologists often assume that people who share the same material culture also share similar
+cultural practices, kin relations or ethnic identities (Shackley 2002, 78). This has been applied in
+the context of obsidian sourcing studies through the analysis of patterns of exploitation that are
+used to infer the existence of distinct cultural or ethnic groups.
+Obsidian sourcing studies in archaeological research 783
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793This theoretical framework is implemented by Ogburn et al. (2009) in the context of the Inca
+army and the local Cayambes people who were resisting Inca conquest. Ogburn demonstrates that
+the Cayambes were utilizing obsidian sources that were off limits to the Inca because of territorial
+borders; thus it is inferred that the Cayambes were not subject to Inca domination and were
+expressing their distinct cultural identity through obsidian procurement, consciously or not
+(2009, 750). Similarly, Shackley (2002) infers the existence of distinct ethnic groups within the
+larger Hohokam and Mogollon worlds in the American Southwest. He suggests that ‘during the
+Classic period, the Tonto arm of the Tonto Basin was inhabited by an ethnic group that had its
+strongest ties to the Hohokam, and the Salt River arm in the basin was inhabited by an ethnic
+group that had its strongest ties to the Mogollon’ (2002, 78). This conclusion is drawn based on
+similar patterns of obsidian source representation at various Tonto arm and Salt River arm
+archaeological sites compared with Hohokam and Mogollon sites. These ethnic groups probably
+had ongoing exchange relationships with the Hohokam and Mogollon, perhaps even sharing kin
+and social ties (Shackley 2002, 78).
+In several Mesoamerican cases, identity is discussed on a broader scale, where spheres of
+interaction are delineated through multi-site spatial analyses of obsidian source procurement
+(e.g., Braswell 2003). This works well in Mesoamerica because a large number of obsidian
+sources are present in the region, thus potentially allowing for a much more nuanced discussion
+of similarities and differences in obsidian exploitation across space. Obsidian exchange spheres
+are collections of sites that obtained obsidian from the same sources (Braswell 2003, 131). By
+spatially delineating sites that share similar patterns of obsidian exploitation, distinct spheres of
+interaction can be recognized, although these borders do not necessarily mirror political, ethnic
+or linguistic boundaries.
+MOVEMENT
+In many cases, obsidian sourcing data are used as a means of assessing the movement of people.
+This is contextualized on two fronts: (a) in relation to hunter–gatherer mobility and the reconstruction of ancient procurement ranges; and (b) in the sense of large-scale migrations and
+colonization events. In addition, the exploitation of island obsidian sources is often used as
+indirect evidence for the existence of boat technology. This type of inference is not new, and has
+been applied most notably in the context of early obsidian exploitation of the Greek island source
+of Melos at the mainland site of Franchthi Cave (see Perlès et al. 1990). Maritime technology has
+been included in this section because it has been related to human colonization, and its implied
+existence reveals human innovation in the context of mobility. However, in several cases, the use
+of watercraft is merely implied, with no further discussion of its implications.
+Procurement ranges
+The use of geochemical data to establish hunter–gatherer procurement ranges dates back to the
+early work of Shackley (1986, 1990) in the American Southwest. Since that time, a number of
+studies have built upon this early work by utilizing sourcing data to reconstruct how people
+moved across the landscape. Unless archaeological sites are located next to an obsidian source,
+procurement implies the movement of people. This has often been applied to hunter–gatherer
+contexts where the provenance of obsidian artefacts is seen as indirect evidence for ancient
+mobility, allowing for the reconstruction of ancient procurement ranges and territories—although
+ownership or control is not implied (see Shackley 2002, 61–9). Source characterization allows
+archaeologists to reconstruct the geographical extent of hunter–gatherer group mobility by
+784 K. P. Freund
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793examining the distances that people travelled to obtain obsidian. In such situations, there must be
+tight chronological control as well as a comprehensive understanding of the role of direct
+procurement versus exchange in the ancient past.
+This has been applied with great success in the context of Archaic (fourth to first millennia bc)
+sites in the Tucson Basin of southern Arizona by Roth (2000, 313), where it is shown that a
+reduction in the prevalence of obsidian from distant obsidian sources relates to an overall
+reduction in procurement ranges and increasing sedentism. Smith and Kielhofer (2011) also
+integrate obsidian sourcing data with techno-typological information to differentiate between
+residential and logistical mobility in the 11th to seventh millennia bc Great Basin. In addition,
+there are a number of recent studies that use sourcing data to reconstruct procurement ranges and
+patterns of mobility in Early and Middle Stone Age Ethiopia (see Negash and Shackley 2006;
+Negash et al. 2006, 2011; Vogel et al. 2006).
+Colonization
+Colonization in this sense implies the movement of people into new lands. This is evident in the
+work of scholars such as Civalero and Franco (2003), who analyse the initial phases of colonization at several sites in Patagonia by combining source data with techno-typological analyses.
+They utilize lithic assemblage expectations generated by Borrero (1994–5)—which include the
+distance of artefacts from their source—for three levels of mobility, including exploration,
+colonization and effective occupation. They conclude that the earliest sites match expectations for
+an exploration or early colonization phase (Civalero and Franco 2003, 77). While one should be
+weary of reducing human behaviour to sets of expectations, these studies, and others (see
+Arakawa et al. 2011), are well thought out and convincing because they address human migration
+using several lines of evidence, all of which in combination lead to the same conclusion.
+While in some cases provenance is used to support the movement of people, in other cases the
+very notion of widespread human migration is questioned using geochemical data. In Oceania,
+Torrence and Swadling (2008) argue that the obsidian interaction spheres in place before the
+widespread introduction of Lapita pottery to the area c. 3300 bp can be seen as the framework
+structuring the rapid introduction of new technology, thus destabilizing the notion of a widespread colonization event (see Green 2000). In this sense, obsidian source data are analysed as a
+means of interrogating how new ideas and practices spread to foreign lands (i.e., through the
+movement of people or through the flow of new ideas).
+Maritime technology
+Because of preservation issues, the use of boat technology in the past is often implied through
+indirect evidence such as obsidian source data (see Stanish et al. 2002; Ammerman 2010;
+Erlandson and Braje 2011; Ndiema et al. 2011). These studies work under the assumption that in
+order to procure obsidian from an island source, people required boat technology. Erlandson and
+Braje (2011) have applied this argument to demonstrate the use of watercraft in Late Pleistocene
+Japan, consequently arguing that it supports the idea of a coastal migration contributing to the
+peopling of the Americas. Similarly, Ammerman (2010) discusses obsidian procurement in the
+context of seafaring and the Neolithic colonization of the Mediterranean islands. Since evidence
+indicates the existence of maritime technology before the Neolithic, he argues that archaeologists
+must uncouple the study of the earliest seafaring with thinking about the Neolithic transition
+(Ammerman 2010, 89).
+Obsidian sourcing studies in archaeological research 785
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793MOVING FORWARD
+The field of obsidian sourcing is flourishing, with a clear upward trend in the number of published
+studies in the past few decades (Shackley 2008, 296). Since the year 2000, a total of 100 papers
+have been published in a range of widely read journals (see Fig. 1). Of these, 37 are from the
+Journal of Archaeological Science and 15 are from Antiquity, American Antiquity or Latin
+American Antiquity. This distribution is reflected in the diversity of applications to which
+provenance data are applied, in contexts ranging from mere description to those that use obsidian
+as a proxy for the examination of broader archaeological and anthropological issues. Despite such
+a wide range of applications, there is still potential for future growth. Nevertheless, moving
+forward in the discipline requires confronting a prevalent methodological issue.
+Broader contextualization
+Throughout the paper, I have attempted to show how a broader contextualization of provenance
+data leads to a more informed theoretical position. Unfortunately, a common theme in current
+obsidian sourcing discourse is the tendency to see artefacts as ‘samples’ as opposed to the
+remnants of human behaviour. While methodological publications concerning techniques and
+instrumentation undoubtedly play a vital role in obsidian sourcing discourse, they must be viewed
+as a first step towards archaeological interpretations that take into account the broader socioeconomic, technological and political circumstances of obsidian procurement and use. An especially salient example is described by Moholy-Nagy (2003), in the context of Maya obsidian
+procurement. He notes that while numerous sourcing studies have been undertaken on Maya
+obsidian artefacts, few have actually been undertaken on so-called ceremonial prismatic blades.
+By separating out ceremonial prismatic blades, Moholy-Nagy (2003, 307) shows that they all
+come from a single source and probably operated under different socio-economic conditions of
+procurement. If these blades were lumped together with other artefact types, then this pattern
+would not have been recognized.
+DISCUSSION AND CONCLUSIONS
+At its core, obsidian sourcing is a relatively simple procedure in that it reveals where artefacts
+originate. It is an excellent raw material for the creation of stone tools and was widely exploited
+by people of the past. Nevertheless, understanding the geological sources from which raw
+materials were obtained has far-reaching implications. This is perhaps why provenance studies
+are a flourishing field within archaeology.
+Currently, there are a number of regions that are receiving considerable attention. There are
+numerous studies that are in the beginning stages of characterization, such as in the Russian Far
+East, the Pacific Rim, Armenia, Yemen, Iran and many regions in South America. These nascent
+stages of characterization are also evident in a series of studies examining Early and Middle
+Stone Age obsidian use in Ethiopia, and will certainly continue to provide interesting results in
+the future. Other areas with long-standing traditions of obsidian sourcing discourse continue
+to move the discipline forward through innovative theoretical applications. These include
+Mesoamerica, the Mediterranean, the Near East and the American Southwest.
+In contrast to Pollard and Heron’s (2008, 87) statement that the ‘principal aim of any archaeological provenance study is an assessment of the economic and social factors which underlie the
+movement of materials’, this paper argues that the current obsidian sourcing discourse is much
+786 K. P. Freund
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793Figure 1 Obsidian sourcing publications (n = 100) in academic journals from 2000 to 2012.
+Journals included Number of papers
+American Antiquity 5
+Antiquity 2
+Archaeometry 6
+Asian Perspective 3
+Comptes Rendus de l’Academie des Sciences 1
+Comptes Rendus Geoscience 1
+Comptes Rendus Palevol 6
+Geoarchaeology 4
+Latin American Antiquity 8
+Journal of Anthropological Archaeology 3
+Journal of Archaeological and Anthropological Sciences 1
+Journal of Archaeological Science 37
+Journal of Field Archaeology 3
+Journal of Island and Coastal Archaeology 1
+Journal of Mediterranean Archaeology 1
+Journal of Non-Crystalline Solids 4
+Journal of Radioanalytical and Nuclear Chemistry 3
+L’anthropologie 1
+Nuclear Instruments and Methods in Physics Research B 4
+Oxford Journal of Archaeology 1
+Quaternary International 4
+Vibrational Spectroscopy 1
+Obsidian sourcing studies in archaeological research 787
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793more diverse. However, despite such diversity, it is still those analyses that integrate source data
+with other information about the form and function of archaeological objects and their cultural
+context that are poised to contribute the most to our ongoing investigation of people of the past.
+BIBLIOGRAPHY
+Abbès, F., Bellot-Gurlet, L., Cauvin, M.-C., Delerue, S., Dubernet, S., Poupeau, G., and Stordeur, D., 2003, Provenance
+of the Jerf el Ahmar (Middle Euphrates Valley, Syria) obsidians, Journal of Non-Crystalline Solids, 323, 162–6.
+Acquafredda, P., and Muntoni, I. M., 2008, Obsidian from Pulo di Molfetta (Bari, southern Italy): provenance from Lipari
+and first recognition of a Neolithic sample from Monte Arci (Sardinia), Journal of Archaeological Science, 35,
+947–55.
+Ambrose, W., Allen, C., O’Connor, S., Spriggs, M., Oliveira, N. V., and Reepmeyer, C., 2009, Possible obsidian sources
+for artifacts from Timor: narrowing the options using chemical data, Journal of Archaeological Science, 36, 607–15.
+Ammerman, A. J., 2010, The first Argonauts: towards the study of the earliest seafaring in the Mediterranean, in Global
+origins of seafaring (eds. A. Anderson, J. Barrett and K. Boyle), 81–92, McDonald Institute for Archaeological
+Research, Cambridge, UK.
+Arakawa, F., Ortman, S. G., Shackley, M. S., and Duff, A. I., 2011, Obsidian evidence of interaction and migration from
+the Mesa Verde region, Southwest Colorado, American Antiquity, 76(4), 774–96.
+Barberena, R., Hajduk, A., Gil, A. F., Neme, G. A., Durán, V., Glascock, M. D., Giesso, M., Borrazzo, K., de la Paz
+Pompei, M., Salgán, M. L., Cortegoso, V., Villarosa, G., and Rughini, A. A., 2011, Obsidian in the south-central
+Andes: geological, geochemical, and archaeological assessment of north Patagonian sources (Argentina), Quaternary
+International, 245, 25–6.
+Barge, O., and Chataigner, C., 2003, The procurement of obsidian: factors influencing the choice of deposits, Journal of
+Non-Crystalline Solids, 323, 172–9.
+Barker, A. W., Skinner, C. E., Shackley, M. S., Glascock, M. D., and Rogers, J. D., 2002, Mesoamerican origin for an
+obsidian scraper from the Precolumbian southeastern United States, American Antiquity, 67(1), 103–8.
+Bellot-Gurlet, L., Pelon, O., and Séfériadès, M. L., 2008, Détermination de provenance d’une sélection d’obsidiennes du
+palais minoen de Malia (Crète), Comptes Rendus Palevol, 7, 419–27.
+Best, S., 2002, Lapita: a view from the east, New Zealand Archaeological Association Monographs, vol. 24, New Zealand
+Archaeological Association, Auckland.
+Binder, D., Gratuze, B., Mouralis, D., and Balkan-Atlı, N., 2011, New investigations of the Göllüdag obsidian lava flows
+system: a multi-disciplinary approach, Journal of Archaeological Science, 38, 3174–84.
+Blomster, J. P., and Glascock, M. D., 2011, Obsidian procurement in formative Oaxaca, Mexico: diachronic changes in
+political economy and interregional interaction, Journal of Field Archaeology, 36(1), 21–41.
+Borrero, L. A., 1994–5, Arqueologıa de la Patagonia: palimpsesto, Revista de Arqueologıa, 4, 9–69.
+Bradley, R., and Edmonds, M., 2005, Interpreting the axe trade: production and exchange in Neolithic Britain,
+Cambridge University Press, Cambridge, UK.
+Braswell, G. E., 2003, Obsidian exchange spheres, in The Postclassic Mesoamerican world (eds. M. E. Smith and F. F.
+Berdan), 131–58, University of Utah Press, Salt Lake City, UT.
+Braun, D. R., Plummer, T., Ferraro, J. V., Ditchfield, P., and Bishop, L. C., 2009, Raw material quality and Oldowan hominin
+toolstone preferences: evidence from Kanjera South, Kenya, Journal of Archaeological Science, 36, 1605–14.
+Brown, D. O., Dreiss, M. L., and Hughes, R. E., 2004, Preclassic obsidian procurement and utilization at the Maya site
+of Colha, Belize, Latin American Antiquity, 15(2), 222–40.
+Brumfield, E. M., and Earle, T. K. (eds.), 1987a, Specialization, exchange, and complex societies, Cambridge University
+Press, Cambridge, UK.
+Brumfield, E. M., and Earle, T. K., 1987b, Specialization, exchange, and complex societies: an introduction, in Specialization exchange, and complex societies (eds. E. M. Brumfield and T. K. Earle), 1–9, Cambridge University Press,
+Cambridge, UK.
+Burger, R. L., Chavez, K. L. M., and Chavez, S. J., 2000, Through the glass darkly: prehistoric obsidian procurement and
+exchange in southern Peru and northern Bolivia, Journal of World Prehistory, 14(3), 267–362.
+Burley, D. V., Sheppard, P. J., and Simonin, M., 2011, Tongan and Samoan volcanic glass: pXRF analysis and
+implications for constructs of ancestral Polynesian society, Journal of Archaeological Science, 38, 2625–32.
+Carballo, D. M., Carballo, J., and Neff, H., 2007, Formative and Classic Period obsidian procurement in central Mexico:
+a compositional study using laser ablation – inductively coupled plasma – mass spectrometry, Latin American
+Antiquity, 18(1), 27–43.
+788 K. P. Freund
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793Carter, T., and Kilikoglou, V., 2007, From reactor to royalty? Aegean and Anatolian obsidians from Quartier Mu, Malia
+(Crete), Journal of Mediterranean Archaeology, 20(1), 115–43.
+Carter, T., Poupeau, G., Bressy, C., and Pearce, N. J. G., 2006, A new programme of obsidian characterization at
+Çatalhöyük, Turkey, Journal of Archaeological Science, 33, 893–909.
+Carter, T., Dubernet, S., King, R., Le Bourdonnec, F.-X., Milic, M., Poupeau, G., and Shackley, M. S., 2008, Eastern
+Anatolian obsidians at Çatalhöyük and the reconfiguration of regional interaction in the Early Ceramic Neolithic,
+Antiquity, 82, 900–9.
+Carter, E. A., Hargreaves, M. D., Kononenko, N., Graham, I., Edwards, H. G. M., Swarbrick, B., and Torrence, R., 2009,
+Raman spectroscopy applied to understanding prehistoric obsidian trade in the Pacific region, Vibrational Spectroscopy, 50, 116–24.
+Chataigner, C., Badalian, R., Bigazzi, G., Cauvin, M.-C., Jrbashian, R., Karapetian, S. G., Norelli, P., Oddone, M., and
+Poidevin, J.-L., 2003, Provenance studies of obsidian artefacts from Armenian archaeological sites using the fissiontrack dating method, Journal of Non-Crystalline Solids, 323, 167–71.
+Cherry, J. F., Faro, E. Z., and Minc, L., 2010, Field survey and geochemical characterization of the southern Armenian
+obsidian sources, Journal of Field Archaeology, 35(2), 147–63.
+Chia, S., Yondri, L., and Simanjuntak, T., 2008, The origin of obsidian artifacts from Gua Pawon, Dago and Bukit
+Karsamanik in Bandung, Indonesia, L’anthropologie, 112, 448–56.
+Chia, S., Yondri, L., and Simanjuntak, T., 2011, Obsidian sourcing in Bandung, Indonesia, Asian Perspectives, 49(1),
+148–56.
+Civalero, M. T., and Franco, N. V., 2003, Early human occupations in western Santa Cruz Province, southernmost South
+America, Quaternary International, 109–10, 77–86.
+Clark, T. C., 2006, Production, exchange, and social identity: a study of Chupadero Black-on-White pottery, Ph.D.
+dissertation, Arizona State University, Tempe, AZ.
+Colby-Phillips, S., and Speakman, R. J., 2009, Initial source evaluation of archaeological obsidian from the Kuril Islands
+of the Russian Far East using portable XRF, Journal of Archaeological Science, 36, 1256–63.
+Constantinescu, B., Bugoi, R., and Sziki, G., 2002, Obsidian provenance studies of Transylvania’s Neolithic tools using
+PIXE, micro-PIXE and XRF, Nuclear Instruments and Methods in Physics Research B, 189, 373–7.
+Contreras, D. A., 2011, How far to Conchucos? A GIS approach to assessing the implications of exotic materials at Chavın
+de Huantar, World Archaeology, 43(3), 389–97.
+Craig, N., Speakman, R. J., Popelka-Filcoff, R. S., Aldenderfer, M., Blanco, L. F., Vega, M. B., Glascock, M. D., and
+Stanish, C., 2010, Macusani obsidian from southern Peru: a characterization of its elemental composition with a
+demonstration of its ancient use, Journal of Archaeological Science, 37, 569–76.
+De Francesco, A. M., Crisci, G. M., and Bocci, M., 2008, Non-destructive analytic method using XRF for determination
+of provenance of archaeological obsidians from the Mediterranean area: a comparison with traditional XRF methods,
+Archaeometry, 50, 337–50.
+Dillian, C. D., 2002, More than toolstone: differential utilization of Glass Mountain obsidian, Ph.D. dissertation,
+University of California, Berkeley, CA.
+Doelman, T., Torrence, R., Popov, V., Ionescu, M., Kluyev, N., Sleptsov, I., Pantyukhina, I., White, P., and Clements, M.,
+2008, Source selectivity: an assessment of volcanic glass sources in the southern Primorye region, Far East Russia,
+Geoarchaeology, 23(2), 243–73.
+Duttine, M., Villeneuve, G., Poupeau, G., Rossi, A. M., and Scorzelli, R. B., 2003, Electron spin resonance of Fe3+ ion
+in obsidians from Mediterranean islands. Application to provenance studies, Journal of Non-Crystalline Solids, 323,
+193–9.
+Earle, T., 1999, Production and exchange in prehistory, in Companion encyclopedia of archaeology (ed. G. Barker),
+608–35, Routledge, London.
+Eerkens, J. W., and Rosenthal, J. S., 2004, Are obsidian subsources meaningful units of analysis? Temporal and spatial
+patterning of subsources in the Coso Volcanic Field, southeastern California, Journal of Archaeological Science, 31,
+21–9.
+Eerkens, J. W, Ferguson, J. R., Glascock, M. D., Skinner, C. E., and Waechter, S. A., 2007, Reduction strategies and
+geochemical characterization of lithic assemblages: a comparison of three case studies from western North America,
+American Antiquity, 72(3), 585–97.
+Eerkens, J. W., Vaughn, K. J., Linares-Grados, M., Conlee, C. A., Schreiber, K., Glascock, M. D., and Tripcevich, N.,
+2010, Spatio-temporal patterns in obsidian consumption in the southern Nasca region, Peru, Journal of Archaeological Science, 37, 825–32.
+Ericson, J. E., and Earle, T. K. (eds.), 1982, Contexts for prehistoric exchange, Academic Press, New York.
+Obsidian sourcing studies in archaeological research 789
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793Ericson, J. E., and Glascock, M. D., 2004, Subsource characterization: obsidian utilization of subsources of the Coso
+Volcanic Field, Coso Junction, California, USA, Geoarchaeology, 19(8), 779–805.
+Ericson, J. E., and Purdy, B. A. (eds.), 1984, Prehistoric quarries and lithic production, Cambridge University Press,
+Cambridge, UK.
+Erlandson, J. M., and Braje, T. J., 2011, From Asia to the Americas by boat? Paleogeography, paleoecology, and stemmed
+points of the northwest Pacific, Quaternary International, 239(1–2), 28–37.
+Forster, N., and Grave, P., 2012, Non-destructive pXRF analysis of museum-curated obsidian from the Near East, Journal
+of Archaeological Science, 39, 728–36.
+Frahm, E., 2012, Distinguishing Nemrut Dag and Bingöl A obsidians: geochemical and landscape differences and the
+archaeological implications, Journal of Archaeological Science, 39, 1436–44.
+Freund, K. P., and Tykot, R. H., 2011, Lithic technology and obsidian exchange networks in Bronze Age Nuragic Sardinia
+(Italy), Journal of Archaeological and Anthropological Sciences, 3(2), 151–64.
+Georgiadis, M., 2008, The obsidian in the Aegean beyond Melos: an outlook from Yali, Oxford Journal of Archaeology,
+27(2), 101–17.
+Giesso, M., Duran, V., Neme, G., Glascock, M. D., Cortegoso, V., Gil, A., and Sanhueza, L., 2011, A study of obsidian
+source usage in the central Andes of Argentina and Chile, Archaeometry, 53(1), 1–21.
+Glascock, M. D., Kuzmin, Y. V., Grebennikov, A. V., Popov, V. K., Medvedev, V. E., Shewkomude, I. Y., and Zaitsev, N.
+N., 2011, Obsidian provenance for prehistoric complexes in the Amur River basin (Russian Far East), Journal of
+Archaeological Science, 38, 1832–41.
+Green, R., 2000, Lapita and the cultural model for intrusion, integration and innovation, in Australian archaeologist:
+collected papers in honour of Jim Allen (eds. A. Anderson and T. Murray), 372–93, Coombs Academic Publishing,
+Canberra.
+Helms, M., 1988, Ulysses’ sail: an ethnographic odyssey of power, knowledge, and geographical distance, Princeton
+University Press, Princeton, NJ.
+Hirth, K. G., 2008, The economy of supply: modeling obsidian procurement and craft provisioning at a central Mexican
+urban center, Latin American Antiquity, 19(4), 435–57.
+Jennings, J., and Glascock, M. D., 2002, Description and method of exploitation of the Alca obsidian source, Peru, Latin
+American Antiquity, 13(1), 107–18.
+Jones, T. L., and Schwitalla, A., 2008, Archaeological perspectives on the effects of medieval drought in prehistoric
+California, Quaternary International, 188, 41–58.
+Juárez-Cossío, D., Terreros, E., Quiroz-Moreno, J., Romero-Sánchez, S., Calligaro, T. F., Tenorio, D., Jiménez-Reyes,
+M., and De Los Rios, M., 2009, Archaeological obsidian from La Sierra Gorda Mexico, by PIXE, Nuclear Instruments and Methods in Physics Research B, 267, 1149–52.
+Kasztovszky, Z., Biró, K. T., Markó, A., and Dobosi, V., 2008, Prompt gamma activation analysis for non-destructive
+characterization of chipped stone tools and raw materials, Journal of Radioanalytical and Nuclear Chemistry, 278(2),
+293–98.
+Khalidi, L., Oppenheimer, C., Gratuze, B., Boucetta, S., Sanabani, A., and al-Mosabi, A., 2010, Obsidian sources in
+highland Yemen and their relevance to archaeological research in the Red Sea region, Journal of Archaeological
+Science, 37, 2332–45.
+Knight, C. L. F., and Glascock, M. D., 2009, The Terminal Formative to Classic Period obsidian assemblage at Palo
+Errado, Veracruz, Mexico, Latin American Antiquity, 20(4), 507–24.
+Knight, C. L. F., Cuéllar, A. M., Glascock, M. D., Hall, M. L., and Mothes, P. A., 2011, Obsidian source characterization
+in the Cordillera Real and eastern piedmont of the north Ecuadorian Andes, Journal of Archaeological Science, 38(5),
+1069–79.
+Kuzmin, Y. V., Glascock, M. D., and Sato, H., 2002, Sources of archaeological obsidian on Sakhalin Island (Russian Far
+East), Journal of Archaeological Science, 29, 741–9.
+Lazzari, M., 2010, Landscapes of circulation in northwest Argentina: the workings of obsidian and ceramics during
+the first millennium ad, in Social archaeologies of trade and exchange: exploring relationships among
+people, places, and things (eds. A. A. Bauer and A. S. Agbe-Davies), 49–68, Left Coast Press, Walnut Creek,
+CA.
+Lazzari, M., Domingorena, L. P., Scattolin, M. C., Cecil, L., Glascock, M. D., and Speakman, R. J., 2009, Ancient social
+landscapes of northwestern Argentina: preliminary results of an integrated approach to obsidian and ceramic provenance, Journal of Archaeological Science, 36, 1955–64.
+Le Bourdonnec, F.-X., Poupeau, G., and Lugliè, C., 2006, SEM–EDS analysis of western Mediterranean obsidians: a new
+tool for Neolithic provenance studies, Comptes Rendus Geoscience, 338, 1150–7.
+790 K. P. Freund
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793Le Bourdonnec, F.-X., Bontempi, J.-M., Marini, N., Mazet, S., Neuville, P. F., Poupeau, G., and Sicurani, J., 2010,
+SEM–EDS characterization of western Mediterranean obsidians and the Neolithic site of A Fuata (Corsica), Journal
+of Archaeological Science, 37, 92–106.
+Le Bourdonnec, F.-X., Delerue, S., Dubernet, S., Moretto, P., Calligaro, T., Dran, J.-C., and Poupeau, G., 2005, PIXE
+characterization of western Mediterranean and Anatolian obsidians and Neolithic provenance studies, Nuclear
+Instruments and Methods in Physics Research B, 240, 595–9.
+Le Bourdonnec, F.-X., Poupeau, G., Lugliè, C., D’Anna, A., Bellot-Gurlet, L., Bressy-Leandri, C. S., Pasquet, A., and
+Tramoni, P., 2011, New data and provenance of obsidian blocks from Middle Neolithic contexts on Corsica (western
+Mediterranean), Comptes Rendus Palevol, 10, 259–69.
+Le Bourdonnec, F.-X., Nomade, S., Poupeau, G., Guillou, H., Tushabramishvili, N., Moncel, M.-H., Pleurdeau, D.,
+Agapishvili, T., Voinchet, P., Mgeladze, A., and Lordkipanidze, D., 2012, Multiple origins of Bondi Cave and Ortvale
+Klde (NW Georgia) obsidians and human mobility in Transcaucasia during the Middle and Upper Palaeolithic,
+Journal of Archaeological Science, 39, 1317–30.
+Lugliè, C., Le Bourdonnec, F.-X., Poupeau, G., Atzeni, E., Dubernet, S., Moretto, P., and Serani, L., 2007, Early Neolithic
+obsidians in Sardinia (western Mediterranean): the Su Carroppu case, Journal of Archaeological Science, 34, 428–39.
+Lugliè, C., Le Bourdonnec, F.-X., Poupeau, G., Bohn, M., Meloni, S., Oddone, M., and Tanda, G., 2006, A map of the
+Monte Arci (Sardinia island, western Mediterranean) obsidian primary to secondary sources: implications for
+Neolithic provenance studies, Comptes Rendus Palevol, 5, 995–1003.
+Lugliè, C., Le Bourdonnec, F.-X., Poupeau, G., Congia, C., Moretto, P., Calligaro, T., Sanna, I., and Dubernet, S., 2008,
+Obsidians in the Rio Saboccu (Sardinia, Italy) campsite: provenance, reduction and relations with the wider Early
+Neolithic Tyrrhenian area, Comptes Rendus Palevol, 7, 249–58.
+McCoy, M. D., Mills, P. R., Lundblad, S., Rieth, T., Kahn, J. G., and Gard, R., 2011, A cost surface model of volcanic
+glass quarrying and exchange in Hawai’i, Journal of Archaeological Science, 38, 2547–60.
+Meloni, S., Lugliè C., Oddone, M., and Giordani, L., 2006, Diffusion of obsidian in the Mediterranean basin in the
+Neolithic period: a trace element characterization of obsidian from Sardinia by instrumental neutron activation
+analysis, Journal of Radioanalytical and Nuclear Chemistry, 271(3), 533–9.
+Millhauser, J. K., Rodríguez-Alegría, E., and Glascock, M. D., 2011, Testing the accuracy of portable X-ray fluorescence
+to study Aztec and Colonial obsidian supply at Xaltocan, Mexico, Journal of Archaeological Science, 38, 3141–
+52.
+Moholy-Nagy, H., 2003, Attribution and the utilization of obsidian in the Maya area, Latin American Antiquity, 14(3),
+301–10.
+Mulazzani, S., Le Bourdonnec, F.-X., Belhouchet, L., Poupeau, G., Zoughlami, J., Dubernet, S., Tufano, E., Lefrais, Y.,
+and Khedhaier, R., 2010, Obsidian from the Epipalaeolithic and Neolithic eastern Maghreb: a view from the Hergla
+context (Tunisia), Journal of Archaeological Science, 37, 2529–37.
+Nash, B. P., Merrick, H. V., and Brown, F. H., 2011, Obsidian types from Holocene sites around Lake Turkana, and other
+localities in northern Kenya, Journal of Archaeological Science, 38, 1371–6.
+Ndiema, K. E., Dillian, C. D., Braun, D. R., Harris, J. W. K., and Kiura, P. W., 2011, Transport and subsistence patterns
+at the transition to pastoralism, Koobi Fora, Kenya, Archaeometry, 53, 1085–98.
+Negash, A., and Shackley, M. S., 2006, Geochemical provenance of obsidian artefacts from the MSA site of Porc Epic,
+Ethiopia, Archaeometry, 48, 1–12.
+Negash, A., Shackley, M. S., and Alene, M., 2006, Source provenance of obsidian artifacts from the Early Stone Age
+(ESA) site of Melka Konture, Ethiopia, Journal of Archaeological Science, 33, 1647–50.
+Negash, A., Brown, F., and Nash, B., 2011, Varieties and sources of artefactual obsidian in the Middle Stone Age of the
+Middle Awash, Ethiopia, Archaeometry, 53(4), 661–73.
+Niknami, K. A., Amirkhiz, A. C., and Glascock, M. D., 2010, Provenance studies of Chalcolithic obsidian artefacts from
+near Lake Urmia, northwestern Iran using WDXRF analysis, Archaeometry, 52, 19–30.
+Obata, H., Morimoto, I., and Kakubuchi, S., 2010, Obsidian trade between sources on northwestern Kyushu Island and
+the Ryukyu Archipelago (Japan) during the Jomon Period, in Crossing the straits: prehistoric obsidian source
+exploitation in the North Pacific Rim (eds. Y. V. Kuzmin and M. D. Glascock), 57–71, BAR International Series 2152,
+Archaeopress, Oxford.
+Ogburn, D., Connell, S., and Gifford, C., 2009, Provisioning of the Inka army in wartime: obsidian procurement in
+Pambamarca, Ecuador, Journal of Archaeological Science, 36, 740–51.
+Perlès, C., Takaoglu, T., and Gratuze, B., 1990, Les industries lithiques taillees de Franchthi (Argolide, Grece),
+Excavations at Franchthi Cave, Fascicle 5, Indiana University Press, Bloomington, IN.
+Perlès, C., Takaoglu, T., and Gratuze, B., 2011, Melian obsidian in NW Turkey: evidence for early Neolithic trade,
+Journal of Field Archaeology, 36(1), 42–9.
+Obsidian sourcing studies in archaeological research 791
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793Peterson, J., Mitchell, D. R., and Shackley, M. S., 1997, The social and economic contexts of lithic procurement: obsidian
+from Classic-Period Hohokam sites, American Antiquity, 62(2), 231–59.
+Piperno, M., Collina, C., Gallotti, R., Raynal, J. P., Kieffer, G., Le Bourdonnec, F.-X., Poupeau, G., and Geraads, D.,
+2009, Obsidian exploitation and utilization during the Oldowan at Melka Kunture (Ethiopia), in Interdisciplinary
+approaches to the Oldowan (eds. E. Hovers and D. R. Braun), 111–28, Springer, Dordrecht.
+Polanyi, K., 1957, The economy as instituted process, in Trade and market in the early empires (eds. K. Polanyi, C. M.
+Arensberg and H. W. Pearson), 243–70, The Free Press, New York.
+Pollard, M., and Heron, C., 2008, Archaeological chemistry, RSC Publishing, Cambridge, UK.
+Pollard, M., Batt, C., Stern, B., and Young, S. M. M., 2007, Analytical chemistry in archaeology, Cambridge University
+Press, Cambridge, UK.
+Ponomarenko, A. L., 2004, The Pachuca obsidian source, Hidalgo, Mexico: a geoarchaeological perspective, Geoarchaeology, 19(1), 71–91.
+Poupeau, G., Le Bourdonnec, F.-X., Carter, T., Delerue, S., Shackley, M. S., Barrat, J.-X., Dubernet, S., Moretto, P.,
+Calligaro, T., Milic, M., and Kobayashi, K., 2010, The use of SEM–EDS, PIXE and EDXRF for obsidian provenance
+studies in the Near East: a case study from Neolithic Çatalhöyük (central Anatolia), Journal of Archaeological
+Science, 37, 2705–20.
+Quarta, G., Maruccio, L., and Calcagnile, L., 2011, Provenance studies of obsidians from Neolithic contexts in southern
+Italy by IBA (ion beam analysis) methods, Nuclear Instruments and Methods in Physics Research B, 269, 3102–5.
+Rath, P., and Torrence, R., 2003, Producing value: stemmed tools from Garua Island, Papua New Guinea, Australian
+Archaeology, 57, 119–27.
+Rathje, W. L., 1971, The origin and development of Lowland Classic Maya civilization, American Antiquity, 36, 275–85.
+Reepmeyer, C., and Clark, G., 2010, Post-colonization interaction between Vanuatu and Fiji reconsidered: the re-analysis
+of obsidian from Lakeba Island, Fiji, Archaeometry, 52, 1–18.
+Reepmeyer, C., Spriggs, M., Bedford, S., and Ambrose, W., 2011b, Provenance and technology of lithic artifacts from the
+Teouma Lapita Site, Vanuatu, Asian Perspectives, 49(1), 205–25.
+Reepmeyer, C., Spriggs, M., Anggraeni, Lape, P., Neri, L., Ronquillo, W. P., Simanjuntak, T., Summerhayes, G.,
+Tanudirjo, D., and Tiauzon, A., 2011a, Obsidian sources and distribution systems in Island Southeast Asia: new results
+and implications from geochemical research using LA–ICPMS, Journal of Archaeological Science, 38, 2995–
+3005.
+Renfrew, C., 1969, Trade and culture process in European prehistory, Current Anthropology, 10(2/3), 151–69.
+Renfrew, C., 1975, Trade as action at a distance, in Ancient civilization and trade (eds. J. A. Sabloff and C. C.
+Lamberg-Karlovsky), 3–60, University of New Mexico Press, Albuquerque, NM.
+Rice, P. M., 2009, On Classic Maya political economies, Journal of Anthropological Archaeology, 28, 70–84.
+Roth, B. J., 2000, Obsidian source characterization and hunter–gatherer mobility: an example from the Tucson Basin,
+Journal of Archaeological Science, 27, 305–14.
+Sand, C., and Sheppard, P. J., 2000, Long distance prehistoric obsidian imports in New Caledonia: characteristics and
+meaning, Comptes Rendus de l’Academie des Sciences, 331, 235–43.
+Santi, P., Renzulli, A., and Oddone, M., 2010, Increasing data (INAA) on Ecuadorian obsidian artifacts: preliminary
+provenance and a clue for pre-Columbian eastward trade, Journal of Archaeological Science, 37, 1753–60.
+Seccaroni, C., Volante, N., Rosada, A., Ambrosone, L., Bufalo, G., and Avino, P., 2008, Identification of provenance of
+obsidian samples analyzing elemental composition by INAA, Journal of Radioanalytical and Nuclear Chemistry,
+278(2), 277–82.
+Shackley, M. S., 1986, Lithic technology and mobility strategies at Picacho, in Prehistoric hunter–gatherers of south
+central Arizona: the Picacho Reservoir Project (eds. F. E. Bayham, D. H. Morris and M. S. Shackley), 109–56,
+Anthropological Field Studies no. 13, Arizona State University Press, Tempe, AZ.
+Shackley, M. S., 1990, Early hunter–gatherer procurement ranges in the Southwest: evidence from obsidian geochemistry and lithic technology, Unpublished Ph.D. dissertation, Arizona State University, Tempe, AZ.
+Shackley, M. S., 1998, Current issues and future directions in archaeological volcanic glass studies, in Archaeological
+obsidian studies: method and theory (ed. M. S. Shackley), 1–14, Advances in Archaeological and Museum Science,
+vol. 3, Plenum Press, New York.
+Shackley, M. S., 2002, More than exchange: Pre-Ceramic though Ceramic period obsidian studies in the Greater North
+American Southwest, in Geochemical evidence for long-distance exchange (ed. M. D. Glascock), 53–87, Bergin and
+Garvey, Westport, CT.
+Shackley, M. S., 2008, Archaeological petrology and the archaeometry of lithic materials, Archaeometry, 50, 194–215.
+Shackley, M. S., 2009, The Topaz Basin archaeological obsidian source in the transition zone of central Arizona,
+Geoarchaeology, 24(3), 336–47.
+792 K. P. Freund
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793Sheppard, P. J., Irwin, G. J., Lin, S. C., and McCaffrey, C. P., 2011, Characterization of New Zealand obsidian using
+PXRF, Journal of Archaeological Science, 38, 45–56.
+Sherman, R. J., Balkansky, A. K., Spencer, C. S., and Nicholls, B. D., 2010, Expansionary dynamics of the nascent Monte
+Albán state, Journal of Anthropological Archaeology, 29, 278–301.
+Sidrys, R. V., 1976, Classic Maya obsidian trade, American Antiquity, 41(4), 449–64.
+Smith, G. M., and Kielhofer, J., 2011, Through the high rock and beyond: placing the Last Supper Cave and Parman
+Paleoindian lithic assemblages into a regional context, Journal of Archaeological Science, 38, 3568–76.
+Smith, M. E., Burke, A. L., Hare, T. S., and Glascock, M. D., 2007, Sources of imported obsidian at Postclassic sites in
+the Yautepec Valley, Morelos: a characterization study using XRF and INAA, Latin American Antiquity, 18(4),
+429–50.
+Sobel, E. A., 2012, An archaeological test of the ‘Exchange Expansion Model’ of contact era change on the Northwest
+Coast, Journal of Anthropological Archaeology, 31, 1–21.
+Spence, M. W., 1984, Craft production and polity in early Teotihuacan, in Trade and exchange in early Mesoamerica
+(ed. K. Hirth), 87–114, University of New Mexico Press, Albuquerque, NM.
+Spriggs, M., Reepmeyer, C., Anggraeni, Lape, P., Neri, L., Ronquillo, W. P., Simanjuntak, T., Summerhayes, G.,
+Tanudirjo, D., and Tiauzon, A., 2011, Obsidian sources and distribution systems in Island Southeast Asia: a review of
+previous research, Journal of Archaeological Science, 38, 2873–81.
+Stanish, C., Burger, R. L., Cipolla, L. M., Glascock, M. D., and Quelima, E., 2002, Evidence for early long-distance
+obsidian exchange and watercraft use from the southern lake Titicaca Basin of Bolivia and Peru, Latin American
+Antiquity, 13(4), 444–54.
+Stemp, W. J., Graham, E., and Goulet, J., 2011, Coastal Maya obsidian trade in the Late Postclassic to Early Colonial
+Period: the view from San Pedro, Ambergris Caye, Belize, Journal of Island and Coastal Archaeology, 6, 134–54.
+Stolman, J. B., and Hughes, R. E., 2004, Obsidian in Early Woodland contexts in the Upper Mississippi Valley, American
+Antiquity, 69(4), 751–9.
+Taçon, P. S. C., 1991, The power of stone: symbolic aspects of stone use and tool development in western Arnhem Land,
+Australia, Antiquity, 65, 192207.
+Taçon, P. S. C., 1999, Identifying ancient sacred landscapes in Australia: from physical to social, in Archaeologies of
+Landscape: Contemporary Perspectives (eds. W. Ashmore and A. B. Knapp), 33–57, Blackwell, Malden, MA.
+Taliaferro, M. S., Schriever, B. A., and Shackley, M. S., 2010, Obsidian procurement, least cost path analysis, and social
+interaction in the Mimbres area of southwestern New Mexico, Journal of Archaeological Science, 37, 536–48.
+Torrence, R. (ed.), 1989, Time, energy and stone tools, Cambridge University Press, Cambridge, UK.
+Torrence, R., 2004, Now you see it, now you don’t: changing obsidian source use in the Willaumez Peninsula, Papua New
+Guinea, in Explaining social change: studies in honour of Colin Renfrew (eds. J. Cherry, C. Scarre and S. Shennan),
+115–25, McDonald Institute for Archaeological Research, Cambridge, UK.
+Torrence, R., and Swadling, P., 2008, Social networks and the spread of Lapita, Antiquity, 82, 600–16.
+Torrence, R., Swadling, P., Kononenko, N., and Ambrose, W., 2009, Mid-Holocene social interaction in Melanesia: new
+evidence from hammer-dressed obsidian stemmed tools, Asian Perspectives, 48(1), 119–48.
+Tykot, R. H., 2003, Determining the source of lithic artifacts and reconstructing trade in the ancient world, in Written in
+stone: the multiple dimensions of lithic analysis (eds. P. N. Kardulias and R. W. Yerkes), 59–85, Lexington Books,
+Lanham, MD.
+Tykot, R. H., 2011, Obsidian finds on fringes of the central Mediterranean: exotic or eccentric exchange, in Exotica in the
+prehistoric Mediterranean (ed. A. Vianello), 33–44, Oxbow Books, Oxford.
+Tykot, R. H., Glascock, M. D., Speakman, R. J., and Atzeni, E., 2008, Obsidian subsources utilized at sites in southern
+Sardinia (Italy), Proceedings of the Materials Research Society Symposium, 1047, 175–83.
+Vogel, N., Nomade, S., Negash, A., and Renne, P. R., 2006, Forensic 40
+Ar/39Ar dating: a provenance study of Middle
+Stone Age obsidian artifacts from Ethiopia, Journal of Archaeological Science, 33, 1749–65.
+Walter, R., Jacomb, C., and Bowron-Muth, S., 2010, Colonisation, mobility and exchange in New Zealand prehistory,
+Antiquity, 84, 497–513.
+Weiming Jia, P., Doelman, T., Chen, C., Zhao, H., Lin, S., Torrence, R., and Glascock, M. D., 2010, Moving sources: a
+preliminary study of volcanic glass artifact distributions in northeast China using pXRF, Journal of Archaeological
+Science, 37, 1670–7.
+White, N. M., and Weinstein, R. A., 2008, The Mexican connection and the Far West of the U.S. Southeast, American
+Antiquity, 73(2), 227–77.
+Yacobaccio, H. D., Escola, P. S., Pereyra, F. X., Lazzari, M., and Glascock, M. D., 2004, Quest for ancient routes: obsidian
+sourcing research in northwestern Argentina, Journal of Archaeological Science, 31, 193–204.
+Obsidian sourcing studies in archaeological research 793
+© 2012 University of Oxford, Archaeometry 55, 5 (2013) 779–793

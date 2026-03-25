@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints/
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Large outputs (optional — remove lines to track figures in git)
+outputs/figures/*.png
+outputs/figures/*.pdf
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Excel temp files
+~$*.xlsx
+~$*.xls

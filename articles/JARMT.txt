@@ -1,0 +1,1040 @@
+Towards a Multi-Agent-Based Modelling of Obsidian
+Exchange in the Neolithic Near East
+David Ortega & Juan José Ibañez & Lamya Khalidi & Vicenç Méndez &
+Daniel Campos & Luís Teira
+# Springer Science+Business Media New York 2013
+Abstract This paper examines an alternative approach to previously proposed models
+of prehistoric exchange such as the law of monotonic decrement or the down-the-line
+exchange model developed by Renfrew (Proceedings of the Prehistoric Society 34:
+319–331, 1968, Renfrew 1977) to explain the distribution of obsidian across the Near
+East during the Neolithic period. Renfrew’s down-the-line model, which results in a
+very regular and clustered network, does not permit the circulation of obsidian to
+regions of the Near East that are further than 300 km from the source zones, as is shown
+in the archaeological data available. Obsidian exchange is a complex system where
+multiple factors interact and evolve in time and space. We therefore explore AgentBased Modelling (ABM) so as to get a better understanding of complex networks.
+ABM simulations of an exchange network where some agents (villages) are allowed to
+attain long-distance exchange partners through correlated random walks are carried out.
+These simulations show what variables (population density, degree of collaboration
+between villages...) are relevant for the transfer of obsidian over long distances.
+Moreover, they show that a type of small-world exchange network could explain the
+breadth of obsidian distribution (up to 800 km from source) during the Near Eastern
+Neolithic.
+J Archaeol Method Theory
+DOI 10.1007/s10816-013-9196-1
+D. Ortega : J. J. Ibañez (*)
+Institución Milá y Fontanals, Consejo Superior de Investigaciones Científicas, Egipcíaques, 15,
+08001 Barcelona, Spain
+e-mail: ibanezjj@imf.csic.es
+L. Khalidi
+UMR 5133—CNRS—Archéorient, Maison de l’Orient et de la Méditerranée, 7 rue Raulin, 69007 Lyon,
+France
+V. Méndez : D. Campos
+Grup de Física Estadística, Departament de Física, Universitat Autònoma de Barcelona, 08193Bellaterra,
+Cerdanyola, Spain
+L. Teira
+Instituto Internacional de Investigaciones Prehistóricas de Cantabria, Universidad de Cantabria, Edificio
+Interfacultativo, Avda. de los Castros, s/n, 39005 Santander, SpainKeywords Agent-based modelling . Down-the-line model . Obsidian exchange . Smallworld networks . Neolithic . Near East
+Introduction
+In economic terms, the transition from hunter–gatherer to farming societies in the Near
+East is characterised by the beginnings of agriculture and animal husbandry. Following
+the process of sedentarization, the important shift towards a settled agro-pastoral
+lifestyle was accompanied by other socio-economic and ideological changes, such as
+the first villages, cultic buildings, and long-distance exchange in exogenous resources.
+It is likely that all of these cultural shifts were interrelated, forming a complex and
+dynamic cultural system that was continually changing.
+Archaeologists have sought to explain the origin of the Neolithic as a process linked
+to environmental adaptation (Bar Yosef and Meadow 1995), growing socio-economic
+complexity (Kuijt and Goring-Morris 2002) or as a revolution of symbols (Cauvin
+2000). However, the emergence of long-distance trade in resources has played a
+minimal role in debates on the process of neolithisation and its socio-economic
+consequences, despite the fact that intensified inter-regional interaction was likely to
+have had a part in enabling the transition to farming societies.
+It has become increasingly evident that cultural interaction between distant regions
+of the Fertile Crescent can be crucial to explaining the transition into the Neolithic (Bar
+Yosef and Belfer-Cohen 1989; Watkins 2008). The exchange of items is present in all
+human societies. Exchange is primarily an economic behaviour that is intended to
+assure the supply of needed or valued commodities not accessible or produced by the
+groups being supplied. However, exchange is also a way of establishing and maintaining social relationships, whereby exchange networks can also be avenues for social
+exchange (experiences, values, beliefs. etc.) or tools of political relations. Therefore, the
+study of exchange dynamics is also an analysis of social interaction between
+communities.
+This paper proposes new approaches to modelling the complex workings of past
+human exchange networks so as to better understand their characteristics. Using AgentBased Modelling and Complex Network theory (Barrat et al. 2008), we take a step
+beyond Renfrew’s seminal models to explore the complexity of the exchange networks
+that were inextricably linked to the spread of agriculture and animal husbandry in the
+Fertile Crescent. We test the importance of a number of variables, in order to begin
+reconstructing the mechanisms of exchange between Neolithic villages in the Near
+East.
+Obsidian Circulation in the Neolithic
+Obsidian is a volcanic glass that was widely used in prehistory for the making of
+utilitarian tools and elite objects. Though it forms in few volcanic areas and in varying
+quantities and qualities, the properties of obsidian from different outcrops can be
+precisely geochemically distinguished so that the geochemical properties of a tool
+found on a site can be matched to an exact source origin (Gratuze 1998, 1999).
+Obsidian is therefore an excellent tool for tracking prehistoric exchange.
+Ortega et al.Many scholars have worked on the question of obsidian distribution in the Near East
+(Barge and Chataigner 2003; Cauvin et al. 1998; Cauvin 2002; Carter et al. 2011). The
+sources of obsidian in Cappadocia, eastern Anatolia and the Caucasus are well
+characterised and the spread of obsidian from these sources to the Fertile Crescent is
+extensively documented. However, most models used to explain the mechanisms of
+obsidian exchange continue to be based on the down-the-line model proposed by
+Renfrew in the 1960s. Since the 1960s, few viable alternatives for modelling obsidian
+exchange in the ancient Near East have been presented, severely limiting our capacity
+to understand the phenomenon of prehistoric exchange and its role in the origins of the
+Neolithic.
+In this paper, we evaluate the down-the-line model, pointing out some of its
+weaknesses. This model does not explain the appearance of obsidian at long distances
+from sources of origin and does not take into account certain important variables that
+affected the distribution of this commodity. We therefore explore multi-agent modelling
+which allows us to approach the topic of obsidian exchange as a complex system
+composed of autonomous, interacting agents (in this case Neolithic communities). As
+an alternative, we propose a type of small-world network in which agents from some
+villages are able to move (with goods) longer distances to reach new exchange partners
+than is possible in Renfrew’s model, so as to better replicate the archaeological data.
+Finally, we present the first results of the multi-agent simulation. In addition to
+discussing the critical variables for simulating long-distance transfer of obsidian, we
+illustrate the tremendous potential of small-world exchange networks for explaining
+obsidian distribution in the Near East.
+Our geographical focus constitutes the western wing of the Fertile Crescent and
+includes the northern, central and southern Levant, northern Mesopotamia, and central
+Anatolia. Chronologically, we focus on the Pre-Pottery Neolithic B period (8300–
+7000 cal. BC) (Aurenche et al. 1987, 2001), during which time obsidian exchange
+networks appear to have been well established in the Near East (Fig. 1).
+Discussing Renfrew’s Model: the Law of Monotonic Decrement
+and Down-the-Line Exchange
+Renfrew’s Model
+The Law of Monotonic Decrement and the down-the-line exchange model, which were
+proposed by Renfrew, were modelled empirically on the archaeological data that was
+available at the end of the 1960s. In Renfrew’s 1968 article, the author observed that
+there was a linear diminution in the quantity of obsidian with distance from the source
+of origin. Renfrew called this the Law of Monotonic Decrement. By plotting the
+proportion of obsidian to flint against the distance to the obsidian source of origin on
+a logarithmic scale, an exponential fall-off curve appeared (Renfrew et al. 1968;
+Renfrew 1975). Renfrew first explained the fall-off in frequency with distance as a
+reflection of what the energy spent implied in transport. However, Renfrew later
+emphasized that the number of transactions made was the crucial parameter responsible
+for the decay, as local communities consumed one part of the obsidian received,
+transferring the other part to other communities (Renfrew 1975, p. 78).
+A Multi-Agent-Based Modelling of Obsidian ExchangeWhen contrasting this model with the archaeological data, Renfrew distinguished a
+first zone near the obsidian sources (the supply zone) where the quantity of obsidian
+was high and decreased slowly. Obsidian represented more than 80 % of the lithic
+materials present on sites in this zone. This was interpreted as an area where communities were supplied directly from the obsidian outcrops. Renfrew observed that this
+supply zone stretched 250 km from the sources of Cappadocia in central Anatolia
+towards the western wing of the Fertile Crescent, and as much as 350 km from eastern
+Anatolian sources towards the eastern wing of the Fertile Crescent. Renfrew also
+distinguished a very large contact zone, where the exchange of obsidian among
+communities resulted in a quick decay in the proportion of obsidian. The author
+suggested that this fall-off was due to a model of down-the-line exchange, where one
+part of the obsidian available at one site was used for making tools while the other part
+was transferred to a neighbouring site.
+Fig. 1 Map of the Near East illustrating obsidian sources (white dots) and PPNB archaeological sites with
+information on the proportion of obsidian vs. flint tools (black dots). The location of the obsidian sources are
+taken from Obsidatabase (Varoutsikos and Chataigner 2012)
+Ortega et al.In order to fit this model to the archaeological data, Renfrew specified that sites
+would have been 90 km equidistant and that the rate of obsidian consumption/exchange
+by communities would have been 50 %.
+Critique of the Model
+Despite early critics (i.e. Hodder 1974; Earle and Ericson 1977) and inconsistencies
+between the model and the archaeological record, which are becoming increasingly
+evident as more archaeological data is obtained, the down-the-line model is the one
+currently used to explain obsidian distribution in the Near East and it is also commonly
+used to explain exchange systems in many other prehistoric contexts (Torrence 1986).
+Soon after Renfrew’s proposal, Hodder observed that different systems of exchange
+and distribution of commodities produced similar fall-off curves, which he described as
+a phenomenon of equifinality (Hodder 1974). While different exchange models can
+generate more or less similar fall-off curves, it is very unlikely that they would produce
+exactly the same fall-off curve. Mathematical simulation might therefore be a useful
+way to delineate the point at which obsidian distribution models are affected by
+equifinality in their results.
+However, other weaknesses of the down-the-line model are proving to be more
+relevant. Analysis of the archaeological data reveals that obsidian exchange was likely
+more complex than the simple chain transfer of material from one site to a neighbouring
+one. Soon after testing his down-the-line model against the archaeological data,
+Renfrew observed that the site of Jericho in Palestine (located at considerable distances
+from the source area that supplied it) had consumed larger quantities of obsidian than
+was predicted by his model. These sorts of anomalies in the archaeological record,
+which present higher quantities of obsidian than predicted by the down-the-line model,
+have been observed at a number of sites such as Tell ‘Arqa (Thalmann 2006) or Nahal
+Lavan 109 (Burian and Friedman 1988), though no alternative model has been
+proposed to explain them.
+A model for obsidian exchange should explain the distribution of obsidian in space,
+as it spread from its source of origin, rather than its distribution along one dimension
+(Ericson 1977). Renfrew argued that the application of the model in two dimensions
+would produce similar Gaussian (normal) distributions (Renfrew 1977). However, this
+is a question that remains untested.
+Diachronic changes in obsidian distribution have been noted by several scholars
+working on the Neolithic (tenth to sixth millennium cal. BC) Near East (Cauvin and
+Chataigner 1998; Chataigner and Barge 2005) and are emblematic of the major socioeconomic and cultural transformations that occurred during the period of neolithisation.
+A temporally static model cannot therefore explain a phenomenon that is dynamic in
+nature.
+Furthermore, a large number of variables could have affected the nature and routing
+of exchange networks during this period. For example, Renfrew’s model assumed only
+terrestrial transport of obsidian, excluding maritime and fluvial transport. However,
+maritime transport was used during the earliest stages of the Neolithic, as the archaeological data for Cyprus demonstrates. Not only were plant and animal species
+transported to Cyprus during the PPNA, but obsidian from Anatolian sources is also
+found on early Neolithic Cypriot sites (Briois et al. 1997; Guilaine et al. 2011;
+A Multi-Agent-Based Modelling of Obsidian ExchangePeltenburg 1998). Moreover, the use of animals for transport (i.e. oxen) is probable, at
+least from the Middle PPNB (eighth millennium BC) onward (Helmer et al. 2005). In
+sum, transport systems are likely to be relevant variables when trying to understand
+past exchange systems (Hodder and Orton 1976; Torrence 1986: p. 122–123; Sidrys
+1977: p. 103–105; Ammerman 1979; Ammerman et al. 1978; Wright 1970).
+Another relevant variable for modelling obsidian exchange is population density
+(Ericson 1977). In structuring his model, Renfrew assumed that population density was
+homogeneous. However, many decades of survey and excavation in the Near East have
+successfully demonstrated that population density was quite variable, and depended in
+part on ecological and geographical factors which may have changed in different
+periods of the neolithisation process. Certain areas were more ideal for settlement
+and were therefore more densely populated such as the Middle Euphrates, the Jordan
+valley and the marshy areas in the steppic north–south belt (Kiujt 2000; Goring-Morris
+and Belfer-Cohen 2011).
+Finally, Refrew’s model assumed that all villages were prepared to exchange. As
+Hodder points out, models of exchange would benefit from Sahlins’ (1974) generalized, balanced, and negative reciprocities, while at the same time allowing for the
+existence of conflicts, tricking strategies and rule manipulations (Hodder 1982, p. 200).
+Exploring Renfrew’s Mathematical Function
+By expressing Renfrew’s model as a mathematical function and by changing several
+parameters, we can calculate how it behaves. The model can be summed up with the
+following equation:
+c0 1−αð Þn−1
+The equation represents the amount of obsidian that reaches the nth node of the
+network, whereby co is the total volume of a commodity, α the rate of consumption and
+n=1,2,... the order of the node. The ratio of consumption is the part of the commodity
+that is detracted from circulation in every node of the network. This equation can also
+be written as:
+c0
+1−αe nln 1−αð Þ
+which results in the exponential function proposed by Renfrew. Consumption in every
+node is calculated as follows:
+c0α 1−αð Þn−1
+In using a fixed ratio of consumption, the quantity of obsidian available for
+exchange declines drastically after very few exchange events (Fig. 2). This is especially
+true for high rates of consumption (0.9), but it is also the case for lower consumption
+rates. Following the down-the-line model, only very low consumption/exchange ratios
+(10 % consumption and 90 % exchange) would have allowed obsidian to arrive to the
+southern Levant in the quantities observed in the archaeological record (representing
+around 0.5 % obsidian in the lithic assemblages). However, it is not reasonable to
+Ortega et al.significantly reduce the consumption to exchange ratio in each node, because it is
+unlikely that early Neolithic societies systematically exchanged nine times more than
+they consumed of a valued resource.
+Renfrew tried to resolve the fact that his model did not fully conform to the
+archaeological data by establishing long distances between places (90 km), that is, by
+reducing the number of events of consumption/exchange. However, the proposed
+distance between nodes does not replicate the archaeological record as the density of
+Neolithic sites in the Near East was higher and the distances between sites much
+smaller in certain areas. For example, the distance between the contemporary PPNA
+period sites of Tell ‘Abr and Dja’de which are located along the Middle Euphrates is
+only 10 km.
+As the down-the-line model does not adequately explain the distribution of this
+commodity across the Near East and as some relevant variables are not considered in
+Renfrew’s model, a new type of approach—agent-based modelling—and a new model
+of obsidian exchange that functions through small-world networks of exchange, are
+needed to cope with these questions.
+Agent-Based Modelling
+Agent-Based Modelling (ABM) and simulation intends to artificially build systems
+composed of autonomous, interacting agents. This approach is especially useful for
+understanding the dynamics of complex systems, where multiple variables interact and
+evolve in time and space. By modelling systems involving agents and their interactions,
+self-organized patterns often emerge, which are not explicitly programmed into the
+models but arise through agent interactions. ABM has been used in many different
+fields of research and its use in the social sciences (Axelrod 1997; Epstein and Axtell
+0
+200
+400
+600
+800
+1000
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Resource units transfer
+Exchange events
+0.9
+0.7
+0.5
+0.3
+0.1
+Fig. 2 Fall-off curve of quantity of obsidian in relation to number of exchange events, using fixed
+consumption/exchange ratios, as proposed in Renfrew’s down-the-line model, for an initial volume of the
+commodity equalling 1,000 units of obsidian
+A Multi-Agent-Based Modelling of Obsidian Exchange1996) and in archaeology is gaining momentum (Axtell et al. 2002; Brantingham 2006;
+Dean et al. 2000; Kohler and Gumerman 2000; Evans et al. 2009).
+The distribution of obsidian in the Neolithic Near East can be described as the result
+of the interactions (exchange) of autonomous agents (Neolithic villages), who generated and used a complex network of obsidian distribution that evolved with time.
+In a first instance, ABM will allow us to test the down-the-line model in a bidimensional scale. Due to the problem of the critical decrease in the quantity of
+obsidian intended for exchange in every consumption/exchange event, we are aware
+that regular networks issued from a down-the-line model will not supply obsidian to
+distant areas. We therefore test alternative models of obsidian exchange in which local
+exchange networks are complemented with the presence of villages that can benefit
+from an access to obsidian at a distance (small-world networks). We also test whether
+or not the application of a first set of variables to these models succeeds in moving
+obsidian over long distances. These variables include the proportion of villages which
+are allowed to access exchange partners at a distance, population density (number of
+villages per unit of surface), degree of collaboration between villages (degree of
+acceptance of exchanges), distance from which the villages can get direct access to
+obsidian sources and the ratio of consumption/exchange of obsidian. In this paper, we
+concentrate on reproducing obsidian distribution during the PPNB (Fig. 1 and Table 1).
+In order to do so, archaeological data pertaining to the proportion of obsidian versus
+flint in the lithic assemblages of PPNB sites was gathered from published literature, and
+inputted into a database specifically designed for this study (Table 1). Sites in Cyprus
+are not included here because only the terrestrial transport of obsidian is being
+considered in our first simulations. For the purposes of testing these new models, we
+assume that there was a similar consumption rate of lithic resources for tool making in
+each PPNB village, and use the proportion of obsidian to flint as a direct indicator of
+the quantity of obsidian consumed at a specific village.
+Finally, the results of the different simulations are compared with the archaeological
+data, taking account of the degree of compatibility between the archaeological and
+simulated results in both the profile of the fall-off curve, and in the quantity/proportion
+of obsidian arriving to the southern Levant. Based on the archaeological data for the
+PPNB, an adequate model of obsidian exchange should supply a rate of 0.5 % obsidian
+to flint, to villages in the southern Levant.
+Small-World Networks as an Alternative to the Down-the-Line Model
+Small-world networks (Watts 2004; Watts and Strogatz 1998) are present in a great
+variety of natural and social systems. These networks lie midway between regular
+networks (Fig. 3a), where most agents are linked with their immediate neighbours, and
+random networks, where most agents are linked with distant ones. In small-world
+networks (Fig. 3b) neighbouring agents are interconnected, but some of them are also
+able to interact with distant agents by establishing shortcuts between the nodes. The
+characteristics of networks are defined by path length L(p), the property measuring the
+mean separation between two nodes, and the clustering coefficient C(p), measuring the
+degree to which agents tend to group together in local neighbourhoods. Regular
+networks show a high mean path length, as many nodes must be crossed through to
+move from one extremity of the network to the opposite extremity, and a high
+Ortega et al.Table 1 A list of PPNB archaeological sites used for comparison to the simulation, including information on
+the proportion of obsidian vs. flint tools (found in publications) and on the distance to the nearest obsidian
+source
+Id Site Level/loci Km Flint Obsidian Percent Reference
+1 Kayırlı-Bitlikeler 0 0 100 100.00 Balkan-Atli et al. 2001, p. 38
+2 Kömürcü-Kaletepe c. 4 0 0 828 100.00 Balkan-Atli et al. 1999,
+Table 1
+3 Aşıklı Höyük 30 5 22,000 99.98 Esin et al. 1991, p. 145
+4 Musular 30 20 5,000 99.60 Özbasaran 1999, p. 152
+5 Hacıbeyli Höyük 60 1 121 99.18 Fujii 1995, Table 1
+6 Boytepe 100 51 848 94.33 Balkan, 1989, Table 1
+7 Can Hasan III 150 1,823 69,497 97.44 Ataman 1988, Fig. 15
+8 Çatal Höyük Pre-XII A–D 160 676 12,161 94.73 Carter et al. 2005, Table 11.1
+9 Cafer Höyük I–IV 160 10 90 90.00 Cauvin 1989, p. 80
+10 Süberde II–III 250 2,993 26,937 90.00 Bordaz 1966, p. 32
+11 Tell Sabi Abyad II ph. 2-1 310 480 657 57.78 Copeland 1989, Table 3.3
+12 Tell Damishiliyya I st 1-2 310 248 20 7.46 Nishiaki 2000, Table 5.1
+13 Mezraa Teleilat ph IV 340 1,551 151 8.87 Coskunsu 2007, Table V.1
+and VII-3
+14 Tell Ain el-Kerkh c 3–6 370 9,710 1654 14.55 Arimura 2007, Table 3.147
+15 Tell Halula 2A–2C 380 2,754 468 14.53 Molist et al. 2001, Table 1
+16 Tell Mureybet ph. IVB 400 2,165 90 3.99 Cauvin 2004, p. 325
+17 Cheikh Hassan 400 5,000 35 0.70 Abbes et al. 2001, p. 13
+18 Ras Shamra Vc 410 19,579 593 2.94 Contenson 1992
+19 Ghoraife I–II 620 24,322 136 0.56 Contenson 1995
+20 Ramad I–II 640 16,422 149 0.90 Contenson, 2000, Tables 5
+and 8
+21 Tell Aswad II 640 37,751 254 0.67 Cauvin 1995
+22 Beisamoun lev. 1–3 680 4,793 15 0.31 Lechevallier 1978a, p. 153
+23 Horvat Galil 690 8,836 33 0.37 Gopher 1997, p. 195, 207
+24 Mujahiya 710 8,311 17 0.20 Gopher 1990, p. 120, 132
+25 Yiftahel Area C 720 126,925 8 0.01 Yellin 2012, p. 243
+26 Munhata 3–6 730 14,076 4 0.03 Gopher 1989
+27 Kfar HaHoresh 730 120,170 7 0.01 Goring-Morris et al. 1995,
+Tables 1 and 114
+28 Jericho 820 17,467 91 0.52 Crowfoot-Payne 1983,
+Tables 9–16
+29 Motza VI 830 9,152 432 4.51 Khalaily et al. 2007, Table 2
+30 Abu Gosh 830 18,422 8 0.04 Lechevallier 1978b, p. 41
+31 Nahal Lavan 109 930 10,944 144 1.30 Burian et al. 1999, Table 1
+32 Beidha 980 44,248 3 0.01 Mortensen 1970
+Sites in Cyprus are not included because only the terrestrial transport of obsidian is considered in the
+simulations presented here
+A Multi-Agent-Based Modelling of Obsidian Exchangeclustering coefficient, as abundant local connections of nodes results in local clusters.
+Random networks show a low mean path length, as extremities of the networks can be
+reached crossing through very few links, and a low clustering coefficient, as distant
+linking of the nodes results in a scarcity of local clusters. Small-world networks bear
+some characteristics of both types of networks as they are highly clustered, because
+local links are dominant, while having small characteristic path lengths, as a result of
+the distant linking of some of the nodes. This results in a very efficient network, as it
+allows for rapid linking between distant zones of the network, while showing a low
+proportion of distant links.
+Based on a regular network of local interactions with neighbours, which we
+associate with the down-the-line model, a new network model can be obtained in
+which by a simple iterative algorithm with a probability p, some nodes are randomly
+selected to reconnect with other further ones. When in a regular network some
+“shortcuts” are created connecting distant parts of the graph, average path length is
+dramatically reduced, but clustering (measuring the degree of association in an agent’s
+neighbourhood) is substantially preserved (Cassi and Zirulia 2008). These shortcuts are
+henceforth referred to as non-local exchange paths, while the links joining
+neighbouring agents are referred to as local exchange paths.
+Small-world networks have been used by sociologists and economists, among
+others, to explore the effect of the network topology on processes of diffusion, and
+especially through social networks of technical knowledge (Cassi and Zirulia 2008),
+social norms (Santos et al. 2012), innovations (Delre et al. 2010) and prices in
+economic trade systems (Wilhite 2001).
+Most of these studies resort to the algorithms of Watts and Strogatz (1998), which
+create fixed small-world networks, through which agents interact. In our case, we
+expect that the small-world network would appear as an emergent property of the
+dynamic connectivity in the model. Successive agent searches or explorations of the
+Fig. 3 Schematic representation of a a regular network resulting from a down-the-line model and b of a
+small-world network with shortcuts. The thick black line indicates the path followed by agents with obsidian
+when moving from one extremity of the network to the other, the regular network resulting in a higher path
+length (higher number of nodes/cells crossed) than with a small-world network
+Ortega et al.territory using correlated random walks (CRW, see below) would lead the communities
+to establish increasingly longer connections to distant territories through which supply
+of the commodity and exchange would take place. The small-world network model can
+allow some villages to obtain obsidian from distant partners, while at the same time,
+preserving their local networks of exchange. Shortcuts reduce the number of steps
+needed for a resource to arrive in regions at a given distance from its origin. Therefore,
+the problem of the drastic fall-off of the resource with every event of exchange would
+be partially corrected, as some villages would be allowed to access the commodity in
+distant places, outside of their neighbourhood.
+Random Walk Search Strategies
+A random walk (RW) is the standard method used to model the movement of
+autonomous agents who are searching for targets in contexts of partial information or
+uncertainty. The villages allowed to carry out a shortcut use a CRW in order to
+efficiently search for a target of unknown location. Simple random walks consist of a
+series of walks of fixed or varied amplitude with a random choice of the direction taken
+at every step.
+Several scholars have previously explored the use of simple RW to reproduce the
+spatial distribution of archaeological items, including obsidian, around a centre of
+production (Hodder 1974; Hodder and Orton 1976; Renfrew 1977). For our purposes,
+we use a CRW in which agents start moving from their original cell to one of the eight
+neighbouring cells. They decide which cell to visit next by choosing at random among
+those cells that allow them to move further away from their starting point. This allows
+us to exclude the unrealistic possibility of backward trajectories that would be useless
+or inefficient from the point of view of search efficiency.
+Obsidian Exchange Multi-Agent Model
+We resort to a multi-agent model simulation to test a new exchange model (based on a
+small-world network of exchange) in order to correct one of the limitations of
+Renfrew’s model: its inability to transfer obsidian over long distances. In this section,
+we present the parameters of our first simulations, which are simplified (in comparison
+to the archaeological evidence) for the purposes of establishing the effectiveness of the
+model and the relevance of a first set of variables.
+The Spatial and Chronological Context
+The spatial context is established as a flat area, 900 km long (on a north–south axis) and
+350 wide (on an east–west axis). Agents are defined as sedentary farming communities
+(villages) in sites of equal size and hierarchy. These communities move to search for
+obsidian, interacting with other villages that they recognize as partners for exchange.
+The space is divided into 15×15 km cells that will host a community each with
+probability pc, so that the random spatial distribution of farming communities in each
+realization of the model is determined from the beginning and is assumed to remain
+unchanged during successive cycles.
+A Multi-Agent-Based Modelling of Obsidian ExchangeThe production and exchange of obsidian takes place in successive cycles, each of
+them simulating one annual period. We replicate these cycles up to three thousand
+times.
+Partner Search Strategies
+Villages are able to get partners for exchange in their surrounding region. As a result, a
+local network is established in which partners exchange regularly in every chronological cycle with all neighbours present in the immediate vicinity (one cell distance). This
+allows us to reproduce the down-the-line model, where villages are joined to a network
+of local partners.
+Later, in order to test the small-world hypothesis, some villages are allowed (with
+probability pt: in each cycle) to travel outside of their local networks of exchange by
+journeying and obtaining information on the presence of potential partners or the
+presence of obsidian as they move. For this purpose, they use a CRW in which they
+start moving from their original cell to one of the eight neighbouring cells (at random in
+any direction) and decide which cell to visit next by choosing at random among those
+cells that allow them to move further away from their starting point. The length of the
+random walks is limited to a number of visited cells nmax.
+To reproduce the idea that network exchanges are not solely driven by obsidian but
+may pertain to networks that were present well before the introduction of the resource,
+we reserve the first five hundred cycles of the simulation for the formation of the preexisting network. During this initial period (first five hundred cycles) the resource
+(obsidian) is not yet introduced in the lattice though search dynamics are being
+developed.
+Matching Dynamics
+If within nmax steps the travelling agent finds a partner with whom it had no previous
+exchange links, then a permanent link is established between the two agents with
+probability pe, which introduces the possibility that exchanges may be rejected.
+We also implement the idea that the exchange network is exposed to occasional
+alterations (e.g. environmental, situations of conflict, etc.) that may induce the rejection
+of exchange with partners whereby with a small probability pb any non-local exchange
+path is assumed to be broken and no longer available to any of the partners.
+Resource Production
+Villages producing obsidian are those located in the northern area of the space, in a
+rough attempt to reproduce the area of Cappadocian obsidian sources. In each cycle,
+these villages produce more obsidian than the quantity needed for their own use in
+order to exchange it, thus inserting the resource into the exchange network. All villages
+within a distance dp to the source region are labelled as ‘producers’ and introduce a
+fixed quantity of the resource into the system during each cycle (the specific value of
+this quantity is irrelevant, since the obsidian is measured in this study in relative units of
+obsidian with respect to flint, assuming that the total amount of annual consumption of
+lithic resources is similar in all the villages). Villages located on or adjacent to the
+Ortega et al.sources produce the maximum of 100 units of obsidian per cycle. Transport costs are
+also taken into account by assuming that the quantity of resource production decays
+linearly with the distance to the source, so those ‘producers’ located at distance dp to the
+source will be able to introduce just a fraction fp of the resource compared to the
+‘producers’ adjacent to the source region. For example, those villages located 3 cells
+away from the obsidian sources (45 km) produce 100−(2.5×3), or 92.5 units of
+obsidian, those located 10 cells away produce 100−(2.5×10) or 75 units of obsidian,
+up to distance dp, which is the limit of the production area (12 cells/180 km in our
+standard simulation) and after which obsidian is only transferred through exchange.
+Resource Consumption and Exchange
+Obsidian is defined as a non-perishable commodity that can be divided into fractions.
+The presence of obsidian in an archaeological site is the result of consumption and
+discard of tools or knapping by-products (Torrence 1986, p. 5; Astruc et al. 2007). For
+the simulation, agents knap, use, and discard their entire stock of obsidian in each cycle.
+In the initial stages of our model that we present here, more complex behaviours of
+obsidian management (exchange and stocking of cores or blanks, recycling of tools...)
+are not considered. While in reality the situation is more complex, we initially condition
+that the quantity of material needed for making tools is equal for all of the communities.
+If the quantity of obsidian available in one community is not sufficient for their needs,
+other types of stone materials such as flint are used for making tools.
+Communities consume a fixed proportion fc of the resource available, while the rest
+is exchanged. In this way, different fixed ratios of consumption/exchange (i.e. 90 %/
+10 %) can be tested.
+The exchange dynamics follow an egalitarian rule in which every village divides a
+fraction of the resources not used for their own consumption among exchange partners
+who have fewer resources than themselves. The same quantity of obsidian is therefore
+transferred to sites where resource availability is lower.
+Model Summary and Rules
+According to the model description given above, the initial version of our model
+contains eight different parameters:
+pc Probability of cell occupation.
+pt Probability of a village deciding to begin a new journey/search for new partners.
+pb Probability of breakage of exchange link
+nmax Number of maximum cells visited during a journey.
+pe Probability of exchange acceptance.
+dp Size of production region.
+fp Degree of the linear decrement in the quantity of obsidian which is directly
+acquired from the source of obsidian by each obsidian-extracting village. These
+obsidian-extracting villages are those located at a certain distance from the
+source (180 km for the standard simulation). The linear decrement depends on
+the distance between the village and the source.
+fc Consumption/exchange ratio.
+A Multi-Agent-Based Modelling of Obsidian ExchangeThe practical rules that are used to run the model can be summarized in the
+following algorithm:
+1. Assign an agent (village) to each cell in the lattice with probability pc.
+2. Establish local connections between each village and all villages present in the
+eight nearest squares of the lattice.
+For the first five hundred cycles:
+3. With probability pt, each agent in the lattice can take a journey (of maximum size
+nmax cells) based on a correlated random walk (as described above) to search for
+new exchange partners.
+4. If new partners are found during the journey, an exchange link is established
+between them with probability pe.
+5. Any of the existing non-local links can be broken with probability pb.
+For the remaining cycles (up to three thousand):
+6. Apply rules 3 to 5.
+7. Assume that all villages within a distance dp from the source region acquire new
+resources in a proportion that decreases linearly with distance from source. The
+degree of the linear decrement is fp.
+8. All villages that have available resources consume a fraction fc of them and
+exchange the rest, transferring the same quantity to all partners that have fewer
+resources.
+First Results of the Simulation
+The results of the simulation can be observed in Fig. 4 and the values of the parameters
+used are shown in Table 2. At the left of the graph we can observe the transfer of
+0 100 200 300 400 500 600 700 800 900 1000
+1E-3
+0.01
+0.1
+1
+10
+100 Renfrew's model
+Reference model
+Archaeological data
+Relative consumption
+Distance to obsidian source (km)
+Fig. 4 Results of the simulation of the down-the line model (left), of a small-world type network using the
+parameters specified in Table 2 (centre), and of results of the proportion of obsidian to flint recovered from
+archaeological sites in the Levant during the PPNB (right). The dotted line represents 0.5 % obsidian, which is
+the mean quantity of obsidian reaching the southern Levant
+Ortega et al.obsidian obtained using Renfrew’s model, where obsidian is transferred from one
+village to its neighbouring village (up to one cell of distance), and no village is able
+to establish contact with further villages (pt =0).
+In this scenario the quantity of obsidian transferred through such a regular network
+falls very quickly and quantities corresponding to 0.5 % of the lithic assemblage, are
+present only at 250 km from the source of origin. Thus, the 2D simulation of Renfrew’s
+model (down-the-line transfer) results in the same conclusion obtained for the linear
+simulation (1D), which is that in both cases, obsidian does not reach the southern Levant.
+In the middle of this same graph (Fig. 4), we can observe the results of the
+simulation when some villages (20 %) are allowed to jump and contact further partners
+for obsidian exchange using a CRW search strategy. In this case, obsidian is transferred
+in a more efficient way, and quantities of obsidian corresponding to 0.5 % of the lithic
+assemblage are present at around 450 km away from the source of origin. Finally, at the
+right of the same graph, the archaeological results of the proportion of obsidian to flint
+at PPNB sites in the Levant are shown. As noted by Renfrew, the quantity of obsidian
+in archaeological sites falls with distance following a logarithmic function. The archaeological data show more efficient distribution of obsidian than our model, as quantities
+corresponding to 0.5 % of obsidian in the lithic assemblage are observed at a distance
+of around 750 km from the source of origin.
+Firstly, this simulation indicates the inadequacy of Renfrew’s model to explain the
+distribution of obsidian in the Levant during the PPNB. Secondly, the simulation
+demonstrates that alternative small-world type networks result in a more efficient
+distribution of obsidian though the small-world model that we have designed for this
+simulation still does not adequately replicate the archaeological data. We shall discuss
+the implications of this conclusion later, after showing how the different variables used
+in this simulation behave with respect to the capacity of the model to transfer obsidian
+over long distances.
+Figure 5 reflects how the fraction of villages allowed to jump using a random walk
+(parameter pt; probability of a village deciding to begin a new journey) for the purpose
+of contacting further partners, influences the efficiency in the distribution of obsidian.
+As can be observed, this is not a very relevant variable, as the results obtained for 5 %
+are similar to those obtained when 50 % of the villages are allowed to carry out the
+random walk. This means that after the simulation model is left to run for some time,
+only a small quantity of villages able to jump are able to establish the distant links that
+in turn enable a better distribution of obsidian.
+Table 2 A list of the parameters
+used in the simulation represented
+in Fig. 4 onward
+Parameter
+pc 0.2 (280 agents)
+pt 0.1
+pb 0.001s
+nmax 8 (120 km)
+pe 1
+dp 180 km
+fp 100−(2.5×cell number)
+fc 0.5
+A Multi-Agent-Based Modelling of Obsidian ExchangeIn Fig. 6 we can observe that the fraction of cells which are occupied by a village
+(parameter pc; population density) is not important for the distribution of obsidian, as
+the results obtained with 5 % of the cells occupied is similar to those obtained with
+50 %. In other words, a populated landscape is not necessary for explaining obsidian
+distribution during the PPNB. In addition, the existence of many villages, which are
+able to consume obsidian within a small-world network, does not affect the efficiency
+of obsidian transfer over long distances.
+Figure 7 illustrates how the change in degree of collaboration between villages
+(parameter pe; probability of exchange acceptance) affects obsidian distribution in our
+model. Twenty percent of villages accepting non-local exchange produces similar
+0 200 400 600 800
+1E-5
+1E-4
+1E-3
+0.01
+0.1
+1
+10
+100
+Distance to obsidian source (km)
+Relative consumption
+pt =0
+pt =0.05
+pt =0.1
+pt =0.2
+pt =0.3
+pt =0.5
+Fig. 5 Results of the simulation of obsidian distribution depending on the number of villages allowed to jump
+to contact distant exchange partners using a random walk (parameter pt: probability of a village deciding to
+begin a new journey). The dotted line represents 0.5 % obsidian, which is the mean quantity of obsidian
+reaching the southern Levant
+0 200 400 600 800
+1E-5
+1E-4
+1E-3
+0.01
+0.1
+1
+10
+100
+Distance to obsidian source (km)
+Relative consumption
+pc =0.05
+p c =0.1
+p c =0.2
+p c =0.3
+p c =0.4
+p c =0.5
+Fig. 6 Results of the simulation of obsidian distribution depending on the quantity of villages occupying each
+cell (parameter pc: population density). The dotted line represents 0.5 % obsidian, which is the mean quantity
+of obsidian reaching the southern Levant
+Ortega et al.results to higher collaboration rates, demonstrating that this variable is not relevant in
+this case.
+It would seem logical that the increase in distance from which a village can get direct
+access to an obsidian source (parameter dp: size of production region) would considerably increase the distances over which obsidian could be transferred. In Fig. 8, we
+show the results of the simulation carried out with variations (from 75 to 180 km) in the
+size of the area in which villages could have had direct access to obsidian outcrops.
+This variable has limited influence on the final results of obsidian transfer. With a 180km radius of direct access to the sources, obsidian arrives further (around 450 km for
+quantities corresponding to 0.5 % obsidian) than with a 75 km radius of direct access
+(around 350 km for the same quantity). However, this variable seems not to affect the
+efficiency of the mechanisms of exchange, as the increase in the distance at which a
+0 200 400 600 800
+1E-4
+1E-3
+0.01
+0.1
+1
+10
+100
+Relative consumption
+Distance to obsidian source (km)
+p e =0
+p e =0.2
+p e =0.4
+p e =0.5
+p e =1
+Fig. 7 Results of the simulation of obsidian distribution depending on the degree of collaboration between
+villages (parameter pe: probability of exchange acceptance). The dotted line represents 0.5 % obsidian, which
+is the mean quantity of obsidian reaching the southern Levant
+0 200 400 600 800
+1E-4
+1E-3
+0.01
+0.1
+1
+10
+100
+Distance to obsidian source (km)
+Relative consumption
+d p =75 km
+d p =120 km
+d p =150 km
+d p =180 km
+Fig. 8 Results of the simulation of obsidian distribution depending on the distance from which villages can
+have direct access to obsidian sources (parameter dp: size of production region). The dotted line represents
+0.5 % obsidian, which is the mean quantity of obsidian reaching the southern Levant
+A Multi-Agent-Based Modelling of Obsidian Exchangecertain quantity of obsidian is transferred (450–350=100 km) is similar to the increment in the radius of direct access itself (180–75=105 km). In other words, a higher
+radius of direct access only nears the start line to the finish line, without qualitatively
+affecting the distribution of obsidian. That means that in order to transfer obsidian to
+the southern Levant, the type of exchange network is critical, while the influence of the
+distance from which Neolithic communities can obtain obsidian directly from the
+source is secondary.
+The length of the journey carried out by agents of villages allowed to find non-local
+partners by CRW (parameter nmax: number of maximum cells visited during a journey), is
+relevant for the distribution of obsidian over long distances, as can be observed in Fig. 9.
+Longer journeys to search for exchange partners result in a more distant distribution of
+obsidian. If journeys are longer than 14 cells (210 km), quantities of obsidian (around
+0.5 %, see dotted line) can reach distances of 650 km (southern Levant), as was the case
+during the PPNB. However, it is difficult to assume that such distant exchange links
+(210 km), implying approximately 1 week’s walk, could have been established and
+regularly maintained during the Neolithic. Though it is difficult to estimate the maximum
+length of these distant links, we think that 120 km (around 4 day’s walk) is a reasonable
+limit for maintaining a regular exchange relationship during the PPNB.
+In inputting different ratios of obsidian consumption/exchange (parameter fc: consumption/exchange ratio), we observe (Fig. 10) that this variable is extremely significant. 80 % obsidian consumption, which implies only 20 % obsidian exchange to other
+villages, results in 0.5 % of the obsidian of the total lithic assemblage reaching a
+maximum of 350 km from the source of origin. As we saw above, 50 % obsidian
+consumption/exchange results in obsidian reaching 450 km from the source of origin,
+while to achieve a transfer of 0.5 % of the obsidian as far as the southern Levant, very
+low ratios of consumption (10 %) and very high ratios of transfer (90 %) in each node
+of the network are needed. Without completely ruling out this possibility, it is nonetheless unlikely that PPNB societies would have regularly transferred most of the
+obsidian they had obtained to their exchange partners.
+0 200 400 600 800
+1E-5
+1E-4
+1E-3
+0.01
+0.1
+1
+10
+100
+Distance to obsidian source (km)
+Relative consumption
+nmax =4
+nmax =6
+nmax =8
+nmax =10
+nmax =12
+nmax =14
+Fig. 9 Results of the simulation of obsidian distribution depending on the length of the journey (parameter
+nmax: number of maximum cells visited during a journey). The dotted line represents 0.5 % obsidian, which is
+the mean quantity of obsidian reaching the southern Levant
+Ortega et al.In summary, our first simulation results confirm that obsidian does not reach distant
+regions such as the southern Levant, using the down-the-line model. Therefore, this
+model of exchange is not pertinent for explaining how obsidian was exchanged during
+the PPNB period. Simulations also indicate that a small-world network model of
+exchange offers a more realistic scenario, as the results of the simulation better
+resemble the archaeological data. Inside this small-world network model of obsidian
+exchange, two variables are critical for the distribution of obsidian over very long
+distances (up to 800 km), as is observed in the archaeological record. These include: (1)
+the variation in the ratio of consumption/exchange (parameter fc) and (2) the length of
+the links established by the villages to carry out their exchanges (parameter nmax). If the
+consumption is low in relation to the exchange (around 20 % consumption and 80 %
+exchange) or if some villages establish distant links for exchange with partners (at least
+200 km), obsidian can be transferred over very long distances, matching the archaeological data. However, as we have previously stated, it is not reasonable to assume a
+significant reduction of the consumption/exchange ratio in each node or a massive
+extension of the distance at which exchange links can be established and maintained in
+this period.
+Even if our first results indicate that a type of small-world exchange network could
+explain the characteristics of obsidian exchange during the PPNB, our model has not
+yet succeeded in precisely replicating the archaeological data. Our results have demonstrated that there is great potential in continued experimentation with other types of
+small-world networks in order to improve our results regarding the distance of obsidian
+transfer. In our current simulation, all villages are able to undertake a random walk. In
+forthcoming simulations, we shall test networks where only some villages are able to
+establish further links and where these links are preferentially established with villages
+that also possess further links. We believe that this type of network would allow for a
+more fluent transmission of obsidian between villages that are interconnected with
+further links, while the remaining villages would form regional clusters that would be
+supplied by local networks.
+0 200 400 600 800
+1E-5
+1E-4
+1E-3
+0.01
+0.1
+1
+10
+100
+Distance to obsidian source (km)
+Relative consumption
+fc =0.2
+fc =0.3
+fc =0.4
+fc =0.5
+fc =0.6
+fc =0.7
+fc =0.8
+Fig. 10 Results of the simulation of obsidian distribution depending on the ratio of obsidian consumption/
+exchange (parameter fc: consumption/exchange ratio). The dotted line represents 0.5 % obsidian, which is the
+mean quantity of obsidian reaching the southern Levant
+A Multi-Agent-Based Modelling of Obsidian ExchangeConclusions and Perspectives
+The emergence of long-distance trade in resources has played a minimal role in debates
+on the process of neolithisation and its socio-economic consequences, despite the fact
+that intensified inter-regional interaction was likely to have had a part in enabling the
+transition from hunter–gatherer to farming societies. In order to understand the relationship between long distance exchange and neolithisation, it is altogether necessary to
+understand the mechanisms of exchange in the region.
+The analyses of the origin of obsidian and its distribution give us access to accurate
+information on certain aspects of prehistoric long-distance exchange. In the last few
+decades, a great deal of obsidian data has been gathered from pre-Neolithic and
+Neolithic sites and a considerable effort has been made to precisely characterise the
+numerous geological sources of obsidian in the Near East. In the meantime, however,
+there has been little effort to reassess or to rebuild the main model used to explain the
+mechanisms of exchange of this material (Earle 2010). The down-the-line model
+continues to be commonly used to explain obsidian distribution in the Near East as
+well as to explain exchange systems in many other prehistoric contexts (Torrence
+1986). While Renfrew’s Law of Monotonic Decrement and down-the-line model were
+seminal, allowing for new theoretical and methodological perspectives, their capacity
+for explaining obsidian exchange in the Near East is limited. Despite their weakness
+and an increasing imbalance with growing archaeological datasets, no alternative model
+has been proposed that explains how obsidian can be found at extremely long distances
+from its source origin.
+ABM is a promising approach to understanding exchange and the mechanisms of
+obsidian distribution in the Neolithic Near East. By simulating the down-the-line
+model, a very regular network emerges with high clustering and a high average path.
+This network only permits supply of obsidian to the areas near the obsidian sources. As
+an alternative to this outcome, our model allowed some villages to carry out shortcuts
+in the network, so that a small-world network emerged. This type of network shows
+high clustering, whereby local networks are respected, and low average paths, whereby
+information and objects can more efficiently flow through the system and supply the
+whole region.
+Our simulations have shown that the major variables sufficiently influencing long
+distance transfer are the variation in the rate of consumption/exchange (fc) in each
+village and the length of the links established by villages to carry out their exchanges
+(nmax). Other variables such as the quantity of villages in the system (pc), the degree of
+collaboration between long distance villages (pe) and the distance from which villages
+have direct access to the obsidian sources (fp) are of minimal relevance. If we heavily
+reduce the consumption ratio in each node in order to augment the quantity of obsidian
+exchanged or if we allow agents to establish very distant links for exchange, obsidian
+can reach very long distances. However, such scenarios are unlikely given the archaeological evidence. The type of exchange network remains the most relevant variable for
+explaining how obsidian arrived to the southern Levant from the sources of origin,
+which lie approximately 800 km away. A small-world network that permits certain
+villages to establish distant exchange links seems to be the most effective way of
+reducing the average path of the network, so as to permit a more fluid transmission of
+obsidian through the network.
+Ortega et al.For now, the comparison of our simulation results to the archaeological data have
+confirmed that during the early Neolithic in the Near East, a type of small-world
+network rather than a down-the-line model, was responsible for obsidian exchange at
+long distances. While the model we have proposed and tested is clearly more effective
+and realistic than previous ones, the archaeological evidence shows that obsidian
+arrived even further and with more fluidity than even our simulations have been able
+to replicate. This demonstrates that certain detailed characteristics of the PPNB exchange network remain untapped and untested at this preliminary stage. Judging from
+the archaeological evidence available for the period, it is likely that a more hierarchical
+network is needed, whereby only certain privileged interlinked villages are able to
+establish long distance links. More complex networks that take hierarchical structures and
+multiple variables into account (e.g. integrating supply from more than one obsidian
+source zone) are currently being modelled so as to fine-tune our results and better approach
+our reconstructions of past nascent exchange networks in the Neolithic Near East.
+Acknowledgments This work was partially funded by the Spanish Ministry of Economy (grant SimulPastCSD-2010-00034 and HAR2010-21545-C02-01) and the Spanish Ministry of Culture (IPCE). VM and DC
+acknowledge grant FIS2012-32334 funded by the Spanish Ministerio de Economia y Competitividad. This
+article greatly benefitted from the comments and suggestions of two anonymous reviewers.
+References
+Abbès, F., Bellot-Gurlet, L., Bressy, C., Cauvin, M. C., Gratuze, B., & Poupeau, G. (2001). Nouvelles
+recherches sur l’obsidienne de Cheikh Hassan (vallée de l’Euphrate, Syrie) au Néolithique PPNA et
+PPNB ancien. Syria, 78, 5–17.
+Ammerman, A. J. (1979). Study of obsidian exchange networks in Calabria. World Archaeology, 11(1), 95–110.
+Ammerman, A. J., Matessi, C., & Cavalli-Sforza, L. L. (1978). Some new approaches to the study on the
+obsidian trade in the Mediterranean and adjacent areas. In I. Hodder (Ed.), The spatian organisation of
+culture. New Approaches in Archaeology (pp. 179–190). Pittsburgh: University of Pittsburgh Press.
+Arimura, M. (2007). Néolithisation de la Syrye du Nord-Ouest. L’évolution des industrie lithiques a Tell Ain
+el-Kerkh (Bassin du Rouj, 8500-6000 CAL. BC). Unpublished PhD thesis, U.F.R. des Sciences
+Humaines et Sociales, Université Lumière Lyon 2.
+Astruc, L., Gratuze, B., Pelegrin, J., & Akkermans, P. (2007). From production to use: a parcel of obsidian
+bladelets at SabiAbyad II. In L. Astruc, D. Binder, & F. Briois (Eds.), Technical Systems and Near
+Eastern PPN Communities: Proceedings of the 5th International Workshop, Fréjus, 2004 (pp. 327–342).
+Antibes: APDCA.
+Ataman, K. (1988). The Chipped Stone Assemblage from Can Hasan III: A Study in Typology, Technology
+and Function. Unpublished PhD thesis, Institute of Archaeology, University College London.
+Aurenche, O., Évin, J. & Gasco, J. (1987). Une séquence chronologique dans le Proche Orient de 12000 à
+3700 BC et sa relation avec les données du radiocarbone. In Aurenche, O., Évin, J. and Hours, F. (eds.),
+Chronologies du Proche Orient, BAR International Series, 379, Oxford, pp. 21–37.
+Aurenche, O., Galet, P., Régagnon-Caroline, E., & Évin, J. (2001). Proto-neolithic and neolithic cultures in the
+Middle East. The birth of agriculture, livestock rising and ceramics: a calibrated 14C chronology 12,5005,500 cal BC. In: H. J. Bruins, I. Carmi, & E. Boaretto (Eds), Near East Chronology: Archaeology and
+Environment. Proceedings of the 17th International 14C Conference, RADIOCARBON, Vol. 43, Nr 3,
+pp. 1191–1202.
+Axelrod, R. (1997). Advancing the Art of simulation in the Social Sciences. In R. Conte, R. Hegselmann, & P.
+Terna (Eds.), Simulating social phenomena (pp. 21–40). Berlin: Springer.
+Axtell, R. L., Epstein, J. M., Dean, J. S., Gumerman, G. J., Swedlund, A. C., Harburger, J., Chakravarty, S.,
+Hammond, R., Parker, J., & Parker, M. (2002). Population growth and collapse in a multiagent model of
+the Kayenta Anasazi in Long House Valley. PNAS, 99(3), 7275–7279.
+Balkan-Atli, N. (1989). L’industrie lithique de Boytepe (Turquie). Paléorient, 15(1), 87–90.
+A Multi-Agent-Based Modelling of Obsidian ExchangeBalkan-Atlı, N., Binder, D., & Kuzucuoglu, C. (1999). L’atelier neolithique de Kömürcü - Kaletepe: fouilles
+de 1998. Anatolia Antiqua, VII, 231–243.
+Balkan-Atlı, N., Kayacan, N., Özbasaran, M., & Yildirim, S. (2001). Variability in the Neolithic arrowheads of
+Central Anatolia (typological, technological and chronological aspects). In I. Caneva, C. Lemorini, D.
+Zampetti, & P. Biagi (Eds.), Beyond Tools. Redefining the PPN Lithic Assemblages of the Levant.
+Proceedings of the Thirds Workshop on PPN Chipped Lithic Industries (Studies in Early Near Eastern
+Production, Subsistence, and Environment, Vol. 9, pp. 27–43). Berlin: Ex oriente.
+Barge, O., & Chataigner, C. (2003). The procurement of obsidian: factors influencing the choice of deposits.
+Journal of Non-Crystalline Solids, 323, 172–179.
+Barrat, A., Barthélemy, M., & Vespignani, A. (2008). Dynamical processes on complex networks. Cambridge:
+Cambridge University Press.
+Bar-Yosef, O., & Belfer-Cohen, A. (1989). The Levantine “PPNB” interaction sphere. In I. Hershkovitz (Ed.),
+People and culture in change: proceedings of the second symposium on Upper Paleolithic, Mesolithic
+and Neolithic populations of Europe and the Mediterranean Basin (BAR International Series, Vol. 508(i),
+pp. 59–72). Oxford: Archaeopress.
+Bar-Yosef, O., & Meadow, R. (1995). The origins of agriculture in the Near East. In T. D. Price & A. G.
+Gebauer (Eds.), Last hunters–first farmers: new perspectives on the prehistoric transition to agriculture
+(pp. 39–94). Santa Fe: School for American Research.
+Bordaz, J. (1966). Suberde, 1965. Anatolian Studies, 16, 32–33.
+Brantingham, P. J. (2006). Measuring forager mobility. Current Anthropology, 47(3), 435–459.
+Briois, F., Gratuze, B., & Guilaine, J. (1997). Obsidienne du site néolithique précéramique de
+Shillourokambos, Chypre. Paléorient, 23(1), 95–112.
+Burian, F., & Friedman, E. (1988). A note on the obsidian finds from the pre pottery Neolithic B Site 109 Near
+Nahal Lavan, Negev. Journal of the Israel Prehistoric Society, 21, 95–98.
+Burian, F., Friedman, E., & Mintz, E. (1999). Nahal Lavan 109—a Pre-Pottery Neolithic site in the Western Negev,
+Israel. Festchrift für Gunter Samulla. Materialien zur von - und frühgeschichte von Hessen, 8, 95–120.
+Carter, T., Conolly, J., & Spasojevic, A. (2005). The chipped stone. In I. Hodder (Ed.), Changing materialities
+at Çatalhöyük: reports from the 1995–99 seasons (McDonald Institute Monographs, Vol. 39, pp. 221–
+283). Ankara: British Institute at Ankara.
+Carter, T., Le Bourdonnec, F. X., Kartal, M., Poupeau, G., Calligaro, T., & Moretto, P. (2011). Marginal
+perspectives: sourcing obsidian from the Öküzini Cave (SW Turkey). Paléorient, 37(2), 123–149.
+Cassi, L., & Zirulia, L. (2008). The opportunity cost of social relations: on the effectiveness of small worlds.
+Journal of Evolutionary Economics, 18, 77–101.
+Cauvin, J. (1989). La stratigraphie de Cafer Höyük-Est (Turquie) et les origines du PPNB du Taurus.
+Paléorient, 15(1), 75–86.
+Cauvin, M. C. (1995). L’industrie lithique de Tell Aswad. In H. de Contenson (Ed.), Aswad et Ghoraifé. Sites
+néolithiques en Damascène (Syrie) aux IXème et VIIIème millénaires avant l’ère chrétienne, Bibliothèque
+Archéologique et Historique (Vol. CXXXVII, pp. 83–98). Beyrouth: Institut Français d’Archéologie du
+Proche-Orient.
+Cauvin, J. (2000). The origins of agriculture in the Near East: a symbolic interpretation. Cambridge:
+Cambridge University Press.
+Cauvin, M.-C. (2002). L’obsidienne et sa diffusion dans le Proche-Orient Néolithique. In J. Guilaine (Ed.),
+Matériaux, productions, circulations du Néolithique à l’Age du Bronze, Séminaire du Collège de France
+(pp. 13–30). Paris: Éditions Errance.
+Cauvin, M. C. (2004). Mureybet IV. In O. Aurenche, M. Le Mière, & P. Sanlaville (Eds.), From the river to the
+sea. The Palaeolithic and the Neolithic on the Euphrates and in the Northern Levant. Studies in honour of
+Lorraine Copeland (British Archaeological Reports, International Series, Vol. 1263, pp. 323–334).
+Oxford: Archaeopress.
+Cauvin, M. C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.-L., & Chataigner, C. (Eds.).
+(1998). L’obsidienne au Proche et Moyen Orient: Du volcan à l’outil (British Archaeological Reports,
+International Series, Vol. 738). Oxford: Archaeopress.
+Cauvin, M.-C., & Chataigner, C. (1998). Distribution de l’obsidienne dans les sites archéologiques du Proche
+et Moyen Orient. In M.-C. Cauvin, A. Gourgaud, B. Gratuze, N. Arnaud, G. Poupeau, J.-L. Poidevin, &
+C. Chataigner (Eds.), L’obsidienne au Proche et Moyen Orient: Du volcan à l’outil (British
+Archaeological Reports, International Series, Vol. 738). Oxford: Archaeopress.
+Chataigner, C., & Barge, O. (2005). L’analyse de la circulation de l’obsidienne dans le nord du Proche-Orient
+préhistorique. In J.-F. Berger, F. Bertoncello, F. Braemer, G. Davtian, & M. Gazenbeck (Eds.), Temps et
+Espaces de l’Homme en Société, Analyses et Modèles Spatiaux en Archéologie. XXVe rencontres
+internatinales d’archéologie et d’histoire d’Antibes (pp. 405–410). Antibes: Editions APDCA.
+Ortega et al.de Contenson, H. (1992). Préhistoire de Ras Shamra—Ougarit VIII. Paris: Editions Recherche sur les
+Civilisations.
+de Contenson, H. (1995). Aswad et Ghoraifé. Sites néolithiques en Damascène (Syrie) aux IXème et VIIIème
+millénaires avant l’ère chrétienne (Bibliothèque Archéologique et Historique, Vol. CXXXVII). Beyrouth:
+Institut Français d’Archéologie du Proche-Orient.
+de Contenson, H. (2000). Ramad: site néolithique en Damascène (Syrie) aux VIIIe et VIIe millénaires avant
+l’ère chrétienne (Bibliothèque Archéologique et Historique, Vol. CLVII). Beyrouth: Institut Français
+d’Archéologie du Proche-Orient.
+Copeland, L. (1989). The flint and obsidian artifacts of Tell Sabi Abyad. In P. M. M. G. Akkermans (Ed.),
+Excavations at Tell Sabi Abyad (British Archaeological Reports, International Series, Vol. 468, pp. 237–
+284). Oxford: Archaeopress.
+Coskunsu, G. (2007). The End of the Pre-Pottery Neolithic in the Middle Euphrates Valley. The Lithic
+Assemblages of Mezraa Teleilat, Southeastern Turkey. Unpublished PhD thesis, Department of
+Anthropology, Harvard University.
+Crowfoot-Payne, J. (1983). The flint industries of Jericho. In K. M. Kenyon (Ed.), Excavations at Jericho
+(Vol. 5, pp. 622–758). London: British School of Archaeology in Jerusalem.
+Dean, J. S., Gumerman, G. J., Epstein, J. M., Axtell, R. L., Swedlund, A. C., Parker, M. T., & McCarroll.
+(2000). Understanding Anasazi culture change through agent-based modeling. In T. A. Kohler & G. J.
+Gumerman (Eds.), Dynamics in human and primate societies, agent-based modeling of social and spatian
+process (Santa Fe Institute, Studies in the Sciences of Complexity, pp. 179–205). New York: Oxford
+University Press.
+Delre, S. A., Jager, W., Bijmolt, T. H. A., & Janssen, M. A. (2010). Will is spread or not? The effects of social
+influences and network topology on innovation diffusion. Journal of Product Innovation Management,
+27, 267–282.
+Earle, T. K., & Ericson, J. E. (Eds.). (1977). Exchange systems in prehistory. New York: Academic.
+Earle, T. K. (2010). Exchange Systems in Prehistory. In C. D. Dillian & C. L. White (Eds.), Trade and
+exchange: archaeological studies from history and prehistory (pp. 205–217). New York: Springer.
+Epstein, J M. & Axtell, R. (1996). Geowing artificial societies: social sciences from the bottom up, Brookings
+Institution, Cambridge, MIT Press, Washington.
+Ericson, J. E. (1977). Egalitarian Exchange Systems in California: A Preliminary View. In J. E. Ericson & T.
+Earle (Eds.), Exchange systems in prehistory (pp. 109–126). New York: Academic.
+Esin, U., Biçakçi, E., Özbasaran, M., Balkan Atli, N., Berker, D., Yamur, I., & Korkurt, A. (1991). Salvage
+excavations at the Pre-Pottery site of Asikli Höyük in Central Anatolia. Anatolica, 17, 123–174.
+Evans, T., Knappett, C., & Rivers, R. (2009). Using Statistical Physics to Understand Relational Space: A
+Case Study from Mediterranean Prehistory. In D. Lane, D. Pumain, S. van der Leeuw, & G. West (Eds.),
+Complexity perspectives on innovation and social change (Methodos, Vol. 7, pp. 451–79). Berlin: Springer.
+Fujii, S. (1995). Hacibeyli Höyük: a Pre-Pottery Neolithic site in the Yay-Gölü lake basin, Central Anatolia. In
+M. Mori & M. Ohmo (Eds.), Essays on Ancient Anatolia and its surrounding civilizations (Bulletin of the
+Middle Eastern Culture Center in Japan, Vol. 8, pp. 131–152). Weisbaden: Harrassowitz.
+Gopher, A. (1989). The Flint Assemblages of Munhata (Israel). Final report, Les Cahiers du Centre de
+Recherche Français de Jérusalem, 4. Paris: Association Paléorient.
+Gopher, A. (1990). Mujahiya, an Early Pre-Pottery Neolithic B site in the Golan Heights. Tel Aviv, 17(2), 115–
+143.
+Gopher, A. (1997). Horvat Galil—an early PPN site in the Upper Galilee, Israel. Tel Aviv, 24(2), 183–222.
+Goring-Morris, A. N., Goren, Y., Horwitz, L. K., Hershkovitz, I., Lieberman, R., Sarel, J., & Bar-Yosef, D.
+(1995). The 1992 season of excavations at the Pre-Pottery Neolithic B settlement of Kfar Hahoresh.
+Journal of The Israel Prehistoric Society, 26, 74–121.
+Goring-Morris, N., & Belfer-Cohen, A. (2011). Neolithization processes in the Levant: the outer envelope.
+Current Anthropology, 52(4), 195–208.
+Gratuze, B. (1998). Les méthodes de caractérisation de l’obsidienne. In M. C. Cauvin, A. Gourgaud, B.
+Gratuze, N. Arnaud, G. Poupeau, J.-L. Poidevin, & C. Chataigner (Eds.), L’obsidienne au Proche et
+Moyen Orient: Du volcan à l’outil (British Archaeological Reports, International Series, Vol. 738, pp. 31–
+48). Oxford: Archaeopress.
+Gratuze, B. (1999). Obsidian characterisation by laser ablation ICP-MS and its application to the prehistoric
+trade in the Mediterranean and the Near East: the sources and distribution of obsidian within the Aegean
+and Anatolia. Journal of Archaeological Science, 26, 869–881.
+Guilaine, J., Briois, F., & Vigne, J. D. (Eds.). (2011). Shillourokambos Tome 1. Une établissement néolithique
+pré-céramique à Chypre, Archéologie d’aujourd’hui. Arles: Editions Errance and Ecole Française
+d’Athènes.
+A Multi-Agent-Based Modelling of Obsidian ExchangeHelmer, D., Gourichon, L., Monchot, H., Petersand, J., & Saña Segui, M. (2005). Identifying early domestic
+cattle from Pre-PotteryNeolithic sites on the Middle Euphrates using sexualdimorphism. In J.-D. Vigne, J.
+Peters, & D. Helmer (Eds.), The first steps of animal domestication (pp. 86–95). London: Oxbow.
+Hodder, I. (1974). Regression analysis of some trade and marketing patterns. World Archaeology, 6(2), 172–
+189.
+Hodder, I. (1982). Toward a contextual approach to prehistoric exchange. In J. E. Ericson & T. Earle (Eds.),
+Contexts for prehistoric exchange (pp. 199–211). New York: Academic.
+Hodder, I., & Orton, C. (1976). Spatial analysis in archaeology. New studies in archaeology. Cambridge:
+Cambridge University Press.
+Khalaily, H., Bar-Yosef, O., Barzilai, O., Boaretto, E., Bocquentin, F., Eirikh-Rose, A., Greenhut, Z., GoringMorris, A. N., Dosseur, G. L., Marder, O., Sapir-Hen, L., & Yizhaq, M. (2007). Excavations at Motza in
+the Judean Hills and the early Pre-Pottery Neolithic B in the Southern Levant. Paléorient, 33(2), 5–37.
+Kohler, T., & Gumerman, G. J. (2000). Dynamic in human and primate societies. Agent-based modeling of
+social and spatial processes (Santa Fe Institute, Studies in the Sciences of Complexity). New York:
+Oxford University Press.
+Kuijt, I. (2000). People and space in early agricultural villages: exploring daily lives, community size and
+architecture in the late Pre-Pottery Neolithic. Journal of Anthropological Archaeology, 19, 75–102.
+Kuijt, I., & Goring-Morris, A. N. (2002). Foraging, farming and social complexity in the Pre-Pottery Neolithic
+of the South-Central Levant: a review and synthesis. Journal of World Prehistory, 16(4), 361–440.
+Lechevallier, M. (1978a). L’industrie lithique (Beisamoun). In M. Lechevallier (Ed.), Abou Gosh et Beisamoun.
+Deux gisements du VIIe millénaire avant l’Ère Chrétienne en Israel (Mémoires et Travaux du Centre de
+Recherches Préhistoriques Français de Jérusalem, Vol. 2, pp. 153–172). Paris: Association Paléorient.
+Lechevallier, M. (1978b). L’industrie lithique (Abu Gosh). In M. Lechevallier (Ed.), Abou Gosh et Beisamoun.
+Deux gisements du VIIe millénaire avant l’Ère Chrétienne en Israel (Mémoires et Travaux du Centre de
+Recherches Préhistoriques Français de Jérusalem, Vol. 2, pp. 41–74). Paris: Association Paléorient.
+Molist, M., Ferrer, A., González, J. E., Ibáñez, J. J., & Palomo, T. (2001). Élaboration et usage de l’industrie
+lithique tailée de Tell Halula (Syrie du Nord) depuis le 8700 jusqu’à 7500 b.p.: état de la recherche. In I.
+Caneva, C. Lemorini, D. Zampetti, & P. Biagi (Eds.), Beyond Tools. Redefining the PPN lithic assemblages of the Levant. Proceedings of the Thirds Workshop on PPN Chipped Lithic Industries (Studies in
+Early Near Eastern Production, Subsistence, and Environment, Vol. 9, pp. 243–256). Berlin: Ex oriente.
+Mortensen, P. (1970). A preliminary study of the chipped stone industry from Beidha, an Early Neolithic
+Village in Southern Jordan. Acta Archaeologica, 41, 1–55.
+Nishiaki, Y. (2000). Lithic technology of Neolithic Syria (British Archaeological Reports, International Series,
+Vol. 840). Oxford: Archaeopress.
+Özbasaran, M. (1999). Musular: A general assessment on a New Neolithic site in Central Anatolia. In M.
+Özdogan & N. Basgelen (Eds.), Neolithic in Turkey. The cradle of civilization (pp. 147–155). Istanbul:
+Arkeoloji ve Sanat Yayinlari.
+Peltenburg E. (Ed.) (1998). Lemba Archaeological Project (Cyprus) II.1A. Excavations at KissonergaMosphilia, 1979–1992, Studies in Mediterranean Archaeology 70, 2,. Åström Verlag, Jonsered.
+Renfrew, C. (1975). Trade as Action at a Distance: Questions of Integration and Communication. In J. Sabloff
+& C. C. Lamberg-Karlovsky (Eds.), Ancient civilizations and trade (pp. 3–59). Albuquerque: University
+of New Mexico Press.
+Renfrew, C. (1977). Alternative models for exchange and spatial distribution. In T. K. Earle & J. E. Ericson
+(Eds.), Exchanges systems in prehistory (pp. 71–90). London: Academic.
+Renfrew, C., Dixon, J. E., & Cann, J. R. (1968). Further analysis of Near Eastern Obsidian. Proceedings of the
+Prehistoric Society, 34, 319–331.
+Sahlins, M. D. (1974). Stone Age economics. London: Tavistock.
+Santos, J. I., Poza, D.J.,Galán, J. M. & López-Paredes, A. (2012). Evolution of Equity Norms in Small-World
+Networks. Dyscrete Dynamics in Nature and Society, 2012.
+Sidrys, R. V. (1977). Mass-Distance Measures for the Maya Obsidian Trade. In T. Earle & J. E. Ericson (Eds.),
+Exchange systems in prehistory (Studies in Archaeology, pp. 91–107). New York: Academic.
+Thalmann, J.-P. (2006). Obsidian at Tell Arqa, North Lebanon. A stop-over point on a trade route?
+BaghdaderMitteilungen, 37, 575–593.
+Torrence, R. (1986). Production and exchange of stone tools prehistoric obsidian in the Aegean. Cambridge:
+New Cambridge University Press.
+Varoutsikos, B., & Chataigner, C. (2012). Obsidatabase: Collecter et organiser les donnés relatives à
+l’obsidienne préhistorique au Proche-Orient et en Transcaucasie. In O. Henry (Ed.), Archéologies et
+espaces parcorus. Actes de Premières Rencontres d’Archéologie de l’IFEA, 11-13 Novembre 2010 (pp.
+11–22). Istambul: Institut Français d’Études Anatoliennes Georges Dumézil.
+Ortega et al.Watkins, T. (2008). Supra-regional networks in the Neolithic of Southwest Asia. Journal of World Prehistory,
+21, 139–171.
+Watts, D. J. (2004). The “New” science of networks. Annual Review of Sociology, 30, 243–270.
+Watts, D. J., & Strogatz, S. H. (1998). Collective dynamics of “small-world” networks. Nature, 393, 440–442.
+Wilhite, A. (2001). Bilateral trade and “Small-World” networks. Computational Economics, 18, 49–64.
+Wright, G. A. (1970). On trade and culture process in prehistory. Current Anthropology, 11(2), 172–173.
+Yellin, J. (2012). The Source of Obsidian Artifacts. In Y. Garfinkel, D. Dag, H. Khalaily, O. Marder, I.
+Milevski, & A. Ronen (Eds.), The Pre-Pottery Neolithic B village of Yiftahel. The 1980s and 1990
+Excavations (Bibliotheca Neolithic Asiae meridionalis et occidentalis, pp. 243–245). Berlin: Ex oriente.
+A Multi-Agent-Based Modelling of Obsidian Exchange

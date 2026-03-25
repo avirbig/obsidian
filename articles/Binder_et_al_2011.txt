@@ -1,0 +1,882 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/251565414
+New investigations of the Göllüdaĝ obsidian
+lava flows system: A multi-disciplinary
+approach
+Article in Journal of Archaeological Science · December 2011
+Impact Factor: 2.2 · DOI: 10.1016/j.jas.2011.05.014
+CITATIONS
+10
+READS
+113
+4 authors, including:
+Didier Binder
+French National Centre for Scientific Resea...
+137 PUBLICATIONS 416 CITATIONS
+SEE PROFILE
+Gratuze Bernard
+French National Centre for Scientific Resea...
+107 PUBLICATIONS 972 CITATIONS
+SEE PROFILE
+Damase Mouralis
+Université de Rouen
+25 PUBLICATIONS 197 CITATIONS
+SEE PROFILE
+All in-text references underlined in blue are linked to publications on ResearchGate,
+letting you access and read them immediately.
+Available from: Didier Binder
+Retrieved on: 23 April 2016This article appeared in a journal published by Elsevier. The attached
+copy is furnished to the author for internal non-commercial research
+and education use, including for instruction at the authors institution
+and sharing with colleagues.
+Other uses, including reproduction and distribution, or selling or
+licensing copies, or posting to personal, institutional or third party
+websites are prohibited.
+In most cases authors are permitted to post their version of the
+article (e.g. in Word or Tex form) to their personal website or
+institutional repository. Authors requiring further information
+regarding Elsevier’s archiving and manuscript policies are
+encouraged to visit:
+http://www.elsevier.com/copyrightAuthor's personal copyNew investigations of the Göllüdag obsidian lava flows system:
+a multi-disciplinary approach
+Didier Binder a
+, Bernard Gratuze b, *, Damase Mouralis c , Nur Balkan-Atlı d
+a UMR 6130 (CEPAM), CNRSeNice Sophia Antipolis University and Franco-Turkish Archaeological Mission (Préhistoire Anatolienne), France
+b UMR 5060 (IRAMAT Centre-Babelon), CNRSeOrléans University, France
+c UMR 6266 (IDEES) CNRS Rouen University and UMR 8591 (LGP) CNRS, Paris I University, France
+d Department of Prehistory, Istanbul University and Franco-Turkish Archaeological Mission (Préhistoire Anatolienne), Turkey
+a r t i c l e i n f o
+Article history:
+Received 8 October 2010
+Received in revised form
+5 May 2011
+Accepted 20 May 2011
+Keywords:
+Obsidian
+Sourcing
+Near East
+Workshop
+LA-ICP-MS characterisation
+Geomorphology
+Archaeology
+Archaeometry
+a b s t r a c t
+The Göllüdag obsidian lava flow system is relatively complex. More than ten different obsidian outcrops
+and knapping workshops have been identified around this volcano. Their importance for long and short
+distances obsidian supply has already been demonstrated.
+One of the main problem encountered when studying the Göllüdag obsidian flows, is the great
+chemical similarity of some of them. The use of the geochemical approach to solve the problems of
+obsidian trade around the Göllüdag is therefore insufficient. A multi-disciplinary program joining
+archaeology, geochemistry and geomorphology, was thus started to understand the relationships
+between the different obsidian flows and to draw the pattern of the Göllüdag obsidian trade.
+Our archaeological and geomorphologic approach will help us to understand which obsidian outcrops
+were available during the Palaeolithic and Neolithic periods.
+Also our geomorphologic approach, linked to intensive geochemical analyses, will help us to understand the spatial variability of the geochemistry of the obsidian outcrops. Lithic technology will also give
+information about the different knapping methods used at the workshops.
+Ó 2011 Elsevier Ltd. All rights reserved.
+1. Introduction
+The importance of the Göllüdag obsidian knapping workshops for
+long and short distances obsidian supply during the Neolithic period
+has already been demonstrated (William-Thorpe, 1995; Cauvin and
+Chataigner, 1998; Chataigner, 1998; Gratuze, 1999). Obsidian from
+this volcano is found in Aceramic Neolithic sites of Cyprus (Briois
+et al., 1997; Finlayson et al., 1998; Peltenburg et al., 2000;
+McCartney and Gratuze, 2003) and in different Pre-pottery
+Neolithic (PPNA and PPNB) sites of the Levant and Mesopotamia
+(Chataigner, 1998; Abbès et al., 2001). During the Early PPNB, its
+exploitation is based upon craft specialisation (Balkan-Atlı and Binder,
+2001; Binder, 2002).
+The different identified obsidian outcrops (Fig. 1) are located on
+the southern (Sırca deresi and Büyük Göllü Tepe), western (Bozköy
+Ilbiz, Bozköy Muneninyeri, Bozköy Boztepe, Kayırlı village, Gösterli),
+northern (Birtlikeler and Ekinlik) and eastern slopes of the Göllüdag
+(Eriklidere, Kaletepe deresi 2, Kaletepe deresi 3 downstream, lower
+upstream and upper upstream-, Kömürcü) of the Göllüdag (BalkanAtlı et al., 2008). The obsidians outcrop within rhyolithic and perlitic
+extrusions and intrusions as well as bombs within the pyroclastic
+deposits. The obsidian outcrops associated with rhyolithic and
+perlitic lava provide a wide range of grey shades and opacities while
+those associated with pyroclastites display transparent slightly grey
+glasses.
+Archaeological evidences of knapping activities have been
+recovered on the obsidian outcrops of Eriklidere, Kaletepe,
+Birtlikeler, Ekinlik, Bozköy Ilbiz and Bozköy Boztepe (Balkan-Atlı
+et al., 1998; Balkan-Atlı et al., 1999). Among them well preserved
+workshops have been identified and sounded or excavated as
+Kaletepe, locus P (EPPNB), and locus M (PN), but the first traces of
+obsidian exploitation date from the Early and Middle Palaeolithic
+periods (Slimak et al., 2008).
+Previous works done either by EDXRF (Keller and Seifried, 1990),
+neutron activation analysis (Yellin, 1995), ICP-AES and ICP-MS
+(Bellot-Gurlet, 1998) or LA-ICP-MS (Gratuze, 1999) have shown
+that among the different obsidian outcrops occurring on the
+Göllüdag massif, some could be easily differentiated by chemical
+* Corresponding author.
+E-mail addresses: Didier.Binder@cepam.cnrs.fr (D. Binder), gratuze@cnrsorleans.fr (B. Gratuze), damase.mouralis@univ-rouen.fr (D. Mouralis), nbalkan@
+istanbul.edu.tr (N. Balkan-Atlı).
+Contents lists available at ScienceDirect
+Journal of Archaeological Science
+j o u r n a l h o m e p a g e : h t t p : / / w w w . e l s e v i e r . c o m / l o c a t e / j a s
+0305-4403/$ e see front matter Ó 2011 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2011.05.014
+Journal of Archaeological Science 38 (2011) 3174e3184Author's personal copyanalyses while others have more similar composition. Based on
+previous works and new geochemical analyses, Poidevin (1998) has
+recognised 6 obsidian outcrops. However, the author underlined the
+difficulty to differentiate each obsidian and propose to distinguish
+two main chemical groups: Göllüdag East (Kayırlı-East, Kömürcü
+and Sırca Deresi) and Göllüdag West (Kayırlı-village, Bozköy-North
+and Gösterli). In a later study, Gratuze (1999), identified four main
+chemical obsidian groups by analysing both archaeological and
+geological obsidian and for some outcrops only a limited number of
+sample were analysed.
+However previous work was not focused on volcanic activity so
+that the great geochemical diversity of the obsidian outcrops has
+not been understood. Until now, the precise provenance identifi-
+cation of artefact was difficult: i) because of the contemporaneity of
+Fig. 1. Location of analysed samples, obsidian outcrops and chemical groups inside the Göllüdag complex.
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e3184 3175Author's personal copythe obsidian (Mouralis, 2003) many outcrops have similar chemical
+composition and ii) because of the great number of the outcrops as
+well as the facies variation inside each outcrop, macroscopic
+identification of each outcrop is really uncertain.
+2. Methods
+In order to check the possibilities or the impossibilities to
+discriminate between the most important outcrops where knapping
+workshops have been identified, new campaigns of sampling were
+undertaken in 2000e2002 by the Franco-Turkish archaeological
+mission (Balkan-Atlı et al., 2008). Also intensive field work has been
+undertaken with the aim of understanding volcanic activity and the
+morphological evolution of the Göllüdag complex (Mouralis, 2003).
+Fig. 1 shows that three outcrops have not been sampled in the
+framework of this study: i) Kayırlı-village, ii) south of Bozdag and iii)
+north of Paleo-Büyük Göllü Tepe. The obsidians from Kayırlı-village
+have been previously analysed by Gratuze (1999), but their precise
+location was not known. The Kayırlı-village outcrop is a pyroclastic
+flow that has probably destroyed a previous dome. The obsidian
+forms a small part of this pyroclastite and has perlitic facies. It has
+probably not been used for knapping and has not been sampled
+again for this new study. The obsidians located south of Bozdag and
+north of Paleo-Büyük Tepe are associated with perlite and rhyolite
+and show very rare pure obsidian outcrops.
+Only geologic obsidian samples originating from well identified
+outcrops have been collected and analysed, in order to sample the
+main known outcrops associated with the different domes.
+The relationship between ancient (Gratuze, 1999) and recent
+studied obsidian outcrops is given in Table 1, a more extensive
+correlation between the different outcrops names used by different
+authors could be found in the work done by Chataigner (Chataigner,
+1998). The samples as well as the outcrops and the chemical groups
+are located in Fig. 1. The names used in the map and in the text are
+those of the 1:25,000 topographic maps. Based on our previous
+results, particular attention has been given to elements such as
+zirconium, yttrium, niobium, barium, strontium, boron, lithium and
+titanium that appear to be more powerful in establishing a fine
+discrimination between outcrops with similar chemical compositions.
+A whole of 108 analyses have been carried out on the obsidian
+taken from the different sampling points (the full list is given in
+Annexe, for each sampling point two or more analyses were carried
+out; mean compositions and standard deviations are given in
+Table 2). The analytical method used for this study was laser
+ablation inductively coupled plasma mass spectrometry (LA-ICPMS). The retained operating procedure has already been described
+(Gratuze, 1999; Gratuze et al., 2001) and will not be repeated here.
+Although the accuracy and the precision of LA-ICP-MS are not as
+good as those obtained using ICP-MS in its liquid mode, LA-ICP-MS
+offers the possibility of fast multi-elements determination without
+damaging the sample (sampling remains invisible to the naked
+eye). For archaeological studies it thus allows to study a large
+number of artefacts and then to base the conclusions on a statistical
+population of artefacts rather than on a few selected objects.
+Table 1
+Relationship between former (Gratuze, 1999) and current obsidian samples.
+Outcrops Former names Former chemical group
+Birtlikeler and Ekinlik ravines Kabaktepe East-Göllüdag 1
+Eriklidere Kömürcü East-Göllüdag 2
+Kaletepe deresi 2 Not sampled
+Kaletepe deresi 3 downstream Not sampled
+Kaletepe deresi 3 lower upstream Not sampled
+Kaletepe deresi 3 upper upstream Not sampled
+Bozköy Ilbiz-Muneninyeri North of Bozköy West Göllüdag 1
+Bozköy Boztepe North of Bozköy
+(sample A)
+Sırca Deresi Not sampled
+Büyük Göllü Not sampled
+Gösterli West of Kayırlı West Göllüdag 2
+Table 2
+Average compositions (moy.) and standard deviations (std.) for each obsidian group, the number of samples analysed for each group is given in bracket in the standard
+deviation column. Note: Only one sample has been analysed for the Göllüdag 3 group.
+Oxide % Göllüdag 1 Göllüdag 2 Göllüdag 3 Göllüdag 4a Göllüdag 4b Göllüdag 5 Göllüdag 6 Göllüdag 7
+Moy Std (7) Moy Std (4) Moy Std (17) Moy Std (18) Moy Std (51) Moy Std (5) Moy Std (5)
+Na 2O 3.85 0.10 3.91 0.15 4.23 3.96 0.18 4.08 0.18 3.95 0.17 4.28 0.27 4.13 0.13
+Al 2O 3 13.6 0.4 14.3 0.2 12.6 13.6 0.7 13.6 0.9 13.2 0.5 12.8 1.0 12.7 0.2
+SiO 2 76.4 0.5 75.0 0.2 76.5 76.2 0.7 75.9 0.6 76.6 0.5 76.3 0.5 76.4 0.4
+K 2O 4.41 0.23 4.37 0.04 4.7 4.46 0.20 4.44 0.19 4.55 0.18 4.72 0.24 4.75 0.12
+CaO 0.70 0.10 0.90 0.04 1.0 0.66 0.16 0.73 0.10 0.54 0.12 0.74 0.21 0.80 0.15
+Fe 2O 3 0.79 0.13 1.14 0.14 0.78 0.77 0.12 0.76 0.07 0.80 0.07 0.74 0.13 0.81 0.08
+Element ppm
+Li 45 4 47 5 43 51 1.3 50 2 51 3 63 8 57 3
+B 35 3 40 1.0 37 39 2 38 2 38 2 43 3 42 2
+Mg 305 16 580 15 212 193 12 199 9 215 16 289 160 174 4
+P 133 61 157 10 168 202 113 184 140 137 30 170 23 195 84
+Ti 426 23 623 12 331 324 12 342 14 351 13 306 21 310 12
+Rb 170 6 175 4 181 192 6 187 7 188 6 193 7 199 5
+Sr 30 1.3 54 1.4 13 6.7 0.5 7.6 0.7 9.0 0.7 8.6 0.8 5.6 0.8
+Y 18 1.1 19 0.5 17 21 2 20 2 20 2 21 2 19 1.3
+Zr 76 4 121 3 74 69 6 68 7 70 5 66 6 61 5
+Nb 23 1.1 21 0.5 22 27 1.0 26 1.2 25 0.7 25 1.1 27 1.5
+Cs 6.2 0.3 6.6 0.3 6.1 7.5 0.5 7.3 0.3 7.3 0.3 7.4 0.2 8.1 0.3
+Ba 359 13 420 6 194 77 4 98 9 126 8 90 9 55 6
+La 33 2 37 2 18 22 2 22 2 22 2 21 2 19 2
+Ce 55 3 63 0.3 39 42 2 41 2 42 2 41 2 38 0.7
+Pr 4.5 0.3 5.1 0.1 3.0 3.2 0.3 3.1 0.3 3.5 0.3 3.5 0.5 2.8 0.5
+Nd 13 0.9 15 0.8 9.0 11 0.9 10 2 11 0.9 10 1.2 9.5 0.3
+Hf 2.6 0.4 3.4 0.5 1.9 2.6 0.5 2.3 0.4 2.5 0.4 2.6 0.7 1.9 0.6
+Th 25 1.3 25 0.4 18 19 2 19 3 20 2 17 2 16 1.2
+U 7.3 0.4 8.0 0.2 8.0 8.4 0.6 7.9 0.7 8.3 0.3 8.6 0.6 9.3 0.1
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e31843176Author's personal copy3. Results
+3.1. The obsidian outcrops inside the Göllüdag volcanic complex
+The Göllüdag massif is a rhyolitic complex that is Lower and
+Middle Pleistocene in age. The rhyolitic domes are extruded inside
+a highly probable caldera and form a cumulodome by coalescence
+of the extruded domes. The obsidian outcrops are associated with
+these extrusions. The most elevated of these domes is the Büyük
+Göllü Tepe, 2172 m in altitude. Ten domes have been recognised
+(Fig. 1), but some of them (Kabak Tepe and Büyük Göllü Tepesi)
+contain fossilised previous domes (further named Palaeo-Kabak
+Tepe and Palaeo-Büyük Göllü Tepe, Fig. 2) as well as caldera
+structures.
+Five field evidences allow an understanding of the relationships
+between obsidian outcrops and the domes extruded during this
+“post-caldera” stage.
+(i) The obsidian outcrops draw discontinuous circular shapes
+around most of the domes and may occur within phreatomagmatic deposits. The Küçük Göllü Tepe is not associated
+with any obsidian outcrops: this elongated dome-coulée may
+have fossilised previous obsidian.
+(ii) The obsidian never outcrops as pure lava flow. The outcrops are
+generally associated with the rhyolitic and perlitic extrusion,
+whereas, in some cases, the sub-vertical foliation plans suggest
+intrusion emplacement. The Eriklidere obsidian outcrops with
+their lateral component seem to be an exception.
+(iii) The obsidian outcrops often show transition between the
+massive “heart” of the outcrops and the surrounding perlitic
+lava. We notice transitional facies between obsidian and
+perlite either shown by alternating obsidian and perlite centimetric to millimetric foliation or by enrichment in perlitic
+spherolites.
+(iv) Some obsidian outcrops are disconnected from the dome,
+because of later volcanic activity as well as later erosion that
+have either fossilised or disturbed previous structures.
+(v) Some obsidian blocks (bombs) occur in the pyroclastites
+indicating an explosive volcanic activity after emplacement of
+the obsidian.
+According to these field observations, Mouralis (Mouralis
+et al., 2002; Mouralis, 2003) has proposed a model that
+describes the extrusions of the domes including four volcanic
+stages (Fig. 3):
+(i) Tuff ring may be seen around some of the domes (e.g.: Kabak
+Tepe, Bozdag) indicating a phreatomagmatic activity that has
+been then fossilised by the rhyolitic extrusion.
+(ii) In the same time, obsidian and perlitic ring-dykes have been
+intruded, probably using the fractures limiting the diatrem of
+the maar. These ring dikes have thus a general circular shape
+and are associated to most of the domes.
+(iii) The terminal dome is extruded inside the previous structures.
+Some of the domes have simple morphologies, but many of
+them show multiple lobes.
+2100
+2000
+2100
+(m)
+2000
+1900
+1800
+1700
+1600
+1500
+1400
+1300
+(m)
+1900
+1800
+1700
+1600
+1500
+1400
+1300
+2046 m Karasaban Br.
+1966 m
+1432 m2098 mW E
+Kabak Tepe
+1822 m
+Bostanligi T.
+2046 m
+WSW ESE
+Büyük Göllü Tepe
+Kabak Tepe
+0,98 +/- 0,06
+Bigazzi et al. 1993
+0 500 1000 m
+0 500 1000 m Alluvium
+Pyroclastites
+Rhyolitic and perlitic domes
+Obsidian intrusion
+Chemical groups
+(this study)
+Diatreme
+Limits of the diatreme
+A
+B
+Fig. 2. Sections across Kabak Tepe and Büyük Göllü Tepe, showing two different generations of domes and associated obsidian outcrops (Bigazzi et al., 1993).
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e3184 3177Author's personal copy(iv) The extrusion of the dome is sometimes accompanied and
+followed by pyroclastic activity as shown by the ash and bloc
+flow in the eastern flank of the Bozdag.
+It is noticed that stages (iii) and (iv) are responsible of the
+destruction as well as the fossilisation of the previous morphologies
+explaining why the obsidian outcrops are generally discontinuities.
+Moreover, the obsidian outcrops are linked either with stage (ii)
+(intrusive obsidian dykes), (iii) (extruded obsidian associated with
+perlite) or (iv) (bombs in the pyroclastites).
+These evidences shows that the obsidian outcrops and their
+chemical signatures are linked to each dome and not to the spatial
+position inside the Göllüdag massif at a whole. Two close outcrops
+may thus have different signature while two distant outcrops will
+Fig. 3. A model of dome extrusion associating four volcanic stages: example of the Bozdag dome.
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e31843178Author's personal copyhave the same, depending to the domes they are related to. Unlike
+(Poidevin, 1998) we do not use East or West position. In order to
+name each chemical group we will use groups named Göllüdag
+1e7. The relationships between former and newest names are given
+in Tables 1 and 2 and the samples are located in Fig. 1.
+3.2. Chemical results: 7 main different groups of obsidians
+The analytical results obtained on this new collection of
+geological samples show that using simple binary diagrams, the
+obsidian from the Göllüdag can be easily splited into four main
+chemical groups as shown on Figs. 4 and 5. The obsidian originating
+respectively from Bozköy Ilbiz-Muneninyeri, Gösterli and Büyük
+Göllü Tepe form the three first groups (Göllüdag 1e3). Göllüdag 1 is
+equivalent to our ancient group West Göllüdag 1 while Göllüdag 2
+corresponds to West Göllüdag 2. The new Göllüdag 2 chemical
+group has the same signature than the former Kayırlı-village,
+previously analysed by Gratuze (1999) whose samples were not
+precisely located. This new Göllüdag 2 chemical group has the
+advantage of having been precisely located and sampled on a well
+defined outcrop.
+In the fourth chemical group, we find all the other obsidian
+outcrops: Birtlikeler, Ekinlik, Eriklidere, Sırca Deresi, Bozköy
+Boztepe and the different outcrops of Kaletepe.
+In fact although the chemical compositions of these outcrops are
+close, we observe, mainly for strontium and barium, a gradual
+evolution of their composition, and thus chemical distinction of
+some of these obsidian outcrops appears to be possible. In order to
+obtain an easy graphical representation of the results, we choose to
+run principal component analysis and to plot the analytical data on
+an X/Y graph where the two axes are expressed as a linear
+combination of different chemical elements which correspond to
+the factor 1 and 2 of the PCA. It is thus possible to visualise all the
+different outcrops on this single complex binary diagram (Figs. 6
+and 7). The large fourth group could then be divided into four
+smaller groups, one of them being divided into two subgroups.
+Hence, the chemical data allow us to identify seven main compositional groups among the thirteen sampled outcrops. Three chemical
+groups refer to single outcrops while in the four others groups we find
+the eight remaining outcrops (Table 3).
+Birtlikeler and Ekinlik are two closed small ravines identified in our
+preceding study as East-Göllüdag 1 (Kabaktepe). Our new results
+allow the splitting of this former group into two subgroups which are
+referenced as Göllüdag 4a and 4b: the Göllüdag 4a group corresponds
+to some of the obsidian found in the Birtlikeler ravine, while the
+Göllüdag 4b group corresponds to the obsidian from the Ekinlik ravine
+plus two samples from the Birtlikeler ravine and the samples originating from Kaletepe deresi 3 upper upstream. However this chemical
+-
+150
+300
+450
+- 20 40 60Sr ppm
+Ba ppm
+Göllüdağ 1 : Bozköy Ilbiz - Muneninyeri
+Göllüdağ 2 : Gösterli
+Göllüdağ 3 : Büyük Göllü
+Birtlikeler (Ekinlik), G4a
+Ekinlik (Birtlikeler), G4b
+Kaletepe deresi 3 upper upstream, G4a
+Eriklidere, G5
+Kaletepe deresi 2, G5
+Kaletepe deresi 3 downstream, G5
+Kaletepe deresi 3 lower upstream, G5
+Bozkoy Boztepe, G6
+Sırca Deresi, G7
+Fig. 4. Binary diagram SreBa for all the Göllüdag obsidian outcroups. The Göllüdag 1e3 obsidian groups split easily from the others outcrops.
+40
+80
+120
+160
+- 5 10 15
+Sr ppm
+Ba ppm
+Birtlikeler (Ekinlik), G4a
+Ekinlik (Birtlikeler), G4b
+Kaletepe deresi 3 up. upstr., G4a
+Eriklidere, G5
+Kaletepe deresi 2, G5
+Kaletepe deresi 3 downstream, G5
+Kaletepe deresi 3 low. upstr., G5
+Bozkoy Boztepe, G6
+Sırca Deresi, G7
+Fig. 5. Binary diagram SreBa for the obsidian outcrops originating from the east and south of the Göllüdag.
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e3184 3179Author's personal copysplitting does not correspond to the geological sampling and textural
+aspects of the obsidian. From a geographical point of view samples
+KY1.1e1.5 are related to the Birtlikeler ravine while sample KY1.6 and
+1.7 are related to Ekinlik. The geomorphological and volcanological
+approach shows that the Kaletepe deresi 3 upper upstream outcrop
+(samples KT10.2e10.4) is related to Birtlikeler and not to Ekinlik. If we
+now consider the textural appearance of the obsidian, samples KY1.1,
+1.2, 1.3 and 1.5 are grey banded obsidians while KY1.4, 1.6 and 1.7 are
+transparent smoked obsidians. The obsidian recovered at Kaletepe
+deresi 3 upper upstream looks more like smoked transparent than
+grey banded. If we now split these obsidians according to their
+chemical composition, we find in group 4a samples KY1.1e1.3 and in
+the group 4b all the other samples: that is KY1.4e1.7 and KT10.2e10.4.
+The chemical classification appears then to be in contradiction with
+the other data. It is however possible that variations of Ba and Sr
+concentrations are continuous so that the splitting into two groups
+appears arbitrary. We will thus consider that obsidian from both
+ravines belong to the same group referenced as Göllüdag 4. The
+splitting between sub-group “a” and “b” is however given to show the
+great chemical variability of this group.
+The former group referenced as East-Göllüdag 2 (or Kömürcü) is
+now named Göllüdag 5. In this group we find the obsidian originating from Kaletepe (dere 2 and dere 3 downstream and lower
+upstream) and Eriklidere. Although there are some visible structural
+differences between obsidian originating from Eriklidere and the
+one from Kaletepe, the chemical discrimination of these obsidian
+outcrops appears to be impossible. This is consistent with field
+observations that clearly evidence that these different outcrops
+belong to the same outcrops linked to the Palaeo-Kabak Tepe.
+Nevertheless, once chemical analyses have been done, the naked eye
+0
+1500
+3000
+4500
+6000
+7500
+9000
+- 500 1 000 1 500 2 000
+-3Zr-3Nb-6Y+5Ba+7Sr+6Li+6B-Ti
+-3Zr-4Nb-6Y+20Ba+3Sr-6Li-6B+Ti
+Göllüdağ 1
+Göllüdağ 2
+Göllüdağ 3
+Göllüdağ 4a
+Göllüdağ 4b
+Göllüdağ 5
+Göllüdağ 6
+Göllüdağ 7
+Fig. 6. Principal component analysis plot for the eight different obsidian groups defined for the Göllüdag volcano.
+0
+500
+1000
+1500
+2000
+2500
+- 200 400 600
+-3Zr-3Nb-6Y+5Ba+7Sr+6Li+6B-Ti
+-3Zr-4Nb-6Y+20Ba+3Sr-6Li-6B+Ti Göllüdağ 4a
+Göllüdağ 4b
+Göllüdağ 5
+Göllüdağ 6
+Göllüdağ 7
+Fig. 7. Principal component analysis plot for the 5 last obsidian groups defined for the Göllüdag volcano.
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e31843180Author's personal copycan be successfully used in an archaeological perspective to differentiate aspects of the same dike.
+The Bozköy Boztepe and Sırca deresi outcrops form the two last
+groups (Göllüdag 6 and 7).
+4. Discussion
+4.1. The obsidian outcrops: ring-dikes associated
+with rhyolitic domes
+This paper has detailed and explained the variability of Göllüdag
+obsidian resources that was still unsolved recently despite
+a presentation of our preliminary results in 2003 (Gratuze et al.,
+2005) and further questions asked by Poupeau et al. (2005). The
+geochemical results presented here are in a good accordance with
+the field observations and with the volcanic evolution of the
+Göllüdag complex. Previous research has shown the high spatial
+complexity of the outcrops. It was impossible to understand the
+spatial distribution of the obsidian outcrops without understanding
+the volcanic structures associating the obsidian outcrops and the
+domes. Fig. 1 and Table 3 shows that most of the domes are associated with one or more obsidian outcrops that have their own
+chemical signatures: Göllüdag 1, 2, 4b and 6 are respectively
+associated with Ilbiz Tepe, Kalebası Tepe, Kayıskıran and Boztepe.
+Göllüdag 7 is associated with Palaeo-Büyük Göllü Tepe, whereas
+Göllüdag 3 is associated with the newest Büyük Göllü Tepe that cut
+and fill previous one (Fig. 2). A similar structures is shown in the
+case of Kabak Tepe : Göllüdag 5 is associated with Palaeo-Kabak
+Tepe whereas Göllüdag 4a is associated with the newest Kabak
+Tepe. Our observations explain that some outcrops that are closed
+in the field (i.e. Birtlikeler and Ekinlik) have different geochemical
+signatures whereas some outcrops that are more distant (e.g. Eriklidere and Kaletepe 2) belong to the same obsidian structure and
+thus have the same geochemical signature.
+It is noticed that the obsidians sampled in the Kaletepe Deresi 3
+“Upper upstream” (KT102e104) belong to Göllüdag 4b (“Ekinlik”).
+However, following our observations (Fig. 1), these samples should
+belong to the chemical group Göllüdag 4a (“Birtlikeler”, Kabak
+Tepe). As previously noticed, there is very low chemical difference
+between these two groups. The component analyses (Figs. 6 and 7)
+as well as the Sr/Ba ratio (Figs. 4 and 5) show that Göllüdag 4a
+and Göllüdag 4b form a continuum. Such a continuum may be explained by volcanic eruptions very close in time or even contemporaneous so that no differentiation occurs in the magmatic
+chamber.
+At least, we notice that, with the exception of these three
+samples, all of the other analytical results are in good accordance
+with our field observations.
+4.2. Morphological evolution of the Gölludag complex and
+accessibility of the obsidian outcrops
+All these obsidian outcrops where not used in the same time by
+prehistoric people, depending of the quality as well as the accessibility of the outcrops. However, we have still rare information
+about the morphological evolution of the Göllüdag complex after
+the end of volcanic activity. The detritic accumulations from
+reworking Göllüdag material (pumices, rhyolite, obsidian) in the
+plains all around the massif, eastward (Derinkuyu plain), northward (Kitreli plain) and southward (Ciftlik plain) as well as the
+alluvial cone in the eastern part of the massif evidence some
+erosion phase that have still not been dated.
+In the Acigöl complex, 80 km northward of Göllüdag, Mouralis
+(2003) has shown two major morphological evolutions during the
+Upper Pleistocene and Late Glacial. The first occurs between 100 ka
+and 30 ka and is responsible of large accumulation of detritic
+formations (alluviums and colluviums) constructing some glaciscones. The second occurs after 30 ka with the erosion of the
+previous morphologies. Even if this chronology is still imprecise, it
+shows at least two major erosion stages occurring during the Upper
+Pleistocene. The second one should explain the scarcity of Upper
+Palaeolithic sites around the Acigöl and Gölludag massifs.
+4.3. Archaeological application and new issues
+In order to test our model from an archaeological point of view,
+we have reconsidered the results previously obtained for one
+hundred and three artefacts from the pre-pottery Neolithic site of
+Shillourokambos (Cyprus). These artefacts were analysed a few
+years ago using both fast neutron activation analysis and LA-ICP-MS
+(Briois et al., 1997; Gratuze, 1999). At that time, we were not able to
+fully distinguish between the areas of Birtlikeler-Ekinlik and Kaletepe (East Göllü-Dag sub-group 1 and 2), and the geological source
+of the artefacts was just defined as East Göllüdag without anymore
+precision. Using the new data and analyses, it is now possible to
+separate the artefacts into three main groups (Fig. 8). Sixty two
+artefacts are similar to the obsidian originating from KaletepeEriklidere (Göllüdag 5), twenty-five artefacts have the same
+composition than the obsidian found at Birtlikeler (Göllüdag 4a),
+and sixteen artefacts have an intermediate composition which is
+related to Ekinlik (Göllüdag 4b). As during the Neolithic period, the
+outcrop located at Kaletepe deresi 3 upper upstream was not
+accessible; it means that these obsidians from Göllüdag 4a and 4b
+originate from the Birtlikeler and Ekinlik ravines. Thus ca. 60% of
+the obsidian tools recovered at Shillourokambos originates from
+the surroundings of Kaletepe/Eriklidere and ca. 40% from the
+Birtlikeler-Ekinlik area. We shall notice here that the artefacts from
+Table 3
+The seven chemical groups defined in this study.
+Current group
+name
+Outcrops Related rhyolitic dome Sampling point (See Annexe) Former names
+Göllüdag 1 Bozköy Ilbiz-Meneninyeri Ilbiz Tepe BO1.1, BO1.2, BO2.1,BO2.2 West Göllüdag 1 (North of Bozköy)
+Göllüdag 2 Gösterli Kalebas ̧ ı Tepe GO2.1, GO2.2 West Göllüdag 2 (West of Kayırlı)
+Göllüdag 3 Büyük Göllü Büyük Göllü Tepe BG1.1 Not sampled
+Göllüdag 4a Birtlikeler Kabak Tepe newest KY1.1, KY1.2, KY1.3 East-Göllüdag 1 (Kabaktepe)
+Göllüdag 4b Ekinlik - Kaletepe deresi 3
+upper upstream
+Kayıskıran Tepe ? KY1.4, KY1.5, KY1.6, KY1.7, KT 10.2, KT10.3, KT10.4
+Göllüdag 5 Kaletepe dere 2, 3 (downstream
+and lower upstream) - Eriklidere
+Palaeo-Kabak Tepe KT1.1, KT1.2, KT1.3, KT2.1, KT2.2, KT2.3, KT3.1, KT4.1,
+KT4.2, KT5.1, KT5.2, KT8.1, KT8.2, KT8.3, KT6.1, KT7.1,
+ED1.1, ED1.2, ED2.1, ED3.1
+East-Göllüdag 2 (Kömürcü)
+Göllüdag 6 Bozköy Boztepe Boztepe BO3.1, BO3.3 Not sampled and East-Göllüdag
+Göllüdag 7 Sırca Deresi Palaeo-Büyük Göllü
+Tepe
+SD1.1, SD1.2, SD2.1, SD2.2 Not sampled
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e3184 3181Author's personal copyShillourokambos which belong to group 4 show the same splitting
+than the one observed for geological samples (Fig. 8). This feature
+tends to validate the existence of the two subgroups 4a and 4b that
+however needs still to be explained from a geological point of view.
+4.4. New issues can be raised thanks to these results
+As far as we can observe today, the different obsidian sources
+that have been identified and analysed all around the Göllüdag are
+not interchangeable. From a knapping perspective, major differences are due (i) to the dimensions and shapes of the available
+blocks and (ii) to the intrinsic quality of the glass (e.g. fragility,
+presence of perlitic inclusions, etc.). Among the currently known
+sources, two of them appear to have been mainly exploited during
+the PPN period on the basis of surveys and excavations conducted
+since 1993: they are dark-grey obsidians from Göllüdag 5 ryolithic
+lava and transparent ones from Göllüdag 4. Both have been
+exploited for craft productions during the Early PPNB, i.e. prismatic
+pressure bladelets diffused in the whole Near-East and points
+obtained from highly specialised naviform cores of a Levantine
+tradition (Balkan-Atlı and Der-Apprahamian, 1998; Binder and
+Balkan-Atlı, 2001; Binder, 2002). Surprising is the lack of field
+evidence for an exploitation at that time of the transparent obsidian
+outcrops around Eriklidere (Göllüdag 5).
+For both types of craft productions, Göllüdag 5 dark-grey and
+Göllüdag 4 transparent obsidians do not offer the same interests.
+Göllüdag 5 provides large blocks in which standardised pre-cores
+for pressure or bipolar blade technique can be easily inscribed.
+On the other hand, Göllüdag 4 bombs of transparent glass exhibit
+a concentric layered structure, splitting in convexo-concave prisms
+in which shaping out pre-cores appears much more hazardous.
+Concerning the mechanic qualities of the glass itself, one can
+notice that Göllüdag 4 transparent obsidian is generally free of
+perlites while the Göllüdag 5 dark-grey obsidian sometimes contains
+a few. But the major advantage of Göllüdag 5 dark-grey, compared to
+Göllüdag 4 transparent, is its lower fragility that gives more flexibility
+for the use and combination of different knapping techniques: pressure as well as direct or indirect percussion.
+In a techno-economic perspective, we can assume a trend for
+craftsmen to use first Göllüdag 5 dark-grey for making blade using
+complex methods. Thus, the detailed analysis of obsidians discovered
+at long distance consumption sites, could be an indicator of the
+evolution of resource availability and could then explain the evolution
+of the strategies of the craftsmen them-selves. Could a depletion of the
+best Cappadocian sources from Göllüdag 5 explain the decrease of PPN
+craft activities at that place and a major change in resource takeover?
+Actually at the very end of the 8th millennium cal BCE and
+during the Middle and Late PPNB, preliminary analyses from Gratuze (unpublished) indicate that Göllüdag 4 was the main resource
+exploited at As ̧ ıklı Höyük and Musular, which lithic traditions
+proceed from a syncretism between Levant PPNB and local Epipalaeolithic; these obsidians were then used for simpler blade
+productions, most of them produced directly at the consumption
+sites (Abbès et al., 1999; Binder, 2002).
+At Çatalhöyük, recent analyses identified East-Göllüdag
+outcrops as the origin of a part of the earliest PN industries (levels
+IX to VII-VI) (Carter et al., 2006, Carter and Shackley, 2007). EastGöllüdag obsidians were actually employed for knapping irregular
+small blades and for bifacial productions. Some of the latest (e.g.
+OB63 and OB64) have high Ba values that could be correlated with
+Göllüdag 5, and even Kaletepe M workshop (Dere 2 upstream)
+where pyroclastites provide slabs at the origin of a massive
+production of bifacial pieces. Unfortunately we are not able to
+compare these results with our data since the measurement of
+one of the most distinctive elements (Ba), for differentiating
+between the sources of East- Göllüdag, is not presented in this
+paper.
+5. Conclusion
+According to geomorphological, chemical and archaeological
+evidences, our study allows to distinguish around the Göllüdag massif
+7 main obsidian groups, some of them including many outcrops. This
+work allows thus a more accurate sourcing of the obsidian artefacts:
+what was previously named “Göllüdag-East”, is currently divided in 3
+different chemical groups. Moreover, the comparison with chemical
+analyses of artefacts shows that the major source during the Neolithic
+times are located eastward (Göllüdag 5) and northward (Göllüdag 4)
+of Kabak Tepe. Our results show however that a new sampling
+campaign in the Birtlikeler-Ekinlik area is needed to clarify the relationships between these two zones and to validate or unvalidate the
+splitting of group 4 into two subgroups.
+0
+500
+1000
+1500
+2000
+2500
+- 200 400 600
+-3Zr-3Nb-6Y+5Ba+7Sr+6Li+6B-Ti
+-3Zr-4Nb-6Y+20Ba+3Sr-6Li-6B+Ti
+Shillourokambos 25 artefacts
+Shillourokambos 16 artefacts
+Shillourokambos 62 artefacts
+Göllüdağ 4a
+Göllüdağ 4b
+Göllüdağ 5
+Göllüdağ 6
+Göllüdağ 7
+Fig. 8. Distribution of Shillourokambos artefacts among the obsidian groups defined for the Göllüdag volcano.
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e31843182Author's personal copyMoreover, this work emphases the importance of multi-disciplinary approach in obsidian sourcing: the chemical characterization of obsidian should be carried out in conjunction with detailed
+field investigation aiming at understanding the geomorphologic
+and volcanic context of the outcrops as well as archeological
+researches, including technological approach.
+Thanks to our new study based on previous ones, the general
+framework of obsidian outcrops in and around the Göllüdag massif is
+now better known. However, some new investigations may give
+interesting results concerning: i) the chemical variability within each
+groups; and ii) the geomorphologic evolution of the Göllüdag massif
+that controls the obsidian avaibility for prehistoric populations.
+Acknowledgements
+This work has been achieved with the support of:
+-The Franco-Turkish « Mission de Préhistoire Anatolienne e
+Kaletepe » (Ministère des Affaires étrangères et européennes, France)
+and the Department of Prehistory of Istanbul University (Turkey);
+-The PPF project CODAI « Caractérisation, origine et diffusion des
+archéomatériaux inorganiques (métaux, verres, roches, céramiques) »
+(Ministère de l’Enseignement Supérieur et de la Recherche, France);
+-CNRS-TÜBITAK joint program n 9487 « Volcanic activity and
+palaeogeography during Upper Pleistocene in Cappadocia, Turkey »
+Annexe 1. Brief description of the Göllüdag outcrops and raw
+materials
+Sampling of obsidian sources have been done in order to procure
+enough material to constitute three reference series (A, B, C).
+ Series A have been analysed at the UMR5060 (IRAMAT, CNRS
+and Orleans University) for this paper.
+ Series B have provided thin sections for future Raman spectrometry studies at the UMR7075 (LADIR CNRS and Paris VI
+University).
+ From series C, two sets have been separated as reference
+collections for archaeologists: C1 in Turkey at the Department of
+Prehistory of Istanbul University; C2 in France at the UMR6130
+(CEPAM eCNRS and Nice Sophia-Antipolis University).
+Göllüdag 1 (Ilbiz Tepe dome) At Bozköy, Ilbiz site provides slabs
+of transparent and slightly banded obsidian. Two sample groups
+have been collected: BO1.1 is an in situ obsidian deposit associated
+with perlite, cut by the road and covered by a layer of workshop and
+quarrying wastes including long pickaxes made of rhyolite; BO1.2
+consists of big rough pieces from the surface.
+Still at Bozköy, Muneninyeri site shows veins of obsidian included
+within perlite lava that contain many spherolites. Two different
+aspects have been sampled: BO2.1 obsidian is opaque black- brown,
+found as fractured blocks of 20e30 cm of module; BO2.2 is a more
+glassy one and contains spherolithes. Lithic wastes and tools (e.g.
+arrowhead) have been discovered upward this outcrop.
+Göllüdag 2 (Kalebas ̧ ı Tepe dome) After our survey, in situ
+obsidians appeared very rare within this impressive edifice destroyed
+by a pelean episode and further erosion. Small nodules of a few cm
+have been collected in the rhyolithic lava flow overhanging Gösterli
+dere (GÖ1.1, not analysed here). Most of the samples are pebbles of
+10e20 cm of module, coming from the alluvial deposits of the dere;
+GÖ2.1 is a black to greenish banded obsidian; GÖ2.2 is much glassy
+and homogoneous but contains big spherolithes. No knapping activity
+has been found in the surroundings.
+Göllüdag 3 (Büyük Göllü Tepe dome) A single big block of
+a light grey and metalescent obsidian (BG1.1) have been sampled by
+Dr. F. S ̧ aroglu at ca. 2000 m high on the southern slope of the Büyük
+göllü tepesi.
+Göllüdag 4 (Kabak Tepe newest and Kayıskıran Tepe (?)
+domes) South-west to Kayırlı village, the hills of Birtlikeler and
+Ekinlik are drained by many ravines (or dere) that reveal rhyolitic
+lava flows and pyroclastites. The top and the slopes of Bitlikeler hill
+are covered of wastes coming from an important PPN Neolithic
+workshop, unfortunately eroded. Four groups of samples of grey
+and slightly banded obsidian have been collected as blocks within
+the rhyolitic flow: KY1.1 et KY1.2 from the ravine between Birtlikeler and Ekinlik hills; KY1.3 in the rhyolitic slope of Birtlikeler
+hill, covered with lithic wastes; KY1.5 in the rhyolitic slope of
+Ekinlik hill. Three groups have been sampled inside the perlite
+deposits: KY1.4 from the slope of Birtlikeler; KY.1.6 and KY1.7from
+the Ekinlik ravines; the latter obsidian samples consist of big blocks
+of transparent grayish obsidian with a natural concentric debit.
+Obsidian with a similar composition, and then reported to the
+same group of volcanic events, have been collected at KömürcüKaletepe e dere 3-upper upstream. There, the rhyolitic flow has
+been discovered after an erosion of the Palaeolithic deposits during
+the winter 2001e2002. Three samples of transparent and very
+slightly banded obsidian have been collected: KT10.2, KT.10.3 and
+KT10.4. Covered by Pleistocene colluviums and Palaeolithic deposits,
+this outcrop was probably unknown from Neolithic people.
+Göllüdag 5 (Palaeo-Kabak Tepe dome) Above Kömürcü village,
+the area corresponding to the visible extension of Kaletepe workshops is intersected by two main ravines: Dere 2 and Dere 3. Two
+types of deposits have been sampled. The rhyolitic flow provides
+large blocks (reaching sometimes 30e40 cm) of homogeneous
+dark-grey obsidian of an exceptional quality, with very rare small
+perlites (reaching very exceptionally 1 cm of diameter). Is has been
+sampled: at different levels in the Dere 3 lower upstream and
+downstream on both sides of the Chalcolithic operation (BalkanAtlı et al., 1998) (KT1.1, KT1.2, KT1.3; KT.2.1, KT2.2, KT2.3; KT3.1;
+KT4.1, KT4.2; KT5.1 and KT5.2); at the Dere 2 downstream, close to
+the PPNB operation (Binder, Balkan-Atlı, 2001) (KT6.1 and KT7.1).
+This is the type of obsidian almost exclusively knapped at the
+Kaletepe PPNB workshop. At the Dere 2 upstream, pyroclastic
+deposits (ashes and breccias) contain slabs of transparent obsidian
+rich and even very rich in bubbles (KT8.1, KT8.2, KT8.3). Some of
+them are perfectly suitable for bifacial shaping and were obviously
+used at the nearby Pottery Neolithic workshop (Kaletepe M).
+Surface finds also indicate the use of these slabs for Middle Palaeolithic Levallois productions.
+The ravine of Eriklidere, situated at the north-west of Kömürcü
+village, intersects two types of deposits providing very large
+amounts of obsidian previously used as standard references for
+defining “Kömürcü obsidian”. Obsidian from the upstream rhyolites
+deposits (ED1.1. and ED1.2) forms a huge flow, extremely rich of big
+perlitic spherolits (over than 2 cm diameter), only small blocks of
+transparent obsidian can be saved from the spherolitic gangue.
+Downstream pyroclastites display blocks of transparent grayish
+obsidian with a natural concentric debit suitable for knapping
+(ED2.1 et ED3.1).
+Göllüdag 6 (Boz Tepe dome) Two samples (BO3.1 and BO3 .3) of
+a dark-grey obsidian have been collected from large blocks within
+eroded perlites. This raw material seems of a poor quality, due to
+many perlitic spherolites and cracks. Nevertheless the same area
+provided some Middle Paleolithic artifacts (i.e. Levallois core).
+Göllüdag 7 (Palaeo-Büyük Göllüdag dome) Sırça deresi
+outcrops close to Bozköy have been explored by companies
+exploiting perlites; that let some uncertainties about the field
+conditions. Obsidian samples coming from in situ perlites are black,
+with moiré aspects (SD1.1), or slightly translucent (SD1.2). Samples
+in the post-depositional context of the perlite quarries are marbled,
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e3184 3183Author's personal copyblack and red, (SD2.1) or black and slightly translucent (SD2.2).
+The use of these obsidian sources, as little blocks and pebbles from
+secondary deposits, is probably attested de visu at the ÇiftlikTepecik, a close Pottery Neolithic and Chalcolithic settlement
+(Biçakcı et al., 2007).
+References
+Abbès, F., Balkan-Atlı, N., Binder, D., Cauvin, M.C., 1999. Etude technologique préliminaire de l’industrie d’As ̧ ıklı Höyük. TÜBA-AR 2, 117e137.
+Abbès, F., Bellot-Gurlet, L., Bressy, C., Cauvin, M.C., Gratuze, B., Poupeau, G., 2001.
+Nouvelles recherches sur l’obsidienne de Cheik Hassan (Vallée de l’Euphrate,
+Syrie) au Néolithique. PPNA et PPNB ancien.Syria 78, 5e17.
+Balkan-Atlı, N., Binder, D., Cauvin, M.C., 1998. Exploitation de l’obsidienne en Cappadoce: première campagne de fouilles à Kaletepe (Kömürcü). Anatolia Antiqua
+6, 301e315.
+Balkan-Atlı, N., Binder, D., Cauvin, M.-C., 1999. Obsidian: sources, workshops and
+trade in Central Anatolia. In: In Özdogan, M., Bas ̧ gelen, N. (Eds.), Neolithic in
+Turkey, vols. 03e115. Arkeoloji ve Sanat Yayınları, Istanbul, pp. 135e145.
+Balkan-Atlı, N., Der Aprahamian, G., 1998. Les nucléus de Kaletepe et deux ateliers
+de taille en Cappadoce. In: Cauvin, M.C., Gourgaud, A., Gratuze, B., Arnaud, N.,
+Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au Proche et
+Moyen Orient. Du volcan à l’outil. Lyon and Oxford/Maison de l’Orient Méditerranéen and Archaeopress, pp. 241e257 (British Archaeological Reports,
+International series, 738).
+Balkan-Atlı, N., Binder, D., Gratuze, B., 2008. Göllüdag (Central Anatolia): obsidian
+sources, workshops and trade. Der Anschnitt 21, 203e210 (Anatolian Metal IV).
+Balkan-Atlı, N., Binder, D., 2001. Les ateliers de taille d’obsidienne: fouilles de
+Kömürcü - Kaletepe 2000. Anatolia Antiqua 9, 193e205.
+Bellot-Gurlet L. 1998. Caractérisation par analyse élémentaire (PIXE et ICP-MS/-AES)
+d’un verre naturel: l’obsidienne. Application à l’étude de provenance d’objets
+archéologiques. Thèse de doctorat, Université Joseph Fourier, Grenoble I.
+Biçakcı, E., Balcı, S., Altınbilek-Algül, Ç., Godon, M., 2007. Tepecik-Çiftlik. In:
+Özdogan, M., Bas ̧ gelen, N. (Eds.), Türkiye’de Neolitik Dönem. Arkeoloji ve Sanat
+Yayınları, Istanbul, pp. 237e253.
+Bigazzi, G., Yegingil, Z., Ercan, T., Oddone, M., Özdogan, M., 1993. Fission track dating
+obsidians in Central and Northern Anatolia. Bull. Volcanol. 55, 588e595.
+Binder, D., 2002. Stones making sense: what obsidian could tell about the origins of
+Central Anatolian Neolithic. In: Gérard, F., Thissen, L. (Eds.), The Neolithic of
+Central Anatolia. Ege Yayınları, Istanbul, pp. 79e90.
+Binder, D., Balkan-Atlı, N., 2001. Obsidian and blade technology at Kömürcü-Kaletepe (Central Anatolia). In: Caneva, I., Lemorini, C., Zampetti, D., Biagi, P. (Eds.),
+Beyond Tools: Redefining the PPN Lithic Assemblages of the Levant. Ex oriente,
+Berlin, pp. 1e16.
+Briois, F., Gratuze, B., Guilaine, J., 1997. Obsidiennes du site néolithique précéramique de Shillourokambos (Chypre). Paléorient 23 (1), 95e112.
+Carter, T., Shackley, M.S., 2007. Sourcing obsidian from Neolithic Çatalhöyük (Turkey)
+using Energy Dispersive X-Ray Fluorescence. Archaeometry 49 (3), 437e454.
+Carter, T., Poupeau, G., Bressy, C., Pearce, N., 2006. A new programme of obsidian
+characterization at Çatalhöyük, Turkey. J. Archaeol. Sci. 33, 893e909.
+Cauvin, M.C., Chataigner, C., 1998. Distribution de l’obsidienne dans les sites archéologiques. In: Cauvin, M.C, Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G.,
+Poidevin, J.-L., Chataigner, C. (Eds.), L’obsidienne au Proche et Moyen Orient. Du
+volcan à l’outil. Lyon and Oxford, Maison de l’Orient Méditerranéen and
+Archaeopress, pp. 325e350 (British Archaeological Reports, International series,
+738).
+Chataigner, C., 1998. Sources des artefacts du Proche Orient d’après leur caractérisation géochimique. In: Cauvin, M.C., Gourgaud, A., Gratuze, B., Arnaud, N.,
+Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au Proche et
+Moyen Orient. Du volcan à l’outil. Lyon and Oxford, Maison de l’Orient Méditerranéen and Archaeopress, pp. 273e324 (British Archaeological Reports,
+International series,738).
+Finlayson W., Gratuze, B., McCartney C. 1998. The chipped stone assemblage. In:
+Peltenburg E. (ed). Lemba Archaeological Project, Cyprus, vol II, 1A, Excavations
+at Kissonerga Mosphilia, 1979e92 Jonsered, Paul Astroms Forlag, pp. 202e206
+(Studies in Mediterranean Archaeology, vol LXX:2).
+Gratuze, B., 1999. Obsidian characteristion by laser ablation ICP-MS and its application to prehistoric trade in the Mediterranean and the Near East: sources and
+distribution of obsidian within the Aegean and Anatolia. Journal of Archaeological Science 26, 869e881.
+Gratuze, B., Blet-Lemarquand, M., Barrandon, J.N., 2001. Mass spectrometry with
+laser sampling: a new tool to characterize archaeological materials. J. Radioanal.
+and Nucl. Chem. 247 (3), 645e656.
+Gratuze, B., Boucetta, S., Binder, D., Balkan-Atlı, N., Bellot-Gurlet, L., Mouralis, D.,
+2005. New investigations of the Göllu-dag obsidian lava flows system:
+comparison between chemical, mineralogical and fission track data. In:
+Liritzis, I., Dillian, C. (Eds.), Recent Advances in Obsidian Dating and Characterization (Abstracts). University of the Aegean and International association for
+obsidian studies, Milos, pp. 18e19. IAOS Bulletin n 33, Summer 2005.
+Keller, J., Seifried, C., 1990. The present statuts of obsidian source identification in
+Anatolia and the Near-East. PACT 25 (4), 58e87.
+McCartney C., Gratuze, B. 2003. The chipped stone. In: Peltenburg E. (ed). Lemba
+Archaeological Project, Cyprus, vol. III. 1. The Colonisation and Settlement of
+Cyprus, Investigations at Kissonerga Mylouthkia, 1976-1996 Sävedalen, Paul
+Astroms Forlag, pp. 11-34 (Studies in Mediterranean Archaeology vol LXX:4).
+Mouralis D. 2003. Les complexes volcaniques quaternaires de Cappadoce (Göllüdag
+et Acigöl - Turquie): évolutions morphodynamiques et implications environnementales. Thèse de doctorat, Université Paris XII.
+Mouralis, D., Pastre, J.-F., Kuzucuoglu, Turkecan A., Atıcı, Y., Slimak, L., Guillou, H.,
+Kunesch, 2002. Les complexes volcaniques Rhyolithiques quaternaires d’Anatolie centrale (Göllü Dag et Acıgöl, Turquie): Genèse, instabilité, contraintes
+environnementales. Quaternaire 13, 219e228.
+Peltenburg, E., Colledge, S., Croft, P., Jackson, A., McCartney, C., Murray, M.A., 2000.
+Agro-pastoralist colonization of Cyprus in the 10th millennium BP: initial
+assessments. Antiquity 74, 844e853.
+Poidevin, J.L., 1998. Les gisements d’obsidienne de Turquie et de Transcaucasie. In:
+Cauvin, M.C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L.,
+Chataigner, C. (Eds.), L’obsidienne au Proche et Moyen Orient. Du volcan à l’outil.
+Lyon and Oxford, Maison de l’Orient Méditerranéen and Archaeopress,
+pp. 105e203 (British Archaeological Reports, International series, 738).
+Poupeau, G., Delerue, S., Carter, T., Pereira, C.E. (de) B., Miekeley ., N., BellotGurlet, L., 2005. How homogeneous is the “East göllü dag” (Cappadocia, Turkey)
+obsidian ‘Source’ composition? Int. Assoc. for Obsidian Stud. Bull. 32, 3e7.
+Slimak, L., Kuhn, S.L., Roche, H., Mouralis, D., Buitenhuis, H., Balkan-Atlı, N.,
+Binder, D., Kuzucuoglu, C., Guillou, H., 2008. Kaletepe deresi 3 (Turkey):
+archaeological evidence for early human settlements of Central Anatolia.
+J. Hum. Evol. 54, 99e111.
+William-Thorpe, O., 1995. Obsidian in the Mediterranean and the near East:
+a provenancing success story. Archaeometry 37 (2), 217e248.
+Yellin, J., 1995. Trace element characteristics of Central Anatolian obsidian flows and
+their relevence to pre-history. Isr. J. Chem. 35, 175e190.
+D. Binder et al. / Journal of Archaeological Science 38 (2011) 3174e31843184

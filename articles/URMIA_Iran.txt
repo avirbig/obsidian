@@ -1,0 +1,514 @@
+PROVENANCE STUDIES OF CHALCOLITHIC OBSIDIAN
+ARTEFACTS FROM NEAR LAKE URMIA, NORTHWESTERN
+IRAN USING WDXRF ANALYSIS
+K. A. NIKNAMI
+Department of Archaeology, University of Tehran, Enghlab Street, Tehran, Iran
+A. C. AMIRKHIZ
+Iranian Centre for Archaeological Research (ICAR)
+and M. D. GLASCOCK
+Research Reactor Center, University of Missouri, Columbia, MO, USA
+In 2005–2006 we initiated a major archaeological survey and chemical characterization study
+to investigate the long-term use of obsidian along the eastern shores of Lake Urmia, northwestern Iran. Previous research in the area suggested that almost all archaeological obsidian
+found in this area originated from the Nemrut Dagˆ source located in the Lake Van region of
+Anatolia (Turkey). More recent research on obsidian artefacts from the Lake Urmia region has
+identified a significant number of obsidian artefacts with compositions different from the
+sources near Lake Van. This suggests that the obsidian artefacts are from a yet to be identified
+geological source, but possibly one that was not too distant. In order to advance our knowledge of Iranian obsidians and eventually refine provenance criteria we analysed obsidian
+from 22 Chalcolithic sites and some source areas. The compositions of both obsidian source
+samples and artefacts were determined using wave length dispersive X-ray fluorescence
+spectrometry (WDXRF). This paper presents results from the trace elemental analysis of both
+geological and archaeological obsidians, providing important new data concerning the diachronic relationship between lithic technology and raw material in the north-west of Iran.
+KEYWORDS: LAKE URMIA, OBSIDIAN, PROVENANCE STUDIES, WDXRF
+INTRODUCTION
+The role of obsidian as an important material in the inter-regional economic and social development of ancient societies, has gained special significance in archaeological investigations.
+Although such studies are common in many regions of the world, chemical characterization studies
+are rare in Iran. However, there are a few cases in which Iranian researchers (e.g., Khademi et al.
+2007; Ghorabi et al. 2008), as well as archaeologists from other countries (e.g., Renfrew 1977;
+Blackman 1984), have attempted to analyse obsidian artefacts from prehistoric sites in order to
+explain its distribution as a major commodity in the network of Neolithic settlements. Although
+many of the investigations have focused on the physical characteristics of obsidian artefacts, they
+have also increased our understanding of the obsidian distribution network in Iran.
+The first scholar to render a quantitative analytical approach for obsidian provenance studies
+in Iran was Renfrew, who in 1977 attempted to create a model based on data from western
+Archaeometry 52, 1 (2010) 19–30 doi: 10.1111/j.1475-4754.2009.00474.x
+© University of Oxford, 2009Iran (especially obsidian implements from Ali Kosh) to explain obsidian trade between Mesopotamia and western Iran through the Zagros Mountains between the seventh and sixth millennia
+bc (Renfrew 1977). Renfrew concluded that obsidian in western Iran came from eastern Anatolia
+and that it was widely distributed in areas such as the Deh Luran Plain. It seems that what led
+Renfrew to such a conclusion was the occurrence of sites along the Zagros chain, such as Jarmo,
+in which large quantities of obsidian were found and, consequently, it would have been possible
+for obsidian to have been traded into the interior of Iran.
+A contrasting view exists (Rafi’far 1991), based on tentative studies of obsidian technology in
+eastern Anatolia (e.g., the Çayönü site). This view maintains that although it may be possible to
+assume a common geological origin for Çayönü and Jarmo obsidians, it does not seem likely that
+this obsidian entered the Deh Luran Plain and Ali Kosh site in the same way, given the
+technological similarities between Ali Kosh and that of obsidians from the Banan Mountains of
+the Kerman Province and eastern Afghanistan. It therefore seems possible that alternative trade
+routes for obsidians may have existed.
+A majority of the archaeologists who have investigated obsidian in Iran believe that with the
+beginning of the Chalcolithic and the succeeding Bronze Age the obsidian trade routes changed.
+Specifically, it is believed that consumption of locally available obsidian was preferred. It is
+emphasized that existing trade routes around Lake Urmia would have facilitated the movement of
+locally available obsidian throughout the region. Additionally, it can be argued that the Lake
+Urmia trade routes facilitated the development of obsidian trade, from resources of Armenia, the
+Caucasuses, and Lake Van on the one hand, and the transmission to the interior of Iran on the
+other (Blackman 1984). It seems that, with the shift from the Neolithic to Chalcolithic and then
+the Bronze Age, the quantity of obsidian implements in the majority of archaeological sites
+around Lake Urmia increased considerably.
+The provenance of these artefacts typically has been attributed to sources in the Lake Van
+region of eastern Anatolia by several archaeologists (e.g., Blackman 1984, Badalyan et al. 2004).
+There is evidence, however, that the provenance of the implements might be attributed to the
+volcanic complexes near the flanks of the Sahand and Sabalan mountains (Burney 1964; Chaychi
+2004; Khademi et al. 2007; Lamei et al. 2007).
+Despite the large quantities of obsidian found in the Lake Urmia region, provenance studies of
+these obsidians have been lacking to date. Hence, we attempted to study obsidian implements and
+resources by conducting an archaeological survey along with geochemical studies. Such an
+approach is based on two assumptions: (1) obsidian produced by different volcanic events are
+chemically distinct from one another; (2) the chemical composition of a given obsidian flow is
+homogeneous (Constantinescu et al. 2002). In 2005 and 2006, a field survey was initiated in the
+eastern Lake Urmia area and, as a consequence of this study, 56 prehistoric sites from Chalcolithic to Bronze Age were discovered, from which 60 pieces of obsidian artefacts were
+sampled. Additionally, four obsidian sources were located. We used WDXRF followed by
+statistical analysis of the data to investigate the relationship between the obsidian implements and
+the geological sources. Here, we present the first set of results from trace element analysis of
+obsidian from eastern Lake Urmia.
+CULTURAL BACKGROUND AND GEOLOGICAL SETTING
+As shown in Figure 1, Lake Urmia is a saline lake some 140 km long, 15–50 km wide, and
+located at an elevation of 1280 m a.s.l. in the northern part of the Zagros Mountain chain. The
+lake constitutes an internal drainage basin fed by local rivers, such as Zarrine Roud and Simine
+20 K. A. Niknami, A. C. Amirkhiz and M. D. Glascock
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30Roud. Most of the basin represents areas left by the recession of the lake and is characterized by
+saline alluvial soils. The region in which Lake Urmia is located is a remarkable zone according
+to the complexity of its geological evolution and geomorphological variability.
+Ecosystems and human settlements of the lake’s marginal regions have been affected by the
+patterns caused by water-level fluctuations of the lake. Significant variability in water level
+occurred during the Pleistocene, as reflected in the wider alluvial terraces around the lake (Kelts
+and Shahrabi 1985; Bottema 1986). There are two faults stretching on two laterals of the Urmia
+depression that separate near Maku, one of which joins the Zarrineh Rud River west of Lake
+Urmia and is named the Zarrineh Rud or Urmia fault; the second one, which is named the Tabriz
+fault, passes east of Sahand and extends toward the south-east to join the Sultanieh fault (Alayi
+Taleghani 2003). The Tabriz fault is one of the most active faults in northwestern Iran. Many
+major earthquakes on this fault have been reported during the history of Iran and there is evidence
+of the existence of active tectonic plates in its northern areas (Hessami et al. 2003). Much of
+Figure 1 Map showing the location of Chalcolithic sites and obsidian sources. Site numbers correspond to those listed
+in Table 1.
+Provenance studies of Chalcolithic obsidian artefacts from near Lake Urmia 21
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30northwestern Iran lies within a volcanic zone and the most important volcanoes in this region are
+listed below.
+Sahand is located about 60 km from Lake Urmia and 40 km south–south-east of Tabriz. It is
+one of the highest-altitude peaks in the province of Azarbaijan and is regarded as a stratovolcano
+with calc-alkaline chemical characteristics. A considerable number of volcanic domes occur in
+the vicinity of this volcanic system. Based on a potassium–argon dating, the age of this volcano
+is c. 0.8–1.2 million years (Innocenti et al. 1982), but Karakhanian et al. (2002) suggest that it
+was active until the Holocene.
+Sabalan is located in 90 km west of Caspian Sea, and the city of Ardabil is located along its
+eastern foothills. It is mainly of an andesite structure with an elevation of 4811 m, making it the
+highest peak in northwestern Iran and the second highest volcanic crest in Iran. Potassium–argon
+dating suggests an age of 1.4 to 5.6 million years (Innocenti et al. 1982), but according to
+Karakhanian et al. (2002) it appears that this volcano was active during the Holocene.
+The Maku volcanic system is located about 40 km east of Maku, near the border between Iran
+and Turkey. An L-shaped region (30 km width on the vertical side and 25 km width on the
+horizontal side) is located between the Maku and Nakjavan faults. Karakhanian et al. (2002)
+recognized that outcrops of lava flowed here from the eastern Anatolian volcanoes.
+Ararat is a twin volcano. The Minor Ararat has an extension of 1000 km2 along the eastern side
+of Nemrut Dag. There is evidence from the third millennium bc implying Ararat eruptions.
+Additionally, historical documents report that a major earthquake and volcanic eruption occurred
+in ad 1840 (Karakhanian et al. 2002). Its lava may have diffused into some parts of the Maku
+region.
+Long-term archaeological investigations in northwestern Iran started with excavations at the
+prehistoric site of Yanik Tepe in eastern Lake Urmia by Charles Burney (Burney 1961, 1962,
+1964) and were continued at other sites, such as Hasanlu in the western Lake Urmia area, by
+Robert Henry Dyson (Dyson 1968), Haji Firuz (Voight 1983), Dalma (Hamlin 1975) and Pisdeli
+(Dyson and Young 1960). Subsequent chronological and cultural recognitions and comparisons
+were based on the archaeological data from these first excavations in the region, which led to
+identification of the Neolithic period in Haji Firuz, previously regarded as being in cultural
+horizon of Hasuna in Mesopotamia (Voight 1983). Chalcolithic cultural material excavated at
+Dalma was also compared culturally with that of the Ubaid at Jebel Hamrin in Iraq (Oates 1983).
+The material culture of Yanik, which takes its name from a site of the Late Bronze Age, had a
+widespread expansion from Luristan in the south (Talai et al. 2004) toward the north into
+Armenia (Chataigner et al. 2003), and is called the Trans-Caucasian or Kura Arax culture.
+The process of cultural development in eastern Lake Urmia is not well known, but it appears
+that a local culture may have developed during the early Chalcolithic (c. 5500 bc). Evidence
+supporting the region’s environmental suitability for human adaptation at this time period comes
+from sedimentological and palynological information gathered from Lake Urmia (Bottema 1986;
+Djamali et al. 2008).
+OBSIDIAN ARTEFACTS
+During the archaeological surveys conducted in the region in 2005 and 2006, 60 obsidian samples
+were collected from 22 prehistoric sites. Obsidian use in the majority of the archaeological sites
+east or west of Lake Urmia dates from 5500 to 3500 bc (Chalcolithic) and are attributable to
+type 3C obsidians (Voight 1983), although there are a few obsidian types that seem to have been
+used much later by Bronze and Iron Age peoples (Mahdavi and Bovington 1972; Ghandgar
+22 K. A. Niknami, A. C. Amirkhiz and M. D. Glascock
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–302003), and by historic groups of people. Some sites represent a single occupation period, but
+multi-component sites containing successive layers of different cultures from the Chalcolithic
+until the most recent times of the Islamic era exist throughout the region.
+It is important to emphasize that the Palaeolithic period in this region is ambiguous from an
+archaeological point of view. We lack a clear picture of the Palaeolithic itself, and the subsequent
+cultural transition from Palaeolithic to Neolithic in this part of Iran. It is likely that water-level
+fluctuations of Lake Urmia during the late Pleistocene caused a number of Palaeolithic sites to be
+submerged. It is also difficult to discuss the climate during this period and whether or not the small
+number of Neolithic sites is the result of restricting environmental factors or post-depositional
+processes, which both may have led to the disappearance of such sites. The only distinct finding is
+a sudden increase in the number of Chalcolithic sites, which account for 90% (20 sites out of 22)
+of the sampled sites, a few of which are from a single period, but occasionally with different cultural
+layers. A Bronze Age occupation was evident in 68% of the sites and, for unknown reasons, Iron
+Age sites represent only 23% of the total sites. In reality, a limiting factor of this research is the
+inability to assign artefacts to precise chronological periods, because the samples analysed do not
+originate from secure stratigraphic contexts. With the exception of a few samples, most artefacts
+were surface collected. We attempted to specify sample dates by comparing them to the similar
+diagnostic artefacts found within the chronological layers of controlled excavations.
+OBSIDIAN SOURCES
+Obsidian is a vitreous rhyolite formed by the rapid cooling of highly viscous lavas (Yacobaccio
+et al. 2004). In order to facilitate the identification of geological sources of obsidian, we focused
+on the geophysical and the geochemical features of the zone where it was possible to have
+obsidian veins or nodules, according to local volcanoes. Although we did not locate any sources
+in the most probable areas, the survey did yield positive results. A total of four sources were
+identified and sampled for analysis. All were located about the same distance from the archaeological sites (c. 100–150 km, except for Leylan which was at a distance of 50 km). Figure 1
+shows the locations of archaeological sites and obsidian sources. The geographical distribution of
+obsidian sources in the eastern Urmia region is characterized below.
+The first obsidian source is Gonag Giran, located along the southern face of the northern
+Bozgoush Mountain and some 17 km south-east of the city of Nir. The obsidian source is linked
+to a major volcanic structure mapped by Darvishzadeh (2004). The Bozgoush complex is related
+to Pliocene activity, and its main lithological structure contains trachytic lava with intercalated
+rhyolite and obsidian layers. In lava flows, obsidian is present in very thin bands and sometimes
+inside a micro-crystalline rhyolitic matrix. Although an intact obsidian flow layer is not well
+exposed, isolated obsidian nodules and cobbles are sometimes found on the surface. The samples
+are often a dark smoky colour and have a fine-grained texture.
+The second obsidian source (Shirin Boulag) is located on the same structure of the Bozgoush
+complex as Gonag Giran but along the southeastern part of that mountain. Obsidians here are
+related to a large structure of andesite dacitic lavas that may have flowed downwards from the
+northern Bozgoush volcanoes at different times. The geochemical characteristics of this source
+exhibit a completely different bulk composition from Gonag Giran, and it may be that eruption
+mechanisms and the degree of devitrification were repeated at different times. Obsidians from
+Shirin Boulag show a higher degree of perlitization and are mainly of poor quality. They occur
+as small nodules, some exceeding 5 cm on a side and light-green in colour. None of our obsidian
+artefact samples matched this source.
+Provenance studies of Chalcolithic obsidian artefacts from near Lake Urmia 23
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30Leylan is the third obsidian source group that we sampled. It is a secondary source and is
+located on the southeastern coast of Lake Urmia, adjacent to the city of Malekan. Several
+obsidian cores have been found 600 m south of the city of Leylan and in the east at the ancient
+castle of Bakhtak, one of which is now held in Tabriz Museum and has a weight of more than
+10 kg. There is no evidence of rhyolitic units reported for the southern Sahand and Leylan
+localities, but the nearest rhyolitic context assumed to be associated with obsidian is reported in
+the Bukan highlands, extending to Takht-e-Soleiman (Tekab region) which is located a distance
+of 40 to 80 km from Leylan (Vosoghi Abedini and Ghorbani 2001). Leylan obsidian is dark,
+smoky, and has a relatively fine-grained texture. The majority of our artefacts can be attributed
+geochemically to this source.
+In early stage of our research, we were concerned with the lithic fractions collected from the
+banks of Garesu River, on the northwestern flank of Sabalan Mountain close to Meshkin Shahr
+city. They are physically very similar to those obsidians that we collected from Bozgoush
+complex, but our further analysis showed that these materials are not obsidians but instead they
+are black cherts that have weathered and flaked away from their original rhyolitic contexts. Our
+survey in other parts of this region failed to locate additional obsidian source materials.
+A total of four source samples were collected for analysis, one sample from each of the sources
+at Gonag Giran, Shirin Boulag, Leylan and Meshkin.
+EXPERIMENTAL
+Geochemical characterization of the artefacts and volcanic source glasses was performed using
+the instrumental WDXRF analysis facilities at the Faculty of Science, University of Tarbiat
+Modarres located in Tehran. Because of the destructive nature of WDXRF analysis and the
+necessity to limit damage to archaeological materials, we used discarded flakes and broken pieces
+of artefacts. A total of 16 elements were measured by WDXRF in each artefact and source
+sample, using analytical procedures described previously (Khademi et al. 2007). In brief, the
+obsidian samples were analysed on a PANalytical (Philips) PW 2404 (WDX) sequential machine
+equipped with a rhodium X-ray tube. The tube was operated at 25 mA and 66 kV to generate
+X-ray intensity data. Geochemical groupings are based on a series of bivariate plots used to
+compare groups of artefacts with sources of archaeological obsidian as described by Cobean
+et al. (1991) and Glascock et al. (1998). The WDXRF results are shown in Table 1.
+RESULTS AND DISCUSSION
+Bivariate plots of the major, minor and trace element data for the obsidian artefacts and source
+specimens from the Lake Urmia region were studied to find possible compositional groups. As
+shown in Figures 2 and 3, the artefact data suggest that at least three compositional groups are
+present. The group containing the largest number of artefacts is Group A, with 47 (84% of the
+total). Groups B and C were related to four artefacts (7%) and five artefacts (9%), respectively.
+The four remaining artefacts (7%) were not included in any groupings because they were
+noticeably different from the three main groups and from each other. Means and standard
+deviations for the three obsidian compositional groups are listed in Table 2.
+The differences between these three geochemical types are revealed through a direct comparison of their average compositions. Group A has the lowest concentrations for Fe, Ce, Hf, Rb, Y,
+Zn, and Zr. Group B has the highest concentrations of TiO2 , Ce, and Zn. Group C has the highest
+concentrations of Fe, Na2 O, Ba, and Zr.
+24 K. A. Niknami, A. C. Amirkhiz and M. D. Glascock
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30Table 1 Trace element composition of Chalcolithic obsidian artefacts and obsidian sources, analysed by WDXRF
+Sample
+ID
+Site
+code
+Artefact/
+Source
+SiO2
+(%)
+Fe2O 3
+(%)
+MnO
+(%)
+CaO
+(%)
+Na2O
+(%)
+TiO 2
+(%)
+P 2O 5
+(%)
+Ba
+(ppm)
+Ce
+(ppm)
+Ga
+(ppm)
+Hf
+(ppm)
+Rb
+(ppm)
+Sr
+(ppm)
+Y
+(ppm)
+Zn
+(ppm)
+Zr
+(ppm)
+667-1 AZA 1 Artefact 78.62 0.95 0.06 0.52 3.80 0.10 0.04 29.00 65.00 27.00 5.00 147.00 58.00 20.00 91.00 77.00
+667-2 AZA 2 Artefact 78.05 1.39 0.10 0.60 3.89 0.16 0.04 38.00 99.00 43.00 7.00 168.00 55.00 45.00 84.00 176.00
+667-3 AZA 3 Artefact 79.04 1.21 0.06 0.48 4.01 0.10 0.04 43.00 55.00 33.00 4.00 143.00 58.00 23.00 438.00 96.00
+667-4 MAD 1 Artefact 78.06 1.34 0.06 0.48 3.73 0.10 0.04 43.00 62.00 39.00 5.00 134.00 60.00 22.00 208.00 112.00
+667-5 MAD 2 Artefact 75.82 1.21 0.06 0.99 4.08 0.12 0.05 531.00 58.00 38.00 4.00 99.00 84.00 21.00 68.00 98.00
+667-6 MAD 3 Artefact 76.55 1.90 0.07 0.43 4.93 0.09 0.03 52.00 73.00 35.00 11.00 164.00 57.00 59.00 89.00 175.00
+667-7 MAD 4 Artefact 79.75 0.85 0.06 0.48 3.74 0.10 0.04 38.00 63.00 23.00 5.00 149.00 58.00 19.00 41.00 73.00
+667-8 MAD 5 Artefact 77.60 1.02 0.07 0.45 4.24 0.09 0.04 15.00 57.00 23.00 5.00 167.00 57.00 19.00 49.00 72.00
+667-9 MAD 6 Artefact 77.05 1.07 0.06 0.48 4.14 0.11 0.34 41.00 67.00 21.00 5.00 148.00 59.00 20.00 43.00 69.00
+667-10 MIB 1 Artefact 77.91 1.16 0.06 0.48 3.94 0.11 0.04 48.00 65.00 31.00 4.00 140.00 60.00 20.00 46.00 87.00
+667-11 MIB 2 Artefact 78.52 0.99 0.09 0.56 4.07 0.07 0.03 12.00 43.00 31.00 4.00 173.00 55.00 36.00 55.00 108.00
+667-12 MIB 3 Artefact 80.14 0.85 0.06 0.46 3.65 0.10 0.04 36.00 73.00 43.00 5.00 141.00 56.00 21.00 56.00 114.00
+667-13 OSK 1 Artefact 80.87 0.72 0.06 0.52 3.40 0.10 0.04 39.00 68.00 53.00 6.00 125.00 56.00 21.00 51.00 137.00
+667-14 OSK 2 Artefact 80.88 0.72 0.08 0.54 3.43 0.07 0.04 7.00 60.00 61.00 6.00 129.00 53.00 21.00 57.00 173.00
+667-15 OSK 3 Artefact 78.61 0.96 0.06 0.48 3.62 0.10 0.04 44.00 64.00 38.00 6.00 134.00 59.00 20.00 52.00 102.00
+667-16 SHA 1 Artefact 79.41 0.98 0.06 0.47 3.97 0.10 0.04 41.00 63.00 23.00 6.00 151.00 59.00 19.00 41.00 76.00
+667-17 SHA 2 Artefact 78.21 1.17 0.06 0.47 4.11 0.10 0.04 35.00 64.00 34.00 5.00 142.00 58.00 19.00 48.00 93.00
+667-18 SHA 3 Artefact 78.04 0.83 0.09 0.55 4.21 0.07 0.03 5.00 46.00 23.00 4.00 180.00 56.00 33.00 61.00 85.00
+667-19 SHA 4 Artefact 77.22 1.24 0.10 0.45 4.46 0.16 0.03 25.00 95.00 22.00 8.00 160.00 55.00 61.00 61.00 141.00
+667-20 SHA 5 Artefact 76.66 1.73 0.07 0.42 4.60 0.09 0.03 58.00 77.00 44.00 9.00 150.00 58.00 51.00 81.00 174.00
+667-21 SHA 6 Artefact 78.02 1.02 0.06 0.46 4.11 0.10 0.04 31.00 64.00 26.00 5.00 149.00 60.00 19.00 42.00 78.00
+667-22 AJA 1 Artefact 78.47 1.01 0.06 0.48 3.92 0.10 0.04 41.00 70.00 38.00 4.00 139.00 59.00 20.00 42.00 102.00
+667-23 AJA 2 Artefact 78.01 0.82 0.07 0.50 3.97 0.09 0.04 235.00 55.00 38.00 5.00 109.00 62.00 28.00 56.00 104.00
+667-24 AJA 3 Artefact 75.95 1.22 0.10 0.45 4.44 0.16 0.03 31.00 100.00 27.00 8.00 159.00 54.00 53.00 83.00 145.00
+667-25 AZA 4 Artefact 77.61 1.10 0.06 0.47 4.24 0.10 0.04 59.00 60.00 30.00 5.00 148.00 59.00 20.00 247.00 86.00
+667-26 AZA 5 Artefact 80.56 0.83 0.06 0.48 3.38 0.10 0.04 49.00 58.00 63.00 8.00 103.00 53.00 11.00 58.00 180.00
+667-27 AZA 6 Artefact 77.73 1.21 0.06 0.47 4.14 0.10 0.04 35.00 63.00 29.00 5.00 148.00 58.00 21.00 51.00 82.00
+667-28 MAD 7 Artefact 79.51 0.82 0.06 0.48 3.92 0.11 0.03 49.00 72.00 33.00 5.00 135.00 59.00 23.00 44.00 93.00
+667-29 MAD 8 Artefact 78.63 0.80 0.08 0.56 3.95 0.08 0.03 13.00 54.00 42.00 4.00 147.00 57.00 28.00 46.00 124.00
+667-30 MAD 9 Artefact 79.26 0.80 0.08 0.55 3.85 0.07 0.04 7.00 54.00 49.00 5.00 139.00 53.00 29.00 39.00 137.00
+667-31 MAD 10 Artefact 77.03 1.82 0.07 0.43 4.84 0.09 0.03 85.00 73.00 36.00 10.00 160.00 58.00 54.00 153.00 174.00
+667-32 MAD 11 Artefact 73.42 2.28 0.04 0.70 4.59 0.20 0.05 360.00 73.00 38.00 8.00 177.00 62.00 33.00 58.00 161.00
+667-33 MAD 12 Artefact 76.04 2.07 0.07 0.45 4.72 0.10 0.04 69.00 72.00 53.00 9.00 125.00 62.00 42.00 104.00 182.00
+667-34 MAL 1 Artefact 79.15 1.01 0.06 0.46 4.07 0.10 0.03 42.00 73.00 41.00 5.00 132.00 58.00 23.00 81.00 115.00
+Provenance studies of Chalcolithic obsidian artefacts from near Lake Urmia 25
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30Table 1 (Continued)
+Sample
+ID
+Site
+code
+Artefact/
+Source
+SiO2
+(%)
+Fe2O 3
+(%)
+MnO
+(%)
+CaO
+(%)
+Na2O
+(%)
+TiO 2
+(%)
+P 2O 5
+(%)
+Ba
+(ppm)
+Ce
+(ppm)
+Ga
+(ppm)
+Hf
+(ppm)
+Rb
+(ppm)
+Sr
+(ppm)
+Y
+(ppm)
+Zn
+(ppm)
+Zr
+(ppm)
+667-35 MAL 2 Artefact 80.15 1.11 0.06 0.47 3.61 0.09 0.04 21.00 61.00 59.00 5.00 119.00 53.00 14.00 67.00 159.00
+667-36 Mar-01 Artefact 77.40 1.14 0.06 0.47 4.15 0.11 0.04 41.00 64.00 24.00 5.00 148.00 59.00 24.00 44.00 77.00
+667-37 Mar-02 Artefact 79.48 0.95 0.06 0.47 4.06 0.10 0.03 36.00 67.00 43.00 5.00 128.00 59.00 19.00 47.00 101.00
+667-38 Mar-03 Artefact 77.57 0.73 0.06 0.47 4.16 0.10 0.04 34.00 67.00 32.00 6.00 142.00 59.00 20.00 48.00 83.00
+667-39 Mar-04 Artefact 78.99 0.96 0.07 0.44 4.30 0.09 0.03 17.00 48.00 28.00 6.00 177.00 56.00 19.00 50.00 87.00
+667-40 MIB 4 Artefact 77.11 1.43 0.10 0.45 4.37 0.16 0.03 34.00 98.00 36.00 8.00 195.00 53.00 44.00 66.00 155.00
+667-41 SHA 7 Artefact 77.31 1.03 0.09 0.55 4.28 0.08 0.03 20.00 43.00 43.00 4.00 151.00 58.00 29.00 55.00 122.00
+667-42 SHA 8 Artefact 77.64 1.60 0.07 0.41 4.81 0.09 0.03 59.00 78.00 31.00 10.00 172.00 57.00 58.00 70.00 165.00
+667-43 SHA 9 Artefact 77.30 1.22 0.06 0.90 4.25 0.11 0.05 511.00 54.00 35.00 4.00 104.00 80.00 22.00 42.00 96.00
+667-44 SHA 10 Artefact 77.92 1.11 0.06 0.47 4.10 0.11 0.04 54.00 63.00 33.00 4.00 140.00 59.00 21.00 47.00 91.00
+667-45 SHA 11 Artefact 78.03 0.94 0.09 0.54 4.28 0.07 0.03 11.00 48.00 34.00 5.00 168.00 56.00 32.00 44.00 105.00
+667-46 SHA 12 Artefact 77.77 0.95 0.06 0.47 4.23 0.10 0.04 32.00 60.00 24.00 6.00 152.00 59.00 20.00 46.00 74.00
+667-47 SHA 13 Artefact 79.21 1.15 0.06 0.47 3.96 0.10 0.04 47.00 59.00 37.00 5.00 137.00 59.00 20.00 62.00 102.00
+667-48 SHA 14 Artefact 77.77 0.97 0.06 0.47 4.04 0.10 0.04 39.00 59.00 41.00 5.00 133.00 58.00 20.00 53.00 105.00
+667-49 SHA 15 Artefact 77.97 1.02 0.06 0.47 4.08 0.10 0.04 35.00 63.00 39.00 5.00 136.00 58.00 20.00 54.00 104.00
+667-50 SHA 16 Artefact 77.65 0.89 0.06 0.47 4.04 0.11 0.04 49.00 66.00 28.00 4.00 140.00 59.00 20.00 46.00 74.00
+667-51 SHA 17 Artefact 77.64 0.83 0.06 0.47 4.06 0.10 0.03 40.00 63.00 23.00 5.00 145.00 59.00 21.00 41.00 67.00
+667-52 SHA 18 Artefact 77.67 0.94 0.06 0.48 4.10 0.10 0.03 39.00 63.00 24.00 5.00 147.00 60.00 23.00 42.00 80.00
+667-53 SHA 19 Artefact 77.74 0.97 0.06 0.47 4.16 0.10 0.04 35.00 58.00 21.00 4.00 152.00 58.00 23.00 49.00 72.00
+667-54 SHA 20 Artefact 77.32 1.07 0.07 0.45 4.26 0.09 0.03 15.00 55.00 35.00 6.00 154.00 57.00 20.00 54.00 96.00
+667-55 SHA 21 Artefact 77.20 1.31 0.10 0.46 3.98 0.09 0.04 27.00 101.00 55.00 6.00 132.00 59.00 32.00 97.00 180.00
+667-56 SHA 22 Artefact 78.44 0.80 0.08 0.55 3.77 0.07 0.04 8.00 45.00 57.00 6.00 133.00 53.00 24.00 61.00 151.00
+667-57 SHA 23 Artefact 78.78 0.99 0.06 0.47 3.73 0.10 0.04 50.00 66.00 37.00 5.00 131.00 60.00 23.00 53.00 96.00
+667-58 SHA 24 Artefact 78.28 0.83 0.09 0.55 4.03 0.07 0.03 8.00 55.00 36.00 4.00 160.00 56.00 31.00 41.00 108.00
+667-59 SHA 25 Artefact 78.72 0.95 0.06 0.47 3.86 0.10 0.04 36.00 62.00 40.00 5.00 132.00 58.00 22.00 53.00 117.00
+667-60 SHA 26 Artefact 77.62 1.06 0.06 0.50 4.12 0.10 0.04 31.00 61.00 32.00 4.00 146.00 58.00 25.00 47.00 92.00
+722-1 GONAG Source 74.92 1.27 0.09 0.31 3.54 0.16 0.03 36.00 70.00 22.00 13.00 173.00 59.00 50.00 136.00 131.00
+722-2 MESHKIN Source 99.33 0.37 0.01 0.24 0.03 0.02 0.04 110.00 18.00 20.00 3.00 45.00 69.00 7.00 23.00 19.00
+722-3 SHIRIN B Source 79.42 0.44 0.01 3.62 14.91 0.08 0.05 80.00 26.00 19.00 6.00 45.00 89.00 8.00 27.00 19.00
+722-4 LEYLAN Source 78.97 0.87 0.09 0.56 3.89 0.08 0.04 6.00 50.00 35.00 6.00 172.00 56.00 30.00 48.00 105.00
+26 K. A. Niknami, A. C. Amirkhiz and M. D. Glascock
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30Figure 2 Bivariate plot of Rb versus Fe2 O3 showing compositions of artefacts and geological sources near Urmia Lake
+in Iran. Ellipses are shown at the 90% confidence level.
+Figure 3 Bivariate plot of Sr versus Fe2 O3 showing compositions of artefacts and geological sources near Urmia Lake
+in Iran. Ellipses are shown at the 90% confidence level.
+Provenance studies of Chalcolithic obsidian artefacts from near Lake Urmia 27
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30When the source specimens are included on the plots, we find evidence for possible relationships between the Leylan source sample and Group A and between the Gonag Giran source
+sample and Group B. On the other hand, the source samples from Meshkin and Shirin Boulag are
+clearly different from the artefacts. Although the geochemical similarities between the the Leylan
+and Gonag Giran source samples and Groups A and B are satisfactory, because of the small
+number of source samples (i.e., one from each source) we are hesitant to argue strongly that the
+exact locations of the primary sources have been found. Systematic geological surveys are needed
+to locate primary and secondary deposits of obsidian and to collect an adequate number of source
+samples for a more comprehensive analysis by WDXRF and other chemical analytical methods
+(Glascock et al. 1998). The information obtained will facilitate a greater understanding of the
+internal geochemical variation within each source, the geochemical differences between sources,
+and it will help to establish with greater certainty the locations of the obsidian quarries and
+outcrops that were exploited during prehistory.
+CONCLUSIONS
+Our investigation in the eastern region of Lake Urmia indicates that at least three obsidian sources
+are located within the zone surrounding the lake. The three obsidian types identified in this study
+are from different magma chambers with different elemental compositions, each indicating a
+complex evolutionary history. Two of the sources located at Leylan and Gonag Giran were
+exploited to produce obsidian implements. These findings indicate that the local population had
+a strong reliance on local sources of obsidian, primarily the Leylan source. This discovery also
+demonstrates that a short-distance trade network existed among local Chalcolithic peoples from
+the sixth through the mid-fourth millennium bc. All of the Chalcolithic sites exploiting obsidian
+Table 2 Means and standard deviations for the obsidian artefact groups found
+Element Group A Group B Group C
+(n = 47) (n = 4) (n = 5)
+Mean SD Mean SD Mean SD
+SiO2 (%) 78.43 1 1.05 77.6 1 0.52 76.78 1 0.6
+Fe2 O3 (%) 0.98 1 0.14 1.37 1 0.05 1.82 1 0.18
+MnO (%) 0.067 1 0.012 0.088 1 0.018 0.071 1 0.001
+CaO (%) 0.49 1 0.03 0.5 1 0.07 0.43 1 0.01
+Na2 O (%) 4 1 0.25 3.99 1 0.27 4.78 1 0.13
+TiO2 (%) 0.099 1 0.018 0.126 1 0.036 0.092 1 0.003
+P2 O5 (%) 0.041 1 0.045 0.035 1 0.002 0.032 1 0.003
+Ba (ppm) 32.2 1 14.3 35.6 1 6.8 64.6 1 12.9
+Ce (ppm) 62 1 10.6 90 1 18.7 74.6 1 2.7
+Ga (ppm) 34.8 1 10.9 43.2 1 8.3 39.8 1 8.8
+Hf (ppm) 5.1 1 1 6.5 1 1.3 9.8 1 0.8
+Rb (ppm) 144.7 1 14.6 157.2 1 30.1 154.2 1 18.1
+Sr (ppm) 57.4 1 2.1 56.8 1 3.3 58.4 1 2.1
+Y (ppm) 23.6 1 8.5 35.8 1 10.9 52.8 1 6.8
+Zn (ppm) 64.4 1 63.5 113.8 1 64.1 99.4 1 32.4
+Zr (ppm) 102.3 1 27.9 155.8 1 31.2 174 1 6
+28 K. A. Niknami, A. C. Amirkhiz and M. D. Glascock
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30were located an average distance of about 70 to 75 km from the sources. This investigation has
+also shown that some of the obsidian artefacts were produced from as yet unknown sources.
+Our results confirm the earlier assertions of Burney (1962, see also Burney and Long 1972),
+who claimed that the eastern region of Lake Urmia must have utilized locally available obsidian
+sources. These conclusions are also supported by previous studies of Lamei et al. (2006) of
+obsidian elemental analysis of Aslanduz Tepe in Moghan (dating to the Early Bronze Age),
+claiming a local obsidian source for their artefact samples. They made an exploratory comparison
+between obsidians of Nader Tepe of Aslanduz with sources from the Caucasus, Armenia and
+Turkey. Their source samples were completely different in composition when compared with
+specimens from those areas, thus they came to the conclusion that the obsidian artefacts at
+Aslanduz might have been derived from a local source, the location of which was unknown.
+In the present study, four artefacts have elemental compositions which do not correlate with the
+known sources (Bellot-Gurlet et al. 2008). This demonstrates the need for additional obsidian
+source studies in the region. In particular, more work is needed to determine the, as yet unknown,
+sources of the artefacts, and to investigate why the source of Shirin Boulag was not used. Finally,
+it should be noted that studies of obsidian from Iran are still in an early stage. We need to collect
+more source samples and conduct more analyses, such as XRF, PIXE and neutron activation
+analysis (NAA), which provide accuracy and precision and will help us to explain the complexity
+of the obsidian sources in the region in greater detail.
+ACKNOWLEDGEMENTS
+This research was supported by a grant from the Cultural Heritage and Tourism Organization. We
+are grateful to Dr H. Fazeli Nashli, Director for Iranian Centre for Archaeological Research for
+his support. We especially wish to thank Dr M. Saffari from the Laboratory of Earth Science,
+University of Tarbiat Modarres, Tehran, who generously provided several geochemical analyses
+for this study. We also acknowledge Dr B. Omrani from Tabriz ICAR and his colleagues for their
+collaboration with sample collections.
+REFERENCES
+Alayi Taleghani, M., 2003, Geomorphology of Iran, 3rd edn, Ghumes, Tehran (in Persian).
+Badalyan, R. C., Chataigner, C., and Kohl, P. L., 2004, Trans-Caucasian obsidian: the exploitation of the sources and their
+distribution, in A view from the highlands: Archaeological studies in Honour of Charles Burney (ed. A. Sagona),
+437–65, Peeters, Leuven.
+Bellot Gurlet, L., Dorighel, O., and Poupeau, G., 2008, Obsidian provenance studies in Colombia and Ecuador: obsidian
+source revisited, Journal of Archaeological Science, 35, 272–89.
+Blackman, M. J., 1984, Provenance studies of Middle Eastern obsidian from Sites in Highland Iran, in Archaeological
+chemistry – III (ed. J. B. Lambert), 19–50, Advances in Chemistry Series 205, American Chemical Society,
+Washington.
+Bottema, S., 1986, A late quaternary pollen diagram from Lake Urmia (Northwestern Iran), Review of Palaeobotany and
+Palynology, 47, 241–61.
+Burney, C. A., 1961, Excavations at Yanik Tepe, North-West Iran, Iraq, 23(2), 138–53.
+Burney, C. A., 1962, The excavation at Yanik Tepe, Azarbaijan, 1961: second preliminary report, Iraq, 24(2), 134–52.
+Burney, C. A., 1964, The excavation at Yanik Tepe, Azarbaijan, 1962: third preliminary report, Iraq, 26(1), 54–61.
+Burney, C., and Marshall, D. L., 1972, The peoples of the hills: Ancient Ararat and the Caucasus, Praeger, New York.
+Chataigner, C., Badalian, R., Bigazzi, G., Cauvin, M. C., Jrbashyan, R., Karapetyan, S. G., Norelli, P., Oddone, M., and
+Poidevin, J. L., 2003, Provenance studies of obsidian artifacts from Armenian archaeological sites using the Fission
+Track dating method, Journal of Non-Crystalline Solids, 323, 167–71.
+Provenance studies of Chalcolithic obsidian artefacts from near Lake Urmia 29
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30Chaychi Amirkhiz, A., 2004, Shiramin, in Persien Antike Pracht, volume 2, 567–9, Bochum.
+Cobean, R. H., Vogt, J. R., Glascock, M. D., and Stocker, T. R., 1991, High precision trace element characterization for
+major Mesoamerican obsidian source and further analyses of artifacts from San Lorenzo Tenochititlan, Mexico, Latin
+American Antiquity, 2, 69–91.
+Constantinescu, B., Bugoi, R., and Sziki, G., 2002, Obsidian provenance studies of Transylvania’s Neolithic tools using
+PIXI, micro-PIXI and XRF, Nuclear Instruments and Methods in Physics Research B, 189, 373–7.
+Darvish Zadeh, A., 2004, Volcanoes and volcanic outcrops, University of Tehran Press, Tehran (in Persian).
+Djamali, M., de Beaulieu, J. L., Shah-Hosseini, M., Andrieu Ponel, V., Ponel, F., Amini, A., Akhani, H., Leroy, S.,
+Stevens, L., Lahijani, H., and Brewer, S., 2008, A late Pleistocene long pollen record from Lake Urmia, NW Iran,
+Quaternary Research, 69, 413–20.
+Dyson, R. H., 1968, The archaeological evidence of the second millennium B.C. on the Persian Plateau, Cambridge
+University Press, Cambridge.
+Dyson, R. H., and Cuyler Young, T., 1960, The Solduz Valley, Iran: Pisdeli Teppe, Antiquity, 34, 19–27.
+Ghandgar, J., 2003, The preliminary report of trenching in Tupraghli Tepe, Salvation Project of Aydoghmush Dam in
+Miyaneh, unpublished manuscript of Eastern Azarbaijan CHO Archives, (in Persian).
+Ghorabi, S., Glascock, M. D., Khademi, F., Rezaie, A., and Feizkhah, M., 2008, A geochemical investigation of obsidian
+artifacts from sites in Northwestern Iran, IAOS Bulletin, 39, 7–10.
+Glascock, M. D., Braswell, G. E., and Cobean, R. H., 1998, A systematic approach to obsidian source characterization,
+in Archaeological obsidian studies: Methods and theory (ed. M. S. Shakely), 15–65, Plenum Press, New York.
+Hamlin, C., 1975, Dalma Tepe, Iran, 13, 111–27.
+Hessami, K., Pantosti, D., Tabassi, H., Shabanian, E., Abbassi, M. R., Feghhi, K., and Soleymani, S., 2003, Paleoearthquakes and slip rates of the north Tabriz fault, NW Iran: preliminary results, Annals of Geophysics, 46(5),
+903–15.
+Innocenti, F. P., Manetti, R. M., Pasquare, G., and Villari, L., 1982, Anatolia and north-western Iran, in Andesites (ed.
+R. S. Thorpe), 327–49, John Wiley, New York.
+Karakhanian, A. R., Djrbashian, R., Trifonov, V., Philip, H., Arakelian, S., and Avagian, A., 2002, Holocene-historical
+volcanism and active faults as natural risk factors for Armenia and adjacent countries, Journal of Volcanology and
+Geothermal Research, 113(1–2), 31–62.
+Kelts, K., and Shahrabi, M., 1985, Holocene sedimentology of hyper saline Lake Urmia, Northwestern Iran, Paleogeography, Paleoclimatology and Paleoecology, 54, 105–30.
+Khademi Nadooshan, F., Colby Philips, S., and Safari, M., 2007, WDXRF spectroscopy of obsidian tools in the northwest
+of Iran, IAOS Bulletin, 37, 3–6.
+Lamei Rashti, M., Farshi Jalali, F., Agaali Gol, D., Olyaii, P., Bahrololomi, F., and Shokohi, F., 2007, A PIXE analysis
+for the provenance study of Nader Tepe Aslandouz obsidians, Archaeology and Interdisciplinary Studies, 3, 25–32
+(in Persian).
+Mahdavi, A., and Bovington, C., 1972, Neutron Activation Analysis of some obsidian samples from geological and
+archaeological sites, Iran, 10, 148–51.
+Oates, J., 1983, Ubaid Mesopotamia reconsidered, in The hilly flanks and beyond (ed. R.H. Braidwood), 251–82, Oriental
+Institute Publication 105, Chicago.
+Rafi’far, J., 1991, Obsidian distributions in Iran and its role in the oldest cultural and technological exchanges, Journal
+of Archaeology and History, 5, 14–25 (in Persian).
+Renfrew, C., 1977, The later obsidian of Choga Sefid, in Studies of the archaeological history of Dehluran Plain (ed. F.
+Hole), 289–310, Memoir no. 9, University of Michigan Press, Ann Arbor.
+Talai, H., Chaichi Amirkhiz, A., and Saidi Harsini, M. R., 2004, Preliminary report on the settlement patterns of Bronze
+Age sites in Nahavand Plain, Journal of the Letters and Humanities University of Tehran, 180(2), 47–67 (in Persian).
+Voight, M. M., 1983, Haji Firouz Tepe the Neolithic Settlement, The University Museum, University of Pennsylvania.
+Vosoghi Abedini, M., and Ghorbani, M., 2001, Kinds of magma in the Tekab region. Earth Science, 4 and 5, 6–13 (in
+Persian).
+Yacobaccio, H. D., Escola, P. S., Pereyra, F. X., Lazzari, M., and Glascock, M. D., 2004, Quest for ancient routes: obsidian
+sourcing research in northwestern Argentina, Journal of Archaeological Science, 31, 193–204.
+30 K. A. Niknami, A. C. Amirkhiz and M. D. Glascock
+© University of Oxford, 2009, Archaeometry 52, 1 (2010) 19–30

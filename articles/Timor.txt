@@ -1,0 +1,963 @@
+Possible obsidian sources for artifacts from Timor: narrowing the options
+using chemical data
+Wal Ambrose a, *, Charlotte Allen b
+, Sue O’Connor a , Matthew Spriggs c , Nuno Vasco Oliveira a
+,
+Christian Reepmeyer c
+a Department Archaeology and Natural History, RSPAS, ANU, Canberra, ACT 0200, Australia
+b Research School of Earth Sciences ANU, Canberra, ACT 0200, Australia
+c School of Archaeology and Anthropology, College of Arts and Social Sciences, ANU, Canberra, ACT 0200, Australia
+a r t i c l e i n f o
+Article history:
+Received 17 July 2007
+Received in revised form 7 September 2008
+Accepted 14 September 2008
+Keywords:
+Timor natural glasses
+Obsidian artifacts
+Chemical analysis
+a b s t r a c t
+Measurements made at the Australian National University using laser ablation ICPMS show that none of
+the 88 analyzed obsidian artifacts from East Timor match either the known Papua New Guinea or the five
+Island SE Asian source samples in our ANU collections. There is a coastal journey of more than 3000 km
+between the occurrence of obsidians from the Bismarck Archipelago volcanic province of Papua New
+Guinea and the Sunda-Banda Arc volcanic chain, yet obsidian artifacts from the two important PNG
+sources of Talasea and Lou Island are found at coastal Bukit Tengkorak in eastern Sabah at a similar
+distance along with material that has no known source. Timor lies south of the eastern section of the
+active volcanic Banda Arc island chain but it is within range of possible rhyolite sources from there.
+Although there is a continuous chain of around 60 active volcanoes stretching from west Sumatra to the
+Moluccas most are basaltic to andesitic with few areas likely to produce high silica dacite–rhyolite
+deposits. This does not exclude the possibility that the volcanic landscapes may contain obsidian, but
+without detailed survey and chemical analysis of sources from the Sunda-Banda Arc the attribution of
+the Timor obsidian artifacts remains to be demonstrated. Timor may seem to be an unlikely source for
+the presence of obsidians as it lacks reports of the silica-rich rhyolite volcanic centers necessary to
+produce this material. Despite the absence of detailed survey and analysis of Indonesian obsidian
+sources, especially from the volcanically active Banda Arc, this paper presents evidence that one of two
+obsidian sources is clearly from Timor while the other, with less certainty, is also from an unknown local
+source.
+Ó 2008 Elsevier Ltd. All rights reserved.
+1. Introduction
+Obsidian is a particularly useful material for archaeologists
+studying ancient exchange networks in regions when it is distributed as artifacts from its geological source (Shackley, 1998).
+Methods used to explore this potential in the archaeology of Pacific
+Islands have included obsidian thin section mineralogy to energy
+dispersive X-ray analysis (Anderson et al., 1997; Weisler and Clague,
+1998), and in New Zealand by Neutron Activation analysis (Leach
+and Warren, 1981; Leach, 1996), and proton induced X-ray emission, PIXE (Neve et al., 1994). In the volcanic landscapes of the
+southwest Pacific the obsidian sources have been studied in most
+detail with PIXE (Bird et al., 1983; Summerhayes et al., 1998).
+Obsidian has been transferred from sources in Papua New Guinea
+to sites within a range of six thousand kilometers between Tonga
+and Borneo. This distribution began in the late Pleistocene within
+Papua New Guinea (Summerhayes and Allen, 1993; Torrence et al.,
+2004) and extended its range over time reaching its maximum
+around 3000 years ago. Compared with the detailed analysis of
+obsidian distribution provided by research in the southwest Pacific,
+there has been a dearth of information from the adjacent regions of
+Island Southeast Asia that could provide any evidence of linkages,
+overlaps or discontinuities with the southwest Pacific data. Analysis
+of obsidians recovered from recent archaeological investigations in
+Timor Leste (Veth et al., 2005) should therefore contribute in
+a small way to overcoming the absence of information within the
+Island Southeast Asian region.
+Analytical techniques apart from PIXE have been employed for
+obsidian studies with Instrumental neutron activation analysis
+(INAA) in particular having proven strengths over the last 50 years
+in the precision and range of elements that can be assayed. INAA
+has been complimented in a systematic way by the introduction of
+laser ablation inductively coupled mass spectrometry (Glascock
+* Corresponding author. Tel.: þ61 2 6282 1920; fax: þ61 2 6125 4917.
+E-mail address: wal.ambrose@anu.edu.au (W. Ambrose).
+Contents lists available at ScienceDirect
+Journal of Archaeological Science
+j o u r n a l h o m e p a g e : h t t p : / / w w w . e l s e v i e r . c o m / l o c a t e / j a s
+0305-4403/$ – see front matter Ó 2008 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jas.2008.09.022
+Journal of Archaeological Science 36 (2009) 607–615et al., 2007). Obsidian has an advantage in using LA-ICPMS
+compared with the analytical and calibration difficulties encountered in its use for bulk analysis of composite materials such as
+ceramics. On the other hand the LA-ICPMS microanalysis of clay
+matrix or individual mineral grain components can be used to
+advantage, for example in examining a plumbate pottery surface
+decoration (Neff, 2003). Similarly obsidian often contains microlites
+that are undifferentiated by INAA, but LA-ICPMS could avoid these
+by targeting the clearer glass phase. LA-ICPMS has been used in the
+present study of the Timor obsidians and their comparison with the
+limited number of available regional source samples.
+2. Timor obsidian artifacts
+Glover (1986) undertook the first comprehensive archaeological
+study of East Timor (Fig. 1) between 1966–1967. His aim was to
+provide a chronological framework for the principal technological
+and economic changes over the13,000 years of occupation that
+were shown by his research. He recovered volcanic glass flake
+artifacts from all four of his excavated sites where they represent
+less than 1% of the flaked stone items. Only seven cores from his
+Baucau district Bui Ceri Uato site (BCU) were available for the
+present study from a site total of approximately 390 flakes out of
+the 39,585 pieces in the flake stone assemblage (1986:98). The
+obsidian is present in contexts dated between 6600  100 bp
+(ANU11741) and 11,590  90 bp (ANU11878) (Seleminotis pers.
+comm 2007). Glover notes that the ‘obsidian is found as small
+pebbles at the edges of the volcanic rock which underlie the
+limestone reef terraces on the western edge of the Baucau Plateau’
+(1986:56). While indicating a general area from where the obsidians may have been collected, the source of the pebbles requires an
+analysis of both the pebbles and the artifacts. The Bui Ceri Uato
+Mane rockshelter site (BCUM) in the Baucau district (Oliveira,
+2008:129) has provided a collection of 32 obsidian flakes for
+analysis in this paper. Most of the flakes (30) are from layers dated
+to between 5500 and 7500 years ago. Other obsidians were
+recovered from the rockshelter sites Matja Kuru 1 (MK1) and Matja
+Kuru 2 (MK2) by the ANU team between 2000 and 2002 (Veth et al.,
+2005). Obsidian at MK1 has an associated range of radiocarbon
+determinations (un-calibrated) between 3776  70 bp (NZA17,007)
+and 13,690  130 bp (ANU11616). MK2 has obsidian present in
+contexts between 9650  55 bp (NZA16137) and a single flake
+bracketed between 11,173  55 bp (NZA16138) and
+26,690  170 bp (OZG737). Unfortunately this recent research has
+failed to provide samples or the location of Glover’s pebble ‘source’.
+Basic questions to be asked of these combined collections are
+firstly, whether multiple obsidian sources can be chemically characterized and secondly, whether there is chronological ordering
+between any different obsidians that could show changing resource
+exploitation over time. The further more difficult question is
+identifying the geological source/s of the artifacts, either within
+Timor or elsewhere between the Sunda-Banda Arc and the Bismarck Archipelago. The 30,000 years of occupation at these East
+Timor sites should allow questions of any spatial and temporal
+change to be addressed in broad outline over such an extended
+time scale. If there is no differentiation it is more likely that the
+obsidian was from stable, locally accessible Timor sources rather
+than from the more distant geologically active islands. This
+approach may imply that in situ sources need not be identified, but
+a thoroughly analyzed single geological obsidian exposure may
+show chemical variation within a small area. Therefore the secure
+allocation of an artifact to its raw material source requires detailed
+field survey to provide a comprehensive reference collection from
+the region. The allocation of an artifact’s chemistry to a putative
+local material can be surely done only with comprehensive tests of
+dissimilarity with other possible sources.
+3. Banda Arc geology and obsidian sources
+The Sunda-Banda arc is the most active tectonic zone on earth,
+with the 70–80 mm/year northward movement of the Australian
+plate interacting deeply with the Pacific and Eurasian plate
+boundaries. The presently active Banda volcanic arc extends from
+Flores to the Banda Islands, while older Tertiary volcanic islands
+occur in a gap immediately to the north of Timor that include Alor,
+Atauro, Wetar, and Maupura (Whitford et al., 1977). Timor has
+emerged geologically as a Permian to Pleistocene marine sedimentary complex with Oligocene Barique Formation volcanic
+deposits containing dacitic tuff with pumice and glass (United
+Nations, 2003:14) that may be of interest in the present study. The
+Timor orogeny is a result of the south of the Banda volcanic arc
+(Hamson, 2004) overriding the northward moving Australian plate
+with the prospect of crustal melting, but with Wetar in a relatively
+aseismic situation (Audley-Charles, 1991). The resulting Timor
+lithologies include complex sedimentary, volcanic and metamorphic products derived from both the Australian plate and Banda
+Arc (United Nations, 2003). Although the outer volcanic arc islands
+are predominantly formed with basalt to andesite rock suites, there
+are rare reports of small exposures of higher silica dacite and
+rhyolite that could provide the compositions necessary for the
+production of obsidian.
+Among the dominant andesite volcanoes of central Flores rare
+values for SiO2 greater than 65% are reported (Muraoka et al.,
+2002). This seems to be confirmed by van Heekeren’s (1972:141)
+remarks on the pre-Neolithic site of Liang Toge in Western Flores,
+when he wrote: ‘‘Special mention must be made of the absence of
+obsidian as used in other caves on Flores’’. In van Heekeren’s own
+excavation of Liang Rundung in north-central Flores, again
+predominantly pre-Neolithic in age, he noted the presence of
+obsidian among the raw materials (1972:146). On the other hand
+no obsidian artifacts have been reported from the extensive
+western Flores excavations related to Homo floresiensis at Liang Bua
+(M. Morwood pers. comm Oct 2005). It may well be that obsidian is
+limited to central Flores where deposits of higher silica content
+occur. Active volcanic islands to the east of Flores namely Adonara,
+Lomblem, and Pantar are mainly basaltic andesites, while the
+extinct Pantar Strait volcanic islands (Elburg et al., 2002) have no
+reported rhyolite.
+Wetar, immediately to the north of Timor, is anomalous for the
+Banda Arc in having extinct mainly dacitic and rhyolitic volcanics
+(Wheller et al., 1987; Elburg et al., 2003) with a felsic composition
+that makes obsidian production possible in its earlier volcanic
+history, but probably too ancient to survive devitrification.
+Further east are the smaller volcanic islands of Damar, Teon,
+Nila, Serua, and Manuk, and to the northeast is Banda, part of the
+Ambon Arc with high silica granites and rhyolite (Honthaas et al.,
+1999). We have no volcanic glasses in our reference collections
+from any part of this extensive volcanic region that could be
+capable of producing obsidian.
+This brief review of possible geological contexts for nearby
+obsidian indicates that locating or excluding any external source for
+the Timor obsidian artifacts will not be conclusive without
+a detailed field survey dedicated to locating any volcanic glasses
+that could occur in small often-inconspicuous exposures.
+Despite international archaeological research in the Indonesian
+Archipelago since the early 1970s there is little available information on volcanic glass sources additional to those identified in the
+first survey of obsidians in Oceania (Smith et al., 1977). The
+evidence then was for:
+(a) An important obsidian source supporting a developed flake
+production industry from the Lake Kerinci region in Central
+Sumatra (Bronson and Asmar, 1976; van Heekeren, 1972:137,
+W. Ambrose et al. / Journal of Archaeological Science 36 (2009) 607–615608139 and refs). At Tianko Panjang obsidian was associated both
+with Neolithic and pre-Neolithic levels, the latter dating to
+9950  130 BP (half-life adjusted, P-2550, charcoal) which
+calibrates to 12,098–11,162 BP (Bronson and Asmar, 1976:136).
+(b) The Java Leles-Kiamis source in the Gunung Kendang volcanic
+complex, possibly from the Kiamis rhyolite lava dome southeast of Bandung, may be related to obsidian artifacts from
+archaeological sites in the Bandung Basin and from near Bogor
+in West Java. These sites are thought to be pre-Neolithic and
+Neolithic in age (van Heekeren, 1972:133–5 and refs; McKinnon, 2002; Subagus, 1979; Sutayasa, 1979).
+(c) The northeast Sulawesi, Lake Tondano volcanic area source for
+artifacts in the Paso site described by Bellwood (1976:243–254)
+and dated by two radiocarbon dates (ANU1517 and ANU1518)
+calibrated to 9091–7133 and 8451–7244 BP.
+(d) The single piece of obsidian from Neolithic levels around
+4000 bp at the Leang Tuwo Mane’e excavation on Karakellang
+Island, in the Talaud Islands (Bellwood, 1976:261), has not been
+ascribed to a source although it was included with the Indonesian sources analyzed by PIXE-PIGME (Bird et al., 1981).
+(e) A single flake of obsidian analysed for this paper is from
+volcanic Tidore Island, Halmahera, collected by Geoffrey Hope
+(pers. comm).
+The first of two collections of Island SE Asian artifacts included
+in chemical analysis to identify possible sources subsequent to the
+1977 survey by Smith and others, are those from Sabah (Bellwood,
+1989) based on major element analysis using SEM-EDS (Tykot,
+1997; Tykot and Chia, 1997); this collection proved to be from the
+Bismarck Archipelago and an un-located ‘Talaud source’. There is
+some controversy about the date of the Bukit Tengkorak site with
+the claim that ‘maritime trade networks existed between southeast
+Asia and Melanesia by the late 5th millennium BC’ (Tykot and Chia,
+1997:177; Chia, 1998, 2001). Vandiver and Chia (1997:270) describe
+the location as the only candidate of an early pottery-producing site
+in Island Southeast Asia. Spriggs (2003:61) adjudges the obsidian
+and pottery to be associated with dates at the site starting at the
+earliest at 4091–3084 cal BP and 3241–2948 BP, with minor
+displacement of pottery and other materials into lower preNeolithic levels dated somewhat uncertainly by a single radiocarbon determination to 6291–5922 BP in level 26. However Tykot
+and Chia (1997:177) differentiate between the earlier presence of
+Talaud source and later Bismarck archipelago sources that is
+consistent with the calibrated date offered by Bellwood (1989:129,
+150) of between 2935 (2787) and 2749 BP (ANU5769). The 3000 km
+distance to Bukit Tengkorak from the Bismarck Archipelago sources
+is similar to that for East Timor sites from these same sources.
+Although some of the Bukit Tengkorak obsidian is identified as
+Bismarck Archipelago material, its relatively late appearance makes
+it unlikely that the late Pleistocene Timor obsidian shares the same
+source. But it is still necessary to verify this by including the Bismarck Archipelago obsidians in the present study.
+The second collection of chemically analysed obsidians is from
+the Philippines where Neri (2007) has described a systematic
+survey of archaeological reports extending to the early 20th
+Century. Neri’s survey indicates that there is great potential for
+applying chemical analysis to the obsidian sources and their
+distributed artifacts. He began this research by investigating
+obsidian from the Huluga archaeological site near the north coast of
+Mindanao and conveniently summarized what is known about
+sources in Luzon. By incorporating XRF and PIXE-PIGME data he
+compared his Huluga flakes with sources in the Western Pacific and
+Java (but unfortunately not with the ‘Talaud source’) but found no
+matches with any of them. Neri nevertheless concluded that the
+source of the Huluga artifacts was unlikely to be in the Mindanao
+area itself and postulated an extra-archipelagic source.
+The Philippines obsidians will benefit from a comprehensive
+study using standardized chemical analysis that allowed source
+‘fingerprinting’ and artifact allocations to the local and distant
+sources as Neri (2007) has outlined. The published graphic form of
+obsidian compositional data from that study is not readily
+comparable with the data in the present Timor analysis.
+4. Elemental analysis
+As the instrumentation for chemical analysis of geological
+specimens improves, so too does the range and precision of
+‘fingerprinting’ the elemental composition of archaeological
+obsidian collections. Laser ablation inductively coupled plasma
+mass spectrometry (LA-ICPMS) has the advantage of analyzing
+a wider range of possible source-discriminating elements than the
+25 or so previously employed using PIXE in the study of obsidians
+from the SW Pacific (Cohen et al., 2002). A comparison of ICPMS
+and PIXE concludes that the two systems give comparable, accurate
+and reproducible results for those elements that both can analyze
+(Bellot-Gurlet et al., 2005).
+The limited source reference obsidians from Indonesia and the
+Philippines that could be included in the LA-ICPMS analysis
+severely limits wider geographic comparisons but some
+comparisons can be made with earlier chemical analyses based on
+PIXE. The reported comparability of the two analysis systems
+gives some confidence that this procedure is sufficient to compare
+the Timor LA-ICPMS results with the PIXE results. The reduced set
+of seven elements common to PIXE and LA-ICPMS were, Ti, Mn,
+Rb, Sr, Y, Zr, and Nb. The PIXE obsidian source data from Island SE
+Asia for comparison with the Timor artifacts are presented in
+Table 1. Simple inspection shows that none of the available
+sources can be equated with the Timor results. The PIXE analysis
+system is often cited as ‘non-destructive’ although any obsidian
+from an archaeological context is likely to have experienced
+surface weathering associated with hydration and ion exchange
+with its surrounding burial environment (Ambrose, 2001).
+Although it is possible to analyze a surface directly with LA-ICPMS
+when an artifact is small enough to be accommodated within the
+laser ablation chamber, the resulting analysis on a polished
+Table 1
+Composition (mg/g) of individual obsidian flakes analyzed by PIXE for comparison
+with the percent mean value of the seven comparable elements (Ti, Mn, Rb, Sr, Y, Zr,
+Nb) analyzed by LA-ICPMS from the two Timor groups
+Sources Ti Mn Rb Sr Y Zr Nb
+PIXE
+Talaud PX 1289 778 274 8 23 344 25
+Tondano PX 1509 537 76 77 37 226 3
+Kerinci PX 715 339 133 104 5 72 1
+Kiamis PX 724 378 213 84 15 141 5
+Leles PX 760 267 163 47 35 108 3
+ICPMS
+Leles ICPMS 763 239 199 32 39 99 7
+n 4 St Dev 9 8 5.4 2.3 2.1 4.8 0.1
+Artifacts
+MK group (A) Mean 822.4 485.1 181.2 159.9 34.6 152.8 17.7
+n 65 St Dev 26.9 18.5 8.9 14.2 1.9 8 0.5
+BCU-M group (B) Mean 5539.6 1176 11.8 139.3 14.3 39.3 2.2
+n 20 St Dev 363.8 90.4 0.8 9.2 1 2.6 0.1
+BCUM 8108.7 1398.8 11.6 209.9 18.5 51.6 2.6
+3 outliers 2961.6 1172.8 11.4 69.2 11.4 22.5 3.1
+5871.9 1406.9 16.4 145.3 21.1 64.8 2.8
+Timor group (A) obsidian is the only source represented at the Timor far eastern end
+sites MK1 and MK2 but it also occurs with at the Baucau Plateau BCU and BCUM sites
+where Timor (B) is clearly related to a Baucau Plateau source. Simple inspection of
+the relevant source specimens in the table shows that none of the listed materials
+share the same composition as the seven elements of the Timor artifacts. The wide
+range in the standard deviation of the group (B) obsidians is consistent with the
+claimed secondary deposit source of pebbles from the Baucau plateau.
+W. Ambrose et al. / Journal of Archaeological Science 36 (2009) 607–615 609prepared surface is less likely to be in error from weathering
+effects. For this reason each specimen of the Timor volcanic
+glasses in the present study was sampled by removing up to
+25 mg for analysis.
+5. Method
+From each artifact a 0.20 mm diamond wire saw is used to cut
+a flat 25 mg sample less than about 0.75 mm thick and around 2–
+4 mm in cross section. The obsidian targets are set in a 10  4 array
+imbedded in a 50  25  4 mm epoxy resin mounting. The 40
+specimens exposed at the surface of the mount are diamond polished to a flat mirror finish for presenting to the laser beam.
+The obsidians are analysed for major elements (Si, Al, Fe, Mg,
+Mn, Ca, Na, K, Ti and P) by JEOL 6400 scanning electron microscope
+in the Research School of Biological Sciences, Australian National
+University. Ten mineral standards are used to calibrate the energy
+dispersive spectrometer. The nominal values for NIST612 Standard
+Reference Material are given as SiO 2 72%, CaO 12%, Na2O 14% and
+Al2 O3 2%. These compare with the values from eight ANU SEM-EDS
+runs on the NIST612 specimen of SiO2 73.65  0.15%, CaO
+11.83  0.08%, Na2O 13.60  0.21% and Al2 O 3 1.88  0.03%. The
+main purpose of the SEM-EDS analysis is to provide known
+concentrations of SiO 2 for calibrating the ICPMS analyses as set out
+below.
+Ablation was done with a Lambda Physik 193 nm wavelength
+ArF laser connected to an Agilent 7500S ICP-MS through an
+effective small-volume sample cell and signal smoother to
+remove the effects of ablating with a pulsed laser. The sample was
+ablated in a He atmosphere with power delivered to the sample
+surface of about 20 mJ. The ablated aerosol was carried to the ICP
+by a 30:70 mix of He and Ar. The obsidians were ablated in
+Table 2
+Weight percent major element oxide mean and standard deviation values of the 88 artifacts and 70 source reference specimens presented in this paper
+Timor Leste Sites SiO 2 TiO2 Al 2O 3 MgO MnO FeO Na2O K2O CaO P2 O5 Total %
+Matja Kuri 1 Mean (n 19) 75.44 0.2 13.38 0.12 0.08 1.63 3.84 4.49 1.19 0.08 100.44
+St Dev 0.52 0.06 0.16 0.06 0.06 0.25 0.08 0.11 0.07 0.06 0.57
+Matja Kuri 2 Mean (n 30) 74.94 0.19 13.47 0.12 0.06 1.58 3.88 4.45 1.3 0.06 100.04
+St Dev 0.96 0.06 0.69 0.06 0.08 0.27 0.21 0.27 0.41 0.07 0.54
+Bui Ceri Uato Mean (n 6) 74.76 0.19 13.33 0.1 0.02 1.68 3.79 4.42 1.23 0.06 99.56
+St Dev 0.18 0.06 0.08 0.05 0.08 0.14 0.06 0.09 0.03 0.09 0.25
+Bui Ceri Uato (n 1) 53.18 0.85 15.33 6.23 0 8.27 2.12 0.4 10.67 0.2 97.24
+Bui Ceri Uato Mane Mean (n 6) 74.33 0.22 13.22 0.12 0.04 1.61 3.93 4.41 1.22 0.02 99.1
+St Dev 0.58 0.03 0.13 0.02 0.04 0.14 0.03 0.04 0.06 0.06 0.68
+Bui Ceri Uato Mane Mean (n 7) 63.39 0.56 14.23 3.13 0.12 5.01 3.12 2.39 5.78 0.03 97.96
+St Dev 0.68 0.09 0.19 0.05 0.06 0.22 0.14 0.05 0.11 0.06 1.15
+Bui Ceri Uato Mane Mean (n 19) 53.22 0.83 15.23 6.15 0.15 8.06 2.2 0.4 10.29 0.07 96.82
+St Dev 0.79 0.12 0.16 0.54 0.06 0.29 0.31 0.07 0.68 0.05 0.75
+Baucau source Mean (n 2) 53.25 0.84 14.8 6.26 0.24 7.73 2.04 0.45 9.64 0.16 95.2
+St Dev 0.21 0.06 0 0.29 0.12 0.04 0.01 0.06 0.16 0.04 0.57
+Papua New Guinea sources
+Pam Is Mean (n 4) 73.87 0.26 13.51 0.24 0.04 1.92 4.64 4.26 0.91 0.1 99.73
+Std 0.63 0.06 0.4 0.06 0.1 0.21 0.08 0.08 0.12 0.1 0.29
+Lou Is Mean (n 17) 72.33 0.3 14.44 0.26 0.07 2.17 5.07 4.02 1.17 0.05 99.97
+StD 0.86 0.05 0.44 0.16 0.09 0.32 0.24 0.16 0.19 0.16 0.43
+SW Manus Mean (n 8) 77.33 0.09 13.41 0.07 0.16 0.51 4.79 3.76 0.28 0.06 100.5
+StD 0.52 0.03 0.44 0.09 0.08 0.06 0.09 0.15 0.04 0.11 0.43
+West New Britain Mean (n 14) 76.27 0.24 12.84 0.27 0.07 1.08 3.9 3.88 1.17 0.09 99.74
+StD 0.75 0.04 0.35 0.13 0.07 0.15 0.14 0.12 0.06 0.13 0.58
+Garala Is Mean (n 4) 76.2 0.28 12.9 0.2 0.08 1.33 4 4.05 1.06 0.03 100.19
+StD 0.88 0.08 0.34 0.11 0.07 0.1 0.11 0.05 0.04 0.21 0.64
+Mopir Mean (n 4) 77.73 0.21 12.1 0.21 0.03 1.21 4.38 2.18 1.23 0.11 99.44
+StD 0.55 0.06 0.13 0.04 0.11 0.17 0.05 0.04 0.05 0.03 0.45
+West Fergusson Is Mean (n 8) 73.08 0.25 15.04 0.19 0.04 1.25 5.24 4.42 0.74 0.1 100.43
+StD 0.67 0.01 0.49 0.14 0.08 0.2 0.13 0.06 0.1 0.16 0.18
+Fagalulu (W Ferg) Mean (n 3) 74.43 0.25 14.53 0.13 0.1 1.06 4.93 4.1 0.79 0.02 100.38
+StD 0.7 0.02 0.46 0.04 0.07 0.04 0.12 0.04 0.03 0.11 0.24
+Sanaroa Is (E Ferg) Mean (n 3) 72.3 0.29 13.05 0.01 0.12 3.97 5.91 4.74 0.37 0.05 100.91
+StD 0.6 0.01 0.49 0.04 0.09 0.08 0.04 0.06 0.02 0.1 0.29
+Dobu Is (E Ferg) Mean (n 2) 71.05 0.31 14.7 0.07 0.11 2.95 6.31 4.77 0.36 0.11 100.77
+StD 0.45 0.01 0.47 0.08 0.04 0.19 0.03 0.06 0.01 0.11 0.05
+Lamonai (E Ferg) Mean (n 3) 70.9 0.38 14.53 0.18 0.05 3.18 6.27 4.87 0.34 0.11 100.86
+StD 0.6 0.08 0.47 0.08 0.07 0.12 0.11 0.09 0.03 0.03 0.46
+Sunda sources
+Leles Mean (n 4) 77.12 0.15 12.09 0.09 0.09 1.16 3.48 4.85 0.71 0.08 99.85
+StD 0.83 0.07 0.08 0.03 0.03 0.08 0.05 0.09 0.07 0.07 0.91
+Tondano Mean (n 2) 77.67 0.31 12.66 0.21 n.d 1.59 4.58 3.25 1.1 0.1 101.42
+StD 0.18 0.03 0.18 0.04 0.04 0.07 0.06 0.06 0.13 0.23
+Tidore n 1 75.1 0.25 13.73 0.27 0.21 1.55 4.69 2.84 1.47 0.09 100.2
+Standards
+Std #2000 Mean (n 7) 73.5 0.29 13.72 0.32 0.04 1.85 4.82 4.03 1.07 0.08 99.94
+StD 0.6 0.11 0.25 0.21 0.08 0.25 0.12 0.11 0.09 0.15 0.58
+NIST612 Mean (n 8) 73.65 1.96 13.82 12.07 101.5
+St Dev 0.15 0.03 0.21 0.08
+NIST612 Nominal 72 2 14 12 100
+The silica values divide the Timor artifact collection from the four sites into three parts with three silica ranges of 70 to 76%, a mid range group between 62 to 64%, and low
+range group 52–56%. These three groups are not replicated by the ICPMS analysis where only two groups are revealed. The mid range group of seven flakes is divided between
+the (A) and (B) groups that resulted from the ICPMS analysis.
+W. Ambrose et al. / Journal of Archaeological Science 36 (2009) 607–615610a round-robin fashion with 10 obsidians bracketed by standard
+glass NBS NIST 612. The NBS NIST612 international standard was
+employed according to the protocol of Pearce et al. (1997) for the
+ICPMS analysis. All obsidians were analyzed before a return to the
+first, culminating in three ablations of each obsidian. Laser pits
+were 80 microns in diameter and about 25 microns deep. An ICP
+analysis consists of 20 s of background followed by 40 s of ablation. Each of the 35 isotopes was measured in turn, a mass sweep
+taking about 0.85 s. As every material ablates somewhat differently a major element in the material is used as an internal
+standard following Longerich et al. (1996). Effectively the
+element/internal standard ratio removes matrix effects and it,
+then, can be compared to the standard in which the concentrations are known to obtain a concentration in the unknown (unk).
+In this case silica was selected as the internal standard. Thus SiO2
+concentrations from the SEM EDS analysis were used for the last
+term in the following:
+conc elem
+unk ¼ cts elem
+unk =cts SiO 2
+unk *
+"conc elem
+std =conc SiO2
+std
+cts elem
+std =cts SiO2
+std
+#
+*conc SiO2
+unk
+The counts of the standard used in the equation are interpolations
+of the two bracketing NIST 612 analyses. Essentially ratioing
+elements in this fashion, then multiplying by the amount of Si
+Fig. 1. Map showing the Sunda-Banda arc of volcanic islands from Sumatra to north of Timor. The eastern section of the map shows the three main Papua New Guinea sources of
+Manus, Talasea and Fergusson island at the eastern end of PNG. Obsidians from Talasea and Manus are found on Sabah dated to around 2–3000 years ago. In contrast to such longdistance connections, Timor archaeology has so far recovered obsidian only from a local source despite the proximity of the closer volcanic islands to its north.
+Mk1 MK2 BCU BCUM(A) BCUM BCUM(B) Baucau
+source
+45.00
+50.00
+55.00
+60.00
+65.00
+70.00
+75.00
+80.00
+Timor obsidian groups, SiO2 %
+SiO2 %
+a b c d e
+Fig. 2. The plot shows the percent mean and standard deviation silica weight content
+of the obsidians analysed from the four archaeological sites and the geological source.
+The mean value of the weight percent silica content of the artifacts of MK1, MK2, BCU
+and BCUM is 75.1%  0.6. The intermediate silica value of BCUM is 63.1%  0.8. The
+percent mean value of the low silica artifacts from BCU and BCUM is 53.2%  0.8, while
+the Baucau source is 53.3%  0.2. The diagram shows a clear division of the artifacts at
+70% between the higher silica flakes in sites MK1, MK1, BCU, and BCUM and the lower
+silica flakes that are confined to BCUM and a single flake from BCU.
+W. Ambrose et al. / Journal of Archaeological Science 36 (2009) 607–615 611Table 3
+Mean and standard deviation values of elements included in the LA-ICPMS measurement of the Timor, Indonesian and Bismarck Archipelago volcanic glasses
+Timor
+Leste Sites
+P Sc Ti V Cr Mn Co Cu Rb Sr Y Zr Nb Mo Sn Cs Ba La Ce Nd Sm Eu Gd Dy Er Yb Lu Ta W Pb206 Pb 207 Pb 208 Th U
+Group
+Aa Matja
+Kuri 1
+Mean
+(n 19)
+86.93 8.69 830.79 0.23 0.6 497.65 0.17 1.98 185.27 170.34 35.94 157.74 17.64 1.91 6.63 7.81 1184.75 58.38 114.84 39.89 8.27 1.19 7.02 6.53 3.81 3.8 0.56 1.29 2.29 38.3 34.8 36.72 24.75 4.76
+St Dev 4.53 0.28 12.46 0.01 0.07 11.99 0.01 0.14 2.08 10.23 0.98 3.73 0.16 0.03 1.11 0.11 32.88 1.82 2.74 1.17 0.26 0.05 0.22 0.2 0.12 0.12 0.02 0.02 0.06 0.57 0.53 0.52 0.67 0.09
+Ab Matja
+Kuri 2
+Mean
+(n 30)
+86.65 8.46 828.26 0.22 0.73 484.4 0.17 2.04 183.66 159.07 34.97 154.63 17.88 1.87 3.57 7.77 1139.05 56.15 111.54 38.68 8.01 1.15 6.88 6.41 3.73 3.75 0.55 1.32 2.24 38.71 35.26 37.12 24.26 4.63
+St Dev 1.93 0.24 13.05 0.01 0.06 9.64 0.01 0.25 3.52 10.42 0.64 2.39 0.27 0.05 0.67 0.15 20.26 1.07 2.06 0.83 0.17 0.04 0.14 0.14 0.08 0.08 0.01 0.02 0.05 0.75 0.73 0.74 0.51 0.1
+Ac Bui Ceri
+Uato (A)
+Mean
+(n 6)
+87.7 8.24 821.28 0.21 0.8 480.79 0.17 2.11 183.39 157.99 34.42 152.75 17.78 1.88 3.42 7.77 1123.61 55.48 110.75 38.27 7.96 1.13 6.81 6.34 3.69 3.67 0.54 1.32 2.22 38.65 35.21 37 23.93 4.59
+St Dev 1.33 0.07 4.43 0.01 0.05 4.4 0.01 0.08 0.67 1.92 0.39 1.76 0.07 0.01 0.03 0.03 9.67 0.61 0.5 0.35 0.15 0.02 0.07 0.07 0.06 0.03 0.01 0.02 0.03 0.45 0.42 0.38 0.33 0.04
+Be Bui Ceri
+Uato (B)
+n 1 584.81 36.37 5670.89 277.45 191.86 1085.04 28.73 66.12 11.94 142.41 14.72 40.4 2.21 0.49 0.69 0.63 118.91 5.19 11.49 6.18 1.81 0.69 2.28 2.64 1.71 1.72 0.24 0.14 0.27 3.14 2.85 3 1.05 0.29
+Ad Bui Ceri
+Uato
+M (A)
+Mean
+(n 9)
+78.2 8.4 785.88 0.2 2.04 463.67 0.16 1.88 164.29 144.03 31.12 137.28 17.13 1.75 3.03 7.08 972.55 48.8 96.15 33.52 7.06 1.02 6.22 5.62 3.34 3.34 0.49 1.23 2.04 34.8 31.58 33.33 21.73 4.25
+St Dev 6.66 0.72 54.85 0.02 0.38 33.97 0.02 0.21 13.3 19.9 2.28 10.24 1.14 0.13 0.24 0.57 92.77 3.96 8.18 2.7 0.56 0.1 0.45 0.42 0.25 0.24 0.03 0.09 0.15 2.84 2.52 2.65 1.58 0.29
+Be Bui Ceri
+Uato
+M (B)
+Mean
+(n 20)
+569.63 35.95 5539.61 271.63 191.54 1175.99 29.05 68.51 11.84 139.31 14.32 39.29 2.18 0.59 0.61 0.64 117.24 5.04 11.21 5.98 1.8 0.67 2.22 2.57 1.63 1.68 0.25 0.14 0.28 3.15 2.86 3.01 1.04 0.28
+St Dev 37.73 2.31 363.83 17.9 13.47 90.39 1.97 5.08 0.79 9.18 0.97 2.65 0.14 0.05 0.05 0.04 7.97 0.37 0.82 0.49 0.14 0.05 0.18 0.19 0.11 0.12 0.02 0.01 0.02 0.22 0.19 0.21 0.08 0.03
+Bx Bui Ceri
+Uato
+M (B)
+Outlier
+(n 1)
+725.26 40 8108.71 331.58 192.93 1398.81 34.27 65.86 11.55 209.9 18.52 51.61 2.61 0.75 0.77 0.5 151.89 6.47 14.66 8.11 2.51 0.96 3.02 3.34 2.11 2.11 0.31 0.18 0.15 3.53 3.22 3.52 1.18 0.32
+Outlier
+(n 1)
+179.89 36.86 2961.59 236.42 164.38 1172.75 29.88 92.11 11.37 69.17 11.4 22.49 3.06 0.57 0.43 0.57 80.85 2.22 5.01 2.97 1 0.41 1.5 1.96 1.37 1.42 0.21 0.2 0.36 3.02 2.37 2.36 0.47 0.2
+Outlier
+(n 1)
+703.25 42.09 5871.89 245.05 765.33 1406.88 25.54 30.1 16.44 145.25 21.12 64.8 2.79 0.73 0.82 0.73 187.42 7.95 17.87 9.67 2.86 0.98 3.34 3.9 2.48 2.41 0.36 0.18 0.23 4.35 3.88 4.02 1.65 0.46
+Total 88
+Baucau geological
+specimen
+Mean
+(n 2)
+321.33 36.5 4636.89 265.04 238.79 1150.85 30.5 59 11.5 121.01 14 32.5 3.25 0.69 0.51 0.49 105 3.4 7.7 4.45 1.5 0.55 2 2.45 1.6 1.65 0.25 0.25 0.23 3.65 3.3 3.45 0.78 0.3
+Baucau St Dev 6.48 0.71 100.23 4.81 2.63 20.65 0.71 1.41 0.71 2.6 0 0.71 0.07 0.01 0.01 0 7.07 0.14 0.14 0.07 0 0.01 0 0.07 0 0.07 0.01 0.01 0 0.07 0.14 0.07 0.01 0.01
+Papua New Guinea sources
+Sources
+Pam Is Mean
+(n 4)
+112.6 5.91 1623 4.06 1.32 453 1.16 3.39 161.2 43.6 34.3 228.7 44.27 3.43 5.18 2.1 687 39.06 78.84 26.54 5.59 0.9 5.43 5.92 3.78 4.09 0.61 3.29 1.29 6.68 6.16 6.4 11.54 3.2
+St Dev 6.7 0.25 71 1.13 0.7 18 0.14 0.39 4.7 4.3 2.19 12.1 0.58 0.1 2.1 0.07 52 3.67 6.88 2.46 0.53 0.05 0.42 0.44 0.28 0.24 0.04 0.05 0.05 0.07 0.05 0.06 0.8 0.19
+Lou Is Mean
+(n 17)
+199.9 6.31 2077 3.7 1.55 517 1.66 4.17 149.9 56.3 33.99 328 46.98 3.83 3.93 1.99 664 37.05 74.84 25.64 5.48 0.98 5.38 5.8 3.77 4.08 0.61 3.28 1.37 6.97 6.37 6.66 10.48 2.93
+St Dev 58.7 0.51 312 0.68 0.46 63 0.38 0.86 6.7 10.9 2.12 65.5 2.51 0.26 1.21 0.07 37 2.24 4.2 1.76 0.37 0.12 0.36 0.4 0.25 0.25 0.04 0.11 0.1 0.22 0.2 0.21 0.57 0.14
+SW
+Manus
+Mean
+(n 8)
+107.6 7.09 553 0.68 1.1 918 0.1 0.39 92.3 7.8 45.63 49.1 33.4 2.62 3.53 1.41 464 9.42 25 10.67 3.93 0.34 4.75 7.12 4.93 6.01 0.91 2.55 1.1 9.93 9.04 9.39 4.05 2.86
+St Dev 2.1 0.11 33 1 0.7 26 0.11 0.23 3.3 3.3 2.82 2.6 0.84 0.05 1.93 0.05 40 1.18 2.37 0.97 0.27 0.05 0.28 0.41 0.24 0.28 0.05 0.08 0.03 0.42 0.34 0.42 0.28 0.1
+WNB Mean
+(n 14)
+138.5 5.93 1581 6.05 1.07 444 0.66 3.63 52.9 163.7 17.4 117.4 2.23 3.23 1.84 1.55 469 11.15 23.94 11.14 2.65 0.56 2.6 2.79 1.94 2.24 0.35 0.14 0.38 10.48 9.59 9.89 2.49 1.59
+St Dev 10.1 0.26 41 0.74 0.47 48 0.09 1.11 2.7 20.8 0.86 5.1 0.06 0.12 1.89 0.1 30 0.73 1.32 0.61 0.16 0.07 0.15 0.15 0.09 0.1 0.02 0.01 0.03 0.22 0.25 0.19 0.19 0.11
+Garala
+Is
+Mean
+(n 4)
+134.4 7.7 1569 3.42 0.98 466 0.57 2.82 57 126.1 26.09 140.4 2.56 3.48 3.24 1.69 507 13.84 30.38 14.79 3.78 0.73 3.83 4.28 2.92 3.25 0.51 0.16 0.41 12.15 11.02 11.49 2.73 1.72
+St Dev 2.2 0.09 18 0.1 0.63 1 0.01 0.11 1.5 12.3 1.74 8.1 0.01 0.08 2.43 0.04 38 1.14 2.23 1.15 0.19 0.06 0.21 0.27 0.16 0.14 0.03 0.01 0.01 0.13 0.06 0.16 0.16 0.08
+Mopir Mean
+(n 4)
+124.8 10.17 1375 2.3 0.94 590 0.47 2.69 34.2 158.8 23.59 108.1 1.99 3.8 1.89 1.31 303 11.12 25.88 13.77 3.65 0.76 3.78 4 2.65 2.92 0.46 0.13 0.45 9.87 9.06 9.37 1.44 1.01
+St Dev 2.2 0.24 11 0.08 0.19 5 0.02 0.03 0.7 14.4 1.43 6 0.02 0.08 2 0.02 22 0.69 1.44 0.89 0.26 0.06 0.18 0.23 0.15 0.16 0.03 0.01 0.02 0.04 0.09 0.13 0.08 0.04
+West
+Ferg Is
+Mean
+(n 8)
+207.6 4.71 1800 4.35 1.38 351 0.43 0.84 131 64.8 20.05 247.2 9.19 3.14 3.35 4.19 763 29.01 61.77 21.8 4.38 0.81 3.69 3.51 2.12 2.32 0.35 0.75 1.09 25.47 23.5 24.28 11.78 3.24
+St Dev 2.1 0.12 34 0.22 0.73 11 0.03 0.24 3.5 4.9 1.23 13.4 0.08 0.07 2.02 0.08 50 2.27 4.3 1.65 0.31 0.05 0.19 0.19 0.11 0.12 0.02 0.01 0.04 0.49 0.35 0.45 0.63 0.13
+Fagalulu Mean
+(n 3)
+198.5 3.77 1674 7.2 1.2 370 0.48 1.01 130.6 89.6 15.25 161.8 8.1 3.77 3.27 5.18 680 29.65 59.27 18.39 3.39 0.59 2.66 2.54 1.59 1.85 0.28 0.72 1.31 32.01 29.51 30.5 15.04 4.08
+St Dev 2.8 0.19 36 0.17 0.86 3 0.02 0.04 3.7 9.1 1.04 10.1 0.06 0.09 2.45 0.08 54 2.77 4.8 1.54 0.26 0.04 0.16 0.18 0.1 0.08 0.02 0.01 0.02 0.71 0.54 0.6 0.86 0.18
+Sanaroa
+Is
+Mean
+(n 3)
+78.9 6.25 1999 0.51 1.41 1009 0.18 1.8 146 4.3 58.53 628.3 22.9 5.05 6.99 5.76 35 46.02 104.29 41.32 9.52 0.71 9.29 10.31 6.51 7 1.05 1.66 1.62 29.24 26.88 27.89 16.61 4.62
+St Dev 2.8 0.11 25 0.02 0.58 12 0.01 0.11 4.3 0.4 3.96 46.5 0.2 0.05 2.24 0.12 3 4.2 8.65 3.86 0.75 0.06 0.54 0.62 0.42 0.35 0.05 0.01 0.04 0.24 0.28 0.19 1.06 0.2determined independently removes the majority of matrix effect in
+laser ablation.
+A local standard Lou Island Wekwok #2000 obsidian was also
+analyzed in the same manner to provide a local cross check against
+previous results of chemical analyses employing PIXE-PIGME, SEMEDS and XRF. The 34 measured isotopes produced data for 32
+elements, including three isotopes of lead. These are: 31 P, 45
+Sc, 49
+Ti,
+51
+V, 53
+Cr, 55 Mn, 59
+Co, 65
+Cu, 85 Rb, 88
+Sr, 89
+Y, 90
+Zr, 93
+Nb, 95
+Mo, 118
+Sn,
+133
+Cs, 138
+Ba, 139 La, 140
+Ce, 144 Nd, 147 Sm, 153
+Eu, 158 Gd, 162 Dy, 166 Er,
+174 Yb, 175 Lu, 181 Ta, 186 W, 206 Pb, 207
+Pb, 208
+Pb, 232 Th, 238
+U.
+6. Data reduction and source association
+The 91 Timor artifacts, the two Timor source reference specimens, and the sources from Papua New Guinea and the limited
+number from Island Southeast Asian were analyzed in three
+batches several weeks apart. To account for any instrument variation over that time the results were checked against the mean of 7
+analyses on the Lou Island Wekwok #2000 SiO 2 standard from
+previously measured values from the ANU SEM EDAX facility. This
+is consistent with the use of silica count rates by Neff (2003:24) for
+calibration against external standards.
+Inspection of the SiO2 values showed that three of the 91 artifacts should be excluded from the group as chert or quartzite. This
+left a total of 19 flakes from site MK1, 30 from site MK2, seven from
+Bui Ceri Uato (BCU) and 32 from Bui Ceri Uato (BCUM). Two
+analyzed obsidian geological samples were from the Timor Baucau
+plateau, provided by geologist Professor R. Harris from Brigham
+Young University, Provo Utah. The BCU sites are from the Baucau
+area, while the MK sites are about 80 km distant at the eastern end
+of Timor. The major element data from the SEM-EDAX analysis on
+the Timor artifacts and the available reference sources are presented in Table 2.
+Vitreous volcanic materials used for artifact production can be
+divided rather arbitrarily into obsidian or pitchstone as a measure
+relevant to desirable artifact flaking properties and the use of the
+finished implement. The degree of glassiness is related to the
+degree of mineral development in a melt but is also dependent on
+the chemistry of the volcanic source. The definition ‘obsidian’ can
+be conventionally reserved for volcanic glasses having a composition similar to that from dacite or rhyolite with SiO2 greater than
+65% while ‘pitchstone’ can refer to opaque glassy rock having less
+than 65% SiO2. Whereas obsidian is a product of high silica volcanism, opaque pitchstone may occur as dykes, sills and basalt
+selvedge glasses that may have less than 50% SiO 2 . The Timor
+collection has three silica ranges of 70–76%, a central range group
+between 62 and 64%, and low range group 52–56%. These three
+groups Fig. 2 are not replicated by the ICPMS analysis results where
+only two major groups are revealed Figs. 1, 3 and 4.
+The silica range of the Timor artifact collection is shown in Fig. 2,
+with clear separation between (A) high and (B) low silica groups that
+reflect different geological origins for the quarry exposures that
+were targeted as artifact raw material used in the four excavated site
+collections MK1, MK2, BCU, and BCUM. From the eastern end of
+Timor at sites MK1 and MK2 high silica obsidian source (A) is
+exclusively represented, while from the BCU six of the seven artifacts
+are likewise from a source supplying MK1 and MK2. One flake of the
+seven BCU items is clearly related to the low silica (B) pitchstones.
+The BCUM site has nine of its 32 artifacts made from high silica (A)
+source material with the remainder related to the Baucau source.
+The 32 element concentrations measured with LA-ICPMS were
+tested for their relative contribution to the best partition of the data
+corresponding to the known sources using the ‘Number Cruncher
+Statistical System’ (NCSS) computer software (Hintze, 2007). A
+reduced set of elements was found by using a multivariate selection
+procedure that was then proved against the known sources using
+Dobu Is Mean
+(n 2)
+157.1 7.11 2054 0.76 0.6 753 0.47 3.59 127.3 3.8 64.63 867.7 24.85 5.76 8.6 4.95 49 49.92 111.94 41.1 9.16 0.52 8.86 10.75 7.31 8.35 1.25 1.77 1.43 32.24 29.93 30.81 17.47 5.04
+St Dev 19.7 0 5 0.13 68 0.09 0.26 7.4 0.6 3.15 1.9 1.06 0.22 1.84 0.29 1 4.26 8.4 4.38 0.91 0.11 0.68 0.63 0.29 0.06 0.01 0.05 0.08 1.36 1.52 1.41 0.94 0.16
+Lamonai Mean
+(n 3)
+170.7 7.35 2066 0.42 0.69 733 0.47 3.77 122.1 2.6 67.04 929.6 25.46 5.96 8.23 4.71 79 51.34 115.13 41.61 9.28 0.53 8.95 11.07 7.6 8.72 1.31 1.83 1.36 32.45 29.86 30.94 17.54 5.16
+St Dev 1 0.36 41 0.04 0.19 7 0.01 0.29 3.8 0.2 4.15 55.1 0.06 0.12 1.52 0.09 5 3.95 8.24 3.13 0.54 0.02 0.44 0.61 0.36 0.36 0.06 0.04 0.05 0.36 0.1 0.21 0.98 0.23
+Sunda sources
+Leles Mean
+(n 4)
+47.9 4.72 763 2.05 0.76 239 0.58 6.05 199.2 32 38.95 98.7 7.26 3.76 5.17 12.43 339 27.48 61.24 23.92 5.76 0.4 5.77 6.49 4.12 4.32 0.64 0.74 2.92 20.46 18.89 19.89 22.4 5.31
+St Dev 2.4 0.11 9 0.11 0.12 8 0.07 0.64 5.4 2.3 2.11 4.8 0.06 0.08 1.88 0.1 22 1.66 3.2 1.41 0.35 0.03 0.22 0.31 0.2 0.19 0.03 0.01 0.08 0.29 0.33 0.41 0.84 0.15
+Tondano Mean
+(n 2)
+115.7 10.23 1545 1.42 0.4 518 0.91 7.58 84 75.4 42.33 213.9 5.77 2.94 6.12 4.56 410 16.67 41.24 20.56 5.72 0.93 6.16 7.22 4.78 5.15 0.79 0.45 0.98 17.01 15.86 16.41 6.39 1.67
+St Dev 2.2 0.64 104 0.2 0.28 25 0.07 0.39 1.6 2.4 0.6 9 0.13 0.14 0.19 0.22 18 0.94 2.26 1.05 0.34 0.07 0.33 0.42 0.25 0.29 0.04 0.02 0.04 0.39 0.36 0.4 0.23 0.06
+Tidore n 1 246.2 3.57 1202 3.08 0.63 754 1.06 3.82 81.8 141.3 15.51 139.9 3.6 1.49 5.14 4.5 436 22.52 46.41 15.23 2.89 0.58 2.34 2.41 1.7 2.14 0.34 0.27 0.79 18.52 17.08 17.78 10.43 2.29
+Local standard
+Wekwok
+#2000
+Mean
+(n 7)
+185.8 5.84 2022 5.78 1.32 465 1.43 3.55 150.6 61.1 32.82 291.4 42.34 3.6 4.4 2.02 667 37.22 74.73 25.12 5.29 0.9 5.18 5.58 3.62 3.92 0.59 3.09 1.33 6.96 6.37 6.67 10.94 3.06
+St Dev 5.7 0.37 24 0.16 0.3 8 0.05 0.24 2.9 4.2 1.69 14.5 0.48 0.07 2.01 0.05 40 2.49 4.52 1.71 0.36 0.06 0.26 0.32 0.2 0.2 0.03 0.08 0.05 0.17 0.17 0.18 0.64 0.15
+The 34 measured isotopes produced data for 32 elements, including three isotopes of lead as follows: 31 P, 45
+Sc, 49 Ti, 51
+V, 53 Cr, 55
+Mn, 59 Co, 65
+Cu, 85 Rb, 88 Sr, 89 Y, 90
+Zr, 93 Nb, 95 Mo, 118 Sn, 133
+Cs, 138
+Ba, 139
+La, 140
+Ce, 144 Nd, 147
+Sm, 153 Eu, 158 Gd, 162 Dy,
+166 Er, 174
+Yb, 175
+Lu, 181
+Ta, 186
+W, 206 Pb, 207
+Pb, 208
+Pb, 232 Th, 238 U. A reduced set of nine elements (Sc, Ti, Rb, Ba, La, Ce, Dy, W, U) that satisfactorily differentiated between the source specimens was used with Correspondence Analysis to reveal
+possible artifact association with the sources. The results showed no association with any analysed source apart from the Baucau Plateau geological sample.the Medoid clustering procedure. This produced an optimal group
+of nine elements from the 32 shown in Table 3. The elements used
+in the source characterization and artifact allocations are Sc, Ti, Rb,
+Ba, La, Ce, Dy, W, U.
+Correspondence analysis (CA) was used to assess the group
+separation between the 88 Timor artifacts against all the available
+source specimens, using the nine selected elements. These included
+duplicates from several sources included in the Papua New Guinea,
+Bismarck Archipelago collection. Correspondence analysis shows
+a clear separation between two discrete groups of Timor artifacts and
+the obsidian source collections in the Department of Archaeology
+and Natural History, RSPAS, ANU collections as presented in Fig. 3.
+The very limited obsidian source collection available from
+Indonesia is presented for comparison with the Timor artifacts in
+Fig. 4. The differentiation between the Indonesian specimens and
+the Timor flakes shown numerically in Table 1, with Ti, Mn, Sr, Y, Zr
+and Nb, is confirmed in Fig. 4 with the correspondence analysis plot
+of the ICPMS examples including those described previously from
+the Java Leles source southeast of Bandung, the northeast Sulawesi
+Lake Tondano source, the Halmahera specimen from Tidore Island,
+and the East Timor artifacts.
+From the above CA analyses set out in Figs. 3 and 4 and the set of
+examples in Tables 1–3 it is clear that none of our obsidian reference collection matches the Timor artifacts. The only close match is
+with the single Baucau source sample that clusters with flakes
+recovered from the Baucau region excavations (BCU and BCUM).
+7. Results from the analysis of the Timor artifact volcanic
+glasses
+Published geological references to Timor do not show it to be
+a likely source for the presence of obsidians with its lack of the
+silica-rich volcanic centers. The record is more consistent with the
+lower silica content Baucau source where this study confirms that
+low silica (B) group artifacts are clearly from a local Timor source,
+but the origin is less certain for the higher silica content (A) group
+artifacts exclusively used at sites MK1 and MK2 at the eastern end
+of Timor and to a minor extent at BCU and BCUM in the Baucau
+region. The (B) group production from disparate pebbles rather
+than a single homogeneous exposure is reflected in the wide
+standard deviation range of the group’s chemical composition, in
+contrast to the quite restricted range of the high silicate (A) group.
+In general the chemical similarity of the artifacts to one of the two
+compositional groups shows the very restricted geological availability of volcanic glasses on the island.
+8. Conclusions
+As Glover observed, the pitchstone pebbles eroding from
+a geological deposit over thousands of years on the Baucau plateau
+are the probable source of raw material for the (B) group artifacts.
+Likewise, the BCUM artifacts are clearly related to the same Baucau
+source. In contrast six of the seven BCU site flakes and nine of the 32
+from the BCUM site are chemically indistinguishable from the 49
+obsidian artifacts from the MK1 and MK2 sites 80 km to the east.
+The MK1 site (Veth et al., 2005) has high silica obsidian use
+beginning around 10,000 years ago whereas the MK2 site has
+obsidian artifacts from around 13,000 years ago, with the initial
+occupation beginning around 30,000 years ago. A useful study that
+could help in defining the sources and their locations would be
+a lithic technological description of the artifacts including
+descriptions of their cortex type and abundance, and their
+comparative size range.
+The Bui Ceri Uato site excavated by Glover on the Baucau Plateau
+has occupation beginning around 26,000 years ago with obsidian
+use beginning around 11–12,000 bp (Seleminotis pers. comm
+2007). The analyzed BCUM collection is from relatively younger
+deposits aged between 5500 and 7500 years. Despite the very
+limited Baucau geological source specimens available for comparison from the area, they do show convincingly that (B) group artifacts are from very similar local geological exposures. On the other
+hand until there is a larger collection of obsidians from the regional
+Island Southeast Asian region for comparison it will not be possible
+to totally exclude a non-Timor source for the (A) group MK1–MK2
+artifacts. One support for a local origin is that the dated contexts of
+the (A) group artifacts show that the source has been exploited for
+at least 13,000 years. Such longevity in access to a homogeneous
+obsidian supply would be very difficult to sustain if it required an
+external voyage to some distant island, especially when there are
+no prospective islands within easy canoe range of the northeast
+Timor coast. Therefore, on the balance of evidence but lacking an
+identifiable source for the (A) group MK1–MK2 artifacts, it is likely
+that these, as well as the (B) group Baucau artifacts derive from
+locally found raw materials.
+-40
+-20
+0
+20
+40
+60
+80
+100
+-80 -60 -40 -20 0 20 40 60 80
+Timor obsidian
+artefacts and Papua New Guinea sources
+Factor 1 (76%) x100
+Factor 2 (15%) x100
+Timor (A) Timor (B)
+a, b, c, d c, d, e
+1
+2
+3
+4
+5
+6 7
+8
+9
+Fig. 3. Correspondence analysis plot using Sc, Ti, Rb, Ba, La, Ce, Dy, W, and U comparing
+obsidians from East Timor with the Papua New Guinea sources. The Papua New Guinea
+sources are: 1 Southwest Manus; 2 Pam Islands; 3 Lou Island; 4 Lou Is standard
+Wekwok; 5 West Fergusson; 6 West Fergusson Fagalulu; 7 West New Britain; 8 East
+Fergusson; 9 Sanaroa Island. Timor (A) is included in sites MK1(a), MK2(b), BCU(c) and
+BCUM(d). Timor (B) is confined to sites BCU(c) and BCUM(d) The Baucau source is (e).
+-20
+-10
+0
+10
+20
+30
+40
+-80 -60 -40 -20 0 20 40 60 80
+BB
+Timor obsidian artefacts and Sunda sources
+Factor 1 (96%) x100
+Factor 2 (2%) x100
+Timor (A)
+a, b, c, d
+Timor (B)
+c, d, e
+1
+2
+3
+4
+Fig. 4. Correspondence analysis using Sc, Ti, Rb, Ba, La, Ce, Dy, W, and U comparing
+obsidians from East Timor with a limited collection of Sunda, Banda Arc Islands
+sources. The sources are: 1 Leles; 2 Lou Is Wekwok standard; 3 Minahasa; 4 Tidore.
+Timor (A) is included in sites MK1(a), MK2(b), BCU(c) and BCUM(d). Timor (B) is
+confined to sites BCU(c), BCUM(d). The Baucau source is (e).
+W. Ambrose et al. / Journal of Archaeological Science 36 (2009) 607–615614The beginning of obsidian use in other parts of Island Southeast
+Asia remains to be defined through further refinements in the
+dating of particular sites. On present limited archaeological
+evidence obsidian was first employed in Timor only about 13–
+11,000 years ago. This seems to be an unlikely age limit when
+compared with obsidian use in the Bismarck Archipelago to the east
+in Island Melanesia. There the earliest sites show obsidian exploitation on New Britain extending to about 45–35,000 years ago,
+with inter-island trade in this valued stone extending back some
+20,000 years (Torrence et al., 2004; Summerhayes and Allen, 1993).
+It is perhaps surprising given the archaeological importance of the
+Sunda-Banda archipelagoes for the development of maritime,
+agricultural, and linguistic affinities of Austronesian speakers, and
+the colonizing achievements of earlier people, that the opportunity
+to examine connections over time in the region through raw
+materials analysis has been relatively neglected. It would be
+a useful contribution to examining and understanding these issues
+if further detailed studies examining raw material resources and
+their distribution could be undertaken in the Island Southeast
+Asian region. At the very least there should be an effort to locate
+and sample the Timor obsidian sources.
+Acknowledgements
+We are grateful to Helen Seleminotis for allowing us to use the
+unpublished dates from Bui Ceri Uato, Professor Ron Harris,
+Department of Geology, Brigham Young University, Provo, Utah, for
+providing a sample of glassy rock from the Baucau Plateau that we
+have used in our analysis of the artifacts from East Timor, and Dr
+Wally Johnson, Australian National University, for helpful geological comments on an earlier draft of this paper.
+References
+Ambrose, W., 2001. Obsidian hydration dating. In: Brothwell, D.R., Pollard, A.M. (Eds.),
+Handbook of Archaeological Sciences. John Wiley and Sons, Chichester UK, pp. 81–92.
+Anderson, A., Ambrose, W., Leach, F., Weisler, M., 1997. Material sources of basalt
+and obsidian artefacts from a prehistoric settlement site on Norfolk Island,
+South Pacific. Archaeology in Oceania 32, 39–46.
+Audley-Charles, M.G., 1991. Tectonics of the New Guinea area. Annual Reviews of
+Earth Planetary Science 19, 17–41.
+Bellot-Gurlet, Poupeau, G., Salomon, J., Calligaro, T., Moignard, B., Dran, J.-C.,
+Barrat, J.-A., Pichon, L., 2005. Obsidian provenance studies in archaeology:
+a comparison between PIXE, ICP-AES and ICP-MS. Nuclear Instruments and
+Methods in Physics Research B240 (1-2), 583–588.
+Bellwood, P., 1976. Archaeological research in Minahasa and the Talaud Islands,
+Northeastern Indonesia. Asian Perspectives XIX (2), 240–288.
+Bellwood, P., 1989. Archaeological investigations at Bukit Tengkorak and Segarong,
+southeastern Sabah. Bulletin of the Indo-Pacific Prehistory Association 9, 122–162.
+Bird, J.R., Duerden, P., Ambrose, W.R., Leach, B.F., 1981. Pacific obsidian catalogue. In:
+Leach, B.F. (Ed.), Lithic Resources of the Pacific Region. British Archaeological
+Reports International Series, vol. 104. BAR, Oxford, pp. 31–43.
+Bird, J.R., Duerden, P., Wilson, D.J., 1983. Ion beam techniques in archaeology and
+the arts. Nuclear Science Applications 1, 357–526.
+Bronson, B., Asmar, T., 1976. Prehistoric investigations at Tianko Panjang Cave,
+Sumatra; an interim report. Asian Perspectives 18 (2), 128–145.
+Chia, S. 1998. The obsidian industry at Bukit Tengkorak, Sabah, Malaysia. Paper
+given at the 16th Congress of the Indo-Pacific Prehistory Association, Melaka,
+Malaysia, 1–7 July 1998.
+Chia, S., 2001. The prehistory of Bukit Tengkorak, Sabah, Malaysia. Journal of
+Southeast Asian Archaeology 21, 146–159.
+Cohen, D.D., Siegele, R., Orlic, I., Stecler, E., 2002. Long-term accuracy and precision
+of PIXE and PIGE measurements for thin and thick sample analysis. Nuclear
+Instruments and Methods in Physics Research B 189, 81–85.
+Elburg, M.A., van Bergen, M., Hoogewerff, J., Foden, J., Vroon, P., Zulkarnain, I.,
+Nasution, A., 2002. Geochemical trends across an arc-continent collision zone;
+magma sources and slab-wedge transfer processes below Pantar Strait volcanoes, Indonesia. Geochimica et Cosmochimica Acta 66 (15), 2771–2789.
+Elburg, M., Foden, J.D., van Bergen, M.J., Zulkarnain, I., 2003. Along and Across-arc
+Geochemical Constraints on Sources and Transfer Processes in the Sunda-Banda
+Arc, Indonesia. State of the Arc, Oregon.
+Glascock, M.D., Speakman, R.J., Neff, H. 2007. Archaeometry at the University of
+Missouri Research Reactor and the provenance of obsidian artifacts in North
+America. Archaeometry 49(2), 343–357. [Special issue on fifty years of Neutron
+Activation Analysis in archaeology].
+Glover, I.C., 1986. Archaeology in Eastern Timor, 1966–67. Terra Australis 11. Dept of
+Prehistory, Research School of Pacific Studies, The Australian National University, Canberra.
+Hamson, G.R., 2004. The tectonic evolution of The Banda Orogen, East Timor. In:
+PESA News, The National Newsletter of the Petroleum Exploration Society of
+Australia, No 73.
+Hintze, J.L. 2007. NCSS software, Number Cruncher Statistical System. Kayesville, UT.
+Honthaas, C., Maury, R.C., Priadi, B., Bellon, H., Cotton, J., 1999. The Plio-Quaternary
+Ambon arc, Eastern Indonesia. Tectonphysics 301 (3-4), 261–281.
+Leach, B.F., 1996. New Zealand and Oceanic obsidians: an archaeological perspective
+using neutron activation analysis. Journal of the Royal Society of New Zealand
+26 (1), 79–105.
+Leach, B.F., Warren, S., 1981. Neutron activation of analysis of New Zealand and
+Pacific obsidians: towards a simple screening technique. In: Leach, B.F.,
+Davidson, J. (Eds.), Archaeological Studies of Pacific Stone Resources. BAR
+International Series, vol. 104, pp. 15–166.
+Longerich, H.P., Jackson, S.E., Gu ̈ nther, D., 1996. Laser ablation inductively coupled
+plasma mass spectrometric transient signal data acquisition and analyte
+concentration calculation. Journal of Analytical Atomic Spectrometry 11, 899–904.
+McKinnon, E.E. 2002. Neolithic and Later Sites in the Area Northeast of Bogor, West
+Java: their Interpretations and Significance. Paper given at the 17th Congress of
+the Indo-Pacific Prehistory Association, Taipei, Taiwan, 9–15 September 2002.
+Muraoka, H., Nasution, A., Urai, M., Taskahashi, M., Takashima, I., 2002. Geochemistry of volcanic rocks in the Bajawa geothermal field, central Flores, Indonesia.
+Bulletin of the Geological Survey of Japan 53 (2/3), 147–159.
+Neff, H., 2003. Analysis of Mesoamerican plumbate pottery surfaces by Laser
+Ablation-Inductively Coupled Mass Spectrometry (LA-ICPMS). Journal of
+Archaeological Science 30 (1), 21–35.
+Neri, L.A.M., 2007. Philippine obsidian and its archaeological applications. Bulletin
+of the Indo-Pacific Prehistory Association 27, 154–162.
+Neve, S.R., Barker, P.H., Holroyd, S., Sheppard, P.J., 1994. Obsidian Sourcing by PIXE
+analysis at AURA2. New Zealand Journal of Archaeology 16, 93–121.
+Oliveira, N.V. 2008. Subsistence Archaeobotany: Food Production and the Agricultural Transition in East Timor. Unpublished PhD thesis, The Australian National
+University, Canberra.
+Pearce, N.J.G., Perkins, W.T., Westgate, J.A., Gorton, M.P., Jackson, S.E., Neale, C.R.,
+Chenery, S.P., 1997. A compilation of new and published major and trace
+element data for NIST SRM610 and NIST SRM612 glass reference materials.
+Geostandards Newsletter 21 (1), 115–144.
+Shackley, M.S., 1998. Archaeological Obsidian Studies, Method and Theory. Plenum
+Press, New York.
+Smith, I.E.M., Ward, G.K., Ambrose, W.R., 1977. Geographical distribution and the
+characterization of volcanic glasses in Oceania. Archaeology and Physical
+Anthropology in Oceania 12, 173–201.
+Spriggs, M., 2003. Chronology of the Neolithic transition in Island Southeast Asia and
+the Western Pacific: a view from 2003. The Review of Archaeology 24 (2), 57–80.
+Subagus, N.A., 1979. Obsidian industry in Leles, West Java: preliminary report.
+Modern Quaternary Research in Southeast Asia 5, 35–41.
+Summerhayes, G., Allen, J., 1993. The transport of Mopir obsidian to Late Pleistocene
+New Ireland. Archaeology in Oceania 28 (3), 144–148.
+Summerhayes, G.R., Bird, J.R., Fullagar, R., Gosden, C., Specht, J., Torrence, R., 1998.
+Application of PIXE-PIGME to archaeological analysis of changing patterns of
+obsidian use in West New Britain, Papua New Guinea. In: Shackley, M.S. (Ed.),
+Archaeological Obsidian Studies, Method and Theory. Plenum Press, New York,
+pp. 129–158.
+Sutayasa, I.M., 1979. Prehistory in West Java, Indonesia. The Artefact 4, 61–75.
+Torrence, R., Neall, V., Doelman, T., Rhodes, E., McKee, C., Davies, H., Bonetti, R.,
+Guglielmetti, A., Manzoni, A., Oddone, M., Parr, J., Wallace, C., 2004. Pleistocene
+colonization of the Bismarck Archipelago: new evidence from West New Britain. Archaeology in Oceania 39 (3), 101–130.
+Tykot, R.H., 1997. Characterization of the Monte Arci (Sardinia) obsidian sources.
+Journal of Archaeological Science 24, 467–479.
+Tykot, R.H., Chia, S., 1997. Long-distance obsidian trade in Indonesia. In:
+Vandiver, P.B., Druzik, J.R., Merkel, J.F., Stewart, J. (Eds.), Materials Issues in Art
+and Archaeology V, Vol. 462. Materials Research Society, Pittsburgh, pp. 175–180.
+United Nations, 2003. Atlas of Mineral Resources of the ESCAP Region, Vol. 17, Gold
+and Mineral Resources of Timor Leste. Geology of Timor Leste. Chapter 11.
+van Heekeren, H.R., 1972. The Stone Age of Indonesia, second ed. Martinus Nijhoff,
+The Hague.
+Vandiver, P., Chia, S., 1997. The pottery technology from Bukit Tengkorak, a 3000–
+5000 year old site in Borneo, Malaysia. In: Vandiver, P.B., Druzik, J.R., Merkel, J.F.,
+Stewart, J. (Eds.), Materials Issues in Art and Archaeology V, Vol. 462. Materials
+Research Society, Pittsburgh, pp. 269–277.
+Veth, P., Spriggs, M., O’Connor, S., 2005. Continuity in tropical cave use: examples from
+east Timor and the Aru Islands, Maluku. Asian Perspectives 44 (1), 181–192.
+Weisler, M.I., Clague, D.A., 1998. Characterization of archaeological volcanic glass from
+Oceania: the utility of three techniques. In: Shackley, M.S. (Ed.), Archaeological
+Obsidian Studies, Method and Theory. Plenum Press, New York, pp. 103–128.
+Wheller, G.E., Varne, R., Foden, J.D., Abbott, M.J., 1987. Geochemistry of Quaternary
+volcanism in the Sunda-Banda arc, Indonesia, and three-component genesis of
+island-arc basaltic magmas. Journal of Volcanology and Geothermal Research
+32 (1-3), 137–160.
+Whitford, D.J., Compston, W., Nicholls, I.A., 1977. Geochemistry of late Cenozoic
+lavas from eastern Indonesia: role of subducted sediments in petrogenesis.
+Geology 5, 571–575.
+W. Ambrose et al. / Journal of Archaeological Science 36 (2009) 607–615 615

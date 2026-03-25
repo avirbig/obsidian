@@ -1,0 +1,130 @@
+
+
+***
+
+### **Metadata & Publication Information**
+**Title:** Source obsidian rare earth patterns and obsidian artefact provenience
+**Authors:** Joseph Yellin, Isadore Perlman (The Hebrew University of Jerusalem, JERUSALEM, ISRAEL)
+**Journal:** Revue d'Archéométrie, n°1, 1981. Actes du XXe symposium international d'archéométrie Paris 26-29 mars 1980 Volume III. pp. 325-330.
+**DOI:** https://doi.org/10.3406/arsci.1981.1163
+
+---
+
+### **Abstracts**
+**Abstract:** The rare earth distributions in obsidian source material examined. For seven sources from Turkey examined by instrumental neutron activation analysis (INAA) the rare earth patterns provide a unique signature for the assignment of provenience for archaeological finds. Considerable economy in INAA measurements may be achieved for obsidian artefact provenience assignment.
+
+**Résumé:** Ce travail examine la répartition d'éléments de terre rare dans les matériaux de sources obsidiennes. Aux sept sources de la Turquie, examinées par l'analyse par activation neutronique (INAA), les échantillons de terre rare fournissent une empreinte unique, qui signale l'assignation en provenance des trouvailles archéologiques. Une économie considérable peut être atteinte avec l'INAA pour indiquer l'assignation en provenance d'artefacts obsidiens.
+
+---
+
+### **Introduction**
+Trace element characterization of obsidian sources has revealed that a few elemental abundances suffice to descriminate one source from another within a given cultural area (1). Thus, the assignment of artifact provenience in a region can be greatly simplified once the sources of the region have been analyzed for the maximum number of elements and with sufficient precision so that a set of a few elements useful for provenience can be defined. One of the objects of source analysis then is to delimit that restricted set of elements which result in greatest source descrimination. Ideally, one hopes that such a restricted set of elements would be measurable with greater economy.
+
+The consensus among those engaged in provenience studies is that as many elements as possible should be measured and with the greatest possible precision (2). There are no rules for delineating a subset of elements for provenience assignment although it is recognized that in specific instances, noteably obsidians, such subsets can be demonstrated.
+
+It can be argued on geochemical grounds that the rare earth elements (REE) are least affected by fractionation processes which occur when obsidian forms and that therefore the REE are more representative of the magma from which the obsidian formed. That is, the REE might be expected to serve as a signature for different volcanic sources. Regardless of the merits of the above we proceed to examine the REE distributions in seven obsidian sources from Turkey, including five sources from Central Anatolia and two from Eastern Turkey.
+
+### **REE Patterns**
+Table 1 gives the REE for four sources from Central Anatolia (3). These sources are: Göllü Dag (GLD), Hotamis Dag (HTMD), Koru Dag (KRUD) and Nenzi Dag (NNZD). The values shown are group averages and root-mean-square deviations for the number of samples analyzed. The values are normalized to the mean CI chondrite composition shown in the last column of Table 1. The sources are seen to be easily distinguishable from one another and from the Eastern Turkey sources shown in Table 2. The latter are from Nemrut Dag (NMRD) and Zarneki Tepe. Also shown in Table 2 is a single piece from the vicinity of Lake Sevan in Soviet Armenia (4). The REE patterns of all sources are plotted in Figure 1 along with three archaeological finds from Israel; Tel Mevorakh (MVRK) (5), Beisamoun (BSMN) (6), Ha'zorea (HZRA) (7), and one archaeological find from Kermanshah (KRMNS) in Western Iran (8). Provenience of the archaeological finds is easily established on the basis of the REE pattern and this assignment is supported by the full complement of 25 elements measured.
+
+### **INAA**
+The REE shown in Tables 1 and 2 are obtained along with many other elements in an instrumental neutron activation analysis (INAA) program which involves taking four gamma spectra for each specimen analyzed. Although analytical programs vary from one place to another, depending on such factors as neutron flux, distance from the reactor and analyzing equipment, analytical programs similar to the ones employed by us and shown in Table 3 are needed to achieve good precision of measurement. The measurements which are indicated in Table 3 extend over a period of approximately 25 days. Each cooling period is selected to optimize the precision for a particular group of elements. Advantage is taken of a high efficiency coaxial geometry Ge(Li) detector in two of the programs (1, 4) where interference problems are not serious and for two programs (2, 3) a high resolution planar geometry GE(Li) is employed to minimize interference problems. Typical sample size employed is 100 mg and the neutron flux is 2 x 10^13/cm-sec. The standard employed is that of Perlman and Asaro (9).
+
+Table 3 shows the best REE measured at each stage and in parentheses are shown secondary measurements which are somewhat less accurate either due to interferences, background problems, detector efficiency or time elapsed after the neutron irradiation. Most of the secondary measurements can be made sufficiently precise and reliable to serve for provenience assignement. To improve the accuracy is largely a question of proper calibration of interferences.
+
+All of the REE shown in Tables 1 and 2 are obtainable from program 2 of Table 3. Table 4 compares the counting errors of best and secondary REE measurements for a typical obsidian analysis. With the exception of Tb good precision is obtained for all REE measurements of program 2. Not all of the REE shown are needed for provenience assignment. The sequence La, Ce, Nd, Sm, and Eu for example suffice to fix the provenience. Thus, the omission of Tb does not render the assignment of provenience any less reliable. The significance of these results is that considerable economy can be affected in the determination of obsidian provenience by an analysis analogous to our program 2. In our case this translates to roughly a four-fold saving in analysis time and associated expenses. Moreover, results are obtainable with greater speed.
+
+### **Conclusion**
+At present too few obsidian sources have been examined with sufficient detail to ascertain that sources from different regions can always be differentiated on the basis of their REE pattern alone. What we are able to say at this juncture is that for the sources thus far examined the REE pattern serves as a unique signature. In addition to the source material presented here, we have examples of many archaeological obsidians from sites in Israel whose chemical composition and REE pattern is unlike any of the sources yet examined. These finds suggest on the one hand that many more sources remain to be explored and on the other hand that the REE patterns are unique.
+
+### **Acknowledgements**
+We gratefully acknowledge the Volkswagen Foundation for a generous grant which made possible this work and other works in our laboratory.
+We wish to thank Mr. Ergun Temiz of the Maden Tetkik ve Arama Enstitüsü, Ankara (MTA) for providing us with obsidian specimens from Nemrut Dag.
+Many thanks are due to Dr. Steve Tandy, Mssrs. J. Gunneweg and S. Riss, and Ms. H. Bidani for assistance in the laboratory work.
+
+---
+
+### **References**
+(1) F. Asaro, H.V. Michel, R. Sidrys and F. Stross, High-precision chemical characterization of major obisidian sources in Guatemala, Lawrence Berkeley Laboratory Report, LBL-5984 (1977); American Antiquity, 43, 3 (1978) p. 436.
+(2) A.L. Wilson, Elemental analysis of pottery in the study of its provenience: A review, J. Arch. Sci., 5 (1978) 219.
+(3) I. Perlman, J. Yellin and S. Payne (to be published).
+(4) We thank J. Blackman for providing us with this specimen.
+(5) I. Perlman and J. Yellin, Provenience of obsidian from Neolithic sites in Israel (to be published in I.E.J.).
+(6) I. Perlman and J. Yellin, Contribution to: M. Lechevallier: Abu Gosh et Beisamoun, mémoires et Travaux du Centre de Recherches Préhistorique Français de Jerusalem, No. 2, Paris (1978) p. 199.
+(7) J. Yellin and I. Perlman, Characterization of Anatolian obsidian flows and the provenience of obsidian artifact finds from Israel, Contribution to the Smithsonian-National Bureau of Standards Obsidian Workshop, Gaithersburg, Md. (April 1978).
+(8) We are grateful to Professor Louis Levine for providing this material.
+(9) I. Perlman and F. Asaro. Pottery analysis by neutron activation, Archaeometry 11, (1969) p. 21.
+
+---
+
+### **Data Tables**
+
+**Table 1: REE Values for Source Obsidians-Central Anatolia Composition Relative to CI Chondrite***
+
+| EL | GLD (63 pcs)<br>Mean ± RMSD | HTMD (61 pcs)<br>Mean ± RMSD | KRUD (23 pcs)<br>Mean ± RMSD | NNZD (26 pcs)<br>Mean ± RMSD | CI (ppm) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **La** | 98.7 ± 3.0 | 129.6 ± 3.1 | 54.8 ± 5.2 | 174.3 ± 5.6 | 0.230 |
+| **Ce** | 77.6 ± 1.9 | 95.8 ± 1.9 | 56.4 ± 2.4 | 120.2 ± 4.1 | 0.590 |
+| **Nd** | 34.0 ± 1.9 | 42.8 ± 1.9 | 35.2 ± 2.8 | 48.6 ± 2.1 | 0.420 |
+| **Sm** | 21.3 ± 0.5 | 24.1 ± 0.5 | 27.8 ± 0.9 | 24.1 ± 0.4 | 0.130 |
+| **Eu** | 3.04 ± 0.36 | 8.12 ± 0.36 | 0.66 ± 0.22 | 11.3 ± 0.4 | 0.050 |
+| **Tb** | 13.4 ± 1.2 | 13.6 ± 0.8 | 21.2 ± 1.2 | 13.1 ± 0.9 | 0.032 |
+| **Yb** | 15.7 ± 0.6 | 19.3 ± 0.5 | 27.9 ± 1.0 | 15.5 ± 0.5 | 0.150 |
+| **Lu** | 14.9 ± 0.6 | 18.6 ± 0.8 | 26.1 ± 1.1 | 15.4 ± 0.5 | 0.023 |
+*\*Values are group averages and root-mean-square deviations for the number of pieces shown. The CI chondrite values are taken from: J.T. Wasson, Meteorites (Second Edition), Springer-Verlag.*
+
+<br>
+
+**Table 2: REE Values for Source Obsidians-Eastern Turkey Composition Relative to CI Chondrite**
+
+| EL | NMRD1 (34 pcs) | NMRD2 (25 pcs) | ZNKT (6 pcs) | Sevan* |
+| :--- | :--- | :--- | :--- | :--- |
+| **La** | 397.0 ± 9.1 | 445.7 ± 10.3 | 132.6 ± 2.2 | 130.6 |
+| **Ce** | 348.6 ± 8.4 | 391.7 ± 13.4 | 125.1 ± 2.5 | 96.3 |
+| **Nd** | 200.7 ± 4.8 | 225.2 ± 8.0 | 75.5 ± 2.4 | 42.0 |
+| **Sm** | 136.5 ± 2.1 | 155.3 ± 3.6 | 52.9 ± 0.8 | 23.8 |
+| **Eu** | 10.1 ± 0.2 | 16.3 ± 0.4 | 7.7 ± 0.5 | 10.6 |
+| **Tb** | 99.1 ± 1.9 | 115.3 ± 3.1 | 36.6 ± 1.9 | 32.2 |
+| **Yb** | 87.6 ± 1.7 | 100.2 ± 3.1 | 43.7 ± 1.3 | 19.3 |
+| **Lu** | 82.0 ± 1.7 | 93.8 ± 2.5 | 38.1 ± 0.9 | 15.9 |
+*\*Soviet Armenia. The precisions of measurement for the one piece from the Lake Sevan region are much smaller than the RMSD values for the groups shown.*
+
+<br>
+
+**Table 3: INAA Analytical Program***
+
+*Program Parameters:*
+| Prog. no. | 1 | 2 | 3 | 4 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Live Time** | 10 min | 20 min | 20 min | 60 min |
+| **Cooling Time**| 6 day | 8 day | 18 day | 25 day |
+| **Detector** | large | small | small | large |
+
+*Isotopes & Energy Levels (keV):*
+| Isotope/γ-ray | Prog. 1 | Prog. 2 | Prog. 3 | Prog. 4 | T1/2(days) |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **La-140** | 486.7/1596 | (329.0) | | | 1.676 |
+| **Ce-141** | | (145.4) | (145.4) | 145.4 | 32.5 |
+| **Nd-147** | | (91.1) | 91.1 | | 11.06 |
+| **Sm-153** | | 103.2 | | | 1.950 |
+| **Eu-152** | | (121.8) | 121.8 | (1408) | 4636 |
+| **Tb-160** | | (86.8) | (298.5) | 298.5 | 72.1 |
+| **Yb-169** | | (63.1) | 63.1 | | 31.8 |
+| **Lu-177** | | 208.4 | | | 6.74 |
+*\*INAA analytical program employed for rare-earth measurements. The γ-rays in brackets are employed for secondary measurements.*
+
+<br>
+
+**Table 4: Counting Errors %* Obsidian-Low REE (Sample K164-H)**
+
+| EL | Prog. 1 | Prog. 2 | Prog. 3 | Prog. 4 |
+| :--- | :--- | :--- | :--- | :--- |
+| **La** | 1.41 | (1.90) | | |
+| **Ce** | | (2.08) | (1.68) | 0.59 |
+| **Nd** | | (5.45) | 5.25 | |
+| **Sm** | | 0.43 | | |
+| **Eu** | | (4.89) | 4.23 | (4.59) |
+| **Tb** | | (33) | (11.4) | 7.24 |
+| **Yb** | | (3.50) | 3.11 | |
+| **Lu** | | 4.86 | | |
+*\*Comparison of the counting errors for best and secondary rare-earth determinations.*

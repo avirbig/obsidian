@@ -1,0 +1,572 @@
+*Received 24 May 2006; accepted 6 July 2006
+© University of Oxford, 2007
+Archaeometry 49, 3 (2007) 437– 454. Printed in Singapore doi: 10.1111/j.1475-4754.2007.00313.x
+Blackwell Publishing LtdOxford, UKARCHArchaeometry0003-813X© University of Oxford, 2007XXXORIGINAL ARTICLESSourcing obsidian from Neolithic Çatalhöyük (Turkey)T. Carter and M. S. Shackley*Received 24 May 2006; accepted 6 July 2006
+SOURCING OBSIDIAN FROM NEOLITHIC ÇATALHÖYÜK
+(TURKEY) USING ENERGY DISPERSIVE X-RAY
+FLUORESCENCE*
+T. CARTER
+Department of Anthropology, McMaster University, Chester New Hall 524, 1280
+Main Street West, Hamilton, Ontario, L85 489, Canada
+and M. S. SHACKLEY
+Department of Anthropology/Archaeological XRF Laboratory, University of California,
+Berkeley, CA 94720-3710, USA
+This paper details the chemical sourcing of 42 obsidian artefacts from a single Neolithic
+structure at Çatalhöyük (central Anatolia), using Energy Dispersive X-Ray Fluorescence
+(EDXRF). The chemical signatures of the samples match those of two geological sources in
+southern Cappadocia: East Göllü Dag and Nenezi Dag. The data provide a counterpoint
+for previous analyses at the site, and suggest possible intra-community distinctions with
+regard to shifts in raw material procurement and technical change.
+KEYWORDS: OBSIDIAN SOURCING, ÇATALHÖYÜK, NEOLITHIC, EDXRF, EAST GÖLLÜ
+DAG, NENEZI DAG
+INTRODUCTION
+Located in central Anatolia’s Konya Plain (Fig. 1), the site of Çatalhöyük comprises two artificial
+mounds that rise above a flat, seasonally flooded plain (Fig. 2). The earlier and more famous
+East Mound is primarily of Neolithic date (settled in the Aceramic Neolithic), its excavation
+in the 1960s revealing a remarkable settlement of 32 acres, the world’s first city (Mellaart 1967),
+with 15 building levels superimposed upon one another and a population that at its peak was
+anywhere between 3500 and 8000 people (Cessford 2005). Radiometric dating provides us
+with a chronological range of c. 7400–5600 cal bc for the mound’s occupation, from its basal
+strata (Level Pre-XII.D) up to Level II (Cessford et al. 2005). While Çatalhöyük was a
+remarkable settlement for its time, its location was an extremely poor one in terms of everyday
+resources. Aside from a never-ending supply of mud (the main building material), virtually
+everything the community required to roof their houses, make their tools and—to an extent—
+feed themselves, had to come from afar (Mellaart 1967, 212; Fairburn et al. 2002, 49–53).
+This is particularly true of obsidian, the main raw material for their flaked implements (usually
+> 95% of any assemblage), the closest sources of which lay some 190 km distant to the northeast, in the volcanic region of Cappadocia (Fig. 1).
+The sheer quantity of obsidian at the site led the first excavator to argue that the resource
+was of major economic significance to the community, their primary exchange commodity,
+with Çatalhöyük controlling the Cappadocian sources and monopolizing the material’s trade
+throughout Anatolia, Cyprus and the Near East (Mellaart 1967, 177). A wall-painting from438 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49 , 3 (2007) 437–454
+one of the site’s ‘shrines’ was claimed to show Hasan Dag (with Çatalhöyük shown in the foreground), the closest of Cappadocia’s obsidian-bearing mountains. This distinctive doublepeaked volcano is occasionally visible from the site, its depiction allegedly symbolizing
+the importance of the raw material from which the site probably derived much of its wealth
+(Mellaart 1967, 177, pls. 59–60).
+Some 40 years later, we now know that the widespread dissemination of Cappadocian
+obsidians predates the establishment of Çatalhöyük by millennia, with East Göllü Dag obsidian
+recovered from Epi-Palaeolithic sites (12 000–10 000 bc ) in the Middle Euphrates and southern
+Levant (Cauvin and Chataigner 1998, 330–1). Moreover, most of the Cappadocian obsidian
+put into circulation during the Neolithic—including the period of Çatalhöyük’s occupation—
+was consumed by communities to the east and south; that is, in the opposite direction to the
+Konya Plain. This is not to say that Çatalhöyük did not enjoy some form of intermediary role
+Figure 1 A map showing the obsidian sources and sites mentioned in the text (M. MiliÇ).Sourcing obsidian from Neolithic Çatalhöyük (Turkey) 439
+© University of Oxford, 2007, Archaeometry 49 , 3 (2007) 437–454
+with the ‘obsidian trade’ (sic). It may have acted as a form of ‘gateway community’ (cf., Hirth
+1978), with obsidian passing through the site en route to settlements in the Lake District and
+Antalya region, while some of its inhabitants may have acted as ‘middlemen’, or ‘itinerant
+traders’ (cf., Crawford 1978; Perlès 1990). With regard to Hasan Dag, evidence suggests that
+the source was never used. Its obsidian is difficult to access and is a poor medium for tool
+production; moreover, numerous characterization studies have failed to link any archaeological
+obsidian to this mountain (Cauvin and Balkan-Atlı 1996, 252; Chataigner 1998, 292–3). In
+turn, there are many who now think the wall-painting depicts a leopard skin, rather than the
+volcano (Russell and Meece 2005, 212).
+BACKGROUND TO THE STUDY
+Obsidian characterization studies in Anatolia and South-West Asia have enjoyed a renaissance
+in the past decade (cf., Gomez et al. 1995; Gratuze 1999; Abbès et al. 2001; inter alia), many
+projects stemming from a recent major interdisciplinary study of Anatolia’s numerous sources
+(Cauvin et al. 1998). Since 1999 this ‘new wave’ of sourcing studies has included a programme
+dedicated to investigating Çatalhöyük’s history of obsidian consumption (Carter et al. 2005,
+2006). This work involves laboratories in the UK, France and the USA, employing not only
+EDXRF, but also ICP–MS/–AES, LA–ICP–MS, PIXE and SEM–EDS (Table 1). Some 277
+samples have been provenanced thus far, the artefacts coming from a range of contexts that
+span most of the site’s occupation (Table 2). This paper details the elemental characterization
+of 42 obsidian artefacts from one part of the site, namely the BACH (‘Berkeley Archaeologists
+at Çatalhöyük’) trench. This excavation area contained a single Neolithic structure (Building 3),
+Figure 2 A plan of Çatalhöyük East, showing the excavation areas mentioned in the text (Çatalhöyük Research
+Project).440 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49 , 3 (2007) 437–454
+three abutting rooms of another building to the south and a narrow strip of external space to
+the west (Figs 2 and 3). The archaeology of the BACH trench has been dated to approximately
+halfway through the Neolithic sequence of the East Mound, c. Level VIII–VII (Table 2).
+The larger obsidian sourcing project has a number of research agendas, not all of which will
+be dealt with here, as the data set under consideration comes from a single stratigraphic level.
+The first question to be asked of the BACH data concerns the origin of its raw materials and
+how they were being consumed. Technological and typological studies have detailed the rich
+and diverse nature of Çatalhöyük’s obsidian assemblages through time (Conolly 1999a; Carter
+et al. 2005). While the tool types and knapping technologies may change, one thing remains
+constant—the fact that at any one time obsidian was being procured in a range of different
+forms and worked in various fashions. It is crucial to factor in these data when sampling; that
+is, to locate the study within a chaîne opératoire analytical framework (cf., Pelegrin et al. 1988)
+and to interrogate the relationship between raw material and specific knapping traditions,
+Table 1 The analysis of obsidian from Çatalhöyük: details of the laboratories, methods, number of samples and status
+of work
+Laboratory Method Samples Status
+Grenoble ICP–MS/ICP–AES 100 Carter et al. (2005, 2006)
+Aberystwyth LA–ICP–MS 35 Carter et al. (2005, 2006)
+Berkeley EDXRF 42 This paper
+Bordeaux PIXE/SEM–EDS 100 Delerue et al. (in prep.)
+Table 2 Chronological distribution of the 277 obsidian artefacts characterized by Berkeley (n = 42), Aberystwyth
+(n = 35) and CNRS (n = 200)
+Mound Level Samples Area Building
+West E. Chalcolithic I–II 7 Trench I 25
+East III 12 South Summit 10
+East III–IV 1 4040 47
+East IV 9 South Summit 44
+East V–IV 10 4040 45
+East V 2 Summit 10
+East VIB 1 South –
+East VII 15 South ?
+East VIII–VII 121 North/BACH 1, 3
+East VIII 16 South ?
+East IX–VIII 10 North 5
+East IX 15 South 2, 17
+East X 10 South 23
+East XII 5 South –
+East Lower KOPAL 5 KOPAL –
+East Pre-Level XII.A 8 South –
+East Pre-Level XII.B 11 South –
+East Pre-Level XII.C 11 South –
+East Pre-Level XII.D 10 South –Sourcing obsidian from Neolithic Çatalhöyük (Turkey) 441
+© University of Oxford, 2007, Archaeometry 49 , 3 (2007) 437–454
+rather than talk simply of sourcing ‘obsidian’. For these reasons, each sample is described in
+detail and illustrated for publication alongside the results (Figs 5 and 6 below).
+Another question that one can pose of the Building 3 material concerns the relationship
+between contemporary buildings and the obsidian sources (cf., Pires-Ferreira 1975, 31–5); that
+Figure 3 A plan of the BACH Area (Berkeley Archaeologists at Çatalhöyük): Building 3 to the north, the external
+midden to the west and Spaces 87–9 to the south (Berkeley Archaeologists at Çatalhöyük).442 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+is, to what extent can it be assumed that the characterization data derived from one structure
+reflect what was occurring contemporaneously elsewhere on the site? Rights of access to a source
+may have been based on kinship affiliations or membership of some other corporate group
+(cf., Torrence 1986, 52–7; Shackley 2005, 134–71), with the result that different houses
+might contain different obsidians. We can start to approach this question through comparing
+the Building 3 data with those from its neighbour Building 1 (North Area; Fig. 2) as the two
+structures are considered to be broadly contemporary, at around Level VIII–VII (Cessford et al.
+2005, 94). In undertaking this comparison, it should be noted that it remains uncertain as to
+what form(s) of social unit these buildings represent (Hodder 2005, 11–12).
+The broad range of questions being asked by the sourcing programme necessarily involves
+the analysis of a large collection of samples; with the BACH material, some 277 pieces have
+now been analysed as part of the project (Table 2). This is a significantly larger data set than
+usually associated with a single site, following recent trends elsewhere, as with the c. 400
+pieces from La Mana in Ecuador (Pereira 2000; Pereira et al. 2001), together with the
+hundreds from the Lower Ulúa Valley and Puerto Escondido in Honduras (Joyce et al. 2004)
+and pre-Classic and Classic sites in central Arizona (Shackley 2005, 136–71).
+PREVIOUS OBSIDIAN CHARACTERIZATION STUDIES AT ÇATALHÖYÜK
+Prior to this study, 255 artefacts from Çatalhöyük had been characterized over the past 40
+years (Renfrew et al. 1966; Wright 1969; Keller and Seifried 1990; Carter et al. 2005, 2006).
+The results indicate that Çatalhöyük’s obsidian came primarily from two sources in southern
+Cappadocia, East Göllü Dag and Nenezi Dag, 190 km north-east of the site and 10 km distant
+from one another (Fig. 1). The East Göllü Dag ‘source’ actually subsumes more than one outcrop
+on the volcano. When the chemical field was first defined by Poidevin (1998, 115–21, fig. 9),
+it incorporated three geologically distinct flows spread over a few kilometres that could not be
+geochemically discriminated: Kayırlı-East, Kömürcü and Sirça Deresi (though see Gratuze 1999).
+Matters have since become more complicated, as new work on Göllü Dag has documented
+10 distinct outcrops that have been separated into four groups on the basis of geochemical,
+geochronological and structural analyses (Gratuze et al. 2005). This is a common pattern for
+silicic eruptive events. If there is constant and sufficient dome production, dome complexes
+are formed that can be quite extensive (Fink and Manley 1987; Griffiths and Fink 1993;
+Anderson et al. 1998; Fink and Anderson 2000). Depending on the level of fractionation or
+simply long-term dome production, individual events (outcrops here) may be similar or quite
+dissimilar chemically (Hildreth 1981; Mahood and Hildreth 1983; Mahood and Stimac 1990;
+Hughes and Smith 1993; Shackley 1998). Our research group is also working on the question
+of how to further deconstruct the East Göllü Dag ‘source’, with initial results suggesting the
+potential ability to discriminate between the Kömürcü and East Kayırlı outcrops (Poupeau et al.
+2005). In order to proceed further an expanded set of geological samples are required matching
+those discerned by Gratuze and his colleagues.
+Aside from the East Göllü Dag and Nenezi Dag obsidians, there is also a handful of material from
+other sources. A flake from Building 1 (Level VII–VI) was provenanced to West Acıgöl in northern
+Cappadocia (Carter et al. 2006, 904), while three of the 1960s artefacts were also characterized as
+coming from this area (Renfrew et al. 1966, 38; though see Chataigner 1998, 285). Finally,
+another 1960s sample appeared to come from Transcaucasia—that is, hundreds of kilometres
+to the east—a result considered unlikely by the analysts, who suggested that it might conceivably be an anomalous and exceptional product of a nearer source (Renfrew et al. 1966, 33).Sourcing obsidian from Neolithic Çatalhöyük (Turkey) 443
+© University of Oxford, 2007, Archaeometry 49 , 3 (2007) 437–454
+The recent characterization work has elucidated some clear trends in the data, not least a
+temporal distinction in how the two main raw materials were consumed. During the Aceramic
+Neolithic and the first half of the Neolithic sequence, the outcrops of East Göllü Dag were the main
+sources exploited, the obsidians consumed in a number of distinct chaînes opératoires. These
+ranged from ‘in house’ low-skill production of small blades and blade-like flakes (attested in
+each building thus far excavated) to more specialist prismatic blade technologies (unipolar and
+bipolar), some of which may have been performed at quarry workshops (Carter et al. 2005, 2006;
+Carter in press a). Nenezi Dag obsidian was a minority component of these early assemblages,
+represented almost exclusively by fine prismatic blades (unipolar and bipolar), which may also
+have been manufactured at the quarries (cf., Balkan-Atlı et al. 1999).
+These modes of procurement and consumption changed radically approximately halfway
+through the Neolithic sequence (Level VIII–VII), with the mainstay ‘in house’ technology
+largely disappearing (along with the related importation of thick part-cortical ‘quarry flakes’),
+to be replaced by unipolar pressure- and percussion-flaking blade technologies, a shift that
+coincided with a marked increase in the use of Nenezi Dag obsidian (Conolly 1999b; Carter
+et al. 2006, 906–7). The organization of production also changed, with the skilled unipolar
+prismatic blade technologies—previously only represented as end-products—now performed
+on-site. This is a hugely significant change, with members of the community now being in
+possession of what was once a restricted (if not exotic) form of technical savoir-faire. Moreover,
+production shifts from house-by-house knapping to blade manufacture being located in the hands
+of a few, arguably a basis for new forms of social distinction at Çatalhöyük (Conolly 1999b).
+THE BACH AREA AND ITS OBSIDIAN
+The BACH trench is located on the East Mound’s northern eminence, a part of the site first
+investigated in 1995 with the excavation of the Building 1/5 sequence in the nearby ‘North’
+Area (Fig. 2). Excavated between 1997 and 2003, the BACH trench contained Building 3,
+together with three small rooms of another structure abutting to the south (spaces 87–9) and a
+narrow strip of external midden to the west (Fig. 3). Almost square in shape (6.36 m × 5.70 m),
+the archaeology of Building 3 is subdivided into five major phases, from construction and
+initial use (Phases 1.1–1.4), via episodes of remodelling and residence (Phases 2–3, 4A and
+4B), to its demolition (Phase 5A) and post-Neolithic activities (Phase 5B). Architecturally, the
+structure is considered typical for Çatalhöyük in terms of its shape, size, mud-brick construction, the internal arrangement of its fixed features and the fact that it was entered through the
+roof by a ladder into the south-east corner. Throughout its history, the building’s southern end
+was the focus of various ‘domestic’ activities, including food processing, cooking, and the
+production and use of certain obsidian tools. At Çatalhöyük this is described as a building’s
+‘dirty’ area, the floors being made up of artefact- and ash-rich soils (Hodder and Cessford
+2004, 26–7); the western side was used for storage. Beyond this ‘zone of transformative processes’ was the much cleaner northern part of the structure (separated by a plaster ridge), its central
+floor surrounded by raised platforms of different heights (10–37 cm off the floor). During the
+building’s life, a number of human burials were interred in this area. These are some of the
+only activities clearly ascertained in this part of the house, as the floors were kept meticulously clean,
+while all the original contents were typically removed prior to the structure’s abandonment
+(cf., Cessford and Mitroviç 2005, 53–8).
+The BACH area generated 24 950 pieces of chipped stone, mainly obsidian (98.9%), plus
+various limnic-quartzites of unknown origin (Underbjerg et al. in prep.). Technologically, much of444 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+the obsidian relates to the aforementioned ‘in-house’ manufacture of irregular blades/blade-like
+flakes produced by a low-skilled percussive technology from opposed- or multi-platform cores.
+These simple and largely unmodified implements would have been used in everyday domestic
+activities such as food preparation. These tools were knapped from relatively large part-cortical
+flakes that were probably produced at the sources and are referred to generically as ‘quarry
+flakes’. These blanks, along with large biface preforms, seem to have entered the houses in small
+sack-loads, whose contents were then largely—if not entirely—buried as caches in the building’s
+‘dirty area’ (Conolly 2003). The contents of these hoards would at some point—but not always—
+be retrieved, then worked in situ and/or exchanged with other members of the community
+(Carter et al. 2005, 238–40; Carter in press b). One such ‘quarry flake’ came from the fill
+under the entranceway floor, conceivably the remains of a larger cache (Underbjerg et al. in prep.).
+The assemblage also included a few prismatic blades from a unipolar percussive technology.
+There were no cores or other forms of manufacturing debris associated with this technology,
+which suggested that the blades had been knapped elsewhere as part of a more specialized
+mode of production. The same situation has been documented in the other buildings of preLevel VI.A date (Carter et al. 2005, 281–2). There were also a few projectiles, some no doubt
+representing the finished versions of the biface preforms, with quantities of thinning flakes
+found in the building’s ‘dirty area’. Other points were made on large prismatic blades (bigger
+than those mentioned above) for which we have no associated manufacturing debris; skilled
+products such as these may have come from quarry-based workshops (Balkan-Atlı et al. 1999).
+THE SAMPLES AND THEIR CONTEXT
+Forty-two obsidian artefacts were selected for provenance analysis, sampled in part to examine
+the perceived differences in raw material (colour, banding, translucency, inclusions and texture).
+Ideally, we would have wished to be able to discuss the relationship between raw material and
+technology in greater detail; however, most of the samples were inconspicuous flakes (selected
+for bureaucratic reasons), artefacts that cannot be assigned to a specific chaîne opératoire.
+Of the artefacts from Building 3 proper, 12 were associated with the final phases of occupation—
+that is, B3.4A (n = 9) and B3.4B (n = 3)—while eight came from deposits relating to the structure’s
+dismantling and closure, B3.5 (Table 3). Five pieces derived from the post-occupation phase
+B3.6, two of which unfortunately came from the fill of a Roman burial (OB276, OB277); these
+artefacts are undoubtedly Neolithic and were almost certainly redeposited from the upper fill.
+Table 3 Distribution by phase and source of the 42 samples from the BACH area
+Context/phase Samples East Göllü Dag Nenezi Dag
+Building 3—Phase 4A 2 2 –
+Building 3—Phase 4B 3 1 2
+Building 3—Phase 5A 8 3 5
+Building 3—Phase 5B 5 3 2
+Midden (Space 85) 13 7 6
+Space 89 3 2 1
+Total 42 25 (59.5%) 17 (40.5%)Sourcing obsidian from Neolithic Çatalhöyük (Turkey) 445
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+There is also one sample that is now known to have come from a surface deposit of uncertain
+date (OB267). These latter samples are far from perfect. While previous self-criticism focused
+on the need to have undertaken a full technological analysis of an assemblage prior to sampling, it is obviously equally important to possess a detailed post-excavation report so as to
+ensure the deposits’ integrity. A further three samples were chosen from the small room due
+south of Building 3 (Space 89), while 13 artefacts came from the midden west of the structure
+(Space 85). These deposits are broadly contemporary with the house itself.
+THE ANALYSES
+All archaeological samples are analysed whole. The results presented here are quantitative
+(Table 4) in that they are derived from ‘filtered’ intensity values ratioed to the appropriate X-ray
+continuum regions through a least-squares fitting formula rather than plotting the proportions
+of the net intensities in a ternary system (Schamber 1977; McCarthy and Schamber 1981).
+The trace element analyses were performed in the Archaeological XRF Laboratory, Department of Anthropology, University of California, Berkeley, using a Spectrace QuanX energy
+dispersive X-ray fluorescence spectrometer. The spectrometer is equipped with an air-cooled
+Cu X-ray target with a 125 μm Be window, an X-ray generator that operates from 4–50 kV/
+0.02–2.0 mA at 0.02 increments, using an IBM PC based microprocessor and WinTrace™
+reduction software. The X-ray tube is operated at 30 kV, 0.14 mA, using a 0.05 mm (medium)
+Pd primary beam filter in an air path at 200 s livetime to generate X-ray intensity Kα-line data
+for elements titanium (Ti), manganese (Mn), iron (as FeT ), zinc (Zn), gallium (Ga), rubidium
+(Rb), strontium (Sr), yttrium (Y), zirconium (Zr) and niobium (Nb). Trace element intensities
+were converted to concentration estimates by employing a least-squares calibration line
+established for each element from the analysis of international rock standards certified by
+the National Institute of Standards and Technology (NIST), the US Geological Survey (USGS),
+the Canadian Centre for Mineral and Energy Technology, and the Centre de Recherches
+Pétrographiques et Géochimiques in France (Govindaraju 1994). Line fitting is linear (XML)
+for all elements except Fe, where a derivative fitting is used to improve the fit for the high
+concentrations of iron and thus for all the other elements. Further details concerning the
+petrological choice of these elements in obsidian are available in Shackley (1995, 1998, 2005;
+see also Mahood and Stimac 1990; Hughes and Smith 1993).
+THE RESULTS
+The data clearly indicate that we have two compositional groups, the larger group of 25 artefacts (59.5%) sourced to East Göllü Dag and the remaining 17 pieces (40.5%) to Nenezi Dag.
+The assignment to source was made by comparison with the compositional groups defined by
+Poidevin (1998), both with regard to major and trace elements using two-dimensional plotting
+(Fig. 4). With regard to colour, most of the samples described as ‘translucent purple-grey’ correlated with East Göllü Dag obsidians, while those ‘translucent with jet-black stripes’ tended
+to be from Nenezi Dag.
+The East Göllü Dag material
+Aside from two unipolar prismatic blades (Fig. 5, 1 and 2), most of the 25 artefacts of East
+Göllü Dag obsidian are small and rather undiagnostic non-cortical flakes (Fig. 5, 3–25). Much446 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+Table 4 Element contents determined by EDXRF for 42 samples from the BACH area
+Sample Ti Mn Fe Zn Ga Th Rb Sr Y Zr Nb Nb/Zr Y/Zr Source
+OB251 1 349 513 10 725 47 16 36 181 104 16 141 26 0.180592 0.11007 Nenezi Dag
+OB252 1 349 556 11 009 48 13 28 179 109 12 137 15 0.110957 0.08549 Nenezi Dag
+OB253 1 367 639 10 330 44 20 22 220 31 20 77 22 0.285698 0.26123 East Göllü Dag
+OB254 1 028 449 7 835 30 11 26 184 20 19 77 36 0.46921 0.23974 East Göllü Dag
+OB255 1 242 483 9 144 41 16 33 204 17 27 78 23 0.288668 0.34027 East Göllü Dag
+OB256 1 598 668 13 711 71 23 22 205 117 26 148 14 0.09747 0.17787 Nenezi Dag
+OB257 1 200 402 9 603 36 14 40 189 29 15 89 32 0.365976 0.1728 East Göllü Dag
+OB258 1 064 501 9 118 31 22 26 201 27 27 87 22 0.257094 0.31598 East Göllü Dag
+OB259 1 078 545 10 163 43 19 26 209 32 19 88 25 0.286702 0.21953 East Göllü Dag
+OB260 1 051 486 8 850 31 19 43 203 24 23 83 23 0.279621 0.27621 East Göllü Dag
+OB261 1 344 525 11 164 59 16 25 172 107 18 131 25 0.188013 0.13589 Nenezi Dag
+OB262 1 285 448 10 310 48 14 33 166 105 23 133 24 0.183206 0.17241 Nenezi Dag
+OB263 1 067 507 8 729 28 15 33 201 26 27 84 18 0.217807 0.32493 East Göllü Dag
+OB264 1 080 523 8 514 31 15 9 194 28 22 77 15 0.200143 0.27987 East Göllü Dag
+OB265 1 323 625 12 079 55 18 38 188 114 27 140 18 0.131 0.19184 Nenezi Dag
+OB266 1 117 489 9 202 35 19 43 208 25 17 74 28 0.371922 0.22897 East Göllü Dag
+OB267 1 122 572 10 503 50 17 36 163 100 17 139 18 0.13262 0.1225 Nenezi Dag
+OB268 1 077 636 10 028 43 21 37 218 27 24 90 29 0.324349 0.26941 East Göllü Dag
+OB269 1 076 504 8 790 31 19 27 198 21 19 90 27 0.303582 0.21406 East Göllü Dag
+OB270 1 404 654 12 974 56 23 23 198 114 17 155 23 0.147928 0.1092 Nenezi Dag
+OB271 1 282 735 10 925 42 26 24 245 21 27 91 29 0.323232 0.29715 East Göllü Dag
+OB272 1 063 487 8 294 27 18 31 193 25 22 81 20 0.242515 0.2651 East Göllü Dag
+OB273 1 095 456 8 408 28 18 23 199 17 23 73 26 0.360204 0.30948 East Göllü Dag
+OB274 1 191 588 10 166 35 26 28 233 28 24 92 24 0.265158 0.25803 East Göllü Dag
+OB275 1 286 462 8 652 40 22 30 191 25 27 78 12 0.155027 0.34092 East Göllü Dag
+OB276 1 085 533 8 930 36 21 30 192 27 24 89 20 0.230132 0.26972 East Göllü Dag
+OB277 1 296 532 10 620 52 18 14 156 107 18 126 16 0.123298 0.13943 Nenezi Dag
+OB278 1 422 517 12 226 60 21 35 185 120 16 140 9 0.060914 0.11136 Nenezi Dag
+OB279 1 239 486 10 570 46 16 46 162 100 17 127 17 0.132717 0.1338 Nenezi Dag
+OB280 1 760 518 10 817 46 21 39 173 106 14 134 20 0.147069 0.1028 Nenezi Dag
+OB281 1 051 541 9 101 36 20 14 199 27 22 92 20 0.219241 0.23776 East Göllü Dag
+OB282 1 227 454 10 121 39 18 28 158 101 15 137 26 0.190345 0.1099 Nenezi Dag
+OB283 1 308 537 11 315 47 22 30 169 115 24 139 19 0.13415 0.16905 Nenezi Dag
+OB284 1 073 443 8 427 25 13 26 203 25 13 79 35 0.447202 0.16595 East Göllü Dag
+OB285 1 095 495 8 768 34 15 34 215 20 25 75 28 0.377343 0.32946 East Göllü Dag
+OB286 1 232 527 10 839 49 19 37 176 109 18 132 22 0.163681 0.13274 Nenezi Dag
+OB287 1 231 465 10 331 57 13 24 167 99 19 140 20 0.143965 0.13397 Nenezi Dag
+OB288 1 190 543 9 368 39 25 39 226 22 16 85 29 0.340193 0.19147 East Göllü Dag
+OB289 1 433 501 10 160 55 19 28 159 104 23 129 20 0.159036 0.17839 Nenezi Dag
+OB290 1 025 416 7 334 29 13 29 167 18 19 77 17 0.222825 0.24248 East Göllü Dag
+OB291 1 058 524 8 624 29 19 41 202 25 20 85 27 0.318913 0.24056 East Göllü Dag
+OB292 1 036 472 8 644 43 15 36 201 23 19 80 23 0.288346 0.24192 East Göllü Dag
+RGM1-H1 1 786 265 14 168 34 20 18 155 111 26 224 3 0.015631 0.11497 Standard
+RGM1-H1 1 781 284 14 182 36 20 11 149 114 18 218 11 0.048404 0.08178 Standard
+RGM1-H1 1 800 265 14 184 36 20 11 154 112 24 220 12 0.052615 0.10683 Standard
+RGM1-H1 1 799 297 14 312 39 17 14 155 117 22 221 9 0.039035 0.1005 StandardSourcing obsidian from Neolithic Çatalhöyük (Turkey) 447
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+of this material likely relates to the mainstay ‘in-house’ low-skilled percussive bi-/multiplatform small blade and blade-like flake technology. Some of these pieces might also be thinning
+flakes from modifying projectile preforms. Excavation at the quarries (Kömürcü-East, Sector
+M) has revealed an area dedicated to the manufacture of the biface preforms; it has long been
+suggested that this was the workshop supplying Çatalhöyük (Cauvin and Balkan-Atlı 1996,
+257, fig. 7:1). The Building 3 data—along with that generated previously from Building 1—
+provides good evidence that this was indeed the case. One final piece of note is OB257, a flake
+with cortex (Fig. 5, 3); cortical material is rare at Çatalhöyük and provides further evidence
+that East Göllü Dag obsidian entered the building in the form of ‘quarry flakes’.
+The Nenezi Dag material
+Three of the 17 pieces of obsidian sourced to Nenezi Dag were in the form of unipolar
+prismatic blades (Fig. 6, 1–3). One was a proximal segment with flaked lip-removal (Fig. 6, 1),
+a characteristic trait of Çatalhöyük’s unipolar blade industries, particularly during the latter half
+of the Neolithic sequence (Carter et al. 2004). The other artefacts include an exhausted bipolar
+core from the ‘in-house’ percussive technology (Fig. 6, 4), and a series of relatively undiagnostic flakes that probably relate to the same production strategy (Fig. 6, 5–16). Once again, it
+is not inconceivable that some of these latter blanks are thinning flakes from biface preforms.
+Figure 4 A bivariate Zn–Zr diagram for 42 samples of obsidian using EDXRF.448 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+THE DATA IN ITS BROADER CONTEXT
+Çatalhöyük’s exploitation of these southern Cappadocian raw materials did not occur in
+isolation, with East Göllü Dag and Nenezi Dag obsidians being consumed in tandem at many
+other Neolithic sites in central Anatolia and beyond (Fig. 1). In ‘local’ terms, the Building 3
+assemblage dates to Early Central Anatolian IIIB (Özbasaran and Buitenhuis 2002), and
+Period 5 in the broader Near Eastern terminology of the Maison de l’Orient (Hours et al. 1994),
+approximately 7000–6300 bc. East Göllü Dag obsidian is recorded from Ilicapinar north of the
+Konya Plain, Mersin on the Cilician coast, plus a number of sites in Cyprus, the Middle
+Euphrates and Levant (Chataigner 1998, 285–92, fig. 7a–b). Nenezi Dag obsidian is less well
+Figure 5 Obsidian artefacts sourced by EDXRF to East Göllü Dag (M. MiliÇ).Sourcing obsidian from Neolithic Çatalhöyük (Turkey) 449
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+attested, being recorded from only a few of these sites, including Halula in the Middle Euphrates,
+Byblos on the Levantine coast and Mevrokah in the southern Levant; it is also the one obsidian
+currently represented at Tarsus in Cilicia (Chataigner 1998, 285, fig. 5a–b). Unfortunately, the
+literature provides little insight as to the form in which these communities procured their
+obsidian. The Çatalhöyük data thus make an important contribution on this front.
+DISCUSSION
+Given the results of the previous characterization studies at Çatalhöyük, it came as no surprise
+that the Building 3 artefacts were made from East Göllü Dag and Nenezi Dag obsidians. The
+relative proportions of the ‘two’ raw materials and the artefacts’ technological specifics are
+another matter. In contextualizing the Building 3 results (Fig. 7), we compare the data with
+those from the North Area’s Building 1 (with 79 samples), its nearest neighbour in time and
+space (Fig. 2). In terms of comparability, both data sets contained material from the ‘in-house’
+blade/blade-like flake technology and ‘quarry flakes’ made from East Göllü Dag obsidians, as
+well as unipolar prismatic blades made from both of the raw materials. The one major difference is that the Building 3 samples include knapping debris of Nenezi Dag obsidian, whereas
+Figure 6 Obsidian artefacts sourced by EDXRF to Nenezi Dag (M. MiliÇ).450 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+the Building 1 artefacts of this material were comprised mainly of end-products (Carter et al.
+2005, 293–4, figs 12.5c–12.5f). This difference is of some significance, a tantalizing hint of
+differential practices in these two structures.
+With regard to the relative proportions of the raw materials, the two data sets are quite similar,
+with Building 3’s c. 60:40 ratio between East Göllü Dag and Nenezi Dag obsidians, compared
+to Building 1’s c. 50:50. Taking a long-term perspective, it can be seen that these two structures
+existed at that time when Nenezi Dag obsidian was enjoying a marked increase in consumption
+(Fig. 7). For instance, Building 5 (Level IX–VIII), the structure stratified beneath Building 1,
+has an 80:20 ratio between East Göllü Dag and Nenezi Dag obsidians (admittedly only 10
+samples).
+Previously, it was claimed that the shift to a greater reliance upon Nenezi Dag obsidian was
+a relatively rapid phenomenon (within one or two generations) and related integrally to unipolar
+prismatic blade technologies becoming the dominant mode of consuming obsidian at the site
+(Carter et al. 2006). This interpretation has to be critically appraised as new archaeometric
+data are generated. Charting the rate of change over time and the relationship between the
+shifts in raw material and technology are not unproblematic tasks due to some of the issues
+surrounding Çatalhöyük’s chronological sequence. The first problem relates to presenting the
+data on a neatly tabulated level-by-level basis, as if entire horizons of buildings were laid
+down overnight, whereas the reality is far more organic, with structures being abandoned and
+built anew. Secondly, the sourcing data are derived from three parts of the site that have yet to
+be physically linked to one another. The South Area (including the ‘South Summit’) is the
+Figure 7 The 277 obsidian artefacts analysed by Berkeley (n = 42), Aberystwyth (n = 35) and CNRS (n = 200): by
+source and stratigraphic level (one sample from Acıgöl-West, Level VIII–VII).Sourcing obsidian from Neolithic Çatalhöyük (Turkey) 451
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+largest area exposed and has the greatest stratigraphic depth, from Level III to the mound’s
+base (Level Pre-XII.D). The much smaller North and BACH areas are both floating short-term
+sequences, while the site’s other trenches—4040, TP and IST—are similarly isolated stratigraphies of limited depth (Fig. 2). Until quite recently, the archaeology of these discrete areas
+was linked through recourse to artefact style and technology, the notion being that certain
+types of chipped stone and pottery were diagnostic of a specific period/stratigraphic level
+(Conolly 1999a; Carter et al. 2005; Last 2005). Some of these assumptions have been challenged by the new radiocarbon dates (Cessford et al. 2005). For instance, Building 1’s material
+culture looked younger than it was; that is, while the pottery and lithics were dated to Level
+VI (Conolly 1999b; Last 2005, 102), the carbon-14 dates assigned the structure to Levels
+VIII–VII (Cessford et al. 2005, 88). The implications of these new dates are very interesting,
+as here there may be evidence that the changes in modes of procuring and working obsidian
+were not felt throughout the entire community at once. Instead, there may have been community
+‘hot spots’—such as this northern eminence—where prismatic blade technologies were first
+performed (and/or the introduction of those people wielding the technical know-how), while
+the rest of the population lagged behind (Carter et al. 2004). This interpretation represents a
+working hypothesis, as much remains to be resolved with regard to Çatalhöyük’s intra-site
+chronology.
+ACKNOWLEDGEMENTS
+We thank the co-directors of the Berkeley Archaeologists at Çatalhöyük, Ruth Tringham and
+Mirjana Stevanoviç, for supporting this project and providing us with background information;
+and also Heidi Underbjerg, for choosing the samples and for her input on the technological
+aspects of the BACH obsidian assemblage. We further thank Shahina Farid and Ian Hodder,
+plus the archaeological representatives of the Turkish Ministry of Culture at Çatalhöyük and
+Konya Archaeological Museum. We also offer thanks to Marina Miliç for preparing the maps
+and artefact illustrations, and to the three referees for their critical rigor and insightful comments.
+REFERENCES
+Abbès, F., Bellot-Gurlet, L., Bressy, C., Cauvin, M.-C., Gratzue, B., and Poupeau, G., 2001, Nouvelles recherches sur
+l’obsidienne de Cheikh Hasan (Vallée de l’Euphrate, Syrie) au Néolithique PPNA et PPNB, Syria, 78, 1–13.
+Anderson, S. W., Stofan, E. R., Plant, J. J., and Crown, D. A., 1998, Block size distributions on silicic lava flow
+surfaces: implications for emplacement conditions, Geological Society of America Bulletin, 110, 1258 – 67.
+Balkan-Atlı, N., Binder, D., and Cauvin, M.-C., 1999, Obsidian: sources, workshops and trade in central Anatolia,
+in Neolithic in Turkey: the cradle of civilization. New discoveries (eds. M. Özdogan and N. Basgelen), 133 – 45,
+Arkeoloji ve Sanat Yayınları, Istanbul.
+Carter, T., in press a, New obsidian studies at Çatalhöyük, part I: the Aceramic Neolithic data, Paléorient.
+Carter, T., in press b, Of blanks and burials: hoarding obsidian at Neolithic Çatalhöyük, in PPN communities’ technical
+system diversity: towards social behavior. Proceedings of the Fifth Workshop on PPN Chipped Lithic Industries.
+Fréjus, 2004 (eds. L. Astruc, D. Binder and F. Briois), Éditions APDCA, Antibes.
+Carter, T., Conolly, J., and Spasojeviç, A., 2005, The chipped stone, in Changing materialities at Çatalhöyük: reports from
+the 1995–1999 seasons (ed. I. Hodder), 221–83 and 467–533, McDonald Institute Monographs and BIAA, Cambridge.
+Carter, T., Delerue, S., and Miliç, M., 2004, Chipped stone report, in Çatalhöyük 2004 Archive Report; http://
+catal.arch.cam.ac.uk/catal/Archive_rep04/ar04_27.html
+Carter, T., Poupeau, G., Bressy, C., and Pearce, N. J. P., 2005, From chemistry to consumption: towards a history of
+obsidian use at Çatalhöyük through a programme of inter-laboratory trace-elemental characterization, in Changing
+materialities at Çatalhöyük: reports from the 1995–1999 seasons (ed. I. Hodder), 285 – 305 and 535 – 57, McDonald
+Institute Monographs and BIAA, Cambridge.452 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+Carter, T., Poupeau, G., Bressy, C., and Pearce, N. J. P., 2006, A new programme of obsidian characterization at
+Çatalhöyük, Turkey, Journal of Archaeological Science, 33(7), 893 – 909.
+Cauvin, M.-C., and Balkan-Atlı, N., 1996, Rapport sur les recherches sur l’obsidienne en Cappadoce, 1993 –1995,
+Anatolica Antiqua, IV, 249 – 71.
+Cauvin, M.-C., and Chataigner, C., 1998, Distribution de l’obsidienne dans les sites archéologiques du Proche et
+Moyen Orient, in L’Obsidienne au Proche et Moyen Orient: du volcan à l’outil (eds. M.-C. Cauvin, A. Gourgaud,
+B. Gratauze, N. Arnaud, G. Poupeau, J.-L. Poidevin and C. Chataigner), 325 – 50, Maison de l’Orient
+Méditerranéen, BAR International Series 738, Archaeopress, Oxford.
+Cauvin, M.-C., Gourgaud, A., Gratauze, B., Arnaud, N., Poupeau, P., Poidevin, J.-L., and Chataigner, C., 1998,
+L’Obsidienne au Proche et Moyen Orient: du volcan à l’outil, Maison de l’Orient Méditerranéen, BAR International Series 738, Archaeopress, Oxford.
+Cessford, C., 2005, Estimating the Neolithic population of Çatalhöyük, in Inhabiting Çatalhöyük: reports from the
+1995–1999 seasons (ed. I. Hodder), 323 – 6, McDonald Institute Monographs and BIAA, Cambridge.
+Cessford, C., with contributions from S. Mitroviç, 2005, Heavy-residue analysis, in Changing materialities at Çatalhöyük: reports from the 1995–1999 seasons (ed. I. Hodder), 45 – 63, McDonald Institute Monographs and BIAA,
+Cambridge.
+Cessford, C., with contributions from P. Blumbach, K. Göze Akoglu, T. Higham, P. I. Kuniholm, S. W. Manning, N.
+W. Newton, M. Özbakan and A. Melek Özer, 2005, Absolute dating at Çatalhöyük, in Changing materialities
+at Çatalhöyük: reports from the 1995–1999 seasons (ed. I. Hodder), 65 – 99 and 449 – 50, McDonald Institute
+Monographs and BIAA, Cambridge.
+Chataigner, C., 1998, Sources des artefacts néolithiques, in L’Obsidienne au Proche et Moyen Orient: du volcan à
+l’outil (eds. M.-C. Cauvin, A. Gourgaud, B. Gratauze, N. Arnaud, G. Poupeau, J.-L. Poidevin and C. Chataigner),
+273–324, Maison de l’Orient Méditerranéen, BAR International Series 738, Archaeopress, Oxford.
+Conolly, J., 1999a, The Çatalhöyük flint and obsidian industry. Technology and typology in context, BAR International
+Series 787, Archaeopress, Oxford.
+Conolly, J., 1999b, Technical strategies and technical change at Neolithic Çatalhöyük, Turkey, Antiquity, 73, 791–
+800.
+Conolly, J., 2003, The Çatalhöyük obsidian hoards: a contextual analysis of technology, in Lithic studies for the new
+millennium (eds. N. Moloney and M. Shott), 55 – 78, Archtype, London.
+Crawford, H., 1978, The mechanics of obsidian trade: a suggestion, Antiquity, 52, 129 – 32.
+Delerue, S., Poupeau, G., Carter, T., Le Bourdonnec, F.-X., Dubernet, S., Calligaro, T., and Moretto, P., in prep., The
+use of PIXE and SEM–EDS for obsidian provenance studies in the Near East: a case study from Neolithic
+Çatalhöyük (central Anatolia), Journal of Archaeological Science.
+Fairburn, A., Asouti, E., Near, J., and Martinoli, D., 2002, Macro-botanical evidence for plant use at Neolithic Çatalhöyük,
+south-central Anatolia, Turkey, Vegetation History and Archaeobotany, 11, 41– 54.
+Fink, J. H., and Anderson, S. W., 2000, Lava domes and coulees, in Encyclopedia of Volcanoes (ed. H. Sigurdsson),
+307–20, Academic Press, San Diego.
+Fink, J. H., and Manley, C. R., 1987, Origin of pumiceous and glassy textures in rhyolite flows and domes, in The
+Emplacement of Silicic Domes and Lava Flows (ed. J. H. Fink), 77–88, Special Paper 212, Geological Society of
+America, Boulder, CO.
+Gomez, B., Glascock, M. D., Blackman, J., and Todd, I. A., 1995, Neutron activation analysis of obsidian from
+Kalavasos-Tenta, Journal of Field Archaeology, 22(4), 503 – 8.
+Govindaraju, K., 1994, 1994 Compilation of working values and sample description for 383 geostandards, Geostandards
+Newsletter, 18, 1–158.
+Gratuze, B., 1999, Obsidian characterization by laser ablation ICP–MS and its application to prehistoric trade in the
+Mediterranean and the Near East: sources and distribution of obsidian with the Aegean and Anatolia, Journal of
+Archaeological Science, 26(10), 869 – 81.
+Gratuze, B., Boucetta, S., Binder, D., Balkan-Atlı, N., Bellot-Gurlet, L., and Mouralis, D., 2005, New investigations
+of the Göllü Dag obsidian lava flows system: comparison between chemical, mineralogical and fission track data,
+International Association of Obsidian Studies, 33, 18 –19.
+Griffiths, R. W., and Fink, J. H., 1993, Effect of surface cooling on the spreading of lava flows and domes, Journal of
+Field Mechanics, 252, 667 – 702.
+Hildreth, W., 1981, Gradients in silicic magma chambers: implications for lithospheric magmatism, Journal of Geophysical Research, 86, 10 153 – 92.
+Hirth, K. G., 1978, Inter-regional trade and the formation of prehistoric gateway communities, American Antiquity,
+43, 25–45.Sourcing obsidian from Neolithic Çatalhöyük (Turkey) 453
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+Hodder, I., 2005, Introduction, in Çatalhöyük perspectives: themes from the 1995–9 seasons (ed. I. Hodder), 1–14,
+McDonald Institute Monographs and BIAA, Cambridge.
+Hodder, I., and Cessford, C., 2004, Daily practice and social memory at Çatalhöyük, American Antiquity, 69(1), 17–40.
+Hours, F., Aurenche, O., Cauvin, J., Cauvin, M.-C., Copeland, L., and Sanlaville, P., 1994, Atlas des sites du Proche
+Orient (14 000–5700 BP), Travaux de la Maison de l’Orient, Lyon.
+Hughes, R. E., and Smith, R. L., 1993, Archaeology, geology, and geochemistry in obsidian provenance studies, in
+Scale on archaeological and geoscientific perspectives (eds. J. K. Stein and A. R. Linse), 79 – 91, Special Paper
+283, Geological Society of America, Boulder, CO.
+Joyce, R. A., Shackley, M. S., McCandless, K., and Sheptak, R., 2004, Resultados preliminares de una investigación
+con EDXRF de obsidiana de Puerto Escondido, in Yaxkin: Memoria, VII Seminario de Antropología de Honduras
+‘Dr. George Hasemann’, 115 – 30, Instituto Hondureño de Antropología e Historia, Honduras.
+Keller, J., and Seifried, C., 1990, The present state of obsidian source identification in Anatolia and the Near East, in
+Volcanologie et Archéologie (eds. C. Albore Livadie and F. Wideman), 58 – 87, PACT 25, Conseil de l’Europe,
+Strasbourg.
+Last, J., 2005, Pottery from the East Mound, in Changing Materialities at Çatalhöyük: reports from the 1995 –1999
+seasons (ed. I. Hodder), 101– 38, McDonald Institute Monographs and BIAA, Cambridge.
+Mahood, G., and Hildreth, W., 1983, Large partition coefficients for trace elements in high-silica rhyolites, Geochimica
+et Cosmochimica Acta, 47, 11– 30.
+Mahood, G., and Stimac, J. A., 1990, Trace-element partitioning in pantellerites and trachytes, Geochimica et Cosmochimica Acta, 54, 2257 – 76.
+McCarthy, J. J., and Schamber, F. H., 1981, Least-squares fit with digital filter: a status report, in Energy dispersive
+X-ray spectrometry (eds. K. F. J. Heinrich, D. E. Newbury, R. L. Myklebust and C. E. Fiori), 273 – 96, Special
+Publication 604, National Bureau of Standards, Washington, DC.
+Mellaart, J., 1967, Çatal Hüyük: a Neolithic town in Anatolia, Thames and Hudson, London.
+Özbasaran, M., and Buitenhuis, H., 2002, Proposal for a regional terminology for central Anatolia, in The Neolithic
+of Central Anatolia: internal developments and external relations during the 9th–6th millennia cal BC (eds.
+F. Gérard and L. Thissen), 67–77, Eye Yayinlari, Istanbul.
+Pelegrin, J., Karlin, C., and Bodu, P., 1988, ‘Chaînes opératoires’: un outil pour le préhistorien, in Technologie préhistorique (ed. J. Tixier), 55 – 62, Notes et Monographies Techniques du CRA 25, Paris, CNRS.
+Pereira, C. E. de B., 2000, Otimização de metodologias para a análise multiementar de obsidianas por ICP–MS com
+Amostragem por ablação a laser e aplicações em estudos de proveniência de artefactos arqueológicos, unpublished Ph.D. thesis, PUC-Rio.
+Pereira, C. E. de B., Miekeley, N., Poupeau, G., and Küchler, I. L., 2001, Determination of minor and trace elements
+in obsidian rock samples and archaeological artefacts by laser ablation inductively coupled plasma mass spectrometry using synthetic obsidian standards, Spectrochimica Acta Part B, 56, 1927 – 40.
+Perlès, C., 1990, L’outillage de pierre taillée Néolithique en Grèce: approvisionnement et exploitation des matières
+premières, Bulletin de Correspondance Hellénique, CXIV, 1– 42.
+Pires-Ferreira, J. W., 1975, Formative Mesoamerican exchange networks with special reference to the Valley of Oaxaca,
+Memoirs of the Museum of Anthropology, No. 7. University of Michigan, Ann Arbor.
+Poidevin, J.-L., 1998, Les gisements d’obsidienne de Turquie et de Transcaucasie: géologie, géochemie et
+chronométrie, in L’Obsidienne au Proche et Moyen Orient: du volcan à l’outil (eds. M.-C. Cauvin, A. Gourgaud,
+B. Gratauze, N. Arnaud, G. Poupeau, J.-L. Poidevin and C. Chataigner), 105 – 203, Maison de l’Orient
+Méditerranéen, BAR International Series 738, Archaeopress, Oxford.
+Poupeau, G., Delerue, S., Carter, T., de B. Pereira, C. E., Miekeley, N., and Bellot-Gurlet, L., 2005, How homogeneous is the ‘East Göllü Dag’ (Cappadocia Turkey) obsidian ‘source’ composition?, International Association of
+Obsidian Studies Bulletin, 32, 3 – 8.
+Renfrew, C., Dixon, J. E., and Cann, J. R., 1966, Obsidian and early culture contact in the Near East, Proceedings of
+the Prehistoric Society, XXXII, 30 – 72.
+Russell, N., and Meece, S., 2005, Animal representations and animal remains at Çatalhöyük, in Çatalhöyük perspectives: themes from the 1995–9 seasons (ed. I. Hodder), 209 – 30, McDonald Institute Monographs and BIAA,
+Cambridge.
+Schamber, F. H., 1977, A modification of the linear least-squares fitting method which provides continuum suppression,
+in X-ray fluorescence analysis of environmental samples (ed. T. G. Dzubay), 241– 57, Ann Arbor Science Publishers,
+Ann Arbor.
+Shackley, M. S., 1995, Sources of archaeological obsidian in the Greater American Southwest: an update and quantitative
+analysis, American Antiquity, 60, 531– 51.454 T. Carter and M. S. Shackley
+© University of Oxford, 2007, Archaeometry 49, 3 (2007) 437–454
+Shackley, M. S., 1998, Geochemical differentiation and prehistoric procurement of obsidian in the Mount Taylor Volcanic
+Field, northwest New Mexico, Journal of Archaeological Science, 25, 1073 – 82.
+Shackley, M. S., 2005, Obsidian: geology and archaeology in the North American Southwest, University of Arizona
+Press, Tucson.
+Torrence, R., 1986, Production and exchange of stone tools, Cambridge University Press, Cambridge.
+Underbjerg, H. M., Carter, T., and Shackley, M. S., in prep., The flaked stone assemblage from Building 3 (analysis
+from the BACH area), in The last house on the mound (eds. R. Tringham and M. Stevanoviç), Mounumenta
+Archaeologica, Cotsen Institute of Archaeology, University of California, Los Angeles.
+Wright, G. A., 1969, Obsidian analyses and prehistoric Near Eastern Trade: 7500 to 3500 BC, Anthropological Papers
+No. 37, Museum of Anthropology, University of Michigan, Ann Arbor.
+All in-text references underlined in blue are linked to publications on ResearchGate, letting you access and read them imme
