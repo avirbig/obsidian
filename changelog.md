@@ -21,6 +21,16 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 ## 2026-03-25
 
+[2026-03-25] | USER_PROMPT | — | "how would you suggest to proceed. notice i've added the frahm txt file 2014. but i dont see tables of element amounts in it."
+
+[2026-03-25] | NOTE | articles/Frahm_2014.txt | Confirmed: Frahm 2014 (JAS 41:605-621) is a Bronze Age Northern Mesopotamia blade production paper — contains no elemental concentration tables. The empty Frahm 2014 sheet in data2.xlsx is correctly empty and will not be filled. audit_cross_reference.md updated accordingly. | Article read; abstract and body confirmed
+
+[2026-03-25] | STRUCTURE | reference_database/PRE_PHASE1_INVENTORY.md | Created full pre-Phase-1 inventory of all xlsx files: every sheet, row counts, element columns, extraction status, and special handling notes. Python/openpyxl scan confirmed. | Python openpyxl scan of all obsidian_minerales_component_tables_from_articles/*.xlsx
+
+[2026-03-25] | NOTE | data2.xlsx → Frahm 2014 sheet | Confirmed empty — Frahm 2014 article has no geochemical source tables (Bronze Age craft specialisation paper). Will remain empty. | PRE_PHASE1_INVENTORY.md; articles/Frahm_2014.txt
+
+[2026-03-25] | NOTE | data2.xlsx → Gratuze 1999 sheet | Remains empty — PDF not yet available. Flag for future acquisition. | PRE_PHASE1_INVENTORY.md
+
 [2026-03-25] | USER_PROMPT | — | "initiate phase 0 (and 6)" | User session
 
 [2026-03-25] | USER_PROMPT | — | "this plan looks alright. i will add that my sampling data will also need some cleaning and ordering and verifications so add this to the plans. i want you to record the plan somewhere so it will be written and not lost if i restart another session. also in the log include my prompts will be recorded as well. also i want you to create a git tracking to this project if i decide later to push it to remote. how do we proceed?" | User session

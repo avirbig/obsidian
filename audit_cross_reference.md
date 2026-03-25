@@ -40,7 +40,7 @@ These are studies you have extracted data from but don't have the article text a
 | **Moholy-Nagy et al. 2013** | `data1.xlsx` Indicative Elements | pXRF | Mesoamerican obsidian — likely not relevant |
 | **Nazaroff et al. 2010** | `data1.xlsx` Indicative Elements | pXRF | Referenced in elements table only |
 | **Delerou** (incomplete name) | `data1.xlsx` Indicative Elements | ? | Likely "Delerue 2007" — mentioned in DObsiSS for Mallaha site |
-| **Frahm 2014** | `data2.xlsx` (empty sheet!) | ? | Sheet exists but contains no data — needs re-extraction |
+| **Frahm 2014** | `data2.xlsx` (empty sheet!) | pXRF | Sheet exists but contains no data. Article (`Frahm_2014.txt`) confirmed: Bronze Age Northern Mesopotamia blade production — no elemental concentration tables. Sheet will remain empty. |
 | **Oddone et al. 1997** | `data2.xlsx` | NAA | Göllü Dağ source data (WGD, EGD) |
 | **Carter et al. 2013 (Kenan Tepe)** | `data2.xlsx` | EDXRF | Kenan Tepe data, Bingöl assignments — distinct from Orange/Carter 2013 (Tell Aswad) and Carter/Grant 2013 (Körtik Tepe) |
 | **Acquafredda et al. 2018** | `data2.xlsx` | XRF | Italian/Sardinian obsidian (Arci) — may not be relevant |
@@ -80,7 +80,7 @@ These articles might contain useful tables you haven't yet extracted:
 
 ## D. Data Quality Issues Found
 
-1. **Empty sheets**: `Frahm 2014` and `Gratuze 1999` in `data2.xlsx` are empty — data needs to be re-extracted
+1. **Empty sheets**: `Frahm 2014` sheet in `data2.xlsx` — confirmed no extractable geochemical tables (Bronze Age craft paper, not a source characterisation study). `Gratuze 1999` sheet is also empty — PDF still needed
 2. **Incomplete reference**: "Delerou" in `data1.xlsx` — likely "Delerue 2007"
 3. **Carter et al. 2013 (Kenan Tepe) disambiguation**: Two other Carter 2013 papers are now in `articles/` (Tell Aswad by Orange/Carter, and Körtik Tepe by Carter/Grant) — the Kenan Tepe entry in `data2.xlsx` is a third, distinct paper still without an article text
 4. **Encoding**: `Obsidian Sources List.xlsx` has garbled characters (Agicšl, GollŸ Dag) — Turkish characters corrupted
