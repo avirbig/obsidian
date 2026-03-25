@@ -21,6 +21,12 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 ## 2026-03-25
 
+[2026-03-25] | STRUCTURE | analysis/notebooks/01_data_extraction.ipynb | Created Phase 1 extraction notebook. Covers Tier 1 papers (Schechter 2016, Frahm 2013, Milic 2014, Campbell & Healey 2016, Morgan 2015), Tier 2 (Carter & Shackley 2007, Carter 2017, Carter 2013 Kenan Tepe, Rosenberg & Carter 2022), Tier 3 (Khalidi 2009, Frahm & Hauck 2017), Tier 4 (Yellin & Perlman 1980/1981, Yellin 1996). Outputs to reference_database/extracted_raw/. | Phase 1 execution per PLAN.md
+
+[2026-03-25] | USER_PROMPT | — | "ive added frahm 2013 txt. proceed with the plan. later summarize me consicely what has been done and what is missing. git add and commit the changes"
+
+[2026-03-25] | DATA_ADD | articles/Frahm_2013.txt | Added article text for Frahm 2013 (JAS 40:1080–1092) — pXRF validity paper for Near Eastern obsidian. 67 HHpXRF measurements of Göllü Dağ debitage; elements: Rb, Sr, Zr, Zn, Mn, Ti with error columns. Matches Frahm 2013.xlsx. audit_cross_reference.md Section A updated. | User added file; article abstract confirmed
+
 [2026-03-25] | USER_PROMPT | — | "how would you suggest to proceed. notice i've added the frahm txt file 2014. but i dont see tables of element amounts in it."
 
 [2026-03-25] | NOTE | articles/Frahm_2014.txt | Confirmed: Frahm 2014 (JAS 41:605-621) is a Bronze Age Northern Mesopotamia blade production paper — contains no elemental concentration tables. The empty Frahm 2014 sheet in data2.xlsx is correctly empty and will not be filled. audit_cross_reference.md updated accordingly. | Article read; abstract and body confirmed

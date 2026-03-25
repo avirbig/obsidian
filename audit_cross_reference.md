@@ -12,7 +12,7 @@ Below is every paper/study referenced across your xlsx files, mapped against wha
 |-------|---------------|--------------|--------|-------|
 | Milic 2014 | `data1.xlsx`, `Milic 2014.xlsx` | — | pXRF | ppm |
 | Campbell and Healey 2016 | `data1.xlsx`, `campbell and healey 1.xlsx`, `campbell and healey 2.xlsx` | — | pXRF | ppm |
-| Frahm 2013 | `data1.xlsx`, `Frahm 2013.xlsx` | — | pXRF | ppm |
+| Frahm 2013 | `data1.xlsx`, `Frahm 2013.xlsx` | `Frahm_2013.txt` | pXRF (HHpXRF) | ppm — Rb, Sr, Zr, Zn, Mn, Ti with error columns |
 | Morgan 2015 | `data1.xlsx`, `Morgan 2015.xlsx` | — | pXRF | ppm |
 | Schechter et al 2016 | `data1.xlsx`, `Schechter et al 2016.xlsx` | — | pXRF | ppm |
 | Khalidi, Gratuze & Boucetta 2009 | `data1.xlsx`, `Khalidi Gratuze Boucetta 2009.xlsx` | `khalidi Gratuze 2009.txt` | LA-ICP-MS | ppm |

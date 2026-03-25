@@ -1,0 +1,954 @@
+Validity of “off-the-shelf” handheld portable XRF for sourcing Near Eastern
+obsidian chip debris
+Ellery Frahm*
+Department of Archaeology, The University of Sheffield, Northgate House, West Street, Sheffield S1 4ET, United Kingdom
+a r t i c l e i n f o
+Article history:
+Received 4 May 2012
+Received in revised form
+15 June 2012
+Accepted 19 June 2012
+Keywords:
+Portable X-ray fluorescence (pXRF)
+Handheld portable X-ray fluorescence
+(HHpXRF)
+Field-portable X-ray fluorescence (fpXRF)
+Obsidian sourcing
+Near East
+Bronze Age
+Syria
+a b s t r a c t
+Handheld portable XRF (HHpXRF) has received considerable recent attention in archaeology, especially
+for obsidian sourcing. Published studies largely suggest a high potential for success. HHpXRF, though, has
+been met with debate and scepticism. Concerns fall into three categories: (1) low accuracy and precision,
+(2) data correction schemes and calibration, and (3) ignorance of fundamental XRF issues such as
+specimen size limits and morphology effects. The result is that archaeological interpretations in HHpXRFbased studies are cast into doubt. Should interpretations be believed if authors did not follow the
+perceived best practices? To address such questions, the validity of HHpXRF for Near Eastern obsidian
+sourcing was tested under deliberately “sub-optimal” conditions. Irregular obsidian debitage near the
+minimum size limits was sourced with a success rate of 94% (based on A-rank matches) to 100% (based
+on A- and B-rank matches) even under conditions chosen to mimic “off-the-shelf” operation.
+Ó 2012 Elsevier Ltd. All rights reserved.
+1. Introduction
+Portable XRF (pXRF) has received considerable recent attention
+in archaeology, especially for sourcing obsidian artefacts. Among
+these studies, the label “pXRF” has been applied to a range of
+instruments, from small “deconstructed” benchtop systems
+capable of use in a museum (Craig et al., 2007; Galvão et al., 2009)
+to handheld analysers readily brought to excavations. A review of
+200 articles specifying the use of “pXRF” revealed that more than
+half involved the use of transportable multi-component systems
+restricted to museums, laboratories, and field houses (Frahm and
+Doonan, under review). Here, though, I only consider the selfcontained instruments, about the size, weight, and shape as
+a cordless drill, that can be used at excavation sites, on surveys, or at
+outcrops. These analysers are often designated “field-portable XRF”
+(fpXRF) and “handheld pXRF” (HHpXRF) in the literature. I use
+HHpXRF here to avoid obfuscation with relevant acronyms (i.e.,
+“FP” is used for the “fundamental parameters” correction scheme,
+which I discuss later). Furthermore, the fact these instruments are
+“handheld” does matter. To achieve such extreme portability, these
+analysers sacrifice performance. In particular, the instruments use
+less-than-ideal geometric arrangements of miniaturised, lowpower components that run on batteries, and the processing of Xrays is done by on-board electronics and software rather than
+external systems. Despite trade-offs, such portability is one reason
+the analysers have captured our community’s interest.
+Although great interest has been expressed in application of
+HHpXRF to obsidian sourcing (particularly at conferences and
+specialised workshops), to date fewer than two dozen studies have
+been published, many in this journal (e.g., Phillips and Speakman,
+2009; Craig et al., 2010; Jia et al., 2010; Nazaroff et al., 2010;
+Sheppard et al., 2011; Burley et al., 2011; McCoy et al., 2011;
+Millhauser et al., 2011; Forster and Grave, 2012; Goodale et al.,
+2012). Overall these published studies suggest excellent potential
+for successfully tracing obsidian artefacts back to their geological
+sources. This should not be surprising considering the great
+successes of XRF-based obsidian sourcing for more than 45 years
+(e.g., Parks and Tieh, 1966; Jack and Heizer, 1968).
+Use of HHpXRF, however, has been met with scepticism. The
+concerns fall into three basic categories: (1) low accuracy or
+precision, (2) data correction schemes and instrument calibration
+(or lack thereof), and (3) ignorance of fundamental XRF problems,
+including minimum size limits and surface morphology effects.
+These issues are discussed by Shackley (2010), Liritzis and Zacharias
+* Tel.: þ44 74 0299 0202.
+E-mail addresses: e.frahm@sheffield.ac.uk, elleryfrahm@gmail.com.
+Contents lists available at SciVerse ScienceDirect
+Journal of Archaeological Science
+j o u r n a l h o m e p a g e : h t t p : / / w w w . e l s e v i e r . c o m / l o c a t e / j a s
+0305-4403/$ e see front matter Ó 2012 Elsevier Ltd. All rights reserved.
+http://dx.doi.org/10.1016/j.jas.2012.06.038
+Journal of Archaeological Science 40 (2013) 1080e1092(2011) and Goodale et al. (2012). The result of the debates is, as
+noted in a recent issue by Grave et al. (2012), that the “archaeological applications of [HHpXRF] continue to be cautiously treated,
+principally because of a perceived lack of analytic rigor” (1674).
+Thus, archaeologists are put in a difficult position. Should the
+results of HHpXRF-based obsidian sourcing be believed if the
+authors did not follow what others assert are the best practices?
+Might the conclusions still be correct if the authors did not use
+a certain calibration? Are archaeological interpretations untrustworthy if HHpXRF data do not match published compositions of
+obsidian sources? A desire to respond to these and similar questions using empirical data led to the experiment that I discuss here.
+I completely agree with Shackley (2010) that there is “potential
+misuse” of HHpXRF (18), especially when authors offer no reason
+for using this novel technology in place of tried and tested laboratory XRF instruments (hereafter “labXRF”). There will always be
+obsidian artefacts beyond the reach of labXRF, such as artefacts in
+museum collections and countries with export restrictions but
+without the means for chemical analysis. With HHpXRF, selecting
+artefacts for sourcing could be influenced less by export limitations
+and more by the intellectual framework in which the study is
+conceived. Furthermore, freeing XRF from the laboratory enables its
+use in new methodological e and thus theoretical e frameworks,
+rather than just being treated as a cheap and easy replacement for
+laboratory techniques. For example, HHpXRF also provides
+a potential to analyse artefacts as they are unearthed, leading to
+new research designs in obsidian sourcing and informing excavation strategy and interpretation in the field. It is such novel applications, allowing use of XRF in ways previously not possible, that
+hold the highest potential for revolutionising obsidian sourcing.
+Thus, regardless of its limitations, there is great value in establishing HHpXRF as a successful tool, even if that necessitates
+methodological changes to source artefacts.
+A “successful” sourcing technique must first be defined, of
+course. The relevant evaluation concept is validity, not accuracy
+(Frahm, 2012a). Neff (1998) defines validity in sourcing research:
+“The instrument is a valid indicator to the extent that composition
+really does measure ‘source’ as a location in geographic space and
+not some other concept” (116). Can the technique distinguish the
+geological sources and assign artefacts to them? In other words,
+can use of the technique yield, not geochemical data, but archaeological data? Hence, validity is established through artefacts’
+correct source assignments, and it is only how success is defined
+in the context of this experiment. In other contexts, it might be
+desirable to define success in terms of generating data sufficiently
+accurate to allow inter-laboratory geochemical data comparisons
+(Frahm, 2012a, 2012b). In this test, however, “archaeological
+accuracy” (Shackley, 2005:7, emphasis added) of the results was
+the metric. Inter-laboratory comparisons are, though, still
+addressed in Section 6.
+Here I describe a test of HHpXRF’s validity for obsidian sourcing
+under deliberately “sub-optimal” conditions. Acquiring data
+compatible with existing XRF databases was not a priority in this
+test, nor was there an effort to maximise accuracy. Validity is
+established using an artefact-by-artefact source-assignment
+comparison of HHpXRF and electron microprobe analysis (EMPA)
+data for the same set of obsidian artefacts and geological specimens. Throughout the test, “sub-optimal” conditions were used:
+a simple data correction scheme, no calibration beyond a default
+“soil” mode, irregularly shaped artefacts near the minimum size
+limit, and a circa-2002 analyser. This approach sought to replicate
+the most basic “off-the-shelf” operation of such an instrument. The
+intent of the test was not to establish new “best practices” or
+recommendations for future research. Rather, “off-the-shelf”
+operation was simply a parameter for the test conditions.
+The results show that, with an appropriate methodology,
+HHpXRF can be valid for obsidian sourcing despite the “suboptimal” conditions. Fifty artefacts’ HHpXRF-based source assignments matched the EMPA-based assignments with a success rate
+between 94% (based on A-rank matches) and 100% (based on Aand B-rank matches). Of course, using deliberately sub-optimal
+conditions is not recommended for analytical work outside the
+context of such a test. These results, however, suggest existing
+HHpXRF-based Near East obsidian sourcing studies may well be
+valid even if the authors did not follow labXRF methods (cf.,
+Goodale et al., 2012: “the same strict protocols applied in
+laboratory-based XRF analyses, involving instrument calibration,
+evaluation of inter-instrument performance, and comparison to
+accepted geologic standards, need to be applied,” 875).
+Consequently, even if the geochemical data are only internally
+consistent, archaeological interpretations may still be made from
+the sourcing results. For example, in this test, HHpXRF confirmed
+that obsidian from Göllü Dag in central Turkey reached as far east as
+Tell Mozan in northeastern Syria during the Bronze Age. Not only
+did the HHpXRF results reveal the volcano where the obsidian
+originated (Göllü Dag) but also the specific outcrops (near Kömürcü
+village). These results are corroborated by an independent analytical technique (EMPA), meaning they are reproducible. Additionally,
+the results make archaeological sense (i.e., the artefacts are
+assigned to an obsidian source where lithic workshops are well
+attested).
+2. Background: HHpXRF issues
+As noted in the Introduction, the debates surrounding HHpXRF
+may be summarised as three issues: (1) low accuracy and/or
+precision, (2) raw data correction and instrument calibration, and
+(3) ignorance of XRF challenges. The authors of obsidian sourcing
+studies have dealt with these issues differently, but most seek to
+mitigate one or more of them through their methods.
+2.1. Issue #1: low accuracy and precision
+Accuracy is the closeness of agreement between a measurement
+and the “true” value of the measured quantity, and precision is the
+agreement among a series of measurements under identical
+conditions. Precision is essential because sourcing studies involve
+measuring geological specimens and artefacts, seeking discrete
+clusters in the chemical data to differentiate sources, and recognising those characteristic signals in artefacts. For a particular
+sourcing study, precision is most important. Accuracy becomes
+essential only when one relies on previously acquired or published
+data (“legacy data”) for the geological sources. Given there are
+always differences between among data collected in different
+laboratories or with different techniques (e.g., Glascock, 1999), the
+majority of obsidian sourcing does not follow this paradigm. That is,
+geological specimens are typically analysed using the same
+instrument in the same laboratory as the artefacts. It follows,
+therefore, HHpXRF should follow that same method. In some cases,
+this is not possible, so accuracy becomes a concern. This is
+addressed, based on an inter-laboratory comparison, in Section 6.
+All analytical techniques are affected by some baseline level of
+random phenomena that limit precision. For XRF, X-ray emission
+and subsequent detection are subject to statistical fluctuations.
+Other factors limit accuracy. For example, a systematic error (such
+as a flawed calibration) affects accuracy, not precision. A review of
+the literature reveals that assessments of HHpXRF’s accuracy vary.
+In a recent issue of this journal, Grave et al. (2012) analysed
+Australian lithics and discuss if their HHpXRF data are best
+described as “semi-quantitative” or “quasi-quantitative,” implying
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e1092 1081the results lack the accuracy to be considered quantitative.
+Sheppard et al. (2011) state that comparing the accuracy of HHpXRF
+to “lab based geochemistry has produced variable results” (48).
+Others have more favourable conclusions. For example, Liritzis and
+Zacharias (2011) conclude HHpXRF is “efficient and accurate” (136)
+while Craig et al. (2010) claim artefacts’ compositions corresponded
+well to legacy data, indicating accuracy. Still others are agnostic.
+Goodale et al. (2012) assert that the “accuracy of [HHpXRF] data for
+geological materials has not yet been adequately addressed or
+evaluated” (883). This seems, at least superficially, at odds with the
+ready adoption of HHpXRF in environmental testing and the earth
+sciences (Frahm and Doonan, under review).
+Why such different assessments? Accuracy reflects instrumentspecimen-analyst interactions. Even with the same instrument,
+different specimens and analysts’ choices effect different accuracies
+and systematic errors. Precision, however, involves whether or not
+random error obscures structure in the data. Ideally, one would be
+certain HHpXRF data are sufficiently precise that artefacts could be
+sourced regardless of accuracy and calibration (i.e., systematic
+errors).
+2.2. Issue #2: calibration and correction
+How an instrument converts raw X-ray counts into elements’
+concentrations is the principal factor in its accuracy. The correction
+and calibration are intended to reduce systematic error, which
+improves accuracy, not precision. Hence the accuracy of any technique rests largely on an analyst’s choices regarding correction
+scheme and calibration standards. These processes are not necessarily error-free. Mark and Workman (2003) note 15 sources of
+error in this process, including variations within standard materials
+and uncertainty in correction models. A detailed discussion of
+correction and calibration in XRF is beyond the scope of this paper,
+and such a discussion is also hampered by variations in terminology
+amongst researchers (i.e., what some researchers call “calibration”
+others call “correction” or “standardisation”). Thus interested
+readers are directed to Shackley (2011), but the discussion here will
+be a simplification of complex procedures.
+Simply put, the measured X-ray intensities from a specimen
+must be adjusted for a variety of effects (called “correction” here)
+and converted to elemental concentrations (“calibration” here).
+There are three essential HHpXRF correction models: Compton
+normalisation (CN), fundamental parameters (FP), and empirical
+correction curves. CN measures X-rays inelastically scattered (i.e.,
+Compton scattered) by specimens to normalise the elements’ X-ray
+signals and help to compensate for differences in morphology,
+texture, and density. FP involves iterative corrections to raw X-ray
+counts based on the measured chemical composition, accounting
+for expected differences in X-ray emission, absorption, secondary
+fluorescence, and other phenomena. Lastly, correction curves are
+empirical: the raw X-ray counts are corrected based on a fit to those
+measured from a collection of standards. Calibrations, in contrast,
+are either built-in (“off-the-shelf” calibrations include mining, soils,
+alloys, precious metals, and plastics) or custom (based on the
+measurement of standards and often used in conjunction with
+correction curves).
+Empirical correction curves using custom calibrations are
+regarded as the best practice for labXRF but are rarely used in
+HHpXRF obsidian sourcing. Commonly “off-the-shelf” corrections
+and/or calibrations are used instead. There are two major trends.
+First is the use of CN or FP with custom calibrations using obsidian
+standards (e.g., Craig et al., 2010; Burley et al., 2011; Forster and
+Grave, 2012). Second is the use of FP with a proprietary “soil”
+calibration (e.g., Golitko et al., 2010; Millhauser et al., 2011;
+Vázquez et al., 2011; Goodale et al., 2012).
+Even when correction curves and custom calibrations are used,
+it is often unclear when that procedure was done, either ininstrument or during post-processing (see Section 6). Indeed,
+there is no consensus (or even a discussion) whether data should be
+adjusted in-instrument or in subsequent data processing. Regardless, one must have confidence in the data, notably its internal
+consistency (i.e., precision). Shackley (2010) asserts that ignoring
+fundamental XRF issues, like specimen size and morphology
+effects, threatens the assumption of internally consistent data.
+2.3. Issue #3: fundamental XRF issues
+Minimum size limits is one of the issues well known in labXRF
+but easily overlooked using HHpXRF. Davis et al. (2011) conclude
+that, based on labXRF experiments, error greatly increases when
+artefacts are less than 2-mm thick or 10-mm in diameter. Others
+corroborate their conclusion (Eerkens et al., 2007; Lundblad et al.,
+2008). Additionally, it is argued that specimens should entirely
+cover the instrument’s detector window and/or X-ray beam (the
+latter being invisible and, therefore, hard to ensure is covered). The
+window size ranges from just a few millimetres in new instruments
+to 20 mm in old ones (although the X-ray beam diameter is often on
+the order of 5e10 mm). Thus, small obsidian debitage is difficult to
+analyse accurately, and Shackley (2010) holds analysing such
+artefacts “impinges on the fallacy of internal consistency” (19).
+Specimen morphology is another issue. The ideal specimen for
+XRF has a flat and smooth surface because X-rays are sensitive to
+topography. Surface irregularities can introduce additional error
+into measurements. Consequently, for labXRF, ideally specimens
+are either (1) polished flat or (2) ground into a powder and fused.
+Both HHpXRF and labXRF can analyse irregular surfaces on artefacts
+with the understanding that there will be additional error, though
+its severity is difficult to quantify. Liritzis and Zacharias (2011)
+report HHpXRF data “are affected by surface roughness effects,
+more so than desktop [labXRF] instruments” (132).
+Most HHpXRF obsidian studies endeavour to minimise such
+effects through method, that is, critical selection of artefacts.
+Frequently researchers select artefacts with flat surfaces (e.g.,
+Phillips and Speakman, 2009; Nazaroff et al., 2010; Burley et al.,
+2011; Forster and Grave, 2012). Goodale et al. (2012) only analysed artefacts “with relatively flat surfaces that were large enough
+to cover the detector window completely... Specimens that did not
+lay flush against the detector window, were too small to cover the
+entire window, or showed clear visual signs of surficial weathering... were excluded” (879). Using similar criteria, Sheppard et al.
+(2011) excluded “irregularly shaped lithic shatter” (48). A second
+approach to mitigating surface effects through method is to rely
+mainly on the so-called “mid-Z heavy elements” (Rb, Sr, Y, Zr, Nb),
+which Forster et al. (2011) conclude are least affected by surface
+morphology. There is, though, still little found in the literature
+regarding the performance of HHpXRF to analyse irregular obsidian
+debitage.
+3. Methods & materials
+The experiment described here was meant to push, even
+outright violate, the three HHpXRF issues considered above. First,
+there was no effort to optimise accuracy and precision for obsidian
+(i.e., both were evaluated during the course of this experiment, but
+there was no direct optimising). Second, CN correction was used
+with a default “soils” calibration. Third, the artefacts are irregular
+chip debris. Many of them are either near or below the minimum
+size limits for XRF, and most are also smaller than the detector
+window (20 mm) on the circa-2002 analyser used for this
+experiment. The geographical/archaeological context is similarly
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e10921082challenging. The Near East has more than 20 obsidian source
+areas, and the ancient inhabitants of Tell Mozan in northeastern
+Syria are known to have used obsidians from at least six different
+sources (Frahm, 2010).
+3.1. Archaeological artefacts
+The 50 artefacts in the test were excavated from Tell Mozan
+(Fig. 1). The export of lithic artefacts was limited by Syria’s Directorate General of Antiquities and Museums to small, irregular
+debitage. To gain approval, my selection criteria were that the
+artefacts had to be (1) flaking debris or other non-diagnostic fragment (i.e., no prismatic blade segments) and (2) less than 20 mm
+across (Fig. 2). These criteria fit Rosen’s (1997) definition of “chip
+debris.”
+3.2. Geological reference collection
+The artefacts were compared to 504 geo-referenced Anatolian
+geological obsidian specimens, which were analysed with the same
+instruments. The specimens were collected in 1991 by George “Rip”
+Rapp, Regents Professor of Geoarchaeology Emeritus, University of
+Minnesota-Duluth and Tuncay Ercan, Directorate of Mineral
+Research and Exploration, Turkey. The collection includes specimens from archaeologically important obsidian sources across
+Anatolia, including 95 different outcrops at 21 source areas. The
+specimens also have various sizes and morphologies, and most of
+the irregularly shaped specimens are smaller than 20 mm.
+3.3. Analytical instruments
+For this particular test, I used a Thermo Scientific NITON XLt
+analyser. The XLt series of analysers was introduced in 2002, was
+superseded by newer models in 2007, and ended production in
+2009. The X-ray source of the analyser was a 40-kV tube with Ag
+anode target, and the detector was a Peltier-cooled Si-PiN diode
+covered by a 20-mm detector window. The current models have
+superior silicon drift detectors (SDDs) and smaller detector
+windows. Furthermore, older models have less powerful electronics and thus use less sophisticated algorithms.
+The EMPA analyses were conducted using the JEOL JXA-8900
+SuperProbe at the Electron Microprobe Laboratory, Department of
+Earth Sciences, University of Minnesota-Twin Cities. My analytical
+procedures are documented elsewhere (Frahm, 2010, 2012b), as are
+my data evaluations based on labXRF and NAA data from the
+Archaeometry Laboratory at the University of Missouri Research
+Reactor (MURR). Readers interested in MURR instrumentation,
+specimen handling, and so forth are forward to Glascock et al.
+(2007) and the centre’s website.
+3.4. Analytical choices
+With any technique, an analyst’s choices may affect precision as
+much as the instruments. In XRF, for instance, the choices regarding
+operating conditions range from straightforward (e.g., how long
+and how many times to measure a specimen) to complex (e.g.,
+selection of X-ray tube cathode and filter materials for optimally
+exciting elements in a particular portion of the periodic table). In
+addition, analytical techniques have no predetermined accuracy,
+and analysts’ choices, informed by their theoretical and practical
+“know how” (i.e., connaissances and savoir-faire in the terminology
+of Pierre Lemonnier), largely determine accuracy. To minimise the
+effects of choice on this validity experiment, the only choices I
+made were those that a user must make: (1) which correction
+model and calibration to use and (2) for how long to measure the
+specimens and artefacts.
+For correction and calibration, I selected the most basic
+approach for the experiment: the CN correction model with the
+built-in “soils” calibration. This involved the fewest choices, such as
+no need for choosing calibration standards or a regression scheme.
+The “soils” mode also determined which elements would be
+measured: As, Ca, Co, Cr, Cu, Fe, Hg, K, Mn, Mo, Ni, P, Pb, Rb, Sc, Se, Sr,
+Fig. 1. Tell Mozan (star) and the obsidian sources included in this test. The obsidian sources marked by black circles are the A-rank sources as determined by HHpXRF and/or EMPA.
+The obsidian sources marked by open circles were only B-rank sources for the artefacts and are not considered likely their origins. No artefacts were assigned to the obsidian sources
+marked by the small squares, but these sources were included in the multivariate analyses.
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e1092 1083Ti, V, Zn, Zr. Given compositional and density differences between
+obsidians and soils, it was expected the accuracy would leave room
+for improvement.
+One must also choose for how long to measure the emitted Xrays. In published HHpXRF sourcing studies, this time varies
+between 60 (Golitko et al., 2010) and 300 s (Nazaroff et al., 2010;
+McCoy et al., 2011; Forster and Grave, 2012). Thus, I decided to
+measure the artefacts and specimens for 300 s. Precision depends
+on the number of X-ray counts and the stability of the instrument.
+For low counts, counting statistics prevail. For high counts, instrument stability prevails. Counting for 300 s ensures sufficient X-ray
+counts, so the resulting precision largely reflects the inherent
+stability of the analyser.
+3.5. Accuracy, precision, and size effects
+Fig. 3 shows the results from a series of measurements on NIST
+SRM #610, an artificial glass intended for calibrating trace-element
+analyses. I analysed the glass in two morphologies: (1) a full wafer
+(12-mm diameter and 3-mm thick) and (2) a fragment of another
+wafer (roughly 4-mm diameter and 3-mm thick). These plots reveal
+the accuracy (i.e., the agreement with certified NIST values) of the
+HHpXRF measurements of the two morphologies. The datasets (left
+and centre) are significantly different from (1) each other, exhibiting the size effect, and (2) the NIST values (right). Hence the CN
+correction with a default “soils” calibration was somewhat inaccurate for SRM #610.
+To evaluate precision e specifically, repeatability (i.e., the spread
+of repeated measurements) e I took seven measurements (i.e., the
+minimum number for the central limit theorem to apply) on (1)
+two polished basalt glass standards over three days as a measure of
+the best precision attainable in practice (Table 1) and (2) unprepared obsidian specimens, frequently smaller than 10 mm, from
+four Anatolian obsidian sources as a measure of the precision to be
+expected from irregular surface morphologies plus intra-source
+variations (Table 2). For the polished basalt standards, the relative
+standard deviation ranged from 1 to 10%, whereas it ranged from 4
+to 20% for the irregular geological specimens. The latter precision is
+still often sufficient for obsidian sourcing. Consider the expansive
+study of Gordus et al. (1968), who analysed over a thousand
+obsidian specimens from sixty flows in North America. They found
+trace elements (such as Mn, Sc, La, Rb, Sm, Ba, and Zr) could vary as
+much as 40% relative within a particular flow; however, the variation among sources can be an order of magnitude or more (over
+Fig. 2. The 50 studied obsidian artefacts from Tell Mozan, Syria. Top: the 47 artefacts with the correct A-rank source assignments. Bottom: the three artefacts with incorrect A-rank
+source assignments, but their B-rank source assignments are correct. The leftmost artefact is amongst the smallest and thinnest of the test set, and the other two have highly
+irregular surfaces.
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e109210841000% relative). A similarly broad study by Stross et al. (1971) noted
+that trace elements within a flow had relative standard deviations
+between 5 and 15% and that inter-source variations “almost always
+considerably exceeds the variability within a given source and that
+from the measuring error” (213). Thus, even before matching the
+artefacts to their probable sources, the precision suggests a high
+potential for success.
+3.6. Source assignment procedures
+Figs. 4 and 5 are three-dimensional scatterplots of the artefacts and geological specimens analysed with HHpXRF. Such
+scatterplots were used to (1) identify which elements best discerned the obsidian sources and (2) ensure that the artefacts’
+compositions fell in the clusters of geological specimens. The
+most information-bearing elements are Mn, Rb, Sr, Ti, Zn, and Zr,
+and clustering of the artefacts with the geological specimens
+implies that there are no methodological deficiencies (e.g.,
+missing sources). To assign artefacts to sources, use of Euclidean
+distance (ED) calculations replicates use of scatterplots quantitatively with three or more elements. ED is a straightforward
+distance measure with no assumptions, meaning choice did not
+play a role in specifying a priori groups or the number of clusters. First, the data were transformed so elements such as Zr
+(which varied between 76 and 2778 ppm) did not overwhelm
+elements that varied less than one order of magnitude (like Rb,
+which varied between 77 and 627 ppm). Then EDs were calculated between each artefact and geological specimen for three
+element combinations: (1) Rb, Sr, Zr; (2) Mn, Rb, Sr, Zn, Zr; and
+(3) Mn, Rb, Sr, Ti, Zn, Zr. The result was a set of three-, five-, and
+six-dimensional matrices of similarity coefficients. A “nearest
+neighbour” search of these coefficients identified the ten
+geological specimens “closest” (i.e., most similar compositionally) to each artefact. From those sources among the nearest
+neighbours, an “A-Rank” was given to the most frequent
+obsidian source, and a “B-Rank” to the second most frequent
+Fig. 3. The HHpXRF measurements of NIST SRM #610 using a CN correction model and the default “soils” calibration. A total of 21 elements were measured in this artificial glass,
+but only the six elements used for source assignment are plotted here. The specimen size effect is also shown here: specimens with a diameter of 4 mm result in concentrations
+significantly different than those for 12-mm specimens. These plots also show that two sets of the measured values (left and centre) are often quite different than the certified
+values from NIST (right).
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e1092 1085source. Thus, source assignment becomes quantitative. These
+procedures were also used with the EMPA data (Frahm, 2010,
+2012b).
+4. Results: comparing source assignments
+Table 3 is an artefact-by-artefact source-assignment comparison
+using HHpXRF and EMPA data. Here I consider the EMPA-based
+assignments to be “truth.” Of 50 artefacts, 47 have the same
+source assignments between HHpXRF and EMPA. Only three artefacts have mismatches. One of the mismatched artefacts is amongst
+the smallest and thinnest of the test set, and the other two have
+highly irregular surfaces. In each mismatch, the HHpXRF-based Arank has a low probability (i.e., 50% or less of the nearest neighbours belong to that source), and the B-rank is always correct and
+often (i.e., for two artefacts) has a relatively high probability (i.e.,
+30% of the nearest neighbours).
+Additionally, in all three mismatches, there are known
+geochemical similarities between the obsidian sources involved.
+Two of the three mismatches involve Meydan Dag and Tendürek
+Dag. These volcanos are not only chemically similar but also
+geographically adjacent. Chataigner (1998) suggested that eastern
+obsidian-bearing lava flows of Meydan Dag may be covering
+western flows of Tendürek Dag. Indeed, as I show elsewhere
+(Frahm, 2010: 512e514), Rapp and Ercan mistook a Tendürek Dag
+obsidian outcrop for a Meydan Dag one. The third artefact
+mismatch is Bingöl B obsidian identified as Acıgol. These sources
+are also chemically similar (e.g., Acıgol is Renfrew’s group 1eef
+and Bingöl B is 1g). Given the error introduced by small, irregular artefacts, occasional mismatches involving these sources are
+neither surprising nor detrimental.
+Thus there is a sourcing success rate between 94% (based on
+A-rank matches) and 100% (A- and B-rank matches) with
+HHpXRF data. This is congruent with the 97% agreement in
+Millhauser et al. (2011), who attributed Mesoamerican artefacts
+to probable sources using HHpXRF, labXRF, and neutron activation analysis (NAA). These authors, in contrast to my test,
+worked to minimise error due to artefact size and surface
+irregularities. They used a default “soils” calibration with FP
+correction and document significant inaccuracies between the
+HHpXRF and NAA datasets for two obsidian standards. Yet their
+source assignments were highly successful. My test corroborates
+their finding of HHpXRF validity in obsidian sourcing despite
+accuracy issues.
+An ability to distinguish the chemically similar Bingöl A and
+Nemrut Dag obsidians was not anticipated for this experiment.
+Numerous researchers using labXRF, NAA, and other techniques
+report an inability to differentiate these obsidians (e.g., Abbès et al.,
+2001, 2003; Rosen et al., 2005; Bellot-Gurlet and Poupeau, 2006;
+Carter et al., 2008; Khalidi et al., 2009). The results here suggest that
+HHpXRF suffers from the same problem. Two artefacts in Table 3,
+marked with asterisks, are assigned to Nemrut Dag using the
+method discussed here; however, I ultimately attributed them to
+Bingöl A using a geochemically based metric (Frahm, 2012c). This
+subtle distinction is most likely a case when the sub-optimal
+conditions were detrimental to the result, and following best
+practices, like analysing larger artefacts with flat surfaces, might
+mean success.
+5. Archaeological implications
+The overall obsidian-source patterns for Tell Mozan based on
+the HHpXRF and EMPA data are quite similar, particularly for the
+relatively small sample size of 50 artefacts. Lithic specialists
+frequently study assemblages of hundreds (or thousands) of stone
+tools. On such scales, a success rate of 94% or better with HHpXRF
+yields archaeologically valid source patterns with statistically
+significant samples, even if a small fraction of artefacts are
+misattributed.
+In this case, the HHpXRF data independently corroborate one
+of the most interesting results from the EMPA data. Long-distance
+exchange of Central Anatolian obsidians, including those from
+Göllü Dag volcano (Fig. 1), is generally considered to be a Levantine and southwestern Anatolian phenomenon, a notion reinforced by early (e.g., Renfrew et al., 1966, 1968) as well as recent
+(e.g., Chataigner, 1998; Chataigner et al., 1998; Cauvin and
+Chataigner, 1998) obsidian distribution maps. The HHpXRF
+results, however, confirm that three artefacts from the palace
+Table 1
+Precision assessments based on two polished basalt glass standards over three days as a measure of the best precision attainable in practice. The standards are not specified as
+the data are not calibrated and thus are not intended for assessing accuracy.
+Point Zr Error Sr Error Rb Error Zn Error Mn Error Ti Error
+Basalt Glass Standard #1
+1 89 4 158 3 28 2 41 6 551 42 3206 93
+2 86 4 148 3 26 2 35 6 529 45 2977 102
+3 86 4 157 4 26 2 43 7 555 46 3146 105
+4 87 4 154 4 26 2 43 7 614 48 3283 105
+5 87 4 159 4 26 2 38 7 602 47 3279 104
+6 87 4 148 3 25 2 41 7 538 46 3047 105
+7 86 4 162 4 26 2 40 7 566 46 3042 103
+Mean 87 155 26 40 565 3140
+St Dev 1 5 1 3 32 122
+% RSD 1% 3% 3% 7% 6% 4%
+Basalt Glass Standard #2
+1 57 3 76 2 11 1 <LOD 5 87 22 552 68
+2 54 3 78 2 11 1 <LOD 6 86 24 616 74
+3 54 3 73 2 10 1 <LOD 6 75 24 637 78
+4 54 3 78 2 11 1 <LOD 6 91 25 630 76
+5 56 3 73 2 10 1 <LOD 6 73 24 590 78
+6 55 3 75 2 10 1 <LOD 6 72 24 555 77
+7 52 3 70 2 10 1 <LOD 6 76 23 635 78
+Mean 55 75 10 e 80 602
+St Dev 2 3 1 e 8 37
+% RSD 3% 4% 6% e 10% 6%
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e10921086complex at Tell Mozan originated at Göllü Dag, about 600 km
+linearly to the northwest. In fact, not only did the HHpXRF data
+reveal the volcano where the obsidian originated but also the
+precise outcrops (near Kömürcü village, where lithic workshops
+are documented; Table 4). Hence, there is evidence for Göllü Dag
+obsidian, most likely from the Kömürcü workshops, reaching
+Northern Mesopotamia as least as far east as Tell Mozan during
+the Bronze Age.
+The test results generally suggest HHpXRF is well suited to
+Near Eastern obsidian sourcing and that, with the appropriate
+changes in method (i.e., if geological specimens were measured
+using the same instrument), previous studies are likely valid. Its
+use in Southwest Asia, however, remains limited. I am aware of
+two other such studies. HHpXRF was used on-site for obsidian
+sourcing at Çatalhöyük in Turkey (Carter, 2009), and artefacts
+from Tell Brak, Yümüktepe, and Tell Arpachiyah were analysed
+in an Australian museum (Forster and Grave, 2012). Unfortunately Forster and Grave (2012) use previously published
+chemical data for the Eastern Anatolian obsidian sources,
+including Bingöl A and Nemrut Dag, which is problematic for the
+reasons discussed.
+6. Discussion: what of accuracy?
+There are arguments, some cogent, that HHpXRF data should be
+sufficiently accurate to be compatible with existing obsidian source
+databases. The speed of analyses using HHpXRF negates much of
+the impetus for doing so. If a large collection of geological specimens from likely obsidian sources may be analysed in a few days
+using the same instrument as the artefacts, there is much less need
+for inter-laboratory compatibility. It also removes inter-technique
+error, a problem that has plagued obsidian sourcing from the
+start (e.g., when Renfrew and colleagues switched from optical
+spectroscopy to NAA). The “internal consistency” of HHpXRF seems
+acceptable for regional-scale studies and targeted research designs.
+There has yet to be an archaeological study in which Near East
+obsidian data must be consistent with Mesoamerican obsidian
+data. Still there are situations when compatibility is important and
+accuracy becomes essential.
+Of the obsidian specimens analysed with HHpXRF for this test,
+eighteen were also analysed with both labXRF and NAA at the
+MURR Archaeometry Laboratory, whose staff have endeavoured to
+make these two analytical techniques compatible for obsidian.
+Table 2
+Precision assessments based on small, unprepared obsidian specimens from four Anatolian obsidian sources as a measure of the precision to be expected from irregular surface
+morphologies in addition to intra-source geochemical variations. The sources are not specified as the data are not calibrated and thus are not intended for assessing accuracy.
+Specimen Zr Error Sr Error Rb Error Zn Error Mn Error Ti Error
+Obsidian specimens from collection area CA05
+1 242 6 82 3 168 4 48 8 318 44 347 60
+2 264 7 85 3 176 5 43 9 381 50 298 57
+3 243 6 75 3 156 4 40 7 325 40 432 62
+4 225 6 81 3 154 4 35 7 329 41 376 60
+5 292 8 100 4 203 6 57 10 464 58 321 57
+6 271 7 96 4 181 5 56 10 420 53 287 55
+7 285 8 95 4 191 5 47 10 411 56 254 55
+Mean 260 88 175 47 378 331
+St Dev 25 9 18 8 56 60
+% RSD 9% 11% 10% 17% 15% 18%
+Obsidian specimens from collection area CA06
+1 182 5 67 3 168 4 33 6 315 37 364 63
+2 224 6 77 3 201 5 41 8 375 46 308 59
+3 181 5 67 3 172 4 33 7 356 40 346 60
+4 211 6 82 3 200 5 42 8 379 46 301 55
+5 217 6 81 3 199 5 41 8 364 46 290 57
+6 187 6 69 3 170 5 36 8 323 46 249 53
+7 195 6 67 3 177 4 42 7 383 43 296 60
+Mean 200 73 184 38 357 308
+St Dev 18 7 15 4 27 38
+% RSD 9% 9% 8% 11% 8% 12%
+Obsidian specimens from collection area EA30
+1 441 7 19 2 184 4 71 7 372 38 437 58
+2 409 6 17 2 172 4 101 8 367 37 356 59
+3 407 6 17 2 175 4 66 7 388 38 435 61
+4 383 7 16 2 165 4 59 8 321 39 300 50
+5 517 9 24 2 225 5 86 10 511 54 302 53
+6 467 7 23 2 201 4 101 9 391 41 369 57
+7 474 9 23 2 203 5 79 10 409 52 257 47
+Mean 443 20 189 80 394 351
+St Dev 47 3 21 16 59 69
+% RSD 11% 17% 11% 20% 15% 20%
+Obsidian specimens from collection area EA36
+1 284 6 121 4 96 3 34 7 334 41 969 73
+2 258 5 108 3 87 3 33 6 307 34 1126 77
+3 266 6 109 3 92 3 31 6 382 38 1212 83
+4 261 6 105 3 84 3 33 6 315 36 1147 75
+5 257 6 106 3 90 3 31 6 377 38 1139 77
+6 255 6 101 3 85 3 29 6 320 37 1036 76
+7 252 6 102 3 86 3 26 6 269 35 1067 75
+Mean 262 107 89 31 329 1099
+St Dev 11 7 4 3 40 81
+% RSD 4% 6% 5% 9% 12% 7%
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e1092 1087Fig. 6ael show scatterplots of MURR’s NAA data versus labXRF
+data and their labXRF data versus the HHpXRF data here. In each
+plot, a linear regression equation and R2 value show correlations
+between the datasets. For our purposes, the slope can act a proxy
+for accuracy (i.e., a slope of 1 would mean the datasets perfectly
+match), and the R2 value can act a proxy for their precision (i.e.,
+a value of 1 would mean the data are perfectly linear and reproducible). The slopes show that there are always issues with
+accuracy between different techniques. For most elements, the
+slope is closer to 1 for MURR’s NAA data versus labXRF data. The R2
+values, however, are often comparable (e.g., 0.944 versus 0.937 for
+Mn, 0.906 versus 0.951 for Zn, 0.964 versus 0.978 for Zr), and
+these values are inherent to the data set (because they represent
+precision, which is also inherent to the measurements).
+Because accuracy is simply the agreement between two
+datasets (usually a set of measured values and a set of “true” or
+Fig. 4. This three-dimensional scatterplot shows the individual HHpXRF measurements for Rb, Sr, and Zr. The geological obsidian specimens are represented by small grey squares
+while the artefacts are represented by the open black circles. The units are parts per million.
+Fig. 5. This three-dimensional scatterplot shows the individual HHpXRF measurements for Sr, Zn, and Zr. The geological obsidian specimens are represented by small grey squares
+while the artefacts are represented by the open black circles. The units are parts per million.
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e10921088“accepted” values), we can calibrate one data set to the other
+(e.g., the HHpXRF data calibrated to the NAA data) with linear
+regression analysis and change the accuracy. The equations on
+the Fig. 6 scatterplots may be applied to either data set (e.g., to
+the HHpXRF data, treating the NAA data as the accepted values).
+The result is a slope closer to 1, which means the two datasets are
+in better agreement and the HHpXRF data have better accuracy.
+This process of adjusting accuracy using linear regression is what
+occurs within the HHpXRF software to create custom calibrations: measurements on known standards (and their accepted
+Table 3
+Artefact-by-artefact source assignments for the fifty Tell Mozan artefacts. The A-rank is the most probable source as determined by the percentage of nearest neighbours (%NN)
+in the data analysis, followed by the B-rank as the second most probable. Three mismatches between the HHpXRF- and EMPA-based source assignment are highlighted.
+Artefact EMPA Results HHpXRF Results
+A-Rank Match %NN B-Rank Match %NN A-Rank Match %NN B-Rank Match %NN
+A2 q333 f114 k151 Bingöl B 71% Gutansar 12% Bingöl B 43% Acıgöl 40%
+A6 q386 f122 k218 piece 1 Tendürek Dag 63% Nemrut Dag 15% Tendürek Dag 40% Meydan Dag 37%
+A6 q386 f122 k218 piece 2 Nemrut Dag 100% Nemrut Dag 97% Bingöl A 3%
+A6 q971 f410 k31 Bingöl B 78% Gutansar 12% Bingöl B 67% Acıgöl 23%
+A6 q973 f412 k31 Nemrut Dag 100% Nemrut Dag 97% Bingöl A 3%
+A7 q221 f69 k9 Nemrut Dag 100% Nemrut Dag 100%
+A7 q287 f56 k7 Nemrut Dag 100% Nemrut Dag 100%
+A7 q350 f121 k13 Bingöl B 70% Gutansar 15% Bingöl B 100%
+A7 q360 f121 k13 piece 1 Nemrut Dag 100% Nemrut Dag 100%
+A7 q360 f121 k13 piece 2 Nemrut Dag 100% Nemrut Dag 70% Bingöl A 30%
+A7 q360 f121 k13 piece 3 Nemrut Dag 100% Nemrut Dag 73% Bingöl A 27%
+A7 q360 f121 k13 piece 4 Nemrut Dag 100% Nemrut Dag 77% Bingöl A 23%
+A7 q602 f148 k13 Nemrut Dag 100% Nemrut Dag 100%
+A7 q892 f261 k12 Göllü Dag 96% Baksan River 3% Göllü Dag 100%
+A7 q1146 f465 k21 Tendürek Dag 75% Meydan Dag 8% Meydan Dag 50% Tendürek Dag 17%
+A7 q1150 f465 k21 Nemrut Dag 87% Bingöl A* 13% Nemrut Dag 67% Bingöl A 33%
+A7 q1174 f465 k21 Nemrut Dag 95% Bingöl A* 5% Nemrut Dag 83% Bingöl A 17%
+A8 q154 f58 k9 Nemrut Dag 100% Nemrut Dag 100%
+A9 q376 f98 k3 piece 1 Nemrut Dag 100% Nemrut Dag 70% Bingöl A 30%
+A9 q376 f98 k3 piece 2 Nemrut Dag 100% Nemrut Dag 73% Bingöl A 27%
+A9 q376 f98 k3 piece 3 Nemrut Dag 100% Nemrut Dag 80% Bingöl A 20%
+A9 q437 f98 k3 Nemrut Dag 100% Nemrut Dag 77% Bingöl A 23%
+A9 q440 f98 k3 piece 1 Bingöl B 76% Gutansar 14% Bingöl B 100%
+A9 q440 f98 k3 piece 2 Nemrut Dag 100% Nemrut Dag 77% Bingöl A 23%
+A9 q454 f126 k3 piece 1 Nemrut Dag 100% Nemrut Dag 97% Bingöl A 3%
+A9 q454 f126 k3 piece 2 Nemrut Dag 100% Nemrut Dag 97% Bingöl A 3%
+A9 q454 f126 k3 piece 3 Nemrut Dag 100% Nemrut Dag 67% Bingöl A 33%
+A9 q463 f156 k3 piece 1 Göllü Dag 93% Pokr Arteni 5% Göllü Dag 100%
+A9 q463 f156 k3 piece 2 Göllü Dag 43% Kars e Akbaba 38% Göllü Dag 100%
+A9 q693 f247 k11 piece 1 Nemrut Dag 100% Nemrut Dag 100%
+A9 q693 f247 k11 piece 2 Nemrut Dag 100% Nemrut Dag 97% Bingöl A 3%
+A9 q742 f260 k11 piece 1 Bingöl B 73% Gutansar 17% Bingöl B 100%
+A9 q742 f260 k11 piece 2 Meydan Dag 85% Tendürek Dag 6% Meydan Dag 60% Tendürek Dag 33%
+A10 q229 f94 k5 Tendürek Dag 86% Kars e Arpacay 5% Tendürek Dag 50% Meydan Dag 47%
+A10 q286 f141 k3 Bingöl B 68% Gutansar 15% Bingöl B 100%
+A10 q678 f292 k28 Bingöl B 71% Gutansar 14% Acıgöl 40% Bingöl B 30%
+A10 q695 f300 k28 Bingöl B 70% Gutansar 14% Bingöl B 100%
+A10 q1194 f925 k29 Bingöl B 71% Gutansar 14% Bingöl B 100%
+A14 q299 f101 k100 Nemrut Dag 100% Nemrut Dag 100%
+A14 q474 f193 k4 Nemrut Dag 100% Nemrut Dag 100%
+A15 q295 f108 k92 Tendürek Dag 76% Mus ̧ 7% Meydan Dag 47% Tendürek Dag 30%
+A16 q21 f26 k5 Nemrut Dag 100% Nemrut Dag 73% Bingöl A 27%
+A18 q45 f52 k34 Nemrut Dag 100% Nemrut Dag 83% Bingöl A 17%
+A18 q57 f52 k34 Nemrut Dag 100% Nemrut Dag 73% Bingöl A 27%
+A18 q441 f168 k28 Nemrut Dag 100% Nemrut Dag 73% Bingöl A 27%
+J1 q276 f131 k64 Nemrut Dag 100% Nemrut Dag 100%
+J1 q344 f151 k106 Bingöl B 65% Gutansar 16% Bingöl B 100%
+J3 q146 f100 k13 Nemrut Dag 100% Nemrut Dag 97% Bingöl A 3%
+J3 q150 f105 k22 Nemrut Dag 100% Nemrut Dag 100%
+J3 q152 f101 k13 Nemrut Dag 100% Nemrut Dag 80% Bingöl A 20%
+Table 4
+Three artefacts from Central Anatolia. In each case, Göllü Dag is the best match for source complex, and among the Göllü Dag sources, Kömürcü is best match. Best matches are
+determined by the highest proportion of nearest neighbours (%NN).
+Artefact HHpXRF Source Assignments EMPA Source Assignments
+Source Complex Source/Outcrop Source Complex Source/Outcrop
+Best Match %NN Best Match %NN Best Match %NN Best Match %NN
+A7 q892 f261 k12 Göllü Dag 100% Kömürcü 32% Göllü Dag 96% Kömürcü 95%
+A9 q463 f156 k3 piece 1 Göllü Dag 100% Kömürcü 38% Göllü Dag 93% Kömürcü 80%
+A9 q463 f156 k3 piece 2 Göllü Dag 100% Kömürcü 30% Göllü Dag 43% Kömürcü 31%
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e1092 1089compositions) are used to adjust the slope, and thus accuracy, of
+measurements on unknown specimens.
+Let us, for example, apply these linear regression equations to
+the Zr data (Fig. 7aec) and illustrate that the measurements can be
+“accuratised” ex post facto. The NAA versus labXRF data show
+a small improvement (i.e., 0.96 slope, 0.96 R2 ), suggesting the
+calibrations were already quite good. The NAA versus HHpXRF data
+have improved markedly (i.e., 0.99 slope, 0.99 R2 ), meaning this fit
+is precise and the NAA and HHpXRF data highly correspond. Similar
+improvements occur with the labXRF versus HHpXRF data (i.e., 0.98
+slope, 0.98 R2 ). For Zr at least, the HHpXRF data now fit the NAA and
+labXRF data better than those datasets fit each other.
+While most HHpXRF analysers’ custom calibrations rely on
+linear regression analysis, here I show such calibrations can actually
+a b c
+d e f
+g h i
+j k l
+Fig. 6. ael. Scatterplots of MURR’s NAA data versus labXRF data and their labXRF data versus the HHpXRF data.
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e10921090be applied to the data later with a simple spreadsheet program, not
+sophisticated spectrum-analysis software. It is mistaken to argue
+that a correction for accuracy, especially a linear one, must be
+applied to data within the instrument and not at a later time. Again,
+precision is more important in establishing validity for sourcing
+studies.
+7. Conclusions
+This test was intended to replicate “off-the-shelf” operation for
+a challenging set of artefacts, and it corroborates what a few
+previous studies elsewhere in the world have found. While accuracy assessments have been variable in these studies, the HHpXRF
+analysers were sufficiently precise to produce valid source assignments. This was the conclusion, for example, of Nazaroff et al.
+(2010) based on their test with Mesoamerican obsidian artefacts.
+They found the HHpXRF instrument “is able to effectively distinguish between the El Chayal, Ixtepeque, and Pachuca geochemical
+source groups... [Thus it] is a valid technique... However, systematic
+error is introduced that influences the accuracy” (894). Nazaroff
+et al. (2010), though, followed the “best practices” for HHpXRF.
+Their artefacts “were positioned with as much contact as possible
+with the instrument’s surface,” and any “irregularly shaped
+samples were placed with the smoothest side positioned for analysis” (889). In addition, they used a series of previously analysed
+obsidians as calibration standards to construct a correction curve.
+None of these perceived “best practices” were followed in my
+experiment, and I reached the same conclusions regarding validity
+as Nazaroff et al. (2010).
+It must be that using HHpXRF, even under “sub-optimal”
+conditions, does not necessarily violate the “Provenance Postulate,”
+the core of sourcing theory. Even with systematic error from the
+(lack of) calibration and random error due to problematic artefacts,
+the compositions of these Near Eastern obsidians, as measured
+using HHpXRF, have greater inter-source than intra-source variations. Hence HHpXRF is valid for sourcing the Tell Mozan obsidian
+artefacts back to their sources. Pollard et al. (2007) state that, for
+sourcing, an analytical technique requires “sufficient accuracy and
+precision” (15). As this test shows, the HHpXRF precision is suffi-
+cient for sourcing; however, accuracy is not essential when the
+geological specimens and artefacts are analysed using the same
+instrument under the same, albeit sub-optimal, conditions. Thus,
+HHpXRF can easily be adapted to obsidian sourcing by mitigating
+its weaknesses through method (which may or may not be the
+same methods routinely used for labXRF). This includes the
+weaknesses of “off-the-shelf” calibrations, which may be mitigated
+through analysing reference standards.
+It must be reiterated that the particular experiment I report here
+is not intended to establish an operating procedure for future
+research or suggest that there is no need for standard practices (I
+have argued elsewhere if favour of rigorous procedures and their
+evaluation; Frahm, 2012a, 2012b). The question at hand was: Can
+the archaeological results of HHpXRF-based obsidian sourcing be
+reliable if the researchers did not follow what others hold are the
+best practices? These test results suggest yes. Hence there is little to
+no reason to doubt, for example, that Forster and Grave (2012)
+correctly assign Tell Arpachiyah artefacts to the Meydan Dag and
+Bingöl B sources simply because their correction scheme was based
+on CN rather than FP. Other methodological issues in a sourcing
+study, such as missing sources or failure to capture the variations
+within a source, are more likely to jeopardise the archaeological
+interpretations than mere use of HHpXRF.
+Finally, it is worth noting that HHpXRF (or any other technique)
+is not inherently valid or invalid. Use in a certain application is what
+makes it valid or not. In this case, despite sub-optimal conditions,
+the test demonstrates that HHpXRF is a largely valid technique for
+obsidian sourcing in the Near East. Geographic region (i.e., the
+numbers and chemistries of sources, the elements useful for source
+discrimination and the detectability at their concentrations) is
+a variable in the validity of HHpXRF-based obsidian sourcing,
+meaning validity tests elsewhere in the world, such as Nazaroff
+et al. (2010) in Mesoamerica and Jia et al. (2010) in Southeast
+Asia, are still necessary. Publishing analyses of international reference standards, though, does not establish validity. It only establishes accuracy and sometimes precision. Only demonstrating the
+correct source assignments of obsidian artefacts or specimens can
+establish a technique’s validity.
+Acknowledgements
+Thermo Fisher Scientific is thanked for the loan of the NITON XLt
+analyser. Giorgio Buccellati and Marilyn Kelly-Buccellati are codirectors of the Tell Mozan excavations under the auspices of the
+International Institute for Mesopotamian Area Studies. Export of
+the artefacts was approved by the Directorate General of Antiquities and Museums, the Ministry of Culture, Syrian Arab Republic.
+Michael Glascock is thanked for the NAA and labXRF analyses at the
+MURR Archaeometry Lab. The study was undertaken in the
+Department of Archaeology, University of Sheffield as part of the
+Marie Curie Network FP7-PEOPLE-2010-ITN: New Archaeological
+Research Network for Integrating Approaches to Ancient Material
+Studies (NARNIA).
+References
+Abbès, F., Bellot-Gurlet, L., Bressy, C., Cauvin, M.-C., Gratuze, B., Poupeau, G., 2001.
+Nouvelles recherches sur l’obsidienne de Cheikh Hassan (Vallée de l’Euphrate,
+Syrie) au Néolithique: PPNA et PPNB Ancien. Syria 78, 5e17.
+a b c
+Fig. 7. aec. Linear regression equations applied to the Zr data show these measurements can be calibrated ex post facto and made compatible with data from other techniques.
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e1092 1091Abbès, F., Bellot-Gurlet, L., Cauvin, M.-C., Delerue, S., Dubernet, S., Poupeau, G.,
+Stordeur, D., 2003. Provenance of the Jerf el Ahmar (Middle Euphrates Valley,
+Syria) obsidians. Journal of Non-Crystalline Solids 323, 162e166.
+Bellot-Gurlet, L., Poupeau, G., 2006. Towards a non-destructive multi-step analytical
+methodology for the provenance determination of archaeological obsidians. In:
+Young Chemists’ Workshop on Chemistry for the Conservation of Cultural
+Heritage: Present and Future Perspectives, Chairmen of the European Research
+Councils’ Chemistry Committees CERC 3, Pérouse, Italy, 19e22 March 2006.
+Burley, D., Sheppard, P., Simonin, M., 2011. Tongan and Samoan volcanic glass: pXRF
+analysis and implications for constructs of ancestral Polynesian society. Journal
+of Archaeological Science 38, 2625e2632.
+Carter, T., Dubernet, S., King, R., Le Bourdonnec, F.-X., Milic, M., Poupeau, G.,
+Shackley, M.S., 2008. Eastern Anatolian obsidians at Çatalhöyük and the
+reconfiguration of regional interaction in the Early Ceramic Neolithic. Antiquity
+82, 900e909.
+Carter, T., 2009. Elemental Characterization of Neolithic Artefacts Using Portable XRay Fluorescence, Çatalhöyük Research Project: Çatalhöyük 2009 Archive
+Report, pp. 126e128. Available online at: http://www.catalhoyuk.com/
+downloads/Archive_Report_2009.pdf.
+Cauvin, M.-C., Chataigner, C., 1998. Distribution de l’obsidienne dans les sites
+archéologiques du Proche et du Moyen Orient (par phase chronologique). In:
+Cauvin, M.C., Gourgaud, A., Gratuze, B., Arnaud, N., Poupeau, G., Poidevin, J.L.,
+Chataigner, C. (Eds.), L’obsidienne au Proche et Moyen-Orient: Du Volcan à
+l’Outil. BAR International Series, pp. 325e350.
+Chataigner, C., Poidevin, J.-L., Arnaud, N., 1998. Turkish occurrences of obsidian and
+use by prehistoric peoples in the Near East from 14,000 to 6000 BP. Journal of
+Volcanology and Geothermal Research 85 (1e4), 517e537.
+Chataigner, C., 1998. Sources des artefacts du Proche Orient d’aprés leur caractérisation géochimique. In: Cauvin, M.C., Gourgaud, A., Gratuze, B., Arnaud, N.,
+Poupeau, G., Poidevin, J.L., Chataigner, C. (Eds.), L’obsidienne au Proche et
+Moyen-Orient: Du Volcan à l’Outil. BAR International Series, pp. 273e324.
+Craig, N., Speakman, R., Popelka-Filcoff, R., Glascock, M., Robertson, J.,
+Shackley, M.S., Aldenderfer, M., 2007. Comparison of XRF and PXRF for analysis
+of archaeological obsidian from southern Perú. Journal of Archaeological
+Science 34, 2012e2024.
+Craig, N., Speakman, R., Popelka-Filcoff, R., Aldenderfer, M., Blanco, L., Vega, M.,
+Glascock, M., Stanish, C., 2010. Macusani obsidian from southern Peru: a characterization of its elemental composition with a demonstration of its ancient
+use. Journal of Archaeological Science 37, 569e576.
+Davis, M., Jackson, T., Shackley, M.S., Teague, T., Hampel, J., 2011. Factors affecting
+the energy-dispersive X-ray fluorescence (EDXRF) analysis of archaeological
+obsidian (Chapter 3). In: Shackley, M.S. (Ed.), X-ray Fluorescence Spectrometry
+(XRF) in Geoarchaeology. Springer, pp. 45e63.
+Eerkens, J., Ferguson, J., Glascock, M., Skinner, C., Waechter, S., 2007. Reduction
+strategies and geochemical characterization of lithic assemblages: a comparison of three case studies from Western North America. American Antiquity 72,
+585e597.
+Forster, N., Grave, P., 2012. Non-destructive PXRF analysis of museum-curated
+obsidian from the Near East. Journal of Archaeological Science 39, 728e736.
+Forster, N., Grave, P., Vickery, N., Kealhofer, L., 2011. Non-destructive analysis using
+PXRF: methodology and application to archaeological ceramics. X-ray Spectrometry 40, 389e398.
+Frahm, E., Doonan, R. The Technological Versus Methodological Revolution of
+Portable XRF in Archaeology. Journal of Archaeological Science, under review.
+Frahm, E., 2010. The Bronze-Age Obsidian Industry at Tell Mozan (Ancient Urkesh),
+Syria. Ph.D. dissertation, Department of Anthropology, University of Minnesota.
+Available online at University of Minnesota’s Digital Conservancy: http://purl.
+umn.edu/99753.
+Frahm, E., 2012a. Evaluation of archaeological sourcing techniques: reconsidering and
+re-deriving Hughes’ four-fold assessment scheme. Geoarchaeology 27, 166e174.
+Frahm, E., 2012b. Non-destructive sourcing of Bronze-Age Near Eastern obsidian
+artefacts: redeveloping and reassessing electron microprobe analysis for
+obsidian sourcing. Archaeometry 54, 623e642.
+Frahm, E., 2012c. Distinguishing Nemrut Dag and Bingöl A obsidians: geochemical
+and landscape differences and the archaeological implications. Journal of
+Archaeological Science 39 (5), 1435e1444.
+Galvão, T., Lopes, F., Moraes, A., Appoloni, C., 2009. Study of analytical sensitivity of
+two portable X-ray fluorescence systems for archaeological obsidians analysis.
+In: 2009 International Nuclear Atlantic Conference, Rio de Janeiro, Brazil, 27
+September to 2 October 2009. Conference paper available online at: http://
+www.fisica.uel.br/gfna/E16_1081.pdf.
+Glascock, M.D., Speakman, R.J., Neff, H., 2007. Archaeometry at the University of
+Missouri Research Reactor and the provenance of obsidian artefacts in North
+America. Archaeometry 49, 343e357.
+Glascock, M.D., 1999. An inter-laboratory comparison of element compositions for two
+obsidian sources. International Association for Obsidian Studies Bulletin 23,13e25.
+Available online at: http://members.peak.org/wobsidian/iaos_bulletin_23.pdf.
+Golitko, M., Meierhoff, J., Terrell, J., 2010. Chemical characterization of sources of
+obsidian from the Sepik coast (PNG). Archaeology in Oceania 45, 120e129.
+Goodale, N., Bailey, D., Jones, G., Prescott, C., Scholz, E., Stagliano, N., Lewis, C., 2012.
+pXRF: a study of inter-instrument performance. Journal of Archaeological
+Science 39, 875e883.
+Gordus, A.A., Wright, G.A., Griffin, J.B., 1968. Obsidian sources characterized by
+neutron activation analysis. Science 161, 382e384.
+Grave, P., Attenbrow, V., Sutherland, L., Pogson, R., Forster, N., 2012. Non-destructive
+pXRF of mafic stone tools. Journal of Archaeological Science 39, 1674e1686.
+Jack, R.N., Heizer, R.F., 1968. “Finger-Printing” of Some Mesoamerican Obsidian
+Artifacts, Contributions of the University of California Archaeological Research
+Facility 5, pp. 81e100.
+Jia, P., Doelman, T., Chen, C., Zhao, H., Lin, S., Torrence, R., Glascock, M., 2010. Moving
+sources: a preliminary study of volcanic glass artifact distributions in northeast
+China using PXRF. Journal of Archaeological Science 37, 1670e1677.
+Khalidi, L., Gratuze, B., Boucetta, S., 2009. Provenance of obsidian excavated from
+Late Chalcolithic levels at the sites of Tell Hamoukar and Tell Brak, Syria.
+Archaeometry 51, 879e893.
+Liritzis, I., Zacharias, N., 2011. Portable XRF of archaeological artifacts: current
+research, potentials and limitations (Chapter 6). In: Shackley, M.S. (Ed.), X-ray
+Fluorescence Spectrometry (XRF) in Geoarchaeology. Springer, pp. 109e142.
+Lundblad, S., Mills, P., Hon, K., 2008. Analysing archaeological basalt using nondestructive energy-dispersive X-ray fluorescence (EDXRF): effects of postdepositional chemical weathering and sample size on analytical precision.
+Archaeometry 50, 1e11.
+Mark, H., Workman Jr., J., 2003. Statistics in Spectroscopy, second ed. Elsevier
+Academic Press.
+McCoy, M., Mills, P., Lundblad, S., Rieth, T., Kahn, J., Gard, R., 2011. A cost surface
+model of volcanic glass quarrying and exchange in Hawai’i. Journal of Archaeological Science 38, 2547e2560.
+Millhauser, J., Rodríguez-Alegría, E., Glascock, M., 2011. Testing the accuracy of
+portable X-ray fluorescence to study Aztec and Colonial obsidian supply at
+Xaltocan, Mexico. Journal of Archaeological Science 38, 3141e3152.
+Nazaroff, A., Prufer, K., Drake, B., 2010. Assessing the applicability of portable X-ray
+fluorescence spectrometry for obsidian provenance research in the Maya
+lowlands. Journal of Archaeological Science 37, 885e895.
+Neff, H., 1998. Units in chemistry-based ceramic provenance investigations. In:
+Ramenofsky, A., Steffen, A. (Eds.), Unit Issues in Archaeology: Measuring Time,
+Space, and Material. University of Utah Press, pp. 115e127.
+Parks, G.A., Tieh, T.T., 1966. Identifying the geographical source of artifact obsidian.
+Nature 211, 289e290.
+Phillips, S., Speakman, R., 2009. Initial source evaluation of archaeological obsidian
+from the Kuril Islands of the Russian Far East using portable XRF. Journal of
+Archaeological Science 36, 1256e1263.
+Pollard, A., Batt, C., Stern, B., Young, S., 2007. Analytical Chemistry in Archaeology.
+Cambridge Manuals in Archaeology. Cambridge University Press.
+Renfrew, C., Dixon, J., Cann, J., 1966. Obsidian and early cultural contact in the Near
+East. Proceedings of the Prehistoric Society 2, 30e72.
+Renfrew, C., Dixon, J., Cann, J., 1968. Further analysis of Near Eastern obsidians.
+Proceedings of the Prehistoric Society 34, 319e331.
+Rosen, S., Tykot, R., Gottesman, M., 2005. Long distance trinket trade: Early Bronze Age
+obsidian from the Negev. Journal of Archaeological Science 32 (5), 775e784.
+Rosen, S., 1997. Lithics After the Stone Age: a Handbook of Stone Tools from the
+Levant. AltaMira Press.
+Shackley, M.S., 2005. Obsidian: Geology and Archaeology in the North American
+Southwest. University of Arizona.
+Shackley, M.S., Nov. 2010. Is There Reliability and Validity in Portable X-Ray Fluorescence Spectrometry (PXRF)? The SAA Archaeological Record, pp. 17e18, 20.
+Shackley, M.S., 2011. An introduction to X-ray fluorescence (XRF) analysis in
+archaeology (Chapter 2). In: Shackley, M.S. (Ed.), X-ray Fluorescence Spectrometry (XRF) in Geoarchaeology. Springer, pp. 7e44.
+Sheppard, P., Irwin, G., Lin, S., McCaffrey, C., 2011. Characterization of New Zealand
+obsidian using PXRF. Journal of Archaeological Science 38, 45e56.
+Stross, F.H., Stevenson, D.P., Weaver, J.R., Wyld, G., 1971. Analysis of American
+obsidians by X-ray fluorescence and neutron activation analysis. In: Brill, R.H.
+(Ed.), Science and Archaeology. MIT Press, Cambridge, pp. 210e221.
+Vázquez, C., Palacios, O., Lué-Merú, M., Custo, G., Ortiz, M., Murillo, M., 2011.
+Provenance study of obsidian samples by using portable and conventional X
+ray fluorescence spectrometers: performance comparison of both instrumentations. Journal of Radioanalytical and Nuclear Chemistry 292 (1),
+367e373.
+E. Frahm / Journal of Archaeological Science 40 (2013) 1080e10921092

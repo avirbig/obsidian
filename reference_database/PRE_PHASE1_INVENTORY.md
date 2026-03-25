@@ -53,9 +53,10 @@ No source geochemistry here. The geochemistry for Campbell & Healey is in `campb
 | גיליון1 (Sheet1) | 67 | 12 | ✅ Source/site measurements | Extract |
 
 **Elements present**: Zr (±error), Sr (±error), Rb (±error), Zn (±error), Mn (±error), Ti  
-**Method**: pXRF (Tier 1)  
-**Paper**: Frahm 2013 → no matching article txt yet  
+**Method**: pXRF — HHpXRF, "off-the-shelf" handheld Bruker (Tier 1)  
+**Paper**: Frahm 2013 (JAS 40:1080–1092) → `Frahm_2013.txt` ✅ article now available  
 **Special notes**: Error columns present alongside values — keep both (`Rb`, `Rb_err`, etc.).
+Paper is a validity test of pXRF on Göllü Dağ debitage (Tell Mozan, Syria). 94–100% source assignment success rate. Data = actual measurements of Göllü Dağ-sourced artefacts, not geological source reference samples.
 Header row is in Hebrew sheet tab. Column `Point` = sample identifier.
 
 ---
