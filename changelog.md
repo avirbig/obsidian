@@ -19,6 +19,32 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 ---
 
+## Phase 2 — Data Cleaning (current session)
+
+[2025-07-16] | STRUCTURE | analysis/notebooks/02_data_cleaning.ipynb | Created Phase 2 cleaning notebook. Reads all 21 raw CSVs from extracted_raw/, applies 8 targeted fixes, outputs to reference_database/cleaned/. Builds master all_sources_cleaned.csv with 2375 source-reference rows. | Phase 2 execution
+
+[2025-07-16] | BUG_FIX | reference_database/extracted_raw/ → cleaned/yellin_perlman_1981.csv | CRITICAL: Phase 1 extracted Yellin 1981 with wrong row as header. Row 0 = region group labels (Central, Anatolia, Eastern, Turkey). Row 1 = actual source abbreviations (GLD, HTMD, KRUD, NNZD, NMRD1, NMRD2, ZNKT, Sevan). Phase 2 re-extracts directly from data2.xlsx using row 1 as headers. ± notation in NNZD column ('174.3±5.6') parsed: mean 174.3 retained, SD discarded. | Root cause: df_y.iloc[0] in Phase 1 cell ce0e2361 took wrong row
+
+[2025-07-16] | DATA_EDIT | reference_database/cleaned/khalidi_gratuze_2009.csv | (1) 'Unnamed: 2' source label replaced with 'BingolA (replicate)' — this was a duplicate BingolA column in original xlsx. (2) 'Meydan_Dag˘' (U+02D8 BREVE variant) normalised to MeydanDag. | PDF-to-xlsx transcription artefacts
+
+[2025-07-16] | DATA_REMOVE | reference_database/cleaned/milic_2014.csv | 7 rows with source='Mean' removed — these were statistical summary rows from the original table, not geological source measurements. 8 actual source rows retained. | Row inspection: 'Mean' is a sub-header from the published table
+
+[2025-07-16] | DATA_EDIT | reference_database/cleaned/yellin_perlman_1980.csv | Rows Beisamoun (1 row) and Nahal Lavan (1 row) flagged is_source_reference=False. These are archaeological site artefact groups, not geological source samples. Chemistry matches GolluDag (La≈22.9, Eu≈0.160). attributed_source=GolluDag added. GolluDag and ND rows remain is_source_reference=True. | Yellin & Perlman 1980 paper structure; chemistry cross-check with GolluDag reference values
+
+[2025-07-16] | DATA_EDIT | reference_database/cleaned/frahm_2013.csv | All 65 rows flagged is_source_reference=False. This file contains pXRF measurements of Tell Mozan archaeological debitage, not geological source outcrop samples. Notes column updated. | Frahm 2013 paper: pXRF validation study on artefacts
+
+[2025-07-16] | DATA_REMOVE | reference_database/cleaned/frahm_hauck_2017_main.csv | 17 Average rows removed (computed statistics not raw measurements). 5 artifact rows flagged is_source_reference=False. 230 geological source rows retained is_source_reference=True. | Row labels in source column; Average = table footer statistics
+
+[2025-07-16] | DATA_EDIT | reference_database/cleaned/rosenberg_carter_2022_sources.csv | Sub-outcrop labels normalised: 'Pasinler Tizgi'→Pasinler, 'Pasinler Eksisu'→Pasinler, 'Sarakamis Hamamli'→Sarikamis, 'Sarakamis Sehetin'→Sarikamis, 'Gurgurbabatepe'→SuphanDag (Gürgür Baba Tepe is a sub-vent on Süphan Dağ), 'Nemrut Dag A'→NemrutDag. | Rosenberg & Carter 2022 source table; geological literature on Süphan Dağ sub-outcrops
+
+[2025-07-16] | DATA_EDIT | reference_database/cleaned/carter_2013_kenan_tepe.csv | Generic 'Bingol' label (104 rows) split into BingolA/BingolB using Sr discriminant: Sr < 10 ppm → BingolA (34 rows), Sr ≥ 10 ppm → BingolB (69 rows), 1 row unresolved (Sr=NaN). Reference values: BingolA Sr≈0.5 ppm (Khalidi 2009), BingolB Sr≈33 ppm (Khalidi 2009). Bimodal distribution confirmed in this dataset (cluster 1: 3-8 ppm, cluster 2: 37-54 ppm). 2 outlier rows at Sr=113 and Sr=624 ppm classified as BingolB — anomalous but no alternative attribution available. | Campbell & Healey 2016 Rb/Sr discriminant methodology
+
+[2025-07-16] | DATA_ADD | reference_database/cleaned/all_sources_cleaned.csv | Master reference database created: 2375 rows, is_source_reference=True only, 14 pXRF-compatible element columns (Rb, Sr, Zr, Nb, Y, Fe, Mn, Ba, Zn, Ti, Th, U, Pb, Ga). Source coverage: EGD=126, NemrutDag=370, BingolA=195, BingolB=240, ND=91, GolluDag=46, BingolB=240, MeydanDag=38, Sarikamis=53, Pasinler=11, Mus=5. Tiers: 1=1814, 2=273, 3=234, 4=13. | Phase 2 master merge; all_sources_cleaned.csv
+
+[2025-07-16] | NOTE | reference_database/cleaned/ | Oxide wt% columns in carter_2006.csv, binder_2011.csv, rosen_2011.csv, forster_grave_2012.csv NOT converted to elemental ppm. Conversion requires stoichiometry and oxidation-state assumptions (esp. Fe2O3 vs FeO). These files contain ppm trace elements (Rb, Sr, Zr, Nb, Y etc.) which ARE in the master file. Decision deferred to Phase 3. | Phase 2 NOTE
+
+---
+
 ## 2025-07-15
 
 [2025-07-15] | USER_PROMPT | — | "continuing from previous session — run remaining extraction notebook cells, fix unmapped source labels, extract all data2.xlsx papers"

@@ -1,0 +1,45 @@
+Source,Mn,Fe,Zn,Ga,Rb,Sr,Y,Zr,Nb,Th,source,sample_id,site,notes,verification_flag,paper,year,method,method_tier,units,is_source_reference
+Bingol A,592,30415,191,31,236,4.4,143,1355,59,34,BingolA,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol A,622,32115,210,35,245,4.8,148,1353,60,36,BingolA,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol A,623,30475,194,30,241,4.4,148,1337,61,34,BingolA,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol A,584,30007,193,31,253,4.5,155,1413,63,36,BingolA,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol B,293,13238,50,16,221,43.0,31,339,18,27,BingolB,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol B,327,13541,45,17,226,43.0,29,357,19,28,BingolB,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol B,340,13687,45,18,227,43.0,34,348,19,28,BingolB,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol B,318,13307,49,17,224,44.0,31,345,18,26,BingolB,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Bingol B,312,13289,47,18,223,44.0,29,346,19,28,BingolB,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+East Gollu Dag,465,5886,24,14,196,6.6,23,88,24,22,EGD,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+East Gollu Dag,502,5834,24,11,186,9.8,22,87,22,21,EGD,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+East Gollu Dag,533,6149,22,13,195,9.6,22,94,25,23,EGD,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+East Gollu Dag,541,5977,23,14,199,7.4,21,79,24,21,EGD,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+East Gollu Dag,443,5807,28,14,189,8.4,20,87,23,21,EGD,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+East Gollu Dag,512,5877,24,13,195,7.3,21,76,23,21,EGD,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Gurgurbabatepe,527,9888,75,18,203,17.0,54,298,32,24,SuphanDag,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Mus,395,9242,99,24,182,1.0,63,249,73,22,Mus,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Nemrut Dag A,664,24904,158,29,210,2.8,126,1241,70,27,NemrutDag,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Nemrut Dag A,661,25198,179,30,207,2.9,125,1232,67,27,NemrutDag,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Nemrut Dag A,683,23272,152,28,194,3.3,119,1205,62,26,NemrutDag,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Nemrut Dag A,683,23918,162,28,201,3.0,122,1218,65,28,NemrutDag,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Nemrut Dag A,679,23538,161,29,205,3.7,131,1229,64,26,NemrutDag,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Eksisu,330,11567,42,15,131,115.0,12,179,19,21,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Eksisu,379,11842,43,16,134,97.0,12,177,20,22,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Eksisu,396,12010,46,14,134,105.0,13,180,20,20,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Eksisu,440,11237,46,14,132,95.0,12,183,21,21,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Eksisu,428,11473,43,14,131,102.0,12,176,20,22,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Tizgi,362,7754,37,15,190,0.7,34,188,29,34,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Tizgi,368,7406,32,14,180,0.7,32,181,28,31,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Tizgi,416,9535,45,17,176,4.1,33,281,28,31,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Tizgi,375,7560,36,15,181,1.4,34,189,28,33,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Tizgi,378,7622,40,17,184,1.2,33,176,28,33,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Pasinler Tizgi,361,7867,40,14,186,1.9,32,184,27,33,Pasinler,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Hamamli,645,7921,64,16,140,4.0,47,263,30,18,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Hamamli,647,7822,56,16,139,3.8,50,250,30,18,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Hamamli,638,8030,62,18,145,3.9,49,286,31,20,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Hamamli,647,8243,64,18,145,4.2,51,269,30,18,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Hamamli,663,8411,71,18,146,3.6,50,264,30,18,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Sehetin,617,7640,59,18,142,4.1,48,242,29,20,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Sehetin,604,7655,66,15,141,3.8,49,240,29,18,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Sehetin,611,7664,62,16,143,4.5,48,256,30,18,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Sehetin,627,7680,61,16,136,4.6,48,248,30,18,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Sarakamis Sehetin,637,7899,63,15,141,4.7,48,247,29,19,Sarikamis,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True
+Suphan Dag,262,9147,39,15,150,15.0,30,114,10,15,SuphanDag,,geological source,,False,Rosenberg & Carter et al. 2022,2022,EDXRF,2,ppm,True

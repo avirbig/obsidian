@@ -1,0 +1,18 @@
+Reference,Technique,Nb,Unnamed: 3,Zr,Unnamed: 5,Sr,Unnamed: 7,Rb,Unnamed: 9,Fe,Unnamed: 11,is_source_reference
+Kelle_and_Seifried_1990,WDXRF,20.0,1.0,77.0,1.0,16.0,1.0,181.0,2.0,6040.0,70.0,True
+Yellin_1995,NAA,,,,,,,209.0,10.0,6110.0,100.0,True
+Martinetto_1996,ICP-AES/MS,25.0,,70.0,,12.0,,153.0,,6650.0,,True
+Oddone_et_al_1997,NAA,,,78.0,1.0,19.0,3.0,180.0,3.0,6800.0,850.0,True
+Bellot-Gurlet_1998,ICP-AES/MS,25.0,1.0,69.0,1.0,12.0,1.0,176.0,20.0,5760.0,770.0,True
+Gratuze_in_Poidevin_1998,LA-ICP-MS,21.0,3.0,71.0,9.0,13.0,1.0,192.0,18.0,5120.0,1230.0,True
+Carter_and_Shackley_2007,EDXRF,24.0,6.0,83.0,6.0,24.0,4.0,204.0,16.0,9000.0,800.0,True
+Kobayashi_and_Mochizuki_2007,EDXRF,,,71.0,3.0,9.0,2.0,184.0,6.0,4800.0,140.0,True
+Frahm_2010,EDXRF,20.0,,83.0,,12.0,,180.0,,5870.0,,True
+"""",NAA,,,73.0,,,,184.0,,5642.0,,True
+"""",EMPA,,,50.0,17.0,,,,,4370.0,330.0,True
+Poupeau_et_al_2010,ICP-MS,22.0,2.0,70.0,1.0,10.0,1.0,179.0,5.0,,,True
+"""",PIXE,32.0,6.0,73.0,9.0,13.0,3.0,183.0,18.0,4600.0,170.0,True
+"""",SEM-EDS,,,,,,,,,4890.0,325.0,True
+Binder_et_al_2011,LA-ICP-MS,25.0,1.0,70.0,5.0,9.0,1.0,188.0,6.0,5600.0,500.0,True
+Overall_mean_values,,24.0,4.0,72.0,8.0,14.0,5.0,184.0,14.0,5804.0,1175.0,True
+This_study_pXRF,pXRF,20.0,1.0,64.0,4.0,14.0,2.0,190.0,3.0,5700.0,90.0,True
