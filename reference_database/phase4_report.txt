@@ -1,0 +1,83 @@
+PHASE 4 -- TIER/QUALITY FILTER  (comparison-ready reference subset)
+======================================================================
+Master rows:    2375
+Tier 1 rows:    1814  (pXRF/EDXRF -- primary comparison tier)
+Unique sources: 34  total  |  20 with Tier 1 data
+
+QUALITY FLAGS (based on Tier 1 N per source):
+  strong   -- N >= 10  (reliable mean + SD, usable for Mahalanobis distance)
+  moderate -- N >= 3   (usable mean, SD less stable)
+  weak     -- N < 3    (single-point or duplicate; treat as indicative only)
+  no_pxrf  -- no Tier 1 data at all (Tier 2/3 fingerprint used in fallback col)
+
+Tier 1 source quality breakdown:
+  strong    : 9 sources  -- BingolA, BingolB, Dhemenegaki, EGD, GolluDag, Group3d, ND, NemrutDag, Sta Nychia
+  moderate  : 3 sources  -- MeydanDag, Mus, Nemrut Dağ/Bingöl A
+  weak      : 8 sources  -- AciGolWest, Antiparos, Brown Rhyolite, Carpathian 1, Carpathian 2, Giali, Melos Adamas, Melos Demenegaki
+
+Sources with NO Tier 1 data (14):
+  AciGol, Bingol, HTMD, HasanDag, HotamisDag, KRUD, KarsArpacay, KarsDigor, Pasinler, Sarikamis, Sevan, SuphanDag, WGD, Zincirkale
+
+======================================================================
+SOURCE COMPARISON FINGERPRINTS  (mean +/- SD, ppm)
+Best tier used per source; elements shown only if N>=3 in that tier.
+======================================================================
+
+Source           BestTier    Quality     N        Rb        Sr        Zr        Nb         Y                Usable
+--------------------------------------------------------------------------------------------------------------
+AciGol                 T2       weak     1    223.0      8.0     81.0     24.0     47.0                      
+AciGolWest             T1       weak     1    167.0      1.5     47.1     20.9     19.9                      
+Antiparos              T1       weak     1    367.0     10.0    128.0      --        --                        
+Bingol                 T2       weak     1    270.0      --     1273.0     60.0    134.0                      
+BingolA                T1     strong   152    229.6      0.2   1238.5     61.0    132.9         Rb,Sr,Zr,Nb,Y
+BingolB                T1     strong   157    223.9     44.6    327.4     18.0     36.4         Rb,Sr,Zr,Nb,Y
+Brown Rhyolite         T1       weak     1     14.0     22.0     21.0      5.0     10.0                      
+Carpathian 1           T1       weak     1    163.5     70.5     68.0      --        --                        
+Carpathian 2           T1       weak     1    174.5     73.5    129.0      --        --                        
+Dhemenegaki            T1     strong    83    109.8    117.2    114.6      8.7     17.8         Rb,Sr,Zr,Nb,Y
+EGD                    T1     strong    63    182.1     12.4     76.6     24.6     22.1         Rb,Sr,Zr,Nb,Y
+Giali                  T1       weak     2    123.5     60.0     91.2     13.0     16.0                      
+GolluDag               T1     strong    26    183.8     18.5     96.0     23.8     24.3         Rb,Sr,Zr,Nb,Y
+Group3d                T1     strong   279    461.6     11.6    204.0     28.6     65.9         Rb,Sr,Zr,Nb,Y
+HTMD                   T4       weak     1      --        --        --        --        --                        
+HasanDag               T3     strong    21    131.5     75.2     42.5     13.1      --             Rb,Sr,Zr,Nb
+HotamisDag             T2       weak     2    146.5     81.5    148.5     12.0     30.5                      
+KRUD                   T4       weak     1      --        --        --        --        --                        
+KarsArpacay            T3     strong    11    138.7     10.3    200.0     27.7      --             Rb,Sr,Zr,Nb
+KarsDigor              T3     strong    22    114.7    108.5    150.0     15.6      --             Rb,Sr,Zr,Nb
+Melos Adamas           T1       weak     1    107.5    100.0    106.5      --        --                        
+Melos Demenegaki       T1       weak     1     97.0    109.5    114.5      --        --                        
+MeydanDag              T1   moderate     6    199.8     16.8    289.4     30.2     55.3         Rb,Sr,Zr,Nb,Y
+Mus                    T1   moderate     3    180.1      0.0    247.2     62.2     57.0           Rb,Sr,Zr,Nb
+ND                     T1     strong    46    163.2     95.9    145.5     20.8     20.3         Rb,Sr,Zr,Nb,Y
+Nemrut Dağ/Bingöl A       T1   moderate     5    256.3      0.0   1400.0     68.3      --             Rb,Sr,Zr,Nb
+NemrutDag              T1     strong   340    210.0      0.0   1276.8     64.8    102.8         Rb,Sr,Zr,Nb,Y
+Pasinler               T2     strong    11    159.9     47.6    190.4     24.4     23.6         Rb,Sr,Zr,Nb,Y
+Sarikamis              T2     strong    10    141.8      4.1    256.5     29.8     48.8         Rb,Sr,Zr,Nb,Y
+Sevan                  T4       weak     1      --        --        --        --        --                        
+Sta Nychia             T1     strong   628    118.6    102.0    105.7      9.1     17.7         Rb,Sr,Zr,Nb,Y
+SuphanDag              T2       weak     2    176.5     16.0    206.0     21.0     42.0                      
+WGD                    T2       weak     1    193.0     11.2     73.1      --        --                        
+Zincirkale             T4       weak     1      --        --        --        --        --                        
+
+======================================================================
+ELEMENT COVERAGE IN TIER 1 ROWS
+======================================================================
+  Rb  :  1807 /  1814  (100%)
+  Sr  :  1806 /  1814  (100%)
+  Zr  :  1807 /  1814  (100%)
+  Nb  :  1799 /  1814  (99%)
+  Y   :   970 /  1814  (53%)
+  Fe  :  1690 /  1814  (93%)
+  Mn  :  1690 /  1814  (93%)
+  Zn  :  1690 /  1814  (93%)
+  Ti  :  1601 /  1814  (88%)
+  Ba  :  1698 /  1814  (94%)
+  Th  :   920 /  1814  (51%)
+  Pb  :  1694 /  1814  (93%)
+  Ga  :   811 /  1814  (45%)
+
+Files written:
+  reference_database/tier1_comparison_ready.csv
+  reference_database/source_comparison_fingerprints.csv
+  reference_database/phase4_report.txt

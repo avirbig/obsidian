@@ -1,0 +1,35 @@
+source,best_tier,tier_label,ref_quality,n_total,usable_elements,N_Rb,mean_Rb,sd_Rb,N_Sr,mean_Sr,sd_Sr,N_Zr,mean_Zr,sd_Zr,N_Nb,mean_Nb,sd_Nb,N_Y,mean_Y,sd_Y
+AciGol,2,ICP-MS/INAA,weak,1,,1,223.0,,1,8.0,,1,81.0,,1,24.0,,1,47.0,
+AciGolWest,1,pXRF/EDXRF,weak,1,,1,167.0,,1,1.47,,1,47.1,,1,20.9,,1,19.9,
+Antiparos,1,pXRF/EDXRF,weak,1,,1,367.0,,1,10.0,,1,128.0,,0,,,0,,
+Bingol,2,ICP-MS/INAA,weak,1,,1,270.0,,0,,,1,1273.0,,1,60.0,,1,134.0,
+BingolA,1,pXRF/EDXRF,strong,152,"Rb,Sr,Zr,Nb,Y",152,229.55,21.27,152,0.25,0.64,152,1238.45,91.4,152,61.02,6.35,39,132.92,22.16
+BingolB,1,pXRF/EDXRF,strong,157,"Rb,Sr,Zr,Nb,Y",157,223.87,20.96,157,44.64,3.68,157,327.37,14.21,157,18.04,1.97,44,36.41,4.87
+Brown Rhyolite,1,pXRF/EDXRF,weak,1,,1,14.0,,1,22.0,,1,21.0,,1,5.0,,1,10.0,
+Carpathian 1,1,pXRF/EDXRF,weak,1,,1,163.5,,1,70.5,,1,68.0,,0,,,0,,
+Carpathian 2,1,pXRF/EDXRF,weak,1,,1,174.5,,1,73.5,,1,129.0,,0,,,0,,
+Dhemenegaki,1,pXRF/EDXRF,strong,83,"Rb,Sr,Zr,Nb,Y",83,109.8,5.24,83,117.25,5.89,83,114.59,5.46,83,8.67,1.07,83,17.8,1.66
+EGD,1,pXRF/EDXRF,strong,63,"Rb,Sr,Zr,Nb,Y",63,182.1,7.05,63,12.37,6.07,63,76.57,6.64,63,24.65,1.11,63,22.05,1.4
+Giali,1,pXRF/EDXRF,weak,2,,2,123.5,3.54,2,60.0,4.24,2,91.25,6.01,1,13.0,,1,16.0,
+GolluDag,1,pXRF/EDXRF,strong,26,"Rb,Sr,Zr,Nb,Y",26,183.77,33.18,26,18.5,9.82,26,95.98,14.0,25,23.84,4.8,25,24.32,2.5
+Group3d,1,pXRF/EDXRF,strong,279,"Rb,Sr,Zr,Nb,Y",279,461.6,19.79,279,11.58,1.1,279,204.0,7.54,279,28.57,1.83,12,65.94,4.37
+HTMD,4,NAA (REE),weak,1,,0,,,0,,,0,,,0,,,0,,
+HasanDag,3,XRF (lab),strong,21,"Rb,Sr,Zr,Nb",21,131.5,4.03,21,75.2,2.12,21,42.52,3.17,21,13.09,1.25,0,,
+HotamisDag,2,ICP-MS/INAA,weak,2,,2,146.5,10.61,2,81.5,26.16,2,148.5,45.96,2,12.0,0.0,2,30.5,2.12
+KRUD,4,NAA (REE),weak,1,,0,,,0,,,0,,,0,,,0,,
+KarsArpacay,3,XRF (lab),strong,11,"Rb,Sr,Zr,Nb",11,138.7,2.42,11,10.26,1.36,11,200.02,4.12,11,27.66,1.8,0,,
+KarsDigor,3,XRF (lab),strong,22,"Rb,Sr,Zr,Nb",22,114.69,6.2,22,108.46,39.27,22,149.96,30.91,22,15.63,1.66,0,,
+Melos Adamas,1,pXRF/EDXRF,weak,1,,1,107.5,,1,100.0,,1,106.5,,0,,,0,,
+Melos Demenegaki,1,pXRF/EDXRF,weak,1,,1,97.0,,1,109.5,,1,114.5,,0,,,0,,
+MeydanDag,1,pXRF/EDXRF,moderate,6,"Rb,Sr,Zr,Nb,Y",6,199.75,5.65,6,16.83,1.59,6,289.44,6.33,6,30.24,2.67,4,55.33,1.7
+Mus,1,pXRF/EDXRF,moderate,3,"Rb,Sr,Zr,Nb",3,180.13,1.38,3,0.0,0.0,3,247.22,12.21,3,62.18,3.54,2,57.0,0.0
+ND,1,pXRF/EDXRF,strong,46,"Rb,Sr,Zr,Nb,Y",46,163.23,7.0,46,95.94,3.4,46,145.53,4.55,45,20.79,0.78,45,20.34,0.57
+Nemrut Dağ/Bingöl A,1,pXRF/EDXRF,moderate,5,"Rb,Sr,Zr,Nb",5,256.27,22.71,5,0.0,0.0,5,1400.01,73.11,5,68.32,5.69,0,,
+NemrutDag,1,pXRF/EDXRF,strong,340,"Rb,Sr,Zr,Nb,Y",340,209.96,11.16,339,0.02,0.23,340,1276.8,41.59,340,64.85,3.07,12,102.75,6.76
+Pasinler,2,ICP-MS/INAA,strong,11,"Rb,Sr,Zr,Nb,Y",11,159.91,26.58,11,47.64,53.06,11,190.36,30.39,11,24.36,4.23,11,23.55,10.88
+Sarikamis,2,ICP-MS/INAA,strong,10,"Rb,Sr,Zr,Nb,Y",10,141.8,3.08,10,4.12,0.37,10,256.5,14.19,10,29.8,0.63,10,48.8,1.23
+Sevan,4,NAA (REE),weak,1,,0,,,0,,,0,,,0,,,0,,
+Sta Nychia,1,pXRF/EDXRF,strong,628,"Rb,Sr,Zr,Nb,Y",628,118.64,5.52,628,101.95,4.88,628,105.66,4.35,628,9.14,1.12,628,17.74,1.81
+SuphanDag,2,ICP-MS/INAA,weak,2,,2,176.5,37.48,2,16.0,1.41,2,206.0,130.11,2,21.0,15.56,2,42.0,16.97
+WGD,2,ICP-MS/INAA,weak,1,,1,193.0,,1,11.23,,1,73.1,,0,,,0,,
+Zincirkale,4,NAA (REE),weak,1,,0,,,0,,,0,,,0,,,0,,
