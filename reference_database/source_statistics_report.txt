@@ -1,0 +1,263 @@
+PHASE 3 -- SOURCE FINGERPRINT STATISTICS
+======================================================================
+Master rows: 2375  |  Verified: 2337
+Unique sources: 34
+Tier 1 (pXRF/EDXRF) rows: 1814
+Tier 2 rows: 273
+Tier 3 rows: 234
+Tier 4 (NAA) rows: 13
+
+ELEMENT KEY  (ppm unless noted)
+  Heavy 5 (most reliable for pXRF): Rb  Sr  Zr  Nb  Y
+  Additional:                        Fe  Mn  Zn  Ti  Ba  Th  Pb  Ga
+  NAA (Tier 4 only):                 La  Ce  Sm  Eu  Yb  Lu
+
+======================================================================
+PER-SOURCE FINGERPRINTS  (format: mean +/- SD  [N])
+======================================================================
+
+--- AciGol ---
+  Tiers available: [2, 3]  |  Papers: Forster & Grave 2012; Frahm & Hauck 2017
+  Tier 1 (pXRF): no data
+  Tier 2 (ICP-MS/INAA, N=1): present -- see CSV for element details
+  Tier 3 (XRF (lab), N=37): present -- see CSV for element details
+
+--- AciGolWest ---
+  Tiers available: [1]  |  Papers: Carter et al. 2006
+  Tier 1 (pXRF, N=1):
+    Rb: 167.0 +/-  --    Sr: 1.5 +/-  --    Zr: 47.1 +/-  --    Nb: 20.9 +/-  --    Y: 19.9 +/-  --    
+    Ba: 3.0+/-  --    Th: 13.5+/-  --    Pb: 27.6+/-  --    
+
+--- Antiparos ---
+  Tiers available: [1]  |  Papers: Milic 2014
+  Tier 1 (pXRF, N=1):
+    Rb: 367.0 +/-  --    Sr: 10.0 +/-  --    Zr: 128.0 +/-  --    Nb:   --   +/-  --    Y:   --   +/-  --    
+
+--- Bingol ---
+  Tiers available: [2]  |  Papers: Carter et al. 2013 (Kenan Tepe)
+  Tier 1 (pXRF): no data
+  Tier 2 (ICP-MS/INAA, N=1): present -- see CSV for element details
+
+--- BingolA ---
+  Tiers available: [1, 2, 3]  |  Papers: Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Khalidi, Gratuze & Boucetta 2009; Rosen et al. 2011; Rosenberg & Carter et al. 2022; Schechter et al. 2016
+  Tier 1 (pXRF, N=152):
+    Rb: 229.6 +/-21.3  Sr: 0.2 +/-0.6  Zr: 1238.5 +/-91.4  Nb: 61.0 +/-6.3  Y: 132.9 +/-22.2  
+    Fe: 30348.7+/-3169.0  Mn: 656.2+/-90.1  Zn: 205.8+/-22.2  Ti: 1211.6+/-104.1  Ba: 17.2+/-43.2  Th: 31.0+/-5.3  Pb: 36.5+/-4.5  Ga: 28.7+/-5.3  
+  Tier 2 (ICP-MS/INAA, N=41): present -- see CSV for element details
+  Tier 3 (XRF (lab), N=2): present -- see CSV for element details
+
+--- BingolB ---
+  Tiers available: [1, 2, 3]  |  Papers: Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Frahm & Hauck 2017; Khalidi, Gratuze & Boucetta 2009; Rosenberg & Carter et al. 2022; Schechter et al. 2016
+  Tier 1 (pXRF, N=157):
+    Rb: 223.9 +/-21.0  Sr: 44.6 +/-3.7  Zr: 327.4 +/-14.2  Nb: 18.0 +/-2.0  Y: 36.4 +/-4.9  
+    Fe: 14032.9+/-1456.8  Mn: 358.3+/-74.5  Zn: 50.9+/-7.4  Ti: 1182.9+/-70.2  Ba: 264.1+/-109.5  Th: 29.6+/-3.4  Pb: 28.7+/-2.8  Ga: 27.6+/-5.3  
+  Tier 2 (ICP-MS/INAA, N=74): present -- see CSV for element details
+  Tier 3 (XRF (lab), N=9): present -- see CSV for element details
+
+--- Brown Rhyolite ---
+  Tiers available: [1]  |  Papers: Morgan 2015
+  Tier 1 (pXRF, N=1):
+    Rb: 14.0 +/-  --    Sr: 22.0 +/-  --    Zr: 21.0 +/-  --    Nb: 5.0 +/-  --    Y: 10.0 +/-  --    
+    Fe: 1535.0+/-  --    Mn: -135.0+/-  --    Zn: 25.0+/-  --    Ti: 188.0+/-  --    Ba: 698.0+/-  --    Th: 3.0+/-  --    Pb: 34.0+/-  --    Ga: 15.0+/-  --    
+
+--- Carpathian 1 ---
+  Tiers available: [1]  |  Papers: Milic 2014
+  Tier 1 (pXRF, N=1):
+    Rb: 163.5 +/-  --    Sr: 70.5 +/-  --    Zr: 68.0 +/-  --    Nb:   --   +/-  --    Y:   --   +/-  --    
+
+--- Carpathian 2 ---
+  Tiers available: [1]  |  Papers: Milic 2014
+  Tier 1 (pXRF, N=1):
+    Rb: 174.5 +/-  --    Sr: 73.5 +/-  --    Zr: 129.0 +/-  --    Nb:   --   +/-  --    Y:   --   +/-  --    
+
+--- Dhemenegaki ---
+  Tiers available: [1]  |  Papers: Morgan 2015
+  Tier 1 (pXRF, N=83):
+    Rb: 109.8 +/-5.2  Sr: 117.2 +/-5.9  Zr: 114.6 +/-5.5  Nb: 8.7 +/-1.1  Y: 17.8 +/-1.7  
+    Fe: 12333.3+/-1016.0  Mn: 510.2+/-68.9  Zn: 42.3+/-8.5  Ti: 600.1+/-208.2  Ba: 719.2+/-106.2  Th: 10.3+/-1.5  Pb: 23.6+/-2.0  Ga: 15.5+/-0.8  
+
+--- EGD ---
+  Tiers available: [1, 2, 3, 4]  |  Papers: Binder et al. 2011; Carter & Shackley 2007; Carter et al. 2006; Carter et al. 2017; Forster & Grave 2012; Frahm & Hauck 2017; Oddone et al. 1997; Rosenberg & Carter et al. 2022; Yellin & Perlman 1981; Yellin et al. 1996
+  Tier 1 (pXRF, N=63):
+    Rb: 182.1 +/-7.0  Sr: 12.4 +/-6.1  Zr: 76.6 +/-6.6  Nb: 24.6 +/-1.1  Y: 22.1 +/-1.4  
+    Ti: 376.6+/-106.4  Ba: 152.3+/-54.8  Th: 20.6+/-1.6  Pb: 22.1+/-0.6  
+  Tier 2 (ICP-MS/INAA, N=49): present -- see CSV for element details
+  Tier 3 (XRF (lab), N=12): present -- see CSV for element details
+  Tier 4 (NAA (REE), N=2): present -- see CSV for element details
+
+--- Giali ---
+  Tiers available: [1]  |  Papers: Milic 2014; Morgan 2015
+  Tier 1 (pXRF, N=2):
+    Rb: 123.5 +/-3.5  Sr: 60.0 +/-4.2  Zr: 91.2 +/-6.0  Nb: 13.0 +/-  --    Y: 16.0 +/-  --    
+    Fe: 9110.0+/-  --    Mn: 452.0+/-  --    Zn: 55.0+/-  --    Ti: 636.0+/-  --    Ba: 475.0+/-  --    Th: 14.0+/-  --    Pb: 25.0+/-  --    Ga: 16.0+/-  --    
+
+--- GolluDag ---
+  Tiers available: [1, 3, 4]  |  Papers: Frahm & Hauck 2017; Milic 2014; Morgan 2015; Schechter et al. 2016; Yellin & Perlman 1980
+  Tier 1 (pXRF, N=26):
+    Rb: 183.8 +/-33.2  Sr: 18.5 +/-9.8  Zr: 96.0 +/-14.0  Nb: 23.8 +/-4.8  Y: 24.3 +/-2.5  
+    Fe: 6931.5+/-900.1  Mn: 495.3+/-100.9  Zn: 31.1+/-7.7  Ti: 456.0+/-  --    Ba: 344.0+/-  --    Th: 20.4+/-4.1  Pb: 32.0+/-  --    Ga: 23.8+/-4.9  
+  Tier 3 (XRF (lab), N=19): present -- see CSV for element details
+  Tier 4 (NAA (REE), N=1): present -- see CSV for element details
+
+--- Group3d ---
+  Tiers available: [1]  |  Papers: Campbell & Healey 2016
+  Tier 1 (pXRF, N=279):
+    Rb: 461.6 +/-19.8  Sr: 11.6 +/-1.1  Zr: 204.0 +/-7.5  Nb: 28.6 +/-1.8  Y: 65.9 +/-4.4  
+    Fe: 12517.3+/-618.4  Mn: 449.6+/-63.9  Zn: 107.5+/-7.2  Ti: 487.7+/-36.0  Ba: 40.8+/-58.3  Pb: 66.1+/-4.5  
+
+--- HTMD ---
+  Tiers available: [4]  |  Papers: Yellin et al. 1996
+  Tier 1 (pXRF): no data
+  Tier 4 (NAA (REE), N=1): present -- see CSV for element details
+
+--- HasanDag ---
+  Tiers available: [3, 4]  |  Papers: Frahm & Hauck 2017; Yellin & Perlman 1981
+  Tier 1 (pXRF): no data
+  Tier 3 (XRF (lab), N=21): present -- see CSV for element details
+  Tier 4 (NAA (REE), N=1): present -- see CSV for element details
+
+--- HotamisDag ---
+  Tiers available: [2]  |  Papers: Forster & Grave 2012
+  Tier 1 (pXRF): no data
+  Tier 2 (ICP-MS/INAA, N=2): present -- see CSV for element details
+
+--- KRUD ---
+  Tiers available: [4]  |  Papers: Yellin & Perlman 1981
+  Tier 1 (pXRF): no data
+  Tier 4 (NAA (REE), N=1): present -- see CSV for element details
+
+--- KarsArpacay ---
+  Tiers available: [3]  |  Papers: Frahm & Hauck 2017
+  Tier 1 (pXRF): no data
+  Tier 3 (XRF (lab), N=11): present -- see CSV for element details
+
+--- KarsDigor ---
+  Tiers available: [3]  |  Papers: Frahm & Hauck 2017
+  Tier 1 (pXRF): no data
+  Tier 3 (XRF (lab), N=22): present -- see CSV for element details
+
+--- Melos Adamas ---
+  Tiers available: [1]  |  Papers: Milic 2014
+  Tier 1 (pXRF, N=1):
+    Rb: 107.5 +/-  --    Sr: 100.0 +/-  --    Zr: 106.5 +/-  --    Nb:   --   +/-  --    Y:   --   +/-  --    
+
+--- Melos Demenegaki ---
+  Tiers available: [1]  |  Papers: Milic 2014
+  Tier 1 (pXRF, N=1):
+    Rb: 97.0 +/-  --    Sr: 109.5 +/-  --    Zr: 114.5 +/-  --    Nb:   --   +/-  --    Y:   --   +/-  --    
+
+--- MeydanDag ---
+  Tiers available: [1, 3]  |  Papers: Campbell & Healey 2016; Frahm & Hauck 2017; Khalidi, Gratuze & Boucetta 2009
+  Tier 1 (pXRF, N=6):
+    Rb: 199.8 +/-5.7  Sr: 16.8 +/-1.6  Zr: 289.4 +/-6.3  Nb: 30.2 +/-2.7  Y: 55.3 +/-1.7  
+    Fe: 9854.1+/-466.7  Mn: 519.4+/-57.9  Zn: 80.3+/-6.8  Ti: 519.3+/-12.0  Ba: 16.8+/-37.6  Pb: 31.9+/-1.6  
+  Tier 3 (XRF (lab), N=32): present -- see CSV for element details
+
+--- Mus ---
+  Tiers available: [1, 2]  |  Papers: Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Rosenberg & Carter et al. 2022
+  Tier 1 (pXRF, N=3):
+    Rb: 180.1 +/-1.4  Sr: 0.0 +/-0.0  Zr: 247.2 +/-12.2  Nb: 62.2 +/-3.5  Y: 57.0 +/-0.0  
+    Fe: 9593.4+/-280.0  Mn: 447.8+/-28.8  Zn: 116.4+/-0.6  Ti: 358.8+/-11.7  Ba: 56.3+/-79.6  Pb: 29.5+/-0.5  
+  Tier 2 (ICP-MS/INAA, N=2): present -- see CSV for element details
+
+--- ND ---
+  Tiers available: [1, 2, 3, 4]  |  Papers: Carter & Shackley 2007; Carter et al. 2006; Carter et al. 2017; Forster & Grave 2012; Frahm & Hauck 2017; Milic 2014; Yellin & Perlman 1980; Yellin & Perlman 1981
+  Tier 1 (pXRF, N=46):
+    Rb: 163.2 +/-7.0  Sr: 95.9 +/-3.4  Zr: 145.5 +/-4.5  Nb: 20.8 +/-0.8  Y: 20.3 +/-0.6  
+    Ba: 568.4+/-15.4  Th: 25.3+/-1.1  Pb: 27.5+/-0.7  
+  Tier 2 (ICP-MS/INAA, N=35): present -- see CSV for element details
+  Tier 3 (XRF (lab), N=8): present -- see CSV for element details
+  Tier 4 (NAA (REE), N=2): present -- see CSV for element details
+
+--- Nemrut Dağ/Bingöl A ---
+  Tiers available: [1]  |  Papers: Campbell & Healey 2016
+  Tier 1 (pXRF, N=5):
+    Rb: 256.3 +/-22.7  Sr: 0.0 +/-0.0  Zr: 1400.0 +/-73.1  Nb: 68.3 +/-5.7  Y:   --   +/-  --    
+    Fe: 28264.4+/-1352.5  Mn: 594.1+/-84.7  Zn: 228.9+/-14.2  Ti: 1065.0+/-27.3  Ba: 60.6+/-78.3  Pb: 42.6+/-4.3  
+
+--- NemrutDag ---
+  Tiers available: [1, 2, 4]  |  Papers: Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Carter et al. 2017; Rosenberg & Carter et al. 2022; Yellin & Perlman 1981; Yellin et al. 1996
+  Tier 1 (pXRF, N=340):
+    Rb: 210.0 +/-11.2  Sr: 0.0 +/-0.2  Zr: 1276.8 +/-41.6  Nb: 64.8 +/-3.1  Y: 102.8 +/-6.8  
+    Fe: 21378.2+/-1180.4  Mn: 527.8+/-52.1  Zn: 188.8+/-12.3  Ti: 888.8+/-51.5  Ba: 12.8+/-35.0  Pb: 28.8+/-3.6  
+  Tier 2 (ICP-MS/INAA, N=22): present -- see CSV for element details
+  Tier 4 (NAA (REE), N=3): present -- see CSV for element details
+
+--- Pasinler ---
+  Tiers available: [2]  |  Papers: Rosenberg & Carter et al. 2022
+  Tier 1 (pXRF): no data
+  Tier 2 (ICP-MS/INAA, N=11): present -- see CSV for element details
+
+--- Sarikamis ---
+  Tiers available: [2, 3]  |  Papers: Frahm & Hauck 2017; Rosenberg & Carter et al. 2022
+  Tier 1 (pXRF): no data
+  Tier 2 (ICP-MS/INAA, N=10): present -- see CSV for element details
+  Tier 3 (XRF (lab), N=43): present -- see CSV for element details
+
+--- Sevan ---
+  Tiers available: [4]  |  Papers: Yellin & Perlman 1981
+  Tier 1 (pXRF): no data
+  Tier 4 (NAA (REE), N=1): present -- see CSV for element details
+
+--- Sta Nychia ---
+  Tiers available: [1]  |  Papers: Morgan 2015
+  Tier 1 (pXRF, N=628):
+    Rb: 118.6 +/-5.5  Sr: 102.0 +/-4.9  Zr: 105.7 +/-4.3  Nb: 9.1 +/-1.1  Y: 17.7 +/-1.8  
+    Fe: 9977.1+/-633.4  Mn: 488.8+/-82.1  Zn: 41.1+/-8.8  Ti: 430.7+/-113.4  Ba: 697.5+/-54.2  Th: 11.0+/-1.6  Pb: 23.7+/-2.0  Ga: 15.7+/-0.9  
+
+--- SuphanDag ---
+  Tiers available: [2, 3]  |  Papers: Frahm & Hauck 2017; Rosenberg & Carter et al. 2022
+  Tier 1 (pXRF): no data
+  Tier 2 (ICP-MS/INAA, N=2): present -- see CSV for element details
+  Tier 3 (XRF (lab), N=18): present -- see CSV for element details
+
+--- WGD ---
+  Tiers available: [2]  |  Papers: Oddone et al. 1997
+  Tier 1 (pXRF): no data
+  Tier 2 (ICP-MS/INAA, N=1): present -- see CSV for element details
+
+--- Zincirkale ---
+  Tiers available: [4]  |  Papers: Yellin & Perlman 1981
+  Tier 1 (pXRF): no data
+  Tier 4 (NAA (REE), N=1): present -- see CSV for element details
+
+
+======================================================================
+TIER 1 SUMMARY TABLE  (mean ppm)
+======================================================================
+Source                    N       Rb       Sr       Zr       Nb        Y  Papers
+------------------------------------------------------------------------------------------
+AciGol                    0       --       --       --       --       --  Forster & Grave 2012; Frahm & Hauck 2017
+AciGolWest                1    167.0      1.5     47.1     20.9     19.9  Carter et al. 2006
+Antiparos                 1    367.0     10.0    128.0       --       --  Milic 2014
+Bingol                    0       --       --       --       --       --  Carter et al. 2013 (Kenan Tepe)
+BingolA                 152    229.6      0.2   1238.4     61.0    132.9  Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Khalidi, Gratuze & Boucetta 2009; Rosen et al. 2011; Rosenberg & Carter et al. 2022; Schechter et al. 2016
+BingolB                 157    223.9     44.6    327.4     18.0     36.4  Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Frahm & Hauck 2017; Khalidi, Gratuze & Boucetta 2009; Rosenberg & Carter et al. 2022; Schechter et al. 2016
+Brown Rhyolite            1     14.0     22.0     21.0      5.0     10.0  Morgan 2015
+Carpathian 1              1    163.5     70.5     68.0       --       --  Milic 2014
+Carpathian 2              1    174.5     73.5    129.0       --       --  Milic 2014
+Dhemenegaki              83    109.8    117.3    114.6      8.7     17.8  Morgan 2015
+EGD                      63    182.1     12.4     76.6     24.6     22.1  Binder et al. 2011; Carter & Shackley 2007; Carter et al. 2006; Carter et al. 2017; Forster & Grave 2012; Frahm & Hauck 2017; Oddone et al. 1997; Rosenberg & Carter et al. 2022; Yellin & Perlman 1981; Yellin et al. 1996
+Giali                     2    123.5     60.0     91.2     13.0     16.0  Milic 2014; Morgan 2015
+GolluDag                 26    183.8     18.5     96.0     23.8     24.3  Frahm & Hauck 2017; Milic 2014; Morgan 2015; Schechter et al. 2016; Yellin & Perlman 1980
+Group3d                 279    461.6     11.6    204.0     28.6     65.9  Campbell & Healey 2016
+HTMD                      0       --       --       --       --       --  Yellin et al. 1996
+HasanDag                  0       --       --       --       --       --  Frahm & Hauck 2017; Yellin & Perlman 1981
+HotamisDag                0       --       --       --       --       --  Forster & Grave 2012
+KRUD                      0       --       --       --       --       --  Yellin & Perlman 1981
+KarsArpacay               0       --       --       --       --       --  Frahm & Hauck 2017
+KarsDigor                 0       --       --       --       --       --  Frahm & Hauck 2017
+Melos Adamas              1    107.5    100.0    106.5       --       --  Milic 2014
+Melos Demenegaki          1     97.0    109.5    114.5       --       --  Milic 2014
+MeydanDag                 6    199.8     16.8    289.4     30.2     55.3  Campbell & Healey 2016; Frahm & Hauck 2017; Khalidi, Gratuze & Boucetta 2009
+Mus                       3    180.1      0.0    247.2     62.2     57.0  Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Rosenberg & Carter et al. 2022
+ND                       46    163.2     95.9    145.5     20.8     20.3  Carter & Shackley 2007; Carter et al. 2006; Carter et al. 2017; Forster & Grave 2012; Frahm & Hauck 2017; Milic 2014; Yellin & Perlman 1980; Yellin & Perlman 1981
+Nemrut Dağ/Bingöl A       5    256.3      0.0   1400.0     68.3       --  Campbell & Healey 2016
+NemrutDag               340    210.0      0.0   1276.8     64.8    102.8  Campbell & Healey 2016; Carter et al. 2013 (Kenan Tepe); Carter et al. 2017; Rosenberg & Carter et al. 2022; Yellin & Perlman 1981; Yellin et al. 1996
+Pasinler                  0       --       --       --       --       --  Rosenberg & Carter et al. 2022
+Sarikamis                 0       --       --       --       --       --  Frahm & Hauck 2017; Rosenberg & Carter et al. 2022
+Sevan                     0       --       --       --       --       --  Yellin & Perlman 1981
+Sta Nychia              628    118.6    101.9    105.7      9.1     17.7  Morgan 2015
+SuphanDag                 0       --       --       --       --       --  Frahm & Hauck 2017; Rosenberg & Carter et al. 2022
+WGD                       0       --       --       --       --       --  Oddone et al. 1997
+Zincirkale                0       --       --       --       --       --  Yellin & Perlman 1981
