@@ -1,0 +1,368 @@
+======================================================================
+PHASE 5 -- OBSIDIAN SOURCE ATTRIBUTION (Mahalanobis Distance)
+======================================================================
+Reference: 9 Tier-1 sources, 1072 rows
+Samples:   507 obsidian items
+Elements:  PRIMARY = Zr/Nb (calibration-robust)
+           SECONDARY = Rb(x2.0)/Zr/Nb (Rb scaled for instrument offset)
+
+PRIMARY: Zr/Nb (2-element, df=2)
+---------------------------------------------
+  BingolA                 N= 152  Zr= 1238.4  Nb=  61.0
+  BingolB                 N= 157  Zr=  327.4  Nb=  18.0
+  EGD                     N=  63  Zr=   76.6  Nb=  24.6
+  GolluDag                N=  25  Zr=   96.9  Nb=  23.8
+  Group3d                 N= 279  Zr=  204.0  Nb=  28.6
+  MeydanDag               N=   6  Zr=  289.4  Nb=  30.2
+  ND                      N=  45  Zr=  145.8  Nb=  20.8
+  NemrutDag               N= 340  Zr= 1276.8  Nb=  64.8
+
+SECONDARY: Rb(x2)/Zr/Nb (3-element, df=3)
+---------------------------------------------
+  BingolA                 N= 152  Rb=  229.6  Zr= 1238.4  Nb=  61.0
+  BingolB                 N= 157  Rb=  223.9  Zr=  327.4  Nb=  18.0
+  EGD                     N=  63  Rb=  182.1  Zr=   76.6  Nb=  24.6
+  GolluDag                N=  25  Rb=  183.9  Zr=   96.9  Nb=  23.8
+  Group3d                 N= 279  Rb=  461.6  Zr=  204.0  Nb=  28.6
+  MeydanDag               N=   6  Rb=  199.8  Zr=  289.4  Nb=  30.2
+  ND                      N=  45  Rb=  163.5  Zr=  145.8  Nb=  20.8
+  NemrutDag               N= 340  Rb=  210.0  Zr= 1276.8  Nb=  64.8
+
+Attribution table saved: source_attribution.csv  (505 rows)
+
+======================================================================
+RESULTS
+======================================================================
+Total items:                505
+Confident (within 95% CI): 201 (39.8%)
+2-el and 3-el agree:        477   (94.5%)
+
+MOTZA  (N=379):
+  GolluDag                  329 ( 86.8%)  confident: 86
+  EGD                        50 ( 13.2%)  confident: 45
+
+EINAN  (N=103):
+  GolluDag                   92 ( 89.3%)  confident: 54
+  EGD                        11 ( 10.7%)  confident: 11
+
+YIFTAHEL  (N=23):
+  GolluDag                   20 ( 87.0%)  confident: 3
+  Group3d                     1 (  4.3%)  confident: 1
+  BingolA                     1 (  4.3%)  confident: 0
+  EGD                         1 (  4.3%)  confident: 1
+
+YIFTAHEL OUTLIER: yif_10671
+  Raw ppm:  Rb=100  Zr=1005  Nb=65
+  2-el attribution: BingolA  (D^2=12.59, p=0.0018)
+  3-el attribution: BingolA  (D^2=15.33, p=0.0016)
+
+OUTSIDE 95% ELLIPSE (N=304) -- ambiguous or uncovered sources:
+  ein_5251                site=einan       nearest=GolluDag  p=0.0052
+  ein_5356                site=einan       nearest=GolluDag  p=0.0166
+  ein_5410A               site=einan       nearest=GolluDag  p=0.0166
+  ein_5444                site=einan       nearest=GolluDag  p=0.0235
+  ein_5533                site=einan       nearest=GolluDag  p=0.0052
+  ein_5598                site=einan       nearest=GolluDag  p=0.0052
+  ein_5810                site=einan       nearest=GolluDag  p=0.0450
+  ein_5922                site=einan       nearest=GolluDag  p=0.0450
+  ein_5945                site=einan       nearest=GolluDag  p=0.0166
+  ein_5948                site=einan       nearest=GolluDag  p=0.0166
+  ein_5965                site=einan       nearest=GolluDag  p=0.0450
+  ein_5971                site=einan       nearest=GolluDag  p=0.0450
+  ein_6010                site=einan       nearest=GolluDag  p=0.0450
+  ein_6068                site=einan       nearest=GolluDag  p=0.0052
+  ein_6164                site=einan       nearest=GolluDag  p=0.0027
+  ein_6165                site=einan       nearest=GolluDag  p=0.0166
+  ein_6186                site=einan       nearest=GolluDag  p=0.0052
+  ein_6187                site=einan       nearest=GolluDag  p=0.0450
+  ein_6190                site=einan       nearest=GolluDag  p=0.0052
+  ein_6233                site=einan       nearest=GolluDag  p=0.0166
+  ein_6244                site=einan       nearest=GolluDag  p=0.0166
+  ein_6250                site=einan       nearest=GolluDag  p=0.0417
+  ein_6379A               site=einan       nearest=GolluDag  p=0.0450
+  ein_6431                site=einan       nearest=GolluDag  p=0.0450
+  ein_6559                site=einan       nearest=GolluDag  p=0.0052
+  ein_6578                site=einan       nearest=GolluDag  p=0.0052
+  ein_6627                site=einan       nearest=GolluDag  p=0.0279
+  ein_6682                site=einan       nearest=GolluDag  p=0.0052
+  ein_6698                site=einan       nearest=GolluDag  p=0.0052
+  ein_6722                site=einan       nearest=GolluDag  p=0.0450
+  ein_6775                site=einan       nearest=GolluDag  p=0.0166
+  ein_7092                site=einan       nearest=GolluDag  p=0.0166
+  ein_7345                site=einan       nearest=GolluDag  p=0.0450
+  ein_7786                site=einan       nearest=GolluDag  p=0.0450
+  ein_7835                site=einan       nearest=GolluDag  p=0.0450
+  ein_8013                site=einan       nearest=GolluDag  p=0.0450
+  ein_8082                site=einan       nearest=GolluDag  p=0.0050
+  ein_9485                site=einan       nearest=GolluDag  p=0.0235
+  mot_04727CTE            site=motza       nearest=GolluDag  p=0.0166
+  mot_40014a              site=motza       nearest=EGD  p=0.0324
+  mot_40014b              site=motza       nearest=GolluDag  p=0.0052
+  mot_40055               site=motza       nearest=GolluDag  p=0.0052
+  mot_40086               site=motza       nearest=GolluDag  p=0.0052
+  mot_40120               site=motza       nearest=GolluDag  p=0.0052
+  mot_40136               site=motza       nearest=GolluDag  p=0.0052
+  mot_40142               site=motza       nearest=GolluDag  p=0.0052
+  mot_40142b              site=motza       nearest=GolluDag  p=0.0052
+  mot_40168               site=motza       nearest=GolluDag  p=0.0052
+  mot_40202               site=motza       nearest=GolluDag  p=0.0166
+  mot_40208               site=motza       nearest=GolluDag  p=0.0052
+  mot_40209               site=motza       nearest=GolluDag  p=0.0166
+  mot_40224a              site=motza       nearest=GolluDag  p=0.0052
+  mot_40224b              site=motza       nearest=EGD  p=0.0324
+  mot_40237               site=motza       nearest=GolluDag  p=0.0052
+  mot_40237b              site=motza       nearest=GolluDag  p=0.0166
+  mot_40243               site=motza       nearest=GolluDag  p=0.0052
+  mot_40274b              site=motza       nearest=GolluDag  p=0.0450
+  mot_40286CTE            site=motza       nearest=GolluDag  p=0.0166
+  mot_40314               site=motza       nearest=GolluDag  p=0.0052
+  mot_40330               site=motza       nearest=GolluDag  p=0.0450
+  mot_40337               site=motza       nearest=GolluDag  p=0.0095
+  mot_40337PE             site=motza       nearest=GolluDag  p=0.0052
+  mot_40337bBS            site=motza       nearest=GolluDag  p=0.0052
+  mot_40355               site=motza       nearest=GolluDag  p=0.0014
+  mot_40362               site=motza       nearest=GolluDag  p=0.0052
+  mot_40374               site=motza       nearest=GolluDag  p=0.0014
+  mot_40380               site=motza       nearest=GolluDag  p=0.0052
+  mot_40385               site=motza       nearest=EGD  p=0.0324
+  mot_40410               site=motza       nearest=GolluDag  p=0.0450
+  mot_40411               site=motza       nearest=GolluDag  p=0.0166
+  mot_40431               site=motza       nearest=GolluDag  p=0.0052
+  mot_40433               site=motza       nearest=GolluDag  p=0.0166
+  mot_40443               site=motza       nearest=GolluDag  p=0.0279
+  mot_40443b              site=motza       nearest=GolluDag  p=0.0450
+  mot_40450               site=motza       nearest=GolluDag  p=0.0028
+  mot_40451               site=motza       nearest=GolluDag  p=0.0052
+  mot_40467               site=motza       nearest=GolluDag  p=0.0166
+  mot_40467CTE            site=motza       nearest=GolluDag  p=0.0052
+  mot_40475               site=motza       nearest=GolluDag  p=0.0497
+  mot_40484               site=motza       nearest=GolluDag  p=0.0052
+  mot_40484a              site=motza       nearest=GolluDag  p=0.0166
+  mot_40513CTE            site=motza       nearest=GolluDag  p=0.0052
+  mot_40522               site=motza       nearest=GolluDag  p=0.0052
+  mot_40524a              site=motza       nearest=GolluDag  p=0.0166
+  mot_40524b              site=motza       nearest=GolluDag  p=0.0166
+  mot_40524c              site=motza       nearest=GolluDag  p=0.0052
+  mot_40524d              site=motza       nearest=GolluDag  p=0.0052
+  mot_40551               site=motza       nearest=GolluDag  p=0.0003
+  mot_40556a              site=motza       nearest=GolluDag  p=0.0052
+  mot_40556b              site=motza       nearest=GolluDag  p=0.0052
+  mot_40559               site=motza       nearest=GolluDag  p=0.0052
+  mot_40572               site=motza       nearest=GolluDag  p=0.0497
+  mot_40586b              site=motza       nearest=GolluDag  p=0.0166
+  mot_40589PE             site=motza       nearest=GolluDag  p=0.0052
+  mot_40599a              site=motza       nearest=GolluDag  p=0.0166
+  mot_40599c              site=motza       nearest=GolluDag  p=0.0052
+  mot_40603               site=motza       nearest=GolluDag  p=0.0052
+  mot_40603PE             site=motza       nearest=GolluDag  p=0.0166
+  mot_40616               site=motza       nearest=GolluDag  p=0.0202
+  mot_40621               site=motza       nearest=GolluDag  p=0.0052
+  mot_40629               site=motza       nearest=GolluDag  p=0.0450
+  mot_40632               site=motza       nearest=GolluDag  p=0.0166
+  mot_40634               site=motza       nearest=GolluDag  p=0.0279
+  mot_40634a              site=motza       nearest=GolluDag  p=0.0450
+  mot_40634c              site=motza       nearest=GolluDag  p=0.0290
+  mot_40648               site=motza       nearest=GolluDag  p=0.0052
+  mot_40653               site=motza       nearest=GolluDag  p=0.0290
+  mot_40665               site=motza       nearest=GolluDag  p=0.0052
+  mot_40714               site=motza       nearest=GolluDag  p=0.0450
+  mot_40724a              site=motza       nearest=GolluDag  p=0.0166
+  mot_40724b              site=motza       nearest=GolluDag  p=0.0052
+  mot_40727a              site=motza       nearest=GolluDag  p=0.0052
+  mot_40727b              site=motza       nearest=GolluDag  p=0.0450
+  mot_40729               site=motza       nearest=GolluDag  p=0.0166
+  mot_40739               site=motza       nearest=GolluDag  p=0.0095
+  mot_40741               site=motza       nearest=GolluDag  p=0.0052
+  mot_40743               site=motza       nearest=GolluDag  p=0.0028
+  mot_40764               site=motza       nearest=GolluDag  p=0.0052
+  mot_40769CTE            site=motza       nearest=GolluDag  p=0.0014
+  mot_40789               site=motza       nearest=GolluDag  p=0.0052
+  mot_40802               site=motza       nearest=GolluDag  p=0.0052
+  mot_40809               site=motza       nearest=GolluDag  p=0.0450
+  mot_40809CTE            site=motza       nearest=GolluDag  p=0.0052
+  mot_40816               site=motza       nearest=GolluDag  p=0.0095
+  mot_40822               site=motza       nearest=GolluDag  p=0.0095
+  mot_40822CTE            site=motza       nearest=GolluDag  p=0.0166
+  mot_40822f              site=motza       nearest=GolluDag  p=0.0450
+  mot_40831               site=motza       nearest=GolluDag  p=0.0052
+  mot_40831b              site=motza       nearest=GolluDag  p=0.0450
+  mot_40848               site=motza       nearest=GolluDag  p=0.0166
+  mot_40866               site=motza       nearest=GolluDag  p=0.0279
+  mot_40871a              site=motza       nearest=GolluDag  p=0.0166
+  mot_40871b              site=motza       nearest=GolluDag  p=0.0450
+  mot_40874b              site=motza       nearest=GolluDag  p=0.0052
+  mot_40884               site=motza       nearest=GolluDag  p=0.0279
+  mot_40902               site=motza       nearest=GolluDag  p=0.0450
+  mot_40918               site=motza       nearest=GolluDag  p=0.0166
+  mot_40935a              site=motza       nearest=GolluDag  p=0.0204
+  mot_40935b              site=motza       nearest=GolluDag  p=0.0450
+  mot_40935c              site=motza       nearest=GolluDag  p=0.0052
+  mot_40945a              site=motza       nearest=GolluDag  p=0.0166
+  mot_40945b              site=motza       nearest=GolluDag  p=0.0450
+  mot_40953               site=motza       nearest=GolluDag  p=0.0052
+  mot_40977               site=motza       nearest=EGD  p=0.0324
+  mot_40984b              site=motza       nearest=GolluDag  p=0.0052
+  mot_40991               site=motza       nearest=GolluDag  p=0.0052
+  mot_40997               site=motza       nearest=GolluDag  p=0.0052
+  mot_41005a              site=motza       nearest=GolluDag  p=0.0450
+  mot_41005b              site=motza       nearest=GolluDag  p=0.0166
+  mot_41009a              site=motza       nearest=GolluDag  p=0.0052
+  mot_41009b              site=motza       nearest=GolluDag  p=0.0450
+  mot_41019               site=motza       nearest=GolluDag  p=0.0450
+  mot_41021               site=motza       nearest=GolluDag  p=0.0052
+  mot_41024               site=motza       nearest=GolluDag  p=0.0166
+  mot_41024a              site=motza       nearest=GolluDag  p=0.0052
+  mot_41026a              site=motza       nearest=GolluDag  p=0.0166
+  mot_41031a              site=motza       nearest=GolluDag  p=0.0166
+  mot_41031b              site=motza       nearest=GolluDag  p=0.0450
+  mot_41031c              site=motza       nearest=GolluDag  p=0.0052
+  mot_41037               site=motza       nearest=GolluDag  p=0.0290
+  mot_41053a              site=motza       nearest=GolluDag  p=0.0341
+  mot_41053b              site=motza       nearest=GolluDag  p=0.0095
+  mot_41055               site=motza       nearest=GolluDag  p=0.0052
+  mot_41061               site=motza       nearest=GolluDag  p=0.0052
+  mot_41067               site=motza       nearest=GolluDag  p=0.0052
+  mot_41085a              site=motza       nearest=GolluDag  p=0.0166
+  mot_41095a              site=motza       nearest=GolluDag  p=0.0052
+  mot_41106               site=motza       nearest=GolluDag  p=0.0052
+  mot_41123CTE            site=motza       nearest=GolluDag  p=0.0166
+  mot_41129               site=motza       nearest=GolluDag  p=0.0166
+  mot_41131CTE            site=motza       nearest=GolluDag  p=0.0052
+  mot_41135CTE            site=motza       nearest=GolluDag  p=0.0052
+  mot_41135PE             site=motza       nearest=GolluDag  p=0.0052
+  mot_41137               site=motza       nearest=GolluDag  p=0.0052
+  mot_4113b               site=motza       nearest=GolluDag  p=0.0450
+  mot_41150               site=motza       nearest=GolluDag  p=0.0052
+  mot_41153               site=motza       nearest=GolluDag  p=0.0052
+  mot_41157               site=motza       nearest=GolluDag  p=0.0166
+  mot_41157b              site=motza       nearest=GolluDag  p=0.0166
+  mot_41163a              site=motza       nearest=GolluDag  p=0.0450
+  mot_41163b              site=motza       nearest=GolluDag  p=0.0052
+  mot_41196               site=motza       nearest=GolluDag  p=0.0166
+  mot_41204b              site=motza       nearest=GolluDag  p=0.0166
+  mot_41217               site=motza       nearest=GolluDag  p=0.0092
+  mot_41217a              site=motza       nearest=GolluDag  p=0.0166
+  mot_41217e              site=motza       nearest=GolluDag  p=0.0166
+  mot_41220               site=motza       nearest=GolluDag  p=0.0052
+  mot_41241a              site=motza       nearest=GolluDag  p=0.0381
+  mot_41241b              site=motza       nearest=GolluDag  p=0.0052
+  mot_41244               site=motza       nearest=GolluDag  p=0.0166
+  mot_41253               site=motza       nearest=GolluDag  p=0.0166
+  mot_41253PE             site=motza       nearest=GolluDag  p=0.0014
+  mot_41267               site=motza       nearest=GolluDag  p=0.0052
+  mot_41279c              site=motza       nearest=GolluDag  p=0.0052
+  mot_41282a              site=motza       nearest=GolluDag  p=0.0095
+  mot_41282b              site=motza       nearest=GolluDag  p=0.0497
+  mot_41293               site=motza       nearest=GolluDag  p=0.0052
+  mot_41295a              site=motza       nearest=GolluDag  p=0.0290
+  mot_41295b              site=motza       nearest=GolluDag  p=0.0052
+  mot_41295c              site=motza       nearest=GolluDag  p=0.0052
+  mot_41352               site=motza       nearest=GolluDag  p=0.0019
+  mot_41354               site=motza       nearest=GolluDag  p=0.0341
+  mot_41357               site=motza       nearest=GolluDag  p=0.0450
+  mot_41364a              site=motza       nearest=GolluDag  p=0.0235
+  mot_41364b              site=motza       nearest=GolluDag  p=0.0052
+  mot_41372               site=motza       nearest=GolluDag  p=0.0166
+  mot_41531               site=motza       nearest=GolluDag  p=0.0052
+  mot_50024               site=motza       nearest=GolluDag  p=0.0166
+  mot_50030               site=motza       nearest=GolluDag  p=0.0052
+  mot_50053               site=motza       nearest=GolluDag  p=0.0052
+  mot_50085               site=motza       nearest=GolluDag  p=0.0052
+  mot_50085BS             site=motza       nearest=GolluDag  p=0.0052
+  mot_50098               site=motza       nearest=GolluDag  p=0.0052
+  mot_50109               site=motza       nearest=GolluDag  p=0.0450
+  mot_50136               site=motza       nearest=GolluDag  p=0.0052
+  mot_50168               site=motza       nearest=GolluDag  p=0.0166
+  mot_50170               site=motza       nearest=GolluDag  p=0.0450
+  mot_50177               site=motza       nearest=GolluDag  p=0.0052
+  mot_50185               site=motza       nearest=GolluDag  p=0.0166
+  mot_50188               site=motza       nearest=GolluDag  p=0.0164
+  mot_50206               site=motza       nearest=GolluDag  p=0.0052
+  mot_50210               site=motza       nearest=GolluDag  p=0.0052
+  mot_50236a              site=motza       nearest=GolluDag  p=0.0166
+  mot_50251               site=motza       nearest=GolluDag  p=0.0166
+  mot_50253               site=motza       nearest=GolluDag  p=0.0052
+  mot_50263               site=motza       nearest=GolluDag  p=0.0052
+  mot_50290               site=motza       nearest=GolluDag  p=0.0078
+  mot_50324               site=motza       nearest=GolluDag  p=0.0279
+  mot_50331               site=motza       nearest=GolluDag  p=0.0052
+  mot_50362               site=motza       nearest=GolluDag  p=0.0052
+  mot_50364               site=motza       nearest=GolluDag  p=0.0052
+  mot_50365               site=motza       nearest=GolluDag  p=0.0052
+  mot_50373               site=motza       nearest=GolluDag  p=0.0052
+  mot_50377               site=motza       nearest=GolluDag  p=0.0166
+  mot_50386               site=motza       nearest=GolluDag  p=0.0000
+  mot_50399               site=motza       nearest=GolluDag  p=0.0052
+  mot_50421               site=motza       nearest=GolluDag  p=0.0341
+  mot_50424               site=motza       nearest=GolluDag  p=0.0166
+  mot_50432               site=motza       nearest=GolluDag  p=0.0450
+  mot_50438               site=motza       nearest=GolluDag  p=0.0450
+  mot_50450               site=motza       nearest=GolluDag  p=0.0052
+  mot_50468               site=motza       nearest=GolluDag  p=0.0052
+  mot_50468a              site=motza       nearest=GolluDag  p=0.0052
+  mot_50468b              site=motza       nearest=GolluDag  p=0.0166
+  mot_50476               site=motza       nearest=GolluDag  p=0.0052
+  mot_50481               site=motza       nearest=GolluDag  p=0.0450
+  mot_50504               site=motza       nearest=GolluDag  p=0.0450
+  mot_50512               site=motza       nearest=GolluDag  p=0.0166
+  mot_50519               site=motza       nearest=GolluDag  p=0.0450
+  mot_50542               site=motza       nearest=GolluDag  p=0.0450
+  mot_50544               site=motza       nearest=GolluDag  p=0.0166
+  mot_50546               site=motza       nearest=GolluDag  p=0.0166
+  mot_50565               site=motza       nearest=GolluDag  p=0.0166
+  mot_50565a              site=motza       nearest=GolluDag  p=0.0450
+  mot_50565b              site=motza       nearest=GolluDag  p=0.0166
+  mot_50593               site=motza       nearest=GolluDag  p=0.0166
+  mot_50597a              site=motza       nearest=GolluDag  p=0.0235
+  mot_50597b              site=motza       nearest=GolluDag  p=0.0052
+  mot_50600a              site=motza       nearest=GolluDag  p=0.0166
+  mot_50604c              site=motza       nearest=GolluDag  p=0.0166
+  mot_50606               site=motza       nearest=GolluDag  p=0.0052
+  mot_50632b              site=motza       nearest=GolluDag  p=0.0052
+  mot_50643a              site=motza       nearest=GolluDag  p=0.0166
+  mot_50643b              site=motza       nearest=GolluDag  p=0.0052
+  mot_50655               site=motza       nearest=GolluDag  p=0.0052
+  mot_50658a              site=motza       nearest=GolluDag  p=0.0052
+  mot_50658b              site=motza       nearest=GolluDag  p=0.0052
+  mot_50662               site=motza       nearest=GolluDag  p=0.0166
+  mot_50662a              site=motza       nearest=GolluDag  p=0.0450
+  mot_50662b              site=motza       nearest=GolluDag  p=0.0000
+  mot_50667               site=motza       nearest=GolluDag  p=0.0052
+  mot_50670BS             site=motza       nearest=GolluDag  p=0.0052
+  mot_50680               site=motza       nearest=GolluDag  p=0.0052
+  mot_50681               site=motza       nearest=GolluDag  p=0.0052
+  mot_50706               site=motza       nearest=GolluDag  p=0.0052
+  mot_50712               site=motza       nearest=GolluDag  p=0.0166
+  mot_50721a              site=motza       nearest=GolluDag  p=0.0052
+  mot_50721b              site=motza       nearest=GolluDag  p=0.0166
+  mot_50728               site=motza       nearest=EGD  p=0.0324
+  mot_50750               site=motza       nearest=GolluDag  p=0.0052
+  mot_A2a                 site=motza       nearest=GolluDag  p=0.0450
+  mot_A2e                 site=motza       nearest=GolluDag  p=0.0052
+  mot_blade1a             site=motza       nearest=GolluDag  p=0.0052
+  mot_blade1b             site=motza       nearest=GolluDag  p=0.0166
+  mot_blade2              site=motza       nearest=GolluDag  p=0.0450
+  mot_blade3              site=motza       nearest=GolluDag  p=0.0450
+  yif_10671               site=yiftahel    nearest=BingolA  p=0.0018
+  yif_20846               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_20895               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_20917               site=yiftahel    nearest=GolluDag  p=0.0166
+  yif_25418               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_25464               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_25614               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_30013               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_30030/H             site=yiftahel    nearest=GolluDag  p=0.0115
+  yif_30088               site=yiftahel    nearest=GolluDag  p=0.0450
+  yif_30131               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_30195               site=yiftahel    nearest=GolluDag  p=0.0166
+  yif_30259               site=yiftahel    nearest=GolluDag  p=0.0166
+  yif_30288               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_40096               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_40198               site=yiftahel    nearest=GolluDag  p=0.0166
+  yif_50155               site=yiftahel    nearest=GolluDag  p=0.0052
+  yif_55138               site=yiftahel    nearest=GolluDag  p=0.0235
+
+CONFIDENT ATTRIBUTIONS PER SOURCE (2-element primary):
+  GolluDag                :  143
+  EGD                     :   57
+  Group3d                 :    1

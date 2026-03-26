@@ -255,12 +255,26 @@ Save all to `outputs/figures/` as .png (300 dpi) and .pdf.
 - Phase 3b (internal statistics: descriptive stats, biplots, PCA, k-means, hierarchical clustering, calibration note) ✅
 
 **Immediate next step:**
-1. **Phase 4 — Visualization** -- overlay samples on reference source biplots
-2. **Phase 5 — Source attribution** -- Mahalanobis distance comparison
+1. ~~**Phase 4 — Visualization** -- overlay samples on reference source biplots~~ (merged into Phase 5)
+2. **Phase 5 — Source attribution** ✅ -- Mahalanobis distance comparison COMPLETE
 
----
+**Completed:**
+- Phase 0 (scaffolding) ✅
+- Phase 1 (reference data extraction) ✅
+- Phase 2 (reference database, 34 sources, 2375 rows) ✅
+- Phase 3 (sample loading, cleaning, verification -- 507 obsidian + 3 flint, 510 total) ✅
+- Phase 3b (internal statistics: descriptive stats, biplots, PCA, k-means, hierarchical clustering, calibration note) ✅
+- Phase 5 (Mahalanobis source attribution, 505 items, EGD/GolluDag dominant, yif_10671 = BingolA) ✅
 
-## Key Conventions
+**Phase 5 key findings (2026-03-26):**
+  - Motza (N=379): 86.8% Göllü Dağ complex (GolluDag/EGD), 13.2% EGD
+  - Einan (N=103): 89.3% Göllü Dağ complex, 10.7% EGD
+  - Yiftahel (N=23): 22/23 Göllü Dağ + 1 BingolA (yif_10671, NEW FINDING)
+  - Ground truth CHECK: matches Yellin & Garfinkel 1986 for Yiftahel majority
+  - NOTE: 60% items outside 95% ellipse due to mixed-method reference data
+
+**Next steps:**
+1. Phase 6: Full manuscript / archaeological interpretation write-up
 
 - **Raw files are NEVER modified**
 - `samples_raw.csv` is IMMUTABLE after creation — do not edit

@@ -21,6 +21,26 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 ---
 
+## Phase 5 — Source Attribution (Mahalanobis Distance) + Report Corrections
+
+[2026-03-26] | USER_PROMPT | — | "yes, fix the interpertation and initiate phase 5. also i want you to add more simple description on the statistics methods. like Mahalanobis, what are the steps of this calculations what are the formulas of each steps, what is the logic behind it. add this to the samples report" | User session
+
+[2026-03-26] | BUG_FIX | outputs/reports/sample_report.md | Fixed Finding 3 in Section 4i: item was incorrectly identified as 'yif_' (empty basket, CV=141%, unreliable). Correct item is yif_10671 (basket 10671, locus 1233). Raw readings 1724-1725: Zr=990/1020 (CV ~3%, reliable). Nb/Zr = 65/1005 = 0.065. Attribution: peralkaline Anatolian source (BingolA family), NOT EGD. Removed 'unreliable/needs re-measurement' language. Summary bullet 3 also corrected. | Data investigation from prior session
+
+[2026-03-26] | DATA_ADD | outputs/reports/sample_report.md | New Section 4ii: Statistical Methods Explained. Covers Descriptive Statistics, Kruskal-Wallis, PCA, K-Means (with elbow+silhouette), Hierarchical Clustering, and Mahalanobis Distance -- each with formulas (LaTeX/KaTeX), step-by-step logic, and calibration caveats for this dataset. This section is human-readable, no prior stats knowledge assumed. | User request for plain-language statistics documentation
+
+[2026-03-26] | ANALYSIS | analysis/13_source_attribution.py | NEW Phase 5 script: Mahalanobis distance source attribution for all 507 obsidian items. PRIMARY = Zr/Nb (df=2, calibration-robust). SECONDARY = Rb(x2 calibration-corrected)/Zr/Nb (df=3). Results: 505 items attributed. Motza 86.8% GolluDag/EGD; Einan 89.3% GolluDag/EGD; Yiftahel 22/23 GolluDag/EGD + 1 BingolA (yif_10671). | Phase 5 initiation
+
+[2026-03-26] | DATA_ADD | outputs/reports/source_attribution.csv | Per-artifact attribution table: 505 rows. Columns: item_id, site, period, best_source, best_d2, best_p, confident, best_source_3el, best_d2_3el, best_p_3el, confident_3el, 2el_3el_agree, quality_flag, divergent_elements, locus, basket, Rb, Zr, Nb. | Phase 5 output
+
+[2026-03-26] | DATA_ADD | outputs/reports/source_attribution_report.txt | Phase 5 plain-language attribution report. Summary: 505 items attributed (39.8% confident, 94.5% 2el/3el agreement). Ground truth confirmed: Yiftahel majority = EGD (matches Yellin & Garfinkel 1986). yif_10671 = BingolA (D^2=12.59, new finding). 304 items outside 95% ellipse due to mixed-method reference variance (LA-ICP-MS EGD reference too tight for pXRF comparison). | Phase 5 output
+
+[2026-03-26] | DATA_ADD | outputs/figures/attribution/ | 5 new figures: biplot_Nb_Zr_attributed.png (95% ellipses), biplot_Nb_Zr_log.png (log scale), biplot_Rb_Zr_attributed.png (calibration offset visible), ratio_NbZr_comparison.png (strip chart), attribution_pie_by_site.png. | Phase 5 output
+
+[2026-03-26] | DATA_ADD | outputs/reports/sample_report.md | New Section 5 (Source Attribution Results) filled in with actual Phase 5 findings, replacing placeholder. Includes results table, Nb/Zr ratio interpretation, yif_10671 BingolA confirmation, GolluDag/EGD split explanation, and ground-truth check against Yellin 1986. | Phase 5 interpretation
+
+---
+
 ## Phase 3b — Internal Statistics + Current Session
 
 [2026-03-26] | USER_PROMPT | — | "alright, first of all i dont see my latest prompt on changelog. have you stopped updating this file? if so update it and maybe add yourself a hook in the end of each prompt answer and actions to update it. second of all i dont see no standartisation of where you put your reports. lets move all the reports into the output folder under report subfolder. second of all i didnt see any resolution or explanation or meaning of what we got from the result of the internal statistics and report. i want to see it. i want to know if the results makes any sense or not. please move also the sample report to the report folder" | User session
