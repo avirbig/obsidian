@@ -243,7 +243,7 @@ def assign_side_number(df: pd.DataFrame) -> pd.DataFrame:
 
 def drop_irrelevant_cols(df: pd.DataFrame) -> pd.DataFrame:
     """Remove NDT administrative columns we don't need."""
-    drop = ['Units', 'ndt_label']
+    drop = ['Units']  # keep ndt_label for material identification (e.g. 'Dark colored flint')
     # Also drop all element columns NOT in our list (Sn, Cd, Bi, etc.)
     keep_elems = set(ALL_ELEM + [f'{e}_err' for e in ALL_ELEM])
     all_cols = set(df.columns)
@@ -252,7 +252,7 @@ def drop_irrelevant_cols(df: pd.DataFrame) -> pd.DataFrame:
                     if c not in keep_elems
                     and c not in ['reading_no', 'item_id', 'site', 'period', 'side',
                                   'side_no', 'locus', 'basket', 'beam_coverage',
-                                  'dirt_flag', 'remarks', 'session_date', 'duration_sec',
+                                  'dirt_flag', 'remarks', 'ndt_label', 'session_date', 'duration_sec',
                                   'filter_main_sec', 'filter_low_sec', 'filter_high_sec',
                                   'filter_light_sec', 'area', 'source_file']
                     and not c.startswith('Unnamed')]
@@ -269,7 +269,7 @@ def drop_irrelevant_cols(df: pd.DataFrame) -> pd.DataFrame:
 
 def build_col_order(df: pd.DataFrame) -> list:
     meta = ['reading_no', 'item_id', 'site', 'period', 'locus', 'basket',
-            'side', 'side_no', 'beam_coverage', 'dirt_flag', 'remarks',
+            'side', 'side_no', 'beam_coverage', 'dirt_flag', 'remarks', 'ndt_label',
             'session_date', 'duration_sec',
             'filter_main_sec', 'filter_low_sec', 'filter_high_sec', 'filter_light_sec',
             'area', 'source_file']

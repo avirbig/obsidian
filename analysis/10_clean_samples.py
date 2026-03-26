@@ -54,14 +54,12 @@ def aggregate_item(group: pd.DataFrame) -> dict:
     n = len(group)
     first = group.sort_values('reading_no').iloc[0]
 
-    # Detect material type from remarks
-    if 'remarks' in group.columns:
-        remarks_str = ' '.join(group['remarks'].fillna('').astype(str)).lower()
-        material = 'flint?' if 'flint' in remarks_str else 'obsidian'
-        remarks_val = '; '.join(group['remarks'].dropna().unique())
-    else:
-        material = 'obsidian'
-        remarks_val = None
+    # Detect material type from remarks and locus
+    remarks_str = ' '.join(group['remarks'].fillna('').astype(str)).lower() if 'remarks' in group.columns else ''
+    locus_str   = str(first.get('locus', '') or '').lower()
+    is_flint = 'flint' in remarks_str or 'chert' in locus_str or 'flint' in locus_str
+    material = 'flint?' if is_flint else 'obsidian'
+    remarks_val = '; '.join(group['remarks'].dropna().unique()) if 'remarks' in group.columns else None
 
     row = {
         'item_id':       first['item_id'],

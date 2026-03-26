@@ -27,18 +27,19 @@ Three archaeological assemblages were measured with a portable X-ray fluorescenc
 | Site | N items | Period |
 |------|---------|--------|
 | Motza | 381 | EPPNB |
-| Einan | 104 | Natufian |
+| Einan | 103 | Natufian |
 | Yiftahel | 23 | MPPNB |
-| **Total** | **508** | |
+| **Total** | **507** | |
 
 ### 2b. Non-obsidian items (kept for comparison)
 
-Two artifacts from Motza were flagged during measurement as possible **flint** — the instrument returned no signal for Rb, Zr, or Nb (all below detection). They are retained in `samples_clean.csv` with `material = flint?` for reference but are excluded from all obsidian provenance calculations.
+Two artifacts from Motza and one reading pair from Einan were flagged as possible **flint** — the instrument returned no signal for Rb, Zr, or Nb (all below detection). They are retained in `samples_clean.csv` with `material = flint?` for reference but are excluded from all obsidian provenance calculations.
 
-| item_id | site | basket | remarks |
-|---------|------|--------|---------|
-| mot_41350 | motza | 41350 | Flint? |
-| mot_50683 | motza | 50683 | Flint? |
+| item_id | site | basket | locus | identification basis |
+|---------|------|--------|-------|----------------------|
+| mot_41350 | motza | 41350 | — | `remarks = 'Flint?'` in master xlsx |
+| mot_50683 | motza | 50683 | — | `remarks = 'Flint?'` in master xlsx |
+| ein_ | einan | (none) | Chert | `ndt_label = 'Dark colored flint'` / `'light colored flint'` (readings 1783–1784, 23/02/2017); `locus = 'Chert'` |
 
 ---
 

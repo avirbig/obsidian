@@ -1,5 +1,5 @@
 item_id,site,period,locus,basket,material,n_readings,beam_coverage,dirt_flag,remarks,session_date,quality_flag,divergent_elements,max_cv_pct,Rb,Rb_sd,Sr,Sr_sd,Zr,Zr_sd,Nb,Nb_sd,Fe,Fe_sd,Mn,Mn_sd,Zn,Zn_sd,Ti,Ti_sd,Ba,Ba_sd,Th,Th_sd,Pb,Pb_sd,Ga,Ga_sd,Si,Si_sd,K,K_sd,Ca,Ca_sd
-ein_,einan,natufian,Chert,,obsidian,2,,False,,2017-02-23 14:49:00,good,,0.0,,,,,,,,,390.0,268.7,,,,,55.0,49.5,60.0,,,,,,,,439345.0,24798.23,250.0,98.99,1105.0,572.76
+ein_,einan,natufian,Chert,,flint?,2,,False,,2017-02-23 14:49:00,good,,0.0,,,,,,,,,390.0,268.7,,,,,55.0,49.5,60.0,,,,,,,,439345.0,24798.23,250.0,98.99,1105.0,572.76
 ein_50155,einan,natufian,5076,50155,obsidian,3,Full,False,,2017-02-23 14:03:00,repeat_divergent,"Rb,Nb",24.7,90.0,10.0,,,66.67,5.77,23.33,5.77,7430.0,1912.83,230.0,42.43,,,420.0,117.9,,,,,36.67,20.82,,,352093.33,7772.22,32536.67,4876.32,11150.0,1182.75
 ein_5251,einan,natufian,R97b,5251,obsidian,2,,False,,2017-04-05 13:11:00,good,,0.0,80.0,0.0,,,60.0,0.0,20.0,0.0,11255.0,586.9,125.0,7.07,20.0,,1745.0,190.92,,,,,30.0,0.0,,,186745.0,445.48,20830.0,282.84,21400.0,1202.08
 ein_5287,einan,natufian,G98b,5287,obsidian,2,Partial,False,,2017-04-05 13:01:00,good,,9.4,95.0,7.07,,,75.0,7.07,30.0,0.0,10780.0,1004.09,215.0,63.64,,,1285.0,205.06,,,,,65.0,7.07,,,262865.0,6922.58,28465.0,784.89,37735.0,9397.45
