@@ -33,7 +33,26 @@ Three archaeological assemblages were measured with a portable X-ray fluorescenc
 
 ### 2b. Non-obsidian items (kept for comparison)
 
-Two artifacts from Motza and one reading pair from Einan were flagged as possible **flint** — the instrument returned no signal for Rb, Zr, or Nb (all below detection). They are retained in `samples_clean.csv` with `material = flint?` for reference but are excluded from all obsidian provenance calculations.
+### 2b. Non-obsidian items (flint/chert) — why the readings differ
+
+**Why obsidian and flint give completely different pXRF signals** comes down to their mineralogy and formation process:
+
+**Obsidian** is a volcanic glass — rapidly quenched rhyolitic to rhyodacitic magma (~70–75% SiO₂). Because it solidified from a melt, all the incompatible trace elements that couldn't fit into mineral crystal structures (Rb, Zr, Nb, Sr, Y) became concentrated in the glass at ppm-level abundances. These elements are homogeneously distributed throughout the glass matrix, which is why they produce stable, reproducible pXRF readings and serve as geochemical fingerprints. Different Anatolian volcanic centers (Göllü Dağ, Nemrut Dağ, Bingöl) cooled from magmas with distinct trace-element ratios, allowing source discrimination.
+
+**Flint and chert** are sedimentary silica rocks — essentially pure microcrystalline or cryptocrystalline quartz (SiO₂ > 95%), formed by the diagenetic recrystallization of biogenic silica (sponge spicules, diatoms, radiolaria) or by silica precipitation in carbonate sediments. Because they form at low temperatures from silica-saturated fluids rather than from a trace-element-rich magma, they contain almost none of the fingerprinting elements:
+
+| Element | Obsidian (typical) | Flint/Chert (typical) | pXRF result |
+|---------|-------------------|----------------------|-------------|
+| Rb | 100–500 ppm | < 5 ppm | Below LOD in flint |
+| Zr | 50–1300 ppm | < 5 ppm | Below LOD in flint |
+| Nb | 10–70 ppm | < 2 ppm | Below LOD in flint |
+| Sr | 0–150 ppm | variable (0–100 ppm from carbonate) | Occasionally detectable |
+| Si | Very high | Dominant | High in both |
+| Fe | Moderate | Low–trace | Lower in flint |
+
+The three flint/chert items in this dataset all returned Rb = Zr = Nb = NaN (below the instrument's lower detection limit), while their Si signal was large and their Fe was either below range or minimal. This pattern is diagnostic: **any item with no Rb, Zr, or Nb signal is almost certainly not obsidian**.
+
+Two artifacts from Motza and one reading pair from Einan were flagged as possible **flint** on this basis. They are retained in `samples_clean.csv` with `material = flint?` for reference but are excluded from all obsidian provenance calculations.
 
 | item_id | site | basket | locus | identification basis |
 |---------|------|--------|-------|----------------------|
@@ -87,15 +106,47 @@ Two items have empty basket numbers and may represent data entry issues:
 | item_id | issue |
 |---------|-------|
 | yif_ (empty basket) | Zr CV = 141%, Nb CV = 55% -- extreme divergence; likely entry error |
-| ein_ (empty basket) | Below-range Fe and Ti -- possibly a non-obsidian contaminant reading |
+| ein_ (empty basket) | Confirmed flint (readings 1783-1784); `material = flint?`; excluded from obsidian analysis |
 
-These items appear in `samples_clean.csv` but should be treated with caution in attribution.
+The yif_ item appears in `samples_clean.csv` but should be treated with caution in attribution.
 
 ---
 
-## 4. Source Attribution Results
+## 4. Internal Statistics (Pre-Attribution)
 
-> **PLACEHOLDER -- To be completed after Phase 6 (Mahalanobis distance comparison)**
+> **PLACEHOLDER -- To be completed in Phase 6a (internal statistics)**
+
+Before comparing against the reference database, the assemblage will be examined internally to identify structure in the data. This phase asks: **can we see groupings within and between my own samples, and do they correlate with site or period?**
+
+### 4a. Within-assemblage variability
+- Descriptive statistics per site: mean, SD, range for Rb, Zr, Nb
+- Distribution plots (histogram + kernel density) per element per site
+- Do the three sites look chemically similar or different from each other?
+
+### 4b. Between-assemblage comparisons
+- Pairwise comparison of Motza / Einan / Yiftahel centroids in Rb/Zr/Nb space
+- ANOVA or Kruskal-Wallis test per element (are inter-site differences significant?)
+- Biplots with site-colour-coded points and 95% confidence ellipses
+
+### 4c. Period-level comparison
+- Natufian (Einan) vs MPPNB (Yiftahel) vs EPPNB (Motza)
+- Do period differences track source differences, or are they confounded by site?
+
+### 4d. Unsupervised clustering
+- k-means and hierarchical clustering in Rb/Zr/Nb space (obsidian items only)
+- How many chemical groups exist in the combined assemblage?
+- Do cluster boundaries align with site or period boundaries?
+
+### 4e. PCA
+- Principal Component Analysis on Rb/Zr/Nb (and optionally Fe/Mn/Ti)
+- PC1 vs PC2 biplot, colour-coded by site
+- Explains most variance with fewest dimensions; helps visualize groupings
+
+---
+
+## 5. Source Attribution Results
+
+> **PLACEHOLDER -- To be completed after Phase 6b (Mahalanobis distance comparison)**
 
 This section will show, for each artifact, the most likely obsidian source. The comparison will use:
 - Reference dataset: `reference_database/tier1_comparison_ready.csv` (1814 Tier 1 pXRF readings, 9 strong sources with N >= 10)
@@ -106,7 +157,7 @@ This section will show, for each artifact, the most likely obsidian source. The 
 
 ---
 
-## 5. Files
+## 6. Files
 
 | File | Description |
 |------|-------------|

@@ -143,7 +143,67 @@ For each xlsx in `obsidian_minerales_component_tables_from_articles/`:
 
 ---
 
-## Phase 4 — Visualization
+## Phase 3b — Internal Statistics (NEW — next step) ⏳
+
+**Script**: `analysis/12_internal_statistics.py`  
+**Output**: `my_samples/internal_stats_report.txt`, figures in `outputs/figures/internal/`
+
+Before comparing against the reference database, examine the assemblage internally to detect chemical structure.
+
+### Questions
+1. **How many chemical groups exist within the combined 507 obsidian items?**
+2. **Do those groups align with site (Motza / Einan / Yiftahel) or period (Natufian / MPPNB / EPPNB)?**
+3. **Are there statistically significant between-site or between-period differences?**
+
+### Steps
+
+**Descriptive statistics**
+- Mean, SD, min, max, range for Rb / Zr / Nb per site and per period
+- Export as tables to `internal_stats_report.txt`
+
+**Biplots (internal, no reference sources)**
+- Rb vs Zr, Nb vs Zr, Rb vs Nb
+- Points colour-coded by site; separate marker shapes by period
+- 95% confidence ellipses per site
+- Save to `outputs/figures/internal/`
+
+**PCA**
+- StandardScaler on Rb/Zr/Nb (obsidian only, non-null rows)
+- Scatter of PC1 vs PC2 coloured by site
+- Loadings plot
+
+**Significance testing**
+- Kruskal-Wallis test per element (Rb, Zr, Nb) across sites (3 groups)
+- Post-hoc pairwise Mann-Whitney U (Motza/Einan, Motza/Yiftahel, Einan/Yiftahel)
+- Report p-values; note where sites are chemically indistinguishable
+
+**Unsupervised clustering**
+- k-means (k = 2, 3, 4, 5) on standardized Rb/Zr/Nb
+- Elbow curve (inertia vs k) to select optimal k
+- Hierarchical clustering dendrogram (Ward linkage)
+- Cross-tabulate cluster membership vs site to measure alignment
+
+**Expected outcomes / hypotheses**
+- Yiftahel (MPPNB) = distinct low-Zr, moderate-Rb cluster (expected EGD)
+- Motza (EPPNB) = possibly 2+ clusters (Anatolian sources are diverse)
+- Einan (Natufian) = uncertain; rarer long-distance exchange pre-farming
+
+**Output files**
+
+| File | Description |
+|------|-------------|
+| `my_samples/internal_stats_report.txt` | Tables: descriptive stats, test results, cluster assignments |
+| `outputs/figures/internal/biplot_Rb_Zr.png` | Rb vs Zr by site |
+| `outputs/figures/internal/biplot_Nb_Zr.png` | Nb vs Zr by site |
+| `outputs/figures/internal/pca_sites.png` | PCA coloured by site |
+| `outputs/figures/internal/kmeans_elbow.png` | Elbow curve |
+| `outputs/figures/internal/dendrogram.png` | Hierarchical clustering |
+
+**Git commit** after completion.
+
+---
+
+## Phase 4 — Visualization (reference sources + samples)
 
 **Notebook**: `analysis/notebooks/04_visualization.ipynb`
 
@@ -182,6 +242,29 @@ Save all to `outputs/figures/` as .png (300 dpi) and .pdf.
 - `.vscode/obsidian-research.agent.md` — domain-aware agent
 - `.vscode/instructions/obsidian-data.instructions.md` — data handling rules
 - `.vscode/instructions/obsidian-statistics.instructions.md` — stats explanations
+
+---
+
+## Next Steps (as of 2026-03-26)
+
+**Completed:**
+- Phase 0 (scaffolding) ✅
+- Phase 1 (reference data extraction) ✅
+- Phase 2 (reference database, 34 sources, 2375 rows) ✅
+- Phase 3 (sample loading, cleaning, verification -- 507 obsidian + 3 flint, 510 total) ✅
+
+**Immediate next step:**
+1. **Phase 3b — Internal statistics** (new) -- script `analysis/12_internal_statistics.py`
+   - Descriptive stats per site/period
+   - Biplots (Rb/Zr/Nb, colour by site)
+   - PCA
+   - Kruskal-Wallis + pairwise Mann-Whitney significance tests
+   - k-means + hierarchical clustering
+   - Target output: know how many natural groups exist before comparing to reference
+
+2. **Phase 4 — Visualization** -- overlay samples on reference source biplots
+
+3. **Phase 5 — Source attribution** -- Mahalanobis distance comparison
 
 ---
 
