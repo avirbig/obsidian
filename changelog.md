@@ -127,9 +127,11 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 [2026-03-26] | USER_PROMPT | — | "whats the next step? what should i do?" | User session
 
-[2026-03-26] | USER_PROMPT | — | "I've put my files in the samples folder. first i want you to look at the files content and try to understand each file..." | User session
+[2026-03-26] | USER_PROMPT | — | "I've put my files in the samples folder. first i want you to look at the files content and try to understand each file..." | User session [NOTE: full text not recoverable — was summarized before this session. User to supply if needed.]
 
 [2026-03-26] | USER_PROMPT | — | "Start implementation" | User session
+
+[2026-03-26] | USER_PROMPT | — | "alright please commit and add all changes. i also want to say that in the changelog put my full prompt. do not cut it like u done here: [2026-03-26] | USER_PROMPT | — | \"I've put my files in the samples folder. first i want you to look at the files content and try to understand each file...\" | User session -- now what should we do next? dont start just tell me" | User session
 
 [2026-03-26] | DATA_ADD | my_samples/samples_raw.csv | Phase 5a: loaded 1224 pXRF readings from 'data manipulation.xlsx' (sheet 'First Changes'). Converted wt% to ppm (×10000). < LOD → NaN. item_id = site_prefix + '_' + basket. Joined filter times (main/low/high/light sec) from numbered session files 01–05 via Reading No. 3 sites: einan(226), motza(946), yiftahel(52). Periods: EPPNB, MPPNB, natufian. KEY: Y not measured in Niton Mining Cu/Zn mode; Sr coverage only 5% (mostly below LOD). 1224 rows, 49 cols. | analysis/09_load_samples.py
 

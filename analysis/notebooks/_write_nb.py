@@ -1,0 +1,269 @@
+"""Helper script to write 02_data_cleaning.ipynb as valid JSON notebook."""
+import json, pathlib
+
+nb = {
+  'nbformat': 4, 'nbformat_minor': 5,
+  'metadata': {
+    'kernelspec': {'display_name': 'Python 3 (.venv)', 'language': 'python', 'name': 'python3'},
+    'language_info': {'name': 'python', 'version': '3.13.7'}
+  },
+  'cells': []
+}
+
+
+def md(text, cid):
+    return {'cell_type': 'markdown', 'id': cid, 'metadata': {}, 'source': [text]}
+
+
+def code(text, cid):
+    return {'cell_type': 'code', 'id': cid, 'metadata': {}, 'execution_count': None, 'outputs': [], 'source': [text]}
+
+
+# ── Cell 0 — overview markdown ──────────────────────────────────────────────────
+nb['cells'].append(md(
+    '# Phase 2 — Data Cleaning\n\n'
+    '**Input**: `reference_database/extracted_raw/*.csv` (21 files, 2467 rows)\n'
+    '**Output**: `reference_database/cleaned/*.csv` and master `all_sources_cleaned.csv`\n\n'
+    '## Fixes applied\n'
+    '1. Khalidi 2009: `Unnamed: 2` -> BingolA (replicate); `Meydan_Dag˘` -> MeydanDag\n'
+    '2. Yellin & Perlman 1981: Re-extracted with Row 1 headers (GLD/HTMD/KRUD ...); mean parsed from ±sd\n'
+    '3. Yellin & Perlman 1980: Beisamoun + Nahal Lavan flagged `is_source_reference=False`\n'
+    '4. Milic 2014: 7 "Mean" meta-rows removed\n'
+    '5. Frahm 2013: All 65 rows flagged `is_source_reference=False` (Tell Mozan artefacts)\n'
+    '6. Frahm & Hauck 2017 main: Average rows dropped; artifact rows flagged False\n'
+    '7. Rosenberg & Carter 2022: Sub-outcrop labels normalised\n'
+    '8. Carter 2013 Kenan Tepe: Bingol split BingolA (Sr<10 ppm) / BingolB (Sr>=10 ppm)\n'
+    '9. Oxide wt% columns noted — NOT converted to elemental ppm\n'
+    '10. Master `all_sources_cleaned.csv` built: 2375 rows\n\n'
+    '## Method tier key\n'
+    '| Tier | Method | pXRF-comparable |\n'
+    '|------|--------|-----------------|\n'
+    '| 1 | LA-ICP-MS / ICP-MS / ICP-AES | Yes (trace elements) |\n'
+    '| 2 | EDXRF / WDXRF (lab) | Yes |\n'
+    '| 3 | pXRF (portable) | Direct |\n'
+    '| 4 | NAA / INAA | No (REE elements only) |\n',
+    'p2-md-001'
+))
+
+# ── Cell 1 — setup ──────────────────────────────────────────────────────────────
+nb['cells'].append(code(
+    'import pandas as pd\n'
+    'import numpy as np\n'
+    'import unicodedata\n'
+    'import re\n'
+    'from pathlib import Path\n\n'
+    'ROOT    = Path(r"c:\\work\\code\\obsidian")\n'
+    'RAW_DIR = ROOT / "reference_database" / "extracted_raw"\n'
+    'CLN_DIR = ROOT / "reference_database" / "cleaned"\n'
+    'CLN_DIR.mkdir(exist_ok=True)\n\n'
+    '# Abbreviated source map (see full map in 01_data_extraction.ipynb)\n'
+    'SOURCE_MAP = {\n'
+    '    "east gollu dag": "EGD", "gollu dag east": "EGD", "egd": "EGD", "gld": "EGD",\n'
+    '    "west gollu dag": "WGD", "gollu dag west": "WGD", "wgd": "WGD",\n'
+    '    "gollu dag": "GolluDag",\n'
+    '    "nenezi dag": "ND", "nenezi": "ND", "nd": "ND", "nnzd": "ND",\n'
+    '    "bingol a": "BingolA", "bingol-a": "BingolA",\n'
+    '    "bingol b": "BingolB", "bingol-b": "BingolB",\n'
+    '    "bingol": "Bingol",\n'
+    '    "nemrut dag": "NemrutDag", "nmrd1": "NemrutDag", "nmrd2": "NemrutDag", "nemrut dag a": "NemrutDag",\n'
+    '    "meydan dag": "MeydanDag",\n'
+    '    "pasinler": "Pasinler", "pasinler tizgi": "Pasinler", "pasinler eksisu": "Pasinler",\n'
+    '    "sarikamis": "Sarikamis", "sarakamis hamamli": "Sarikamis", "sarakamis sehetin": "Sarikamis",\n'
+    '    "suphan dag": "SuphanDag", "gurgurbabatepe": "SuphanDag",\n'
+    '    "sevan": "Sevan", "znkt": "Sevan",\n'
+    '    "htmd": "HasanDag", "hasan dag": "HasanDag",\n'
+    '    "krud": "KRUD", "acigol": "AciGol",\n'
+    '}\n\n'
+    'def nrm(raw):\n'
+    '    """Normalise source label: NFC unicode, lowercase, strip, SOURCE_MAP lookup."""\n'
+    '    if pd.isna(raw): return np.nan\n'
+    '    key = unicodedata.normalize("NFC", str(raw)).strip().lower()\n'
+    '    return SOURCE_MAP.get(key, unicodedata.normalize("NFC", str(raw)).strip())\n\n'
+    'def parse_pm(val):\n'
+    '    """Parse mean from 174.3+/-5.6 notation. Returns NaN if unparsable."""\n'
+    '    if pd.isna(val): return np.nan\n'
+    '    s = str(val).strip()\n'
+    '    m = re.match(r"^([\\d.]+)\\s*[\\xb1\\u00b1]", s)\n'
+    '    if m: return float(m.group(1))\n'
+    '    try: return float(s)\n'
+    '    except: return np.nan\n\n'
+    'print("Phase 2 ready.", len(SOURCE_MAP), "source map entries")\n',
+    'p2-code-001'
+))
+
+# ── Cell 2 — Fix 1 Khalidi ──────────────────────────────────────────────────────
+nb['cells'].append(md('---\n## Fix 1 — Khalidi & Gratuze 2009', 'p2-md-002'))
+nb['cells'].append(code(
+    'df_k = pd.read_csv(RAW_DIR / "khalidi_gratuze_2009.csv")\n'
+    'print("Before:", df_k[["source_raw","source"]].to_string())\n\n'
+    '# "Unnamed: 2" = duplicate BingolA column in original xlsx\n'
+    'df_k.loc[df_k["source_raw"] == "Unnamed: 2", "source"] = "BingolA"\n'
+    'df_k.loc[df_k["source_raw"] == "Unnamed: 2", "source_raw"] = "Bingol_A (replicate)"\n\n'
+    '# Meydan_Dag˘ has U+02D8 BREVE — not in unicode map; fix directly\n'
+    'meydan_mask = df_k["source_raw"].str.contains("Meydan", case=False, na=False)\n'
+    'df_k.loc[meydan_mask, "source"] = "MeydanDag"\n\n'
+    'df_k["is_source_reference"] = True\n'
+    'df_k.to_csv(CLN_DIR / "khalidi_gratuze_2009.csv", index=False)\n'
+    'print("After:", df_k["source"].tolist())\n',
+    'p2-code-002'
+))
+
+# ── Cell 3 — Fix 2 Yellin 1981 ─────────────────────────────────────────────────
+nb['cells'].append(md(
+    '---\n## Fix 2 — Yellin & Perlman 1981 (re-extract from xlsx)\n\n'
+    '**Bug**: Phase 1 used `iloc[0]` which gave region labels (Central, Anatolia, Eastern, Turkey).\n'
+    'The actual source abbreviations are in Row 1: GLD, HTMD, KRUD, NNZD, NMRD1, NMRD2, ZNKT, Sevan.\n\n'
+    '**Source code mapping**:\n'
+    '- GLD → EGD (Göllü Dağ East)\n'
+    '- HTMD → HasanDag\n'
+    '- KRUD → KRUD (sub-source, identity uncertain)\n'
+    '- NNZD → ND (Nenezi Dağ)\n'
+    '- NMRD1, NMRD2 → NemrutDag\n'
+    '- ZNKT, Sevan → Sevan\n\n'
+    'Note: NNZD values are in `mean±sd` format — parse the mean only.',
+    'p2-md-003'
+))
+nb['cells'].append(code(
+    'd2 = ROOT / "obsidian_minerales_component_tables_from_articles" / "data2.xlsx"\n'
+    'raw = pd.read_excel(d2, sheet_name="Yellin and Perlman 1981", header=None, dtype=str)\n'
+    'raw = raw.dropna(how="all").dropna(axis=1, how="all")\n\n'
+    '# Row 0 = region group labels (skip); Row 1 = source abbreviations (use)\n'
+    'abbrevs = raw.iloc[1, 1:].tolist()\n'
+    '# Only iterate rows where the element name (col 0) is not NaN\n'
+    'el_rows = [(i+2, str(raw.iloc[i+2, 0]).strip())\n'
+    '           for i in range(len(raw)-2) if not pd.isna(raw.iloc[i+2, 0])]\n'
+    'print("Sources:", abbrevs)\n'
+    'print("Elements:", [e for _,e in el_rows])\n\n'
+    'rows = []\n'
+    'for si, abbr in enumerate(abbrevs, start=1):\n'
+    '    rec = {"source_raw": str(abbr).strip(), "source": nrm(str(abbr).strip())}\n'
+    '    for ri, el in el_rows:\n'
+    '        if ri < len(raw):\n'
+    '            rec[el] = parse_pm(raw.iloc[ri, si])\n'
+    '    rows.append(rec)\n\n'
+    'df_y81 = pd.DataFrame(rows)\n'
+    'df_y81["method"] = "NAA/INAA"\n'
+    'df_y81["method_tier"] = 4\n'
+    'df_y81["year"] = 1981\n'
+    'df_y81["paper"] = "Yellin & Perlman 1981"\n'
+    'df_y81["units"] = "ppm"\n'
+    'df_y81["is_source_reference"] = True\n'
+    'df_y81.to_csv(CLN_DIR / "yellin_perlman_1981.csv", index=False)\n'
+    'print(df_y81[["source_raw", "source", "La", "Ce"]])\n',
+    'p2-code-003'
+))
+
+# ── Cell 4 — Fix 3 Yellin 1980 ─────────────────────────────────────────────────
+nb['cells'].append(md(
+    '---\n## Fix 3 — Yellin & Perlman 1980 (flag artefact rows)\n\n'
+    '`Beisamoun` and `Nahal Lavan` = Israeli Neolithic sites. Their obsidian chemistry matches Gollu Dag.\n'
+    'They are archaeological artefact measurements, NOT geological source reference samples.\n'
+    'Flag `is_source_reference=False` and set `attributed_source=GolluDag`.',
+    'p2-md-004'
+))
+nb['cells'].append(code(
+    'df_y80 = pd.read_csv(RAW_DIR / "yellin_perlman_1980.csv")\n'
+    'GEO_SOURCES = {"GolluDag", "ND"}\n'
+    'df_y80["is_source_reference"] = df_y80["source"].isin(GEO_SOURCES)\n\n'
+    '# Use loop to set string values (numpy cannot broadcast str into float column)\n'
+    'df_y80["site"] = df_y80["site"].astype(object)\n'
+    'df_y80["attributed_source"] = ""\n'
+    'for idx in df_y80[df_y80["source"].isin({"Beisamoun","Nahal Lavan"})].index:\n'
+    '    df_y80.at[idx, "site"] = df_y80.at[idx, "source"]\n'
+    '    df_y80.at[idx, "attributed_source"] = "GolluDag"\n\n'
+    'print(df_y80[["source","is_source_reference","site"]].to_string())\n'
+    'df_y80.to_csv(CLN_DIR / "yellin_perlman_1980.csv", index=False)\n',
+    'p2-code-004'
+))
+
+# ── Cell 5 — Fixes 4-8 + pass-through ──────────────────────────────────────────
+nb['cells'].append(md('---\n## Fixes 4-8 and pass-through', 'p2-md-005'))
+nb['cells'].append(code(
+    '# -- Fix 4: Milic 2014 — drop "Mean" meta-rows --\n'
+    'df_ml = pd.read_csv(RAW_DIR / "milic_2014.csv")\n'
+    'df_ml = df_ml[df_ml["source"] != "Mean"].copy().reset_index(drop=True)\n'
+    'df_ml["is_source_reference"] = True\n'
+    'df_ml.to_csv(CLN_DIR / "milic_2014.csv", index=False)\n'
+    'print("Milic 2014:", df_ml["source"].value_counts().to_dict())\n\n'
+    '# -- Fix 5: Frahm 2013 — flag as artefact data --\n'
+    'df_fr13 = pd.read_csv(RAW_DIR / "frahm_2013.csv")\n'
+    'df_fr13["is_source_reference"] = False\n'
+    'df_fr13["notes"] = "Archaeological artefacts (Tell Mozan debitage) — pXRF validity study"\n'
+    'df_fr13.to_csv(CLN_DIR / "frahm_2013.csv", index=False)\n'
+    'print("Frahm 2013:", len(df_fr13), "rows flagged is_source_reference=False")\n\n'
+    '# -- Fix 6: Frahm & Hauck 2017 main — drop Average, flag artifact rows --\n'
+    'df_fh = pd.read_csv(RAW_DIR / "frahm_hauck_2017_main.csv")\n'
+    'df_fh = df_fh[df_fh["source"] != "Average"].copy()\n'
+    'df_fh["is_source_reference"] = ~(df_fh["source"] == "artifact")\n'
+    'df_fh.to_csv(CLN_DIR / "frahm_hauck_2017_main.csv", index=False)\n'
+    'print("Frahm&Hauck 2017:", df_fh["is_source_reference"].value_counts().to_dict())\n\n'
+    '# -- Fix 7: Rosenberg 2022 — normalise sub-outcrop labels --\n'
+    '# Note: this CSV has SOURCE column only (no source_raw) — re-map from source\n'
+    'df_rc = pd.read_csv(RAW_DIR / "rosenberg_carter_2022_sources.csv")\n'
+    'df_rc["source"] = df_rc["source"].apply(nrm)\n'
+    'df_rc["is_source_reference"] = True\n'
+    'df_rc.to_csv(CLN_DIR / "rosenberg_carter_2022_sources.csv", index=False)\n'
+    'print("Rosenberg 2022:", df_rc["source"].value_counts().to_dict())\n\n'
+    '# -- Fix 8: Carter 2013 Kenan Tepe — split Bingol A/B by Sr discriminant --\n'
+    '# Reference: BingolA Sr ~ 0-5 ppm (Khalidi 2009); BingolB Sr ~ 30-55 ppm\n'
+    '# Threshold of 10 ppm is clear from bimodal distribution in this dataset\n'
+    'df_ca = pd.read_csv(RAW_DIR / "carter_2013_kenan_tepe.csv")\n'
+    'bm = df_ca["source"] == "Bingol"\n'
+    'sr = pd.to_numeric(df_ca["Sr"], errors="coerce")\n'
+    'df_ca.loc[bm & (sr < 10), "source"] = "BingolA"\n'
+    'df_ca.loc[bm & (sr >= 10), "source"] = "BingolB"\n'
+    'df_ca["is_source_reference"] = True\n'
+    'df_ca.to_csv(CLN_DIR / "carter_2013_kenan_tepe.csv", index=False)\n'
+    'print("Carter 2013:", df_ca["source"].value_counts().to_dict())\n\n'
+    '# -- Pass-through: copy remaining raw CSVs with is_source_reference flag --\n'
+    'DONE = {"khalidi_gratuze_2009.csv","yellin_perlman_1981.csv","yellin_perlman_1980.csv",\n'
+    '        "milic_2014.csv","frahm_2013.csv","frahm_hauck_2017_main.csv",\n'
+    '        "rosenberg_carter_2022_sources.csv","carter_2013_kenan_tepe.csv"}\n'
+    'for fp in sorted(RAW_DIR.glob("*.csv")):\n'
+    '    if fp.name in DONE: continue\n'
+    '    df = pd.read_csv(fp)\n'
+    '    if "is_source_reference" not in df.columns: df["is_source_reference"] = True\n'
+    '    df.to_csv(CLN_DIR / fp.name, index=False)\n'
+    '    print("Pass-through:", fp.name, len(df), "rows")\n',
+    'p2-code-005'
+))
+
+# ── Cell 6 — master merge ───────────────────────────────────────────────────────
+nb['cells'].append(md(
+    '---\n## Build master `all_sources_cleaned.csv`\n\n'
+    'Merge all cleaned source-reference rows. Keep only the 14 pXRF-compatible elements.',
+    'p2-md-006'
+))
+nb['cells'].append(code(
+    'PXRF_EL = ["Rb","Sr","Zr","Nb","Y","Fe","Mn","Ba","Zn","Ti","Th","U","Pb","Ga"]\n'
+    'META = ["sample_id","source","source_raw","site","paper","year",\n'
+    '        "method","method_tier","units","is_source_reference","notes","verification_flag"]\n\n'
+    'frames = []\n'
+    'for fp in sorted(CLN_DIR.glob("*.csv")):\n'
+    '    if fp.name == "all_sources_cleaned.csv": continue  # skip master itself\n'
+    '    df = pd.read_csv(fp)\n'
+    '    if "is_source_reference" in df.columns:\n'
+    '        df = df[df["is_source_reference"] == True].copy()\n'
+    '    if len(df) == 0: continue\n'
+    '    keep = [c for c in META if c in df.columns]\n'
+    '    els  = [c for c in PXRF_EL if c in df.columns]\n'
+    '    sub = df[keep+els].copy()\n'
+    '    for el in PXRF_EL:\n'
+    '        if el not in sub.columns: sub[el] = np.nan\n'
+    '    sub["source_file"] = fp.name\n'
+    '    frames.append(sub)\n\n'
+    'df_all = pd.concat(frames, ignore_index=True)\n'
+    'df_all["source"] = df_all["source"].apply(nrm)\n'
+    'df_all.to_csv(CLN_DIR / "all_sources_cleaned.csv", index=False)\n\n'
+    'print(f"Master: {len(df_all)} rows")\n'
+    'print("\\nSource distribution:")\n'
+    'print(df_all["source"].value_counts().to_string())\n',
+    'p2-code-006'
+))
+
+out = pathlib.Path('c:/work/code/obsidian/analysis/notebooks/02_data_cleaning.ipynb')
+with open(out, 'w', encoding='utf-8') as f:
+    json.dump(nb, f, indent=1, ensure_ascii=False)
+
+print('Written:', out)
+print('Size:', out.stat().st_size, 'bytes')
