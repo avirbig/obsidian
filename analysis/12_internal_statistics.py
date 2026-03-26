@@ -3,7 +3,7 @@
 
 Input:  my_samples/samples_clean.csv  (obsidian items only, material == 'obsidian')
 Output:
-  my_samples/internal_stats_report.txt   -- text tables + test results
+  outputs/reports/internal_stats_report.txt   -- text tables + test results
   outputs/figures/internal/              -- all figures (PNG 300 dpi)
 
 Questions answered:
@@ -44,7 +44,9 @@ warnings.filterwarnings('ignore')
 ROOT      = Path(r'c:\work\code\obsidian')
 SAMPLES   = ROOT / 'my_samples'
 FIGURES   = ROOT / 'outputs' / 'figures' / 'internal'
-REPORT    = SAMPLES / 'internal_stats_report.txt'
+REPORTS   = ROOT / 'outputs' / 'reports'
+REPORTS.mkdir(parents=True, exist_ok=True)
+REPORT    = REPORTS / 'internal_stats_report.txt'
 
 FIGURES.mkdir(parents=True, exist_ok=True)
 

@@ -3,7 +3,7 @@
 
 Input:   my_samples/samples_raw.csv
          my_samples/samples_clean.csv
-Output:  my_samples/verification_report.txt  (human-readable)
+Output:  outputs/reports/verification_report.txt  (human-readable)
 
 Checks:
   1. Completeness:      % of items with valid (non-null) value per element
@@ -233,11 +233,12 @@ def main():
         'Files:',
         '  my_samples/samples_raw.csv   -- immutable raw record',
         '  my_samples/samples_clean.csv -- per-item averaged, quality-flagged',
-        '  my_samples/verification_report.txt -- this report',
+        '  outputs/reports/verification_report.txt -- this report',
     ]
 
     report = '\n'.join(report_lines) + '\n'
-    out = SAMPLES / 'verification_report.txt'
+    out = ROOT / 'outputs' / 'reports' / 'verification_report.txt'
+    out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(report, encoding='utf-8')
     print(report)
     print(f'Written: {out}')

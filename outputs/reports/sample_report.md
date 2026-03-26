@@ -202,14 +202,122 @@ This section will show, for each artifact, the most likely obsidian source. The 
 
 ---
 
+## 4i. What the Internal Statistics Actually Tell Us
+
+This section explains the results of Phase 3b in plain language — what the numbers mean, what is surprising, and what is still uncertain.
+
+### Finding 1: All three sites look chemically almost identical
+
+**The numbers:**
+
+| Site | Rb (ppm) | Zr (ppm) | Nb (ppm) | Rb/Zr |
+|------|---------|---------|---------|-------|
+| Motza (EPPNB, N=379) | 92 | 67 | 23 | 1.37 |
+| Einan (Natufian, N=103) | 97 | 73 | 26 | 1.35 |
+| Yiftahel (MPPNB, N=23) | 88* | 65* | 23* | 1.26* |
+
+*Yiftahel median used rather than mean; the mean is distorted by one extreme outlier (see Finding 3).
+
+**What this means:** Despite spanning three different archaeological periods — from the Natufian (~12,000 BP) through the MPPNB (~9,000 BP) and into the EPPNB (~8,500 BP) — all three assemblages have essentially the same chemical fingerprint. The Rb/Zr ratio, the primary discriminant for Near Eastern obsidian sources, shows **no statistically significant difference between sites** (Kruskal-Wallis p = 0.14 — not significant). This is a strong preliminary signal that **all three sites were drawing from the same volcanic source** throughout this entire ~3,500-year time span.
+
+**Is this plausible archaeologically?** Yes. The obsidian exchange routes of the southern Levant are well-documented in the literature: EGD (Eastern Göllü Dağ, the Cappadocian source also known by reference names like "Dikili Tash" or specific sub-outcrops like "Kömürcü") dominates almost every Neolithic assemblage in this region. The finding that Natufians were already accessing the same Anatolian source as EPPNB people would be archaeologically significant — it would extend the long-distance exchange network back before farming.
+
+---
+
+### Finding 2: Two chemical subgroups exist — but they cut across sites and periods
+
+**The clustering result:** K-means with k=3 gave the best statistical separation (silhouette = 0.63 out of 1.0, which is relatively good). BUT: the third cluster (C3) contains just **one single item** with anomalously high Zr — this is almost certainly an outlier, not a true group. The meaningful split is really k=2:
+
+| Cluster | N items | Rb (mean) | Zr (mean) | Nb (mean) | Rb/Zr | Site composition |
+|---------|---------|-----------|-----------|-----------|-------|-----------------|
+| C1 (lower) | 348 | 87 | 65 | 21 | 1.34 | Motza 279 / Einan 49 / Yiftahel 20 |
+| C2 (higher) | 156 | 106 | 77 | 29 | 1.38 | Motza 100 / Einan 54 / Yiftahel 2 |
+
+**What this means:** Both clusters appear at all three sites. This is not a site-specific pattern. Three possible explanations:
+
+1. **Two different, geochemically similar sources** — perhaps two sub-outcrops of the same volcanic center (e.g., Kömürcü-East and Kömürcü-West facets of EGD) with slightly different concentrations but the same ratio. This cannot be resolved from ratios alone — Phase 5 Mahalanobis analysis against published sub-outcrop reference data will test this.
+
+2. **Intra-source geochemical heterogeneity** — large volcanic glass sources like Göllü Dağ show natural variation across the flow; two pieces from the same mountain can have slightly different absolute concentrations. The ratio Rb/Zr is almost identical between C1 and C2 (1.34 vs 1.38), which is consistent with this explanation.
+
+3. **Instrument variability** — about 40% of readings are flagged `repeat_divergent` (CV ≥ 10% between dorsal and ventral readings). If measurement noise is large enough, a single source could statistically separate into two apparent clusters.
+
+**Which explanation is most likely?** The consistency of the Rb/Zr ratio across both clusters (1.34–1.38) strongly suggests they are from the same geological source, not two distinct ones. Explanation 2 or 3 is most likely. Phase 5 will be the test.
+
+---
+
+### Finding 3: One Yiftahel artifact is a major outlier — possibly a different source
+
+One artifact in the Yiftahel assemblage (item `yif_`, the empty-basket item flagged in Section 3d) has:
+- **Zr = 1005 ppm** — vs. the Yiftahel median of 65 ppm
+- **Nb = 65 ppm** — vs. the median of 20 ppm
+- **Zr CV = 141%** between the two readings — extreme divergence, meaning the two sides of the artifact gave radically different results
+
+For comparison, the known **Bingöl A source** has Zr ~1238 ppm and Nb ~61 ppm, and **Nemrut Dağ** has Zr ~1277 ppm. The one outlier's Zr/Nb ratio (1005/65 = 15.5) is close to NemrutDag (1277/65 = 19.6) and Bingöl A (1238/61 = 20.3) — both are "high-Zr peralkaline" sources.
+
+**BUT:** the CV = 141% means this reading is not reliable. The two sides of the piece gave wildly different results, which is almost certainly a measurement artifact — perhaps the artifact was very small (thin flake, minimal beam coverage), positioning was poor, or there was surface contamination. **This single item should not be interpreted as evidence of contact with a second source without re-measurement.**
+
+**Verdict:** The k=3 optimum in clustering is driven largely by this one outlier. The statistically meaningful finding is k=2 (two subgroups, both plausibly from the same source, as described in Finding 2).
+
+---
+
+### Finding 4: The absolute ppm values are lower than published EGD — the calibration question
+
+Looking at how our assemblage readings compare to published EGD (Göllü Dağ East) reference values:
+
+| Value | Our assemblage | Published EGD (Tier 1 mean) | Notes |
+|-------|---------------|----------------------------|-------|
+| Rb (ppm) | ~93 | ~182 | Our values are ~half the published values |
+| Zr (ppm) | ~70 | ~77 | Close match |
+| Nb (ppm) | ~23 | ~25 | Close match |
+| **Rb/Zr** | **1.36** | **2.36** | Large ratio difference |
+| **Nb/Zr** | **0.34** | **0.32** | Very close match |
+
+The Nb/Zr ratio matches EGD very well (0.34 vs 0.32). The Rb and Rb/Zr do not. This is likely a calibration effect: the Niton Mining Cu/Zn mode is known to under-read Rb relative to the Niton Geo mode and lab instruments. If the Rb under-reading is consistent across all artifacts, then:
+- The **Nb/Zr** ratio is reliable (both elements well-read)
+- The **Rb/Zr** ratio is unreliable for cross-instrument comparison
+- The **absolute Rb** values should not be compared directly to published reference data
+
+This is one of the reasons Phase 5 (Mahalanobis attribution) uses the full covariance structure, not just distance to a single centroid: the shape of the point cloud matters more than its absolute position.
+
+**Does Nb/Zr = 0.34 uniquely identify EGD?** Among the major Levantine-relevant sources in the reference database:
+
+| Source | Nb/Zr (published) | What this means for Nb/Zr |
+|--------|-------------------|--------------------------|
+| EGD | ~0.32 | Very close to our 0.34 |
+| GolluDag (WGD) | ~0.25 | Lower |
+| ND (Nenezi Dağ) | ~0.14 | Much lower |
+| BingolA | ~0.049 | Very low (huge Zr) |
+| BingolB | ~0.055 | Very low (large Zr) |
+| NemrutDag | ~0.051 | Very low (very large Zr) |
+| Sta Nychia (Aegean) | ~0.085 | Low |
+
+Nb/Zr = 0.34 fits EGD well and eliminates all other known sources. **This provides pre-Phase-5 evidence that both Motza and Einan obsidian likely comes from EGD**, consistent with the known pattern for the southern Levantine Neolithic.
+
+---
+
+### Summary: What we can say before Phase 5
+
+1. **Most likely single source:** All three sites appear to use EGD (Eastern Göllü Dağ, Cappadocia, Turkey). The Nb/Zr ratio is the most calibration-robust discriminant and places the assemblage squarely on EGD, eliminating Bingöl, Nemrut Dağ, and all other major sources.
+
+2. **Internal subgrouping:** Two natural chemical groups exist (lower and higher concentrations), but they cross site and period boundaries and have nearly identical Rb/Zr ratios — most likely intra-source variability or instrument noise, not two distinct geological sources.
+
+3. **Yiftahel outlier:** One artifact may be from a peralkaline high-Zr source (BingölA or NemrutDağ), but the measurement is unreliable and needs re-measurement before any conclusion.
+
+4. **Continuity of exchange:** The same source chemistry appears from Natufian through MPPNB to EPPNB — a remarkable ~3,500 years of continuous access to the same Anatolian volcanic source region.
+
+5. **Phase 5 will confirm:** Mahalanobis distance analysis against the full reference database will produce per-artifact source attributions with probability scores, formally testing whether these patterns hold.
+
+---
+
 ## 6. Files
 
 | File | Description |
 |------|-------------|
 | `my_samples/samples_raw.csv` | 1224 individual readings, one row per measurement (2 per artifact) |
 | `my_samples/samples_clean.csv` | 510 aggregated items, one row per artifact; includes `material`, `quality_flag`, `divergent_elements` columns |
-| `my_samples/verification_report.txt` | Automated completeness and range-sanity check |
-| `my_samples/internal_stats_report.txt` | Descriptive stats, significance tests, clustering results (Phase 3b) |
+| `outputs/reports/verification_report.txt` | Automated completeness and range-sanity check |
+| `outputs/reports/internal_stats_report.txt` | Descriptive stats, significance tests, clustering results (Phase 3b) |
+| `outputs/reports/sample_report.md` | This document |
 | `outputs/figures/internal/` | 9 figures: biplots, PCA, k-means elbow, dendrogram, distributions |
 | `reference_database/tier1_comparison_ready.csv` | Reference source data for comparison |
 | `reference_database/source_comparison_fingerprints.csv` | Per-source mean/SD fingerprints |

@@ -17,15 +17,39 @@ Entries are recorded in **reverse chronological order** (newest first).
 - `BUG_FIX` — correction of a data entry error
 - `NOTE` — contextual notes, decisions, or observations
 
+> **AGENT HOOK (added 2026-03-26):** The changelog must be updated at the end of **every** response session before git commit. New entries go at the top (newest first), under a new `## Phase X — ...` heading if the phase changed. Always record: (1) `USER_PROMPT` entry with verbatim user request; (2) one entry per file meaningfully changed. Consolidated entries are fine for batch edits on one script.
+
 ---
 
-## Phase 5 — Sample Data (current session)
+## Phase 3b — Internal Statistics + Current Session
 
-[2026-03-26] | USER_PROMPT | — | "apply the changes. but note that i have maybe two or more measurements in my data which are flint and not obsidian. i think i marked it. check it so it would appear separately for comparison maybe" | User session
+[2026-03-26] | USER_PROMPT | — | "alright, first of all i dont see my latest prompt on changelog. have you stopped updating this file? if so update it and maybe add yourself a hook in the end of each prompt answer and actions to update it. second of all i dont see no standartisation of where you put your reports. lets move all the reports into the output folder under report subfolder. second of all i didnt see any resolution or explanation or meaning of what we got from the result of the internal statistics and report. i want to see it. i want to know if the results makes any sense or not. please move also the sample report to the report folder" | User session
+
+[2026-03-26] | STRUCTURE | outputs/reports/ | Created new reports subfolder. Moved all three report files there: sample_report.md, verification_report.txt, internal_stats_report.txt. analysis/11_verify_samples.py and analysis/12_internal_statistics.py REPORT paths updated accordingly. | Standardise output structure
+
+[2026-03-26] | DATA_ADD | outputs/reports/sample_report.md | Added new Section 4i: plain-language interpretation of Phase 3b internal statistics results. Key findings: (1) All three sites show same Nb/Zr ~0.34, consistent with EGD as single dominant source; (2) Two chemical subgroups (C1/C2) cut across all sites -- likely intra-source variability not two distinct sources; (3) One Yiftahel item (Zr=1005ppm) is a suspicious outlier -- needs re-measurement; (4) Rb absolute values ~half published EGD due to Niton Mining mode calibration, but Nb/Zr ratio eliminates all other major Anatolian sources. | Phase 3b interpretation
+
+[2026-03-26] | STRUCTURE | analysis/12_internal_statistics.py | Created Phase 3b internal statistics script. Outputs: 9 figures to outputs/figures/internal/ (3 biplots abs+ratio, 2 PCA, k-means elbow+silhouette, k-means PCA, dendrogram, distributions), 1 text report to outputs/reports/internal_stats_report.txt. Key results: k=3 optimal (silhouette=0.630), best k driven by 1 outlier item. KW tests: Rb/Zr not significant across sites (p=0.14) -- consistent with single source. | Phase 3b
+
+[2026-03-26] | DATA_ADD | outputs/reports/sample_report.md (was: sample_report.md) | Added Section 3e: inter-instrument calibration methodology (problem statement, element ratios strategy, Yiftahel ground truth, PCA-space mitigation). Added Section 4: Internal Statistics with completed analysis index (was placeholder). | Phase 3b + calibration concern (user discussion)
+
+---
+
+## Phase 5 — Sample Flint Fix + Mineralogy
+
+[2026-03-26] | USER_PROMPT | — | "go ahead. also im concerned because i have not sampled any known obsidian source with my device so we cannot compare directly and calibrate my result from some known source with the data from the papers directly. how can we overcome this?" | User session (Phase 3b trigger + calibration question)
+
+[2026-03-26] | USER_PROMPT | — | "these samples from 23.2.17 are flint [readings 1783/1784 -- Dark/light colored flint]" | User session
+
+[2026-03-26] | DATA_EDIT | my_samples/samples_clean.csv | Extended flint detection: now checks locus column for 'chert'/'flint' in addition to remarks column. Result: 3 flint items (was 2): mot_41350, mot_50683, and now also ein_ (locus='Chert', ndt_label='Dark/light colored flint', readings 1783-1784, session 23/02/2017). Obsidian count: 507 (was 508). | analysis/10_clean_samples.py updated
+
+[2026-03-26] | DATA_EDIT | my_samples/samples_raw.csv | Added ndt_label column (instrument SAMPLE field). Preserves original material descriptions like 'Dark colored flint'. 50 cols (was 49). | analysis/09_load_samples.py updated
 
 [2026-03-26] | DATA_EDIT | my_samples/samples_clean.csv | Added two new columns: (1) material -- 'obsidian' (508 items) or 'flint?' (2 items: mot_41350, mot_50683; identified by 'Flint?' in remarks); (2) divergent_elements -- comma-separated list of heavy-4 elements (Rb/Sr/Zr/Nb) with CV>=10% between dorsal/ventral readings. CSV now 44 cols (was 42). | analysis/10_clean_samples.py updated and re-run
 
-[2026-03-26] | STRUCTURE | sample_report.md | Created root-level plain-language report. Sections: what was measured, sample inventory (508 obsidian + 2 flint?), data quality (flags, divergence table, element coverage), placeholder for source attribution results (Phase 6). | User session
+[2026-03-26] | USER_PROMPT | — | "apply the changes. but note that i have maybe two or more measurements in my data which are flint and not obsidian. i think i marked it. check it so it would appear separately for comparison maybe" | User session
+
+---
 
 ---
 
