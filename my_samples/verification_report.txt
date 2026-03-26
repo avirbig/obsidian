@@ -1,0 +1,282 @@
+PHASE 5 -- SAMPLE VERIFICATION REPORT
+======================================================================
+Raw readings:  1224
+Clean items:   510
+Sites:         ['einan', 'motza', 'yiftahel']
+Periods:       ['EPPNB', 'MPPNB', 'natufian']
+
+NOTE: Y (Yttrium) is NOT measured in this Niton Mining Cu/Zn configuration.
+Heavy-4 fingerprint elements: Rb, Sr, Zr, Nb
+======================================================================
+
+1. ELEMENT COMPLETENESS (% items with non-null value)
+------------------------------------------------------------
+  Rb  :  505 /  510 (99%)
+  Sr  :   47 /  510 (9%)  [LOW]
+  Zr  :  505 /  510 (99%)
+  Nb  :  505 /  510 (99%)
+  Fe  :  510 /  510 (100%)
+  Mn  :  471 /  510 (92%)  [LOW]
+  Zn  :  351 /  510 (69%)  [LOW]
+  Ti  :  510 /  510 (100%)
+  Ba  :   39 /  510 (8%)  [LOW]
+  Th  :    0 /  510 (0%)  [LOW]
+  Pb  :  502 /  510 (98%)
+  Ga  :    0 /  510 (0%)  [LOW]
+
+  Note: Y (Yttrium) is NOT measured in this Niton Mining Cu/Zn mode.
+        Source attribution will use Rb/Sr/Zr/Nb (4-element fingerprint).
+
+2. REPEATABILITY  (CV% for items with N >= 2 readings)
+------------------------------------------------------------
+  Items with N >= 2 readings: 484
+
+  Element  Mean CV%     <5%   5-10%    >=10%
+  ------  --------  ------  ------  -------
+  Rb           3.8     268     174       37
+  Sr           2.2      15       1        1
+  Zr           5.5     255     108      116
+  Nb           5.1     380       0       98
+
+3. RANGE SANITY CHECK  (expected obsidian ppm ranges)
+------------------------------------------------------------
+  4 elements have out-of-range values:
+
+  Fe (expected 5000–50000 ppm): 4 items
+    ein_ (einan): 390.0 ppm
+    mot_40878 (motza): 2515.0 ppm
+    mot_41350 (motza): 2355.0 ppm
+    mot_50683 (motza): 235.0 ppm
+  Ti (expected 100–5000 ppm): 2 items
+    ein_ (einan): 55.0 ppm
+    mot_50683 (motza): 55.0 ppm
+  Pb (expected 0–100 ppm): 2 items
+    ein_6751 (einan): 140.0 ppm
+    ein_7346 (einan): 130.0 ppm
+  Zn (expected 0–100 ppm): 3 items
+    mot_40878 (motza): 570.0 ppm
+    yif_ (yiftahel): 140.0 ppm
+    yif_10671 (yiftahel): 185.0 ppm
+
+4. DIVERGENT READINGS  (quality_flag = repeat_divergent)
+------------------------------------------------------------
+  192 items with CV >= 10% on at least one heavy-4 element:
+
+  item_id              site        cv%   Rb_cv   Sr_cv   Zr_cv   Nb_cv
+  ----------------------------------------------------------------------
+  ein_50155            einan      24.7    11.1     --      8.7    24.7
+  ein_5356             einan      10.9     0.0     --     10.9     0.0
+  ein_5410A            einan      10.9     8.3     --     10.9     0.0
+  ein_5686             einan      28.3     7.4     --     10.9    28.3
+  ein_5927             einan      28.3     7.4     --      0.0    28.3
+  ein_5929             einan      12.9    12.9     --      8.3     0.0
+  ein_5945             einan      10.9     8.3     --     10.9     0.0
+  ein_5948             einan      10.9     0.0     --     10.9     0.0
+  ein_5974             einan      22.2     5.7     --      7.4    22.2
+  ein_6017             einan      28.3     7.4     --      0.0    28.3
+  ein_6034             einan      19.4    11.0     --      8.4    19.4
+  ein_6044             einan      28.3     7.4     --      0.0    28.3
+  ein_6105A            einan      28.3    14.1     --     20.2    28.3
+  ein_6105B            einan      20.2     0.0     --      0.0    20.2
+  ein_6148             einan      21.1     4.6     --      6.2    21.1
+  ein_6149             einan      28.3     0.0     --      0.0    28.3
+  ein_6164             einan      20.2     0.0     0.0     0.0    20.2
+  ein_6165             einan      10.9     0.0     --     10.9     0.0
+  ein_6200             einan      22.2     0.0     --      0.0    22.2
+  ein_6219             einan      18.8     5.3     --      0.0    18.8
+  ein_6233             einan      10.9     0.0     --     10.9     0.0
+  ein_6244             einan      10.9     9.4     --     10.9     0.0
+  ein_6250             einan      20.2     6.1     0.0     9.4    20.2
+  ein_6497             einan      28.3     7.4     --      9.4    28.3
+  ein_6500             einan      25.0     8.3     --     25.0     0.0
+  ein_6502             einan      22.5     4.9     --     22.5     0.0
+  ein_6522             einan      23.2    23.2     --     10.1    22.2
+  ein_6662             einan      12.9    12.9     --      9.4     0.0
+  ein_6775             einan      10.9     0.0     --     10.9     0.0
+  ein_6806             einan      21.7     0.0     --      7.9    21.7
+  ein_7092             einan      15.4    11.8     --     15.4     0.0
+  ein_7675             einan      20.2     0.0     --      0.0    20.2
+  ein_7989             einan      28.3     7.4     --      0.0    28.3
+  ein_8025             einan      28.3     7.4     --      9.4    28.3
+  mot_04727CTE         motza      10.9     8.3     --     10.9     0.0
+  mot_40014a           motza      28.3     0.0     --      0.0    28.3
+  mot_40173            motza      28.3     0.0     --      0.0    28.3
+  mot_40202            motza      10.9     0.0     --     10.9     0.0
+  mot_40209            motza      10.9     7.4     --     10.9     0.0
+  mot_40224b           motza      28.3     0.0     --      0.0    28.3
+  mot_40237b           motza      10.9     8.3     --     10.9     0.0
+  mot_40286            motza      12.5     0.0     --     12.5     0.0
+  mot_40286CTE         motza      10.9     0.0     --     10.9     0.0
+  mot_40337a           motza      15.7     0.0     --     15.7     0.0
+  mot_40337aBS         motza      28.3     0.0     --      0.0    28.3
+  mot_40353            motza      28.3     0.0     --      0.0    28.3
+  mot_40355            motza      12.9     0.0     --     12.9     0.0
+  mot_40374            motza      12.9     0.0     --     12.9     0.0
+  mot_40385            motza      28.3     7.4     --      0.0    28.3
+  mot_40411            motza      10.9     0.0     --     10.9     0.0
+  mot_40433            motza      10.9     0.0     --     10.9     0.0
+  mot_40467            motza      10.9     0.0     --     10.9     0.0
+  mot_40470            motza      28.3     0.0     --      0.0    28.3
+  mot_40475            motza      10.9     0.0     --     10.9     0.0
+  mot_40484a           motza      10.9     7.4     --     10.9     0.0
+  mot_40487            motza      22.3    17.7     --     22.3     0.0
+  mot_40514            motza      28.3     7.4     --      0.0    28.3
+  mot_40524a           motza      10.9     0.0     --     10.9     0.0
+  mot_40524b           motza      10.9     0.0     --     10.9     0.0
+  mot_40572            motza      10.9     0.0     --     10.9     0.0
+  mot_40586a           motza      12.9    12.9     --      9.4     0.0
+  mot_40586b           motza      10.9     0.0     --     10.9     0.0
+  mot_40599            motza      28.3     0.0     --     10.9    28.3
+  mot_40599a           motza      10.9     0.0     --     10.9     0.0
+  mot_40599b           motza      23.1     0.0     --     18.2    23.1
+  mot_40603PE          motza      10.9     8.3     --     10.9     0.0
+  mot_40616            motza      22.2     6.8     --      8.0    22.2
+  mot_40621            motza      23.6    17.7     --     23.6     0.0
+  mot_40632            motza      10.9     0.0     --     10.9     0.0
+  mot_40634c           motza      24.7     6.9     --      9.1    24.7
+  mot_40653            motza      22.1    11.9     --      8.2    22.1
+  mot_40664            motza      28.3     7.4     --      0.0    28.3
+  mot_40687            motza      22.2     6.5     --      7.4    22.2
+  mot_40697a           motza      20.2     0.0     --      0.0    20.2
+  mot_40724            motza      23.1    14.6     --      7.7    23.1
+  mot_40724a           motza      10.9     0.0     --     10.9     0.0
+  mot_40727b           motza      20.2     8.3     --     20.2     0.0
+  mot_40729            motza      10.9     0.0     --     10.9     0.0
+  mot_40743            motza      11.6    11.6     --      8.7     0.0
+  mot_40760            motza      20.9    12.4     --     15.1    20.9
+  mot_40769            motza      23.1     6.1     --      0.0    23.1
+  mot_40769CTE         motza      10.5     0.0     --     10.5     0.0
+  mot_40814            motza      14.1     0.0     --     14.1     0.0
+  mot_40822CTE         motza      10.9     0.0     --     10.9     0.0
+  mot_40835            motza      23.1    16.2     --     20.2    23.1
+  mot_40871a           motza      10.9     8.3     0.0    10.9     0.0
+  mot_40874a           motza      28.3     7.4     --      0.0    28.3
+  mot_40884            motza      14.2     6.8     --     14.2     0.0
+  mot_40902            motza      16.5     0.0     --     16.5     0.0
+  mot_40902a           motza      23.1    11.5     --     11.7    23.1
+  mot_40902b           motza      25.5    18.2     --     25.5    23.1
+  mot_40918            motza      10.9     8.3     --     10.9     0.0
+  mot_40935            motza      14.1    14.1     --      9.4     0.0
+  mot_40945a           motza      10.9     7.4     --     10.9     0.0
+  mot_40977            motza      28.3     7.4     --      0.0    28.3
+  mot_40977CTE         motza      28.3     7.4     --      0.0    28.3
+  mot_41005b           motza      10.9     7.4     --     10.9     0.0
+  mot_41024            motza      10.9     8.3     --     10.9     0.0
+  mot_41024b           motza      28.3     7.4     --      9.4    28.3
+  mot_41024c           motza      28.3     0.0     --      0.0    28.3
+  mot_41026            motza      28.3    15.7     --      9.4    28.3
+  mot_41026a           motza      10.9     0.0     --     10.9     0.0
+  mot_41031a           motza      10.9     0.0     --     10.9     0.0
+  mot_41037            motza      22.1     9.9     0.0     8.2    22.1
+  mot_41042            motza      28.3     0.0     --      0.0    28.3
+  mot_41042a           motza      28.3     7.4     --      9.4    28.3
+  mot_41053a           motza      22.2    16.2     --      8.9    22.2
+  mot_41058            motza      28.3     7.4     --      0.0    28.3
+  mot_41070A           motza      28.3     0.0     --      9.4    28.3
+  mot_41085a           motza      10.9     0.0     --     10.9     0.0
+  mot_41097BS          motza      28.3     0.0     --     10.9    28.3
+  mot_41113a           motza      21.7     6.0     --      0.0    21.7
+  mot_41121            motza      28.3     0.0     --      0.0    28.3
+  mot_41123CTE         motza      10.9     7.4     --     10.9     0.0
+  mot_41129            motza      10.9     8.3     --     10.9     0.0
+  mot_41157            motza      10.9     8.3     --     10.9     0.0
+  mot_41157b           motza      10.9     0.0     --     10.9     0.0
+  mot_41157c           motza      23.1     4.9     --     23.1     0.0
+  mot_41160            motza      28.3     7.4     --      0.0    28.3
+  mot_41178            motza      20.2     5.7     0.0     0.0    20.2
+  mot_41181            motza      23.1    21.1     --     16.5    23.1
+  mot_41196            motza      10.9     8.3     --     10.9     0.0
+  mot_41204a           motza      28.3     0.0     --      0.0    28.3
+  mot_41204b           motza      10.9     0.0     --     10.9     0.0
+  mot_41217            motza      18.8    14.3     --      0.0    18.8
+  mot_41217a           motza      10.9     0.0     --     10.9     0.0
+  mot_41217b           motza      28.3     7.4    28.3     9.4    28.3
+  mot_41217c           motza      28.3     0.0     --      0.0    28.3
+  mot_41217e           motza      10.9     0.0     --     10.9     0.0
+  mot_41241            motza      21.4    10.3     --      6.9    21.4
+  mot_41243            motza      18.2     5.5     --     14.4    18.2
+  mot_41244            motza      10.9     0.0     --     10.9     0.0
+  mot_41253            motza      10.9     0.0     --     10.9     0.0
+  mot_41253PE          motza      12.9     8.3     --     12.9     0.0
+  mot_41256CTE         motza      28.3     7.4     --     20.2    28.3
+  mot_41279a           motza      18.2     5.1     0.0     7.7    18.2
+  mot_41279b           motza      23.1     9.8     --      7.4    23.1
+  mot_41285            motza      23.1     5.4     --      8.0    23.1
+  mot_41295a           motza      24.7     6.7     --      9.1    24.7
+  mot_41310            motza      28.3     7.4     --      9.4    28.3
+  mot_41354            motza      22.2    10.9     --      8.9    22.2
+  mot_41361            motza      19.4    14.1     --     11.0    19.4
+  mot_41372            motza      10.9     0.0     --     10.9     0.0
+  mot_50024            motza      10.9     0.0     --     10.9     0.0
+  mot_50109            motza      20.2     7.4     --     20.2     0.0
+  mot_50168            motza      10.9     7.4     --     10.9     0.0
+  mot_50185            motza      10.9     8.3     --     10.9     0.0
+  mot_50188            motza      17.6     5.6     --      7.8    17.6
+  mot_50236a           motza      10.9     0.0     --     10.9     0.0
+  mot_50251            motza      10.9     0.0     --     10.9     0.0
+  mot_50276BS          motza      21.7     0.0     --     14.3    21.7
+  mot_50317a           motza      28.3     7.4     --      9.4    28.3
+  mot_50321            motza      23.1    12.8     --      8.9    23.1
+  mot_50324            motza      14.2     5.4     --     14.2     0.0
+  mot_50421            motza      22.2    12.8     --      8.9    22.2
+  mot_50424            motza      10.9     0.0     --     10.9     0.0
+  mot_50468b           motza      10.9     0.0     --     10.9     0.0
+  mot_50497            motza      28.3     0.0     --      8.3    28.3
+  mot_50512            motza      10.9     0.0     --     10.9     0.0
+  mot_50521a           motza      16.0     5.2     --      7.2    16.0
+  mot_50521b           motza      18.2     0.0     --      6.9    18.2
+  mot_50544            motza      10.9     0.0     --     10.9     0.0
+  mot_50546            motza      10.9     0.0     --     10.9     0.0
+  mot_50565            motza      10.9     0.0     --     10.9     0.0
+  mot_50565b           motza      10.9     0.0     --     10.9     0.0
+  mot_50597a           motza      12.2     6.2     --     12.2     0.0
+  mot_50600            motza      22.2    10.9     --     20.2    22.2
+  mot_50600a           motza      10.9     0.0     --     10.9     0.0
+  mot_50600b           motza      15.7    15.7     --      9.4     0.0
+  mot_50604            motza      28.3     7.4     --      0.0    28.3
+  mot_50604c           motza      10.9     0.0     --     10.9     0.0
+  mot_50643a           motza      10.9     8.3     --     10.9     0.0
+  mot_50646            motza      20.5    10.4     --     20.5    20.3
+  mot_50662b           motza      28.3     0.0     --     28.3     0.0
+  mot_50712            motza      10.9     0.0     --     10.9     0.0
+  mot_50722            motza      22.1    11.1     --      7.7    22.1
+  mot_50728            motza      23.1    12.8     --      0.0    23.1
+  mot_50754            motza      28.3    15.7     --     10.9    28.3
+  mot_50778            motza      28.3     0.0     --     17.7    28.3
+  mot_A2b              motza      28.3     6.7     --     10.9    28.3
+  mot_A2d              motza      28.3     7.4     --     10.9    28.3
+  mot_blade1b          motza      10.9     0.0     --     10.9     0.0
+  yif_                 yiftahel  141.5    11.6     --    141.5    54.5
+  yif_10634            yiftahel   31.4     7.4     --     31.4    28.3
+  yif_10671            yiftahel   10.9     0.0     --      2.1    10.9
+  yif_20917            yiftahel   10.9     0.0     --     10.9     0.0
+  yif_30072            yiftahel   28.3     0.0     --      0.0    28.3
+  yif_30088            yiftahel   20.2     0.0     --     20.2     0.0
+  yif_30195            yiftahel   10.9     0.0     --     10.9     0.0
+  yif_30259            yiftahel   10.9     0.0     --     10.9     0.0
+  yif_40198            yiftahel   10.9     0.0     --     10.9     0.0
+  yif_55138            yiftahel   17.3     0.0     --     17.3     0.0
+
+5. BEAM COVERAGE SUMMARY
+------------------------------------------------------------
+  Partial             :  231 items (45%)
+  Full                :  178 items (35%)
+  (not noted)         :   95 items (19%)
+  Minimal             :    6 items (1%)
+
+  Not noted (likely Full Coverage): 95
+
+6. COUNT CROSS-CHECK
+------------------------------------------------------------
+  Total NDT readings (samples_raw):  1224
+  Unique item_ids  (samples_clean):  510
+
+  einan     :  226 readings,  104 items (avg 2.2 readings/item)
+  motza     :  946 readings,  383 items (avg 2.5 readings/item)
+  yiftahel  :   52 readings,   23 items (avg 2.3 readings/item)
+
+======================================================================
+Files:
+  my_samples/samples_raw.csv   -- immutable raw record
+  my_samples/samples_clean.csv -- per-item averaged, quality-flagged
+  my_samples/verification_report.txt -- this report

@@ -188,11 +188,15 @@ Save all to `outputs/figures/` as .png (300 dpi) and .pdf.
 ## Key Conventions
 
 - **Raw files are NEVER modified**
+- `samples_raw.csv` is IMMUTABLE after creation — do not edit
 - `changelog.md` format: `[YYYY-MM-DD] | TYPE | File | Description | Source`
 - User prompts logged as: `[YYYY-MM-DD] | USER_PROMPT | — | "exact text"`
+- **Changelog rule**: After every session, before git commit, `changelog.md` MUST be updated with one `USER_PROMPT` entry per user message and one `DATA_ADD`/`ANALYSIS`/`BUG_FIX`/`VERIFICATION` entry per script run or output file created.
 - Git commit after each completed paper or major milestone
 - Source label standards: `EGD`, `WGD`, `ND`, `BingolA`, `BingolB`, `NemrutDag`, `Urmia`, `Sevan`
 - Element column names: `Rb`, `Sr`, `Zr`, `Nb`, `Y`, `Fe`, `Mn`, `Ba`, `Zn`, `Ti`
+- Sample master file: `my_samples/data manipulation.xlsx`, sheet `First Changes` (1224 readings, 3 sites)
+- Y not measured in Niton Mining Cu/Zn mode — use Rb/Zr/Nb for source attribution (Sr mostly below LOD)
 
 ---
 

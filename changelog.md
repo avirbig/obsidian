@@ -103,6 +103,40 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 [2026-03-25] | NOTE | audit_cross_reference.md | Updated audit file: added 7 newly matched papers to Section A (Binder 2011, Rosen 2011, Yellin & Perlman 1980/1981, Poupeau 2010, Carter 2017, Rosenberg/Carter 2022); removed resolved entries from Section B; added new articles to Section C (Carter 2008, Orange/Carter 2013, Carter/Grant 2013, JARMT, Yellin & Garfinkel 1986); fixed Carter 2013 disambiguation note | Workspace audit
 
+[2026-03-25] | USER_PROMPT | — | "remind me the remaining steps by small description of each" | User session
+
+[2026-03-25] | VERIFICATION | reference_database/cleaned/all_sources_cleaned.csv | Phase 6 complete (commit 8686541). Cross-verified 2337/2375 rows (98%). 0 element mismatches. Unverified 38 rows across 4 categories (missing article section, single-source, format variation). | analysis/06_verification.py
+
+[2026-03-25] | USER_PROMPT | — | "fix this please [Yellin 1981 Sevan to Zincirkale]. then proceed to phase 3" | User session
+
+[2026-03-25] | BUG_FIX | reference_database/cleaned/yellin_perlman_1981.csv | Row with La=132.6 had source label 'Sevan' — corrected to 'Zincirkale' per Yellin & Perlman 1981 Table 1 footnote. Master CSV rebuilt. Source count: 34 total. | commit 9168788
+
+[2026-03-25] | ANALYSIS | reference_database/source_statistics.csv; reference_database/source_statistics_report.txt | Phase 3 complete (commit 9168788). 92 stat rows (34 sources × mean/SD). Key Tier 1 fingerprints: BingolA Rb=230 Zr=1238; BingolB Zr=327; NemrutDag Zr=1277; EGD Zr=77; Sta Nychia Rb=119 Sr=102; Group3d Rb=462. | analysis/07_source_statistics.py
+
+[2026-03-25] | USER_PROMPT | — | "yes. proceed with phase 4" | User session
+
+[2026-03-25] | USER_PROMPT | — | "why start phase 5 before phase 4?" | User session
+
+[2026-03-25] | DATA_ADD | reference_database/tier1_comparison_ready.csv; reference_database/source_comparison_fingerprints.csv | Phase 4 complete (commit efcb1ab). Tier 1 filter applied: 1814 rows, 34 sources. Quality categories: strong(9), moderate(3), weak(8), no_pxrf(14). source_comparison_fingerprints.csv: one row per source with mean+SD for Rb/Sr/Zr/Nb/Y. | analysis/08_tier_filter.py; reference_database/phase4_report.txt
+
+## 2026-03-26
+
+[2026-03-26] | USER_PROMPT | — | "what folder should i put the results?" | User session
+
+[2026-03-26] | NOTE | my_samples/ | Confirmed target folder for user pXRF data. Already existed as placeholder from Phase 0. | User session
+
+[2026-03-26] | USER_PROMPT | — | "whats the next step? what should i do?" | User session
+
+[2026-03-26] | USER_PROMPT | — | "I've put my files in the samples folder. first i want you to look at the files content and try to understand each file..." | User session
+
+[2026-03-26] | USER_PROMPT | — | "Start implementation" | User session
+
+[2026-03-26] | DATA_ADD | my_samples/samples_raw.csv | Phase 5a: loaded 1224 pXRF readings from 'data manipulation.xlsx' (sheet 'First Changes'). Converted wt% to ppm (×10000). < LOD → NaN. item_id = site_prefix + '_' + basket. Joined filter times (main/low/high/light sec) from numbered session files 01–05 via Reading No. 3 sites: einan(226), motza(946), yiftahel(52). Periods: EPPNB, MPPNB, natufian. KEY: Y not measured in Niton Mining Cu/Zn mode; Sr coverage only 5% (mostly below LOD). 1224 rows, 49 cols. | analysis/09_load_samples.py
+
+[2026-03-26] | DATA_ADD | my_samples/samples_clean.csv | Phase 5b: averaged duplicate readings per artifact. 510 unique items. quality_flag: good=286, repeat_divergent=192, single=26, beam_minimal=2, beam_minimal+repeat_divergent=4. CV threshold 10%. 40% of paired items have ≥1 heavy-4 element with CV≥10% (repeat_divergent) — large number, likely reflects dorsal/ventral geometry effect. | analysis/10_clean_samples.py
+
+[2026-03-26] | VERIFICATION | my_samples/verification_report.txt | Phase 5c: completeness/repeatability/range checks. Rb/Zr/Nb coverage ≥99%; Sr only 9% at item level (mostly LOD). Mean CV%: Rb=3.8, Zr=5.5, Nb=5.1. Range outliers: 4 Fe items, 2 Ti items, 2 Pb items, 3 Zn items (non-critical for sourcing). Note: Y not measured — source attribution will use 3-element fingerprint Rb/Zr/Nb (Sr effectively absent). | analysis/11_verify_samples.py
+
 ---
 
 ## Template for future entries
