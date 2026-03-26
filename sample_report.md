@@ -112,35 +112,80 @@ The yif_ item appears in `samples_clean.csv` but should be treated with caution 
 
 ---
 
-## 4. Internal Statistics (Pre-Attribution)
+## 3e. Methodological Note: Inter-Instrument Calibration
 
-> **PLACEHOLDER -- To be completed in Phase 6a (internal statistics)**
+**The problem:** The Niton XL3t used for this project was operated in Mining Cu/Zn mode. The reference datasets used for source attribution (compiled from published studies) were measured on a variety of instruments and modes — Olympus DELTA, Bruker, Niton Geo mode, laboratory EDXRF. No geological obsidian source sample (a piece of raw volcanic glass of known provenance) was measured with *this* specific Niton in this *specific* mode. That means we cannot directly verify that a reading of, say, Rb = 250 ppm on this instrument corresponds to Rb = 250 ppm in the reference datasets.
 
-Before comparing against the reference database, the assemblage will be examined internally to identify structure in the data. This phase asks: **can we see groupings within and between my own samples, and do they correlate with site or period?**
+**Why this matters:** If the Mining Cu/Zn calibration systematically over- or under-reads Rb by X%, all 507 samples will be shifted together in Rb-space. Depending on the direction and magnitude of the offset, they could be pushed closer to a wrong source and away from the correct one.
 
-### 4a. Within-assemblage variability
-- Descriptive statistics per site: mean, SD, range for Rb, Zr, Nb
-- Distribution plots (histogram + kernel density) per element per site
-- Do the three sites look chemically similar or different from each other?
+**Three strategies to mitigate the problem:**
 
-### 4b. Between-assemblage comparisons
-- Pairwise comparison of Motza / Einan / Yiftahel centroids in Rb/Zr/Nb space
-- ANOVA or Kruskal-Wallis test per element (are inter-site differences significant?)
-- Biplots with site-colour-coded points and 95% confidence ellipses
+| Strategy | How it helps | Limitation |
+|----------|-------------|-----------|
+| **Element ratios (Rb/Zr, Nb/Zr, Rb/Nb)** | If the calibration offset affects all heavy elements proportionally, numerator and denominator shift together and the ratio stays correct | Fails if different elements are offset differently |
+| **Yiftahel as implicit calibration check** | Yiftahel was independently sourced as EGD via INAA (Yellin & Garfinkel 1986). If Phase 5 Mahalanobis also places Yiftahel closest to EGD, the calibration offset is small enough not to cause misattribution | Only validates one source; cannot quantify the offset precisely |
+| **PCA-space comparison** | Projection into principal component space partially absorbs uniform scaling offsets; relative clustering of samples vs. reference sources is more stable than absolute ppm distances | Large offsets can still shift cluster membership |
 
-### 4c. Period-level comparison
-- Natufian (Einan) vs MPPNB (Yiftahel) vs EPPNB (Motza)
-- Do period differences track source differences, or are they confounded by site?
+**Both absolute ppm values and element ratios are analysed in parallel** throughout this project so that results can be interpreted and cross-checked with either approach.
 
-### 4d. Unsupervised clustering
-- k-means and hierarchical clustering in Rb/Zr/Nb space (obsidian items only)
-- How many chemical groups exist in the combined assemblage?
-- Do cluster boundaries align with site or period boundaries?
+**Recommended future step:** Measure 3–5 obsidian pieces of known geological origin (e.g., from the Hebrew University reference collection, or geological samples used in published studies) with the same Niton instrument and settings. Comparing those readings to published reference values would yield per-element correction factors (slope + intercept) for the Mining Cu/Zn mode.
 
-### 4e. PCA
-- Principal Component Analysis on Rb/Zr/Nb (and optionally Fe/Mn/Ti)
-- PC1 vs PC2 biplot, colour-coded by site
-- Explains most variance with fewest dimensions; helps visualize groupings
+---
+
+## 4. Internal Statistics (Phase 3b — Completed)
+
+> **Completed.** Full output: `my_samples/internal_stats_report.txt` and `outputs/figures/internal/` (9 figures).
+
+The assemblage was examined internally before comparison against the reference database. The guiding question: **can we see chemical groupings within and between our own samples, and do they correlate with site or period?**
+
+### 4a. Sample counts for internal analysis
+
+| Site | N (obsidian) | Period |
+|------|-------------|--------|
+| Motza | 381 | EPPNB |
+| Einan | 103 | Natufian |
+| Yiftahel | 23 | MPPNB |
+
+### 4b. Elements analysed
+
+- **Primary fingerprint:** Rb, Zr, Nb (≈ 99% coverage)
+- **Ratio variants:** Rb/Zr, Nb/Zr, Rb/Nb — analysed in parallel with absolute values as a calibration-offset-robust alternative (see Section 3e)
+
+### 4c. Descriptive statistics
+
+Mean ppm per site and full descriptive tables (N, mean, SD, min, median, max, CV%) appear in `internal_stats_report.txt` Section 1, for both raw ppm and element ratios.
+
+### 4d. Significance tests
+
+**Kruskal-Wallis** (3-site comparison) and **Mann-Whitney pairwise** tests (Motza vs Einan, Motza vs Yiftahel, Einan vs Yiftahel) for all three elements and all three ratios. Results in `internal_stats_report.txt` Section 2. Non-parametric tests were chosen because normality is not assumed for geochemical data.
+
+### 4e. Biplots
+
+Three biplots (Rb vs Zr, Nb vs Zr, Rb vs Nb), each with two panels:
+- **Left:** absolute ppm, sites colour-coded with 2-SD confidence ellipses
+- **Right:** element ratios — offset-robust version of the same comparison
+
+Generated files: `biplot_Rb_Zr.png`, `biplot_Nb_Zr.png`, `biplot_Rb_Nb.png`
+
+### 4f. PCA
+
+PCA on StandardScaler(Rb, Zr, Nb). Two panels: coloured by site (with loading arrows) and coloured by period. A separate ratio-based PCA (Rb/Zr, Nb/Zr, Rb/Nb) was also computed as a calibration-robust alternative.
+
+Generated files: `pca_sites_periods.png`, `pca_ratios.png`
+
+### 4g. Unsupervised clustering
+
+**K-means** (k = 2–6): elbow curve + silhouette score to select best k. Best k is determined by highest silhouette score; cluster membership cross-tabulated against site and period.
+
+**Hierarchical clustering** (Ward linkage): dendrogram with cut line at best k; membership vs site cross-tabulated.
+
+Generated files: `kmeans_elbow_silhouette.png`, `kmeans_k{k}_pca.png`, `dendrogram.png`
+
+### 4h. Element distributions
+
+Kernel density plots for Rb, Zr, Nb, Rb/Zr, Nb/Zr, Rb/Nb — one panel per element, all three sites overlaid, with median dashed lines.
+
+Generated file: `distributions_by_site.png`
 
 ---
 
@@ -164,6 +209,8 @@ This section will show, for each artifact, the most likely obsidian source. The 
 | `my_samples/samples_raw.csv` | 1224 individual readings, one row per measurement (2 per artifact) |
 | `my_samples/samples_clean.csv` | 510 aggregated items, one row per artifact; includes `material`, `quality_flag`, `divergent_elements` columns |
 | `my_samples/verification_report.txt` | Automated completeness and range-sanity check |
+| `my_samples/internal_stats_report.txt` | Descriptive stats, significance tests, clustering results (Phase 3b) |
+| `outputs/figures/internal/` | 9 figures: biplots, PCA, k-means elbow, dendrogram, distributions |
 | `reference_database/tier1_comparison_ready.csv` | Reference source data for comparison |
 | `reference_database/source_comparison_fingerprints.csv` | Per-source mean/SD fingerprints |
 | `reference_database/phase4_report.txt` | Source quality tier breakdown |

@@ -143,7 +143,7 @@ For each xlsx in `obsidian_minerales_component_tables_from_articles/`:
 
 ---
 
-## Phase 3b — Internal Statistics (NEW — next step) ⏳
+## Phase 3b — Internal Statistics ✅
 
 **Script**: `analysis/12_internal_statistics.py`  
 **Output**: `my_samples/internal_stats_report.txt`, figures in `outputs/figures/internal/`
@@ -252,19 +252,11 @@ Save all to `outputs/figures/` as .png (300 dpi) and .pdf.
 - Phase 1 (reference data extraction) ✅
 - Phase 2 (reference database, 34 sources, 2375 rows) ✅
 - Phase 3 (sample loading, cleaning, verification -- 507 obsidian + 3 flint, 510 total) ✅
+- Phase 3b (internal statistics: descriptive stats, biplots, PCA, k-means, hierarchical clustering, calibration note) ✅
 
 **Immediate next step:**
-1. **Phase 3b — Internal statistics** (new) -- script `analysis/12_internal_statistics.py`
-   - Descriptive stats per site/period
-   - Biplots (Rb/Zr/Nb, colour by site)
-   - PCA
-   - Kruskal-Wallis + pairwise Mann-Whitney significance tests
-   - k-means + hierarchical clustering
-   - Target output: know how many natural groups exist before comparing to reference
-
-2. **Phase 4 — Visualization** -- overlay samples on reference source biplots
-
-3. **Phase 5 — Source attribution** -- Mahalanobis distance comparison
+1. **Phase 4 — Visualization** -- overlay samples on reference source biplots
+2. **Phase 5 — Source attribution** -- Mahalanobis distance comparison
 
 ---
 

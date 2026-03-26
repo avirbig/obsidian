@@ -1,0 +1,276 @@
+
+======================================================================
+PHASE 3B -- INTERNAL STATISTICS REPORT
+======================================================================
+Date: 2026-03-26
+Input: c:\work\code\obsidian\my_samples\samples_clean.csv
+N obsidian items: 507
+Sites: {'motza': 381, 'einan': 103, 'yiftahel': 23}
+Periods: {'EPPNB': 381, 'natufian': 103, 'MPPNB': 23}
+
+ELEMENT RATIOS COMPUTED: Rb/Zr, Nb/Zr, Rb/Nb
+These ratios are robust to uniform inter-instrument calibration offsets.
+Analysed in parallel with absolute ppm values throughout.
+
+======================================================================
+1. DESCRIPTIVE STATISTICS
+======================================================================
+
+1.1 BY SITE
+-----------
+        site element    N   mean     SD   min  median     max    CV%
+0      motza      Rb  379  91.93  10.43 75.00   90.00  130.00  11.34
+1      motza      Zr  379  67.44  10.34 50.00   65.00  163.33  15.34
+2      motza      Nb  379  22.82   4.04 20.00   20.00   35.00  17.70
+3      motza   Rb/Zr  379   1.37   0.12  0.73    1.38    1.71   8.61
+4      motza   Nb/Zr  379   0.34   0.05  0.18    0.33    0.50  13.48
+5      motza   Rb/Nb  379   4.08   0.40  3.17    4.00    5.00   9.73
+6      einan      Rb  103  97.41  11.55 75.00  100.00  130.00  11.85
+7      einan      Zr  103  72.77  10.51 60.00   70.00  130.00  14.44
+8      einan      Nb  103  25.70   4.89 20.00   26.00   35.00  19.03
+9      einan   Rb/Zr  103   1.35   0.13  0.85    1.35    1.62   9.29
+10     einan   Nb/Zr  103   0.35   0.05  0.23    0.35    0.47  14.94
+11     einan   Rb/Nb  103   3.86   0.47  3.00    3.80    5.00  12.10
+12  yiftahel      Rb   23  88.44   7.03 80.00   86.67  100.00   7.95
+13  yiftahel      Zr   23 112.17 196.93 60.00   65.00 1005.00 175.56
+14  yiftahel      Nb   23  23.15   9.54 20.00   20.00   65.00  41.21
+15  yiftahel   Rb/Zr   23   1.26   0.34  0.10    1.38    1.58  26.94
+16  yiftahel   Nb/Zr   23   0.30   0.07  0.06    0.33    0.43  24.06
+17  yiftahel   Rb/Nb   23   4.07   0.70  1.54    4.25    5.00  17.14
+
+
+1.1 BY PERIOD
+-------------
+      period element    N   mean     SD   min  median     max    CV%
+0   natufian      Rb  103  97.41  11.55 75.00  100.00  130.00  11.85
+1   natufian      Zr  103  72.77  10.51 60.00   70.00  130.00  14.44
+2   natufian      Nb  103  25.70   4.89 20.00   26.00   35.00  19.03
+3   natufian   Rb/Zr  103   1.35   0.13  0.85    1.35    1.62   9.29
+4   natufian   Nb/Zr  103   0.35   0.05  0.23    0.35    0.47  14.94
+5   natufian   Rb/Nb  103   3.86   0.47  3.00    3.80    5.00  12.10
+6      MPPNB      Rb   23  88.44   7.03 80.00   86.67  100.00   7.95
+7      MPPNB      Zr   23 112.17 196.93 60.00   65.00 1005.00 175.56
+8      MPPNB      Nb   23  23.15   9.54 20.00   20.00   65.00  41.21
+9      MPPNB   Rb/Zr   23   1.26   0.34  0.10    1.38    1.58  26.94
+10     MPPNB   Nb/Zr   23   0.30   0.07  0.06    0.33    0.43  24.06
+11     MPPNB   Rb/Nb   23   4.07   0.70  1.54    4.25    5.00  17.14
+12     EPPNB      Rb  379  91.93  10.43 75.00   90.00  130.00  11.34
+13     EPPNB      Zr  379  67.44  10.34 50.00   65.00  163.33  15.34
+14     EPPNB      Nb  379  22.82   4.04 20.00   20.00   35.00  17.70
+15     EPPNB   Rb/Zr  379   1.37   0.12  0.73    1.38    1.71   8.61
+16     EPPNB   Nb/Zr  379   0.34   0.05  0.18    0.33    0.50  13.48
+17     EPPNB   Rb/Nb  379   4.08   0.40  3.17    4.00    5.00   9.73
+
+
+1.2 OVERALL (all obsidian items)
+--------------------------------
+  element    N  mean    SD   min  median     max
+0      Rb  505 92.89 10.79 75.00   90.00  130.00
+1      Zr  505 70.56 43.39 50.00   66.67 1005.00
+2      Nb  505 23.42  4.73 20.00   20.00   65.00
+3   Rb/Zr  505  1.36  0.14  0.10    1.37    1.71
+4   Nb/Zr  505  0.34  0.05  0.06    0.33    0.50
+5   Rb/Nb  505  4.04  0.44  1.54    4.00    5.00
+
+======================================================================
+2. SIGNIFICANCE TESTS (KRUSKAL-WALLIS + POST-HOC MANN-WHITNEY)
+======================================================================
+Non-parametric tests used because normality is not assumed.
+Alpha = 0.05. p < 0.05 = significant difference.
+
+
+2.1 Kruskal-Wallis (3-site comparison)
+--------------------------------------
+  element  H-stat  p-value significant
+0      Rb 24.2800   0.0000         YES
+1      Zr 40.6400   0.0000         YES
+2      Nb 35.6500   0.0000         YES
+3   Rb/Zr  3.9200   0.1409          no
+4   Nb/Zr 11.9800   0.0025         YES
+5   Rb/Nb 24.0200   0.0000         YES
+
+2.2 Pairwise Mann-Whitney U
+---------------------------
+   element group1    group2          U  p-value significant
+0       Rb  motza     einan 13906.0000   0.0000         YES
+1       Rb  motza  yiftahel  5115.0000   0.1571          no
+2       Rb  einan  yiftahel  1739.0000   0.0004         YES
+3       Zr  motza     einan 11828.0000   0.0000         YES
+4       Zr  motza  yiftahel  4719.0000   0.4948          no
+5       Zr  einan  yiftahel  1697.0000   0.0009         YES
+6       Nb  motza     einan 13180.0000   0.0000         YES
+7       Nb  motza  yiftahel  5018.0000   0.1571          no
+8       Nb  einan  yiftahel  1710.0000   0.0004         YES
+9    Rb/Zr  motza     einan 21728.0000   0.0771          no
+10   Rb/Zr  motza  yiftahel  4934.0000   0.2859          no
+11   Rb/Zr  einan  yiftahel  1248.0000   0.6923          no
+12   Nb/Zr  motza     einan 16500.0000   0.0145         YES
+13   Nb/Zr  motza  yiftahel  5548.0000   0.0247         YES
+14   Nb/Zr  einan  yiftahel  1657.0000   0.0027         YES
+15   Rb/Nb  motza     einan 25390.0000   0.0000         YES
+16   Rb/Nb  motza  yiftahel  3818.0000   0.3120          no
+17   Rb/Nb  einan  yiftahel   756.0000   0.0066         YES
+
+======================================================================
+3. BIPLOTS (RAW VALUES, COLOUR BY SITE)
+======================================================================
+  Saved: biplot_Rb_Zr.png
+  Saved: biplot_Nb_Zr.png
+  Saved: biplot_Rb_Nb.png
+
+Each figure: left = absolute ppm; right = element ratios (offset-robust).
+Ellipses = 2 SD confidence region per site.
+
+======================================================================
+4. PRINCIPAL COMPONENT ANALYSIS (PCA)
+======================================================================
+Input:  Rb, Zr, Nb  (z-scored per element before PCA)
+Items with any NaN in Rb/Zr/Nb excluded from PCA.
+
+N items used in PCA: 505
+
+4.1 Explained Variance
+----------------------
+  PC1: 67.2%  (cumulative: 67.2%)
+  PC2: 27.8%  (cumulative: 95.0%)
+  PC3: 5.0%  (cumulative: 100.0%)
+
+4.2 Loadings (correlation of each element with each PC)
+-------------------------------------------------------
+     PC1    PC2    PC3
+Rb 0.591 -0.537 -0.601
+Zr 0.444  0.839 -0.313
+Nb 0.673 -0.082  0.735
+
+  Saved: pca_sites_periods.png
+
+4.3 PCA on element ratios (Rb/Zr, Nb/Zr, Rb/Nb)
+-----------------------------------------------
+N items used in ratio-PCA: 505
+  PC1: 60.3%  (cumulative: 60.3%)
+  PC2: 39.3%  (cumulative: 99.6%)
+  PC3: 0.4%  (cumulative: 100.0%)
+  Saved: pca_ratios.png
+
+======================================================================
+5. K-MEANS CLUSTERING (RB / ZR / NB, STANDARDIZED)
+======================================================================
+  Saved: kmeans_elbow_silhouette.png
+
+5.1 Best k = 3  (silhouette = 0.630)
+------------------------------------
+
+
+5.2 Cluster membership vs Site (count)
+--------------------------------------
+site     einan  motza  yiftahel
+cluster                        
+C1          49    279        20
+C2          54    100         2
+C3           0      0         1
+
+
+5.3 Cluster membership vs Period (count)
+----------------------------------------
+period   EPPNB  MPPNB  natufian
+cluster                        
+C1         279     20        49
+C2         100      2        54
+C3           0      1         0
+
+
+5.4 Cluster centroids (ppm)
+---------------------------
+  cluster    N    Rb     Zr   Nb
+0      C1  348  87.2   65.1 20.7
+1      C2  156 105.6   76.7 29.2
+2      C3    1 100.0 1005.0 65.0
+  Saved: kmeans_k3_pca.png
+
+======================================================================
+6. HIERARCHICAL CLUSTERING (WARD LINKAGE, RB/ZR/NB STANDARDIZED)
+======================================================================
+  Saved: dendrogram.png
+  Red dashed line = cut point for k=3 clusters.
+
+
+6.1 Hierarchical cluster membership vs Site
+-------------------------------------------
+site        einan  motza  yiftahel
+hc_cluster                        
+HC1            42    250        18
+HC2            61    129         4
+HC3             0      0         1
+
+
+6.2 Cluster centroids (ppm)
+---------------------------
+  hc_cluster    N    Rb     Zr   Nb
+0        HC1  310  86.4   64.1 20.2
+1        HC2  194 103.3   76.1 28.4
+2        HC3    1 100.0 1005.0 65.0
+
+======================================================================
+7. INTER-INSTRUMENT CALIBRATION NOTE
+======================================================================
+
+The user's Niton XL3t (Mining Cu/Zn mode, 60-second readings) has NOT been
+validated against any known geological obsidian source sample that also appears
+in the published reference datasets. This means absolute ppm values in
+samples_clean.csv may carry a systematic offset relative to the reference
+literature (which uses a mix of Niton Geo mode, Olympus DELTA, Bruker, EDXRF).
+
+WHY THIS MATTERS:
+  If the Niton Mining mode reads Rb as consistently 10% higher than the reference
+  instrument, then comparing raw ppm to source centroids will shift all samples
+  towards sources with higher Rb -- a systematic misattribution.
+
+THREE STRATEGIES IMPLEMENTED IN THIS PROJECT TO MITIGATE THIS:
+
+  1. Element ratios (Rb/Zr, Nb/Zr, Rb/Nb):
+     If the calibration offset affects all heavy elements proportionally,
+     ratios cancel the bias. Ratios are analysed in parallel with absolute values
+     throughout this script and in Phases 4-5.
+     LIMITATION: If different elements are offset differently (e.g. Rb over-read
+     but Zr under-read), ratios will be biased in the opposite direction.
+
+  2. Yiftahel ground truth:
+     Yiftahel (MPPNB) was independently sourced by Yellin & Garfinkel (1986)
+     using INAA -- a method free of pXRF calibration issues. Their result: EGD
+     (Eastern Galilee Dikili Tash / Gollu Dag East). If Phase 5 Mahalanobis
+     attribution places Yiftahel closest to EGD, we have implicit validation
+     that the instrument offset is not large enough to cause misattribution.
+     If Yiftahel does NOT cluster with EGD, we should estimate and apply a
+     per-element offset correction before attributing Motza and Einan.
+
+  3. PCA-space comparison (Phase 4-5):
+     Plotting samples in PCA space alongside reference sources partially
+     absorbs uniform scaling offsets because PCA is relative. A systematic
+     shift of all samples by +10% Rb will shift them along the Rb principal
+     component axis uniformly, which may still allow correct cluster assignment.
+
+RECOMMENDED FUTURE STEP (if resources allow):
+  Measure 3-5 obsidian pieces of known geological origin (e.g. from the
+  reference collection at the Hebrew University, or from geological samples
+  used in published studies) with the same Niton instrument and settings.
+  Compare the readings to published values for those sources to derive
+  per-element correction factors (slope + intercept).
+
+
+======================================================================
+8. ELEMENT DISTRIBUTIONS BY SITE
+======================================================================
+  Saved: distributions_by_site.png
+
+======================================================================
+SUMMARY OF FIGURES GENERATED
+======================================================================
+  biplot_Nb_Zr.png
+  biplot_Rb_Nb.png
+  biplot_Rb_Zr.png
+  dendrogram.png
+  distributions_by_site.png
+  kmeans_elbow_silhouette.png
+  kmeans_k3_pca.png
+  pca_ratios.png
+  pca_sites_periods.png
