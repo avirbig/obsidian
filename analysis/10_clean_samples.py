@@ -54,21 +54,32 @@ def aggregate_item(group: pd.DataFrame) -> dict:
     n = len(group)
     first = group.sort_values('reading_no').iloc[0]
 
+    # Detect material type from remarks
+    if 'remarks' in group.columns:
+        remarks_str = ' '.join(group['remarks'].fillna('').astype(str)).lower()
+        material = 'flint?' if 'flint' in remarks_str else 'obsidian'
+        remarks_val = '; '.join(group['remarks'].dropna().unique())
+    else:
+        material = 'obsidian'
+        remarks_val = None
+
     row = {
         'item_id':       first['item_id'],
         'site':          first['site'],
         'period':        first['period'] if 'period' in group.columns else None,
         'locus':         first.get('locus', None),
         'basket':        first.get('basket', None),
+        'material':      material,
         'n_readings':    n,
         'beam_coverage': first.get('beam_coverage', None),
         'dirt_flag':     group['dirt_flag'].any() if 'dirt_flag' in group.columns else False,
-        'remarks':       '; '.join(group['remarks'].dropna().unique()) if 'remarks' in group.columns else None,
+        'remarks':       remarks_val,
         'session_date':  first.get('session_date', None),
     }
 
     # Average numeric element columns
     max_cv = 0.0
+    divergent_elems = []  # heavy-4 elements with CV >= threshold
     for e in ALL_ELEMS:
         if e not in group.columns:
             continue
@@ -81,8 +92,11 @@ def aggregate_item(group: pd.DataFrame) -> dict:
             cv = cv_pct(group[e].apply(pd.to_numeric, errors='coerce'))
             if not np.isnan(cv):
                 max_cv = max(max_cv, cv)
+                if cv >= CV_THRESHOLD:
+                    divergent_elems.append(e)
 
     row['max_cv_pct'] = round(max_cv, 1) if n >= 2 else np.nan
+    row['divergent_elements'] = ','.join(divergent_elems) if divergent_elems else ''
 
     # Quality flag
     beam = str(row.get('beam_coverage', '')).lower()
@@ -111,9 +125,9 @@ def build_clean(raw: pd.DataFrame) -> pd.DataFrame:
 
 
 def build_col_order(df: pd.DataFrame) -> list:
-    meta = ['item_id', 'site', 'period', 'locus', 'basket',
+    meta = ['item_id', 'site', 'period', 'locus', 'basket', 'material',
             'n_readings', 'beam_coverage', 'dirt_flag', 'remarks',
-            'session_date', 'quality_flag', 'max_cv_pct']
+            'session_date', 'quality_flag', 'divergent_elements', 'max_cv_pct']
     elem_cols = []
     for e in ALL_ELEMS:
         if e in df.columns:
@@ -139,6 +153,7 @@ def main():
     # Summary
     print(f'\nSummary:')
     print(f'  Unique items (artifacts): {len(clean)}')
+    print(f'  Material: {clean["material"].value_counts().to_dict()}')
     print(f'  Sites: {clean["site"].value_counts().to_dict()}')
     print(f'  Periods: {clean["period"].value_counts().to_dict()}')
     print(f'  Quality flags:')

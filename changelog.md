@@ -19,6 +19,16 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 ---
 
+## Phase 5 — Sample Data (current session)
+
+[2026-03-26] | USER_PROMPT | — | "apply the changes. but note that i have maybe two or more measurements in my data which are flint and not obsidian. i think i marked it. check it so it would appear separately for comparison maybe" | User session
+
+[2026-03-26] | DATA_EDIT | my_samples/samples_clean.csv | Added two new columns: (1) material -- 'obsidian' (508 items) or 'flint?' (2 items: mot_41350, mot_50683; identified by 'Flint?' in remarks); (2) divergent_elements -- comma-separated list of heavy-4 elements (Rb/Sr/Zr/Nb) with CV>=10% between dorsal/ventral readings. CSV now 44 cols (was 42). | analysis/10_clean_samples.py updated and re-run
+
+[2026-03-26] | STRUCTURE | sample_report.md | Created root-level plain-language report. Sections: what was measured, sample inventory (508 obsidian + 2 flint?), data quality (flags, divergence table, element coverage), placeholder for source attribution results (Phase 6). | User session
+
+---
+
 ## Phase 2 — Data Cleaning (current session)
 
 [2025-07-16] | STRUCTURE | analysis/notebooks/02_data_cleaning.ipynb | Created Phase 2 cleaning notebook. Reads all 21 raw CSVs from extracted_raw/, applies 8 targeted fixes, outputs to reference_database/cleaned/. Builds master all_sources_cleaned.csv with 2375 source-reference rows. | Phase 2 execution
