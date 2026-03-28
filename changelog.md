@@ -23,6 +23,14 @@ Entries are recorded in **reverse chronological order** (newest first).
 
 ## Phase 6 — Final Report + Anomaly Screen
 
+[2026-03-28] | USER_PROMPT | — | "i also want you to make the report in hebrew. but keep the tables and plots in english and any other words formula and units or definitions that you think is right" | User session
+
+[2026-03-28] | DATA_ADD | outputs/reports/final_report_he.md | Hebrew version of final report. All prose sections translated to Hebrew (RTL). Tables (Table 1, Table 2, anomaly tables), figure captions, formulas (Mahalanobis $D_M$), element symbols, units (ppm), source names, site IDs, and all references kept in English. | User request
+
+[2026-03-28] | DATA_ADD | outputs/reports/final_report_he.html | HTML intermediate for Hebrew report, with injected RTL CSS (direction:rtl, Hebrew font stack, LTR overrides for tables and figures). | User request
+
+[2026-03-28] | DATA_ADD | outputs/reports/final_report_he.pdf | 1.3 MB PDF of Hebrew report generated via Edge headless. | User request
+
 [2026-03-28] | USER_PROMPT | — | "alright. please execute the report plan thoroughly" | User session
 
 [2026-03-28] | ANALYSIS | analysis/15_anomaly_screen.py | NEW: Comprehensive 7-criterion anomaly screen across all 510 items. Results: Cat1=5 confirmed non-obsidian (ein_, mot_41350, mot_50683, mot_50633, mot_40878); Cat2=82 high-Ca/Fe items (obsidian with matrix interference, retained for attribution); Cat3=4 source outliers (vif_10671, vif_, mot_50662b, mot_40935a). Ambiguous case mot_40816 documented (4x clean 2017 readings + 2x anomalous 2018 readings, likely different object under same basket). | Phase 6 anomaly audit
