@@ -1,0 +1,875 @@
+======================================================================
+PHASE 5b -- ANOMALY SCREEN: NON-OBSIDIAN / UNUSUAL ITEMS
+======================================================================
+Total items in samples_clean.csv: 510
+
+Items labelled "obsidian": 507
+
+Nb/Zr reference (obsidian): mean=0.341  SD=0.050
+Zr reference (obsidian):    mean=70.6   SD=43.4
+3-sigma Zr threshold:       > 200.7 ppm
+
+Items flagged by at least one criterion: 91
+
+----------------------------------------------------------------------
+PER-CRITERION COUNTS
+----------------------------------------------------------------------
+  A: Explicitly labelled flint/chert
+     --> 3 item(s) flagged
+  B: Near-zero Rb (<30 ppm) AND Nb (<10 ppm)
+     --> 5 item(s) flagged
+  C: High Ca (>30,000 ppm) -- carbonate matrix
+     --> 84 item(s) flagged
+  D: High Fe (>25,000 ppm)
+     --> 1 item(s) flagged
+  E: Both Rb and Nb values absent (NaN)
+     --> 5 item(s) flagged
+  F: Nb/Zr ratio outside 3-sigma of obsidian assemblage
+     --> 4 item(s) flagged
+  G: Zr > mean+3SD of obsidian (possible peralkaline or other source)
+     --> 2 item(s) flagged
+
+======================================================================
+DETAILED ANOMALY TABLE
+======================================================================
+
+item_id  : ein_
+  site   : einan   locus=Chert   basket=nan
+  material: flint?   remarks: nan
+  Rb=nan  Zr=nan  Nb=nan  Nb/Zr=n/a
+  Fe=390.0  Ca=1105.0
+  quality_flag: good
+  FLAGS: A,B,E  (Explicitly labelled flint/chert, Near-zero Rb (<30 ppm) AND Nb (<10 ppm), Both Rb and Nb values absent (NaN))
+
+item_id  : mot_41350
+  site   : motza   locus=4080   basket=41350
+  material: flint?   remarks: Flint?
+  Rb=nan  Zr=nan  Nb=nan  Nb/Zr=n/a
+  Fe=2355.0  Ca=18575.0
+  quality_flag: good
+  FLAGS: A,B,E  (Explicitly labelled flint/chert, Near-zero Rb (<30 ppm) AND Nb (<10 ppm), Both Rb and Nb values absent (NaN))
+
+item_id  : mot_50683
+  site   : motza   locus=5060   basket=50683
+  material: flint?   remarks: Flint?
+  Rb=nan  Zr=nan  Nb=nan  Nb/Zr=n/a
+  Fe=235.0  Ca=3440.0
+  quality_flag: good
+  FLAGS: A,B,E  (Explicitly labelled flint/chert, Near-zero Rb (<30 ppm) AND Nb (<10 ppm), Both Rb and Nb values absent (NaN))
+
+item_id  : mot_50633
+  site   : motza   locus=5060   basket=50633
+  material: obsidian   remarks: nan
+  Rb=nan  Zr=nan  Nb=nan  Nb/Zr=n/a
+  Fe=30945.0  Ca=102320.0
+  quality_flag: good
+  FLAGS: B,C,D,E  (Near-zero Rb (<30 ppm) AND Nb (<10 ppm), High Ca (>30,000 ppm) -- carbonate matrix, High Fe (>25,000 ppm), Both Rb and Nb values absent (NaN))
+
+item_id  : ein_5287
+  site   : einan   locus=G98b   basket=5287
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400
+  Fe=10780.0  Ca=37735.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5310
+  site   : einan   locus=I97c   basket=5310
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375
+  Fe=14880.0  Ca=34235.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5356
+  site   : einan   locus=H91   basket=5356
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=10200.0  Ca=32060.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5410A
+  site   : einan   locus=Q98c   basket=5410A
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=7720.0  Ca=32635.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5410B
+  site   : einan   locus=Q98c   basket=5410B
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=13310.0  Ca=49380.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5410C
+  site   : einan   locus=Q98c   basket=5410C
+  material: obsidian   remarks: nan
+  Rb=115.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375
+  Fe=17960.0  Ca=48330.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5444
+  site   : einan   locus=Q97a   basket=5444
+  material: obsidian   remarks: nan
+  Rb=83.33  Zr=66.67  Nb=20.0  Nb/Zr=0.300
+  Fe=8186.67  Ca=31350.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5482
+  site   : einan   locus=R97d   basket=5482
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=11980.0  Ca=30540.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5533
+  site   : einan   locus=O98b-c   basket=5533
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=10273.33  Ca=76546.67
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5561
+  site   : einan   locus=K93b   basket=5561
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=13860.0  Ca=42870.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5598
+  site   : einan   locus=P98   basket=5598
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=8330.0  Ca=31345.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5645
+  site   : einan   locus=P97c   basket=5645
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400
+  Fe=11175.0  Ca=33605.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5686
+  site   : einan   locus=M98c   basket=5686
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=65.0  Nb=25.0  Nb/Zr=0.385
+  Fe=11435.0  Ca=39410.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5888
+  site   : einan   locus=U99   basket=5888
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400
+  Fe=11210.0  Ca=30525.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5927
+  site   : einan   locus=O96   basket=5927
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357
+  Fe=14415.0  Ca=35310.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5929
+  site   : einan   locus=O98   basket=5929
+  material: obsidian   remarks: nan
+  Rb=110.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353
+  Fe=13595.0  Ca=44375.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5945
+  site   : einan   locus=R98   basket=5945
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=7630.0  Ca=43655.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5948
+  site   : einan   locus=N96   basket=5948
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=10210.0  Ca=38400.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_5971
+  site   : einan   locus=S96   basket=5971
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=10650.0  Ca=42510.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6003
+  site   : einan   locus=Q98   basket=6003
+  material: obsidian   remarks: nan
+  Rb=115.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353
+  Fe=14075.0  Ca=56780.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6014
+  site   : einan   locus=I93c   basket=6014
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=90.0  Nb=30.0  Nb/Zr=0.333
+  Fe=14300.0  Ca=33060.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6037
+  site   : einan   locus=I93d   basket=6037
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=12340.0  Ca=31440.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6084
+  site   : einan   locus=T100   basket=6084
+  material: obsidian   remarks: nan
+  Rb=105.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=11655.0  Ca=41380.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6105
+  site   : einan   locus=Q98   basket=6105
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=10030.0  Ca=32180.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6105A
+  site   : einan   locus=Q98   basket=6105A
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357
+  Fe=12035.0  Ca=40320.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6105B
+  site   : einan   locus=Q98   basket=6105B
+  material: obsidian   remarks: nan
+  Rb=120.0  Zr=90.0  Nb=35.0  Nb/Zr=0.389
+  Fe=14995.0  Ca=39230.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6149
+  site   : einan   locus=S98   basket=6149
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357
+  Fe=10885.0  Ca=52785.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6164
+  site   : einan   locus=R96   basket=6164
+  material: obsidian   remarks: nan
+  Rb=130.0  Zr=120.0  Nb=35.0  Nb/Zr=0.292
+  Fe=20095.0  Ca=38825.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6185
+  site   : einan   locus=S98   basket=6185
+  material: obsidian   remarks: nan
+  Rb=112.5  Zr=82.5  Nb=30.0  Nb/Zr=0.364
+  Fe=18102.5  Ca=63190.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6187
+  site   : einan   locus=Q98   basket=6187
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=8435.0  Ca=42160.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6200
+  site   : einan   locus=S97   basket=6200
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=70.0  Nb=22.5  Nb/Zr=0.321
+  Fe=11262.5  Ca=51612.5
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6202
+  site   : einan   locus=T97   basket=6202
+  material: obsidian   remarks: nan
+  Rb=110.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375
+  Fe=12135.0  Ca=30820.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6208
+  site   : einan   locus=I92b   basket=6208
+  material: obsidian   remarks: nan
+  Rb=120.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353
+  Fe=13150.0  Ca=56275.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6244
+  site   : einan   locus=J94c   basket=6244
+  material: obsidian   remarks: nan
+  Rb=75.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=8840.0  Ca=74770.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6250
+  site   : einan   locus=O98b-c   basket=6250
+  material: obsidian   remarks: nan
+  Rb=115.0  Zr=75.0  Nb=35.0  Nb/Zr=0.467
+  Fe=16915.0  Ca=73845.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6379A
+  site   : einan   locus=O94   basket=6379A
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=11730.0  Ca=37370.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6427
+  site   : einan   locus=R94   basket=6427
+  material: obsidian   remarks: nan
+  Rb=110.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400
+  Fe=13820.0  Ca=39425.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6431
+  site   : einan   locus=S95   basket=6431
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=13025.0  Ca=40720.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6444B
+  site   : einan   locus=S94b   basket=6444B
+  material: obsidian   remarks: nan
+  Rb=97.5  Zr=72.5  Nb=30.0  Nb/Zr=0.414
+  Fe=15330.0  Ca=46760.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6497
+  site   : einan   locus=P94   basket=6497
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333
+  Fe=11225.0  Ca=36580.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6500
+  site   : einan   locus=R94   basket=6500
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=85.0  Nb=20.0  Nb/Zr=0.235
+  Fe=12310.0  Ca=30750.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6544
+  site   : einan   locus=M92   basket=6544
+  material: obsidian   remarks: nan
+  Rb=110.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=14930.0  Ca=33230.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6621
+  site   : einan   locus=R95   basket=6621
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=13260.0  Ca=34990.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6627
+  site   : einan   locus=Q94   basket=6627
+  material: obsidian   remarks: nan
+  Rb=87.5  Zr=67.5  Nb=20.0  Nb/Zr=0.296
+  Fe=9540.0  Ca=31492.5
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_6806
+  site   : einan   locus=K99a   basket=6806
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=73.33  Nb=26.67  Nb/Zr=0.364
+  Fe=10686.67  Ca=55873.33
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7345
+  site   : einan   locus=K98a   basket=7345
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=12550.0  Ca=49450.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7346
+  site   : einan   locus=R96b   basket=7346
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353
+  Fe=11375.0  Ca=76040.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7347
+  site   : einan   locus=L97b   basket=7347
+  material: obsidian   remarks: nan
+  Rb=130.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375
+  Fe=19770.0  Ca=82150.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7364
+  site   : einan   locus=J95b   basket=7364
+  material: obsidian   remarks: nan
+  Rb=120.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375
+  Fe=20720.0  Ca=51150.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7565
+  site   : einan   locus=J98c   basket=7565
+  material: obsidian   remarks: nan
+  Rb=105.0  Zr=90.0  Nb=30.0  Nb/Zr=0.333
+  Fe=15655.0  Ca=57095.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7786
+  site   : einan   locus=N99   basket=7786
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=12555.0  Ca=42095.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7819
+  site   : einan   locus=M96   basket=7819
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400
+  Fe=13040.0  Ca=39550.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7855a
+  site   : einan   locus=M96   basket=7855a
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=14490.0  Ca=41725.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7988
+  site   : einan   locus=N96d   basket=7988
+  material: obsidian   remarks: nan
+  Rb=105.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=12980.0  Ca=34280.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_7989
+  site   : einan   locus=H95d   basket=7989
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357
+  Fe=13595.0  Ca=84615.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_8013
+  site   : einan   locus=N94d   basket=8013
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=11370.0  Ca=43890.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_8025
+  site   : einan   locus=M94b   basket=8025
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333
+  Fe=14030.0  Ca=46420.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_8073
+  site   : einan   locus=N99b   basket=8073
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=14570.0  Ca=37900.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_8082
+  site   : einan   locus=N95a   basket=8082
+  material: obsidian   remarks: nan
+  Rb=110.0  Zr=130.0  Nb=30.0  Nb/Zr=0.231
+  Fe=12630.0  Ca=39280.0
+  quality_flag: single
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : ein_9485
+  site   : einan   locus=F99b   basket=9485
+  material: obsidian   remarks: nan
+  Rb=86.67  Zr=66.67  Nb=20.0  Nb/Zr=0.300
+  Fe=11286.67  Ca=100063.33
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_40589PE
+  site   : motza   locus=4036   basket=40589PE
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=6485.0  Ca=34930.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_40816
+  site   : motza   locus=4050   basket=40816
+  material: obsidian   remarks: nan
+  Rb=87.5  Zr=62.5  Nb=20.0  Nb/Zr=0.320
+  Fe=14825.0  Ca=42285.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_40871a
+  site   : motza   locus=4052   basket=40871a
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=10070.0  Ca=58400.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_40878
+  site   : motza   locus=4032   basket=40878
+  material: obsidian   remarks: nan
+  Rb=nan  Zr=nan  Nb=nan  Nb/Zr=n/a
+  Fe=2515.0  Ca=55875.0
+  quality_flag: good
+  FLAGS: B,C,E  (Near-zero Rb (<30 ppm) AND Nb (<10 ppm), High Ca (>30,000 ppm) -- carbonate matrix, Both Rb and Nb values absent (NaN))
+
+item_id  : mot_41024
+  site   : motza   locus=4050   basket=41024
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=7410.0  Ca=31295.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41024b
+  site   : motza   locus=4050   basket=41024b
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333
+  Fe=9745.0  Ca=38975.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41042
+  site   : motza   locus=4050   basket=41042
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357
+  Fe=10345.0  Ca=42730.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41095a
+  site   : motza   locus=4050   basket=41095a
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=7665.0  Ca=35115.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41157a
+  site   : motza   locus=4065   basket=41157a
+  material: obsidian   remarks: nan
+  Rb=110.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375
+  Fe=11790.0  Ca=42990.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41160
+  site   : motza   locus=4050   basket=41160
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357
+  Fe=10315.0  Ca=39620.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41217b
+  site   : motza   locus=4070   basket=41217b
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333
+  Fe=7875.0  Ca=60355.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41279a
+  site   : motza   locus=4072   basket=41279a
+  material: obsidian   remarks: nan
+  Rb=97.5  Zr=75.0  Nb=27.5  Nb/Zr=0.367
+  Fe=8297.5  Ca=30257.5
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41293
+  site   : motza   locus=4073   basket=41293
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=5883.33  Ca=34683.33
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_41295
+  site   : motza   locus=4070   basket=41295
+  material: obsidian   remarks: nan
+  Rb=105.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429
+  Fe=11925.0  Ca=39260.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50210
+  site   : motza   locus=5014   basket=50210
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=7035.0  Ca=30120.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50373
+  site   : motza   locus=5017   basket=50373
+  material: obsidian   remarks: nan
+  Rb=75.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=5685.0  Ca=102190.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50438
+  site   : motza   locus=5040   basket=50438
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=6625.0  Ca=30245.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50450
+  site   : motza   locus=5041   basket=50450
+  material: obsidian   remarks: nan
+  Rb=75.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=7210.0  Ca=40720.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50542
+  site   : motza   locus=5053   basket=50542
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286
+  Fe=11220.0  Ca=76430.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50565
+  site   : motza   locus=5048   basket=50565
+  material: obsidian   remarks: nan
+  Rb=80.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=6110.0  Ca=31300.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50604a
+  site   : motza   locus=5059   basket=50604a
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=75.0  Nb=20.0  Nb/Zr=0.267
+  Fe=11750.0  Ca=34710.0
+  quality_flag: beam_minimal
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50604c
+  site   : motza   locus=5059   basket=50604c
+  material: obsidian   remarks: nan
+  Rb=90.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308
+  Fe=7030.0  Ca=36400.0
+  quality_flag: repeat_divergent
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_50655
+  site   : motza   locus=5064   basket=50655
+  material: obsidian   remarks: nan
+  Rb=85.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333
+  Fe=8060.0  Ca=72650.0
+  quality_flag: good
+  FLAGS: C  (High Ca (>30,000 ppm) -- carbonate matrix)
+
+item_id  : mot_40935a
+  site   : motza   locus=4052   basket=40935a
+  material: obsidian   remarks: nan
+  Rb=95.0  Zr=60.0  Nb=30.0  Nb/Zr=0.500
+  Fe=7055.0  Ca=8605.0
+  quality_flag: good
+  FLAGS: F  (Nb/Zr ratio outside 3-sigma of obsidian assemblage)
+
+item_id  : mot_50662b
+  site   : motza   locus=5052   basket=50662b
+  material: obsidian   remarks: nan
+  Rb=120.0  Zr=163.33  Nb=30.0  Nb/Zr=0.184
+  Fe=9586.67  Ca=7336.67
+  quality_flag: repeat_divergent
+  FLAGS: F  (Nb/Zr ratio outside 3-sigma of obsidian assemblage)
+
+item_id  : yif_
+  site   : yiftahel   locus=Modern   basket=nan
+  material: obsidian   remarks: nan
+  Rb=82.5  Zr=205.0  Nb=27.5  Nb/Zr=0.134
+  Fe=9340.0  Ca=3850.0
+  quality_flag: repeat_divergent
+  FLAGS: F,G  (Nb/Zr ratio outside 3-sigma of obsidian assemblage, Zr > mean+3SD of obsidian (possible peralkaline or other source))
+
+item_id  : yif_10671
+  site   : yiftahel   locus=1233   basket=10671
+  material: obsidian   remarks: nan
+  Rb=100.0  Zr=1005.0  Nb=65.0  Nb/Zr=0.065
+  Fe=22560.0  Ca=3925.0
+  quality_flag: repeat_divergent
+  FLAGS: F,G  (Nb/Zr ratio outside 3-sigma of obsidian assemblage, Zr > mean+3SD of obsidian (possible peralkaline or other source))
+
+======================================================================
+INTERPRETATION CATEGORIES
+======================================================================
+
+CATEGORY 1 -- Almost certainly NOT obsidian (flint/chert/limestone): 5 item(s)
+  ein_                  Rb=nan  Zr=nan  Nb=nan  Ca=1105.0  Fe=390.0  flags=A,B,E
+  mot_41350             Rb=nan  Zr=nan  Nb=nan  Ca=18575.0  Fe=2355.0  flags=A,B,E
+  mot_50683             Rb=nan  Zr=nan  Nb=nan  Ca=3440.0  Fe=235.0  flags=A,B,E
+  mot_50633             Rb=nan  Zr=nan  Nb=nan  Ca=102320.0  Fe=30945.0  flags=B,C,D,E
+  mot_40878             Rb=nan  Zr=nan  Nb=nan  Ca=55875.0  Fe=2515.0  flags=B,C,E
+
+CATEGORY 2 -- Anomalous Ca or Fe, but Rb/Nb present (possible contamination or unusual material): 82 item(s)
+  ein_5287              Rb=95.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400  Ca=37735.0  Fe=10780.0  flags=C
+  ein_5310              Rb=100.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375  Ca=34235.0  Fe=14880.0  flags=C
+  ein_5356              Rb=90.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=32060.0  Fe=10200.0  flags=C
+  ein_5410A             Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=32635.0  Fe=7720.0  flags=C
+  ein_5410B             Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=49380.0  Fe=13310.0  flags=C
+  ein_5410C             Rb=115.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375  Ca=48330.0  Fe=17960.0  flags=C
+  ein_5444              Rb=83.33  Zr=66.67  Nb=20.0  Nb/Zr=0.300  Ca=31350.0  Fe=8186.67  flags=C
+  ein_5482              Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=30540.0  Fe=11980.0  flags=C
+  ein_5533              Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=76546.67  Fe=10273.33  flags=C
+  ein_5561              Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=42870.0  Fe=13860.0  flags=C
+  ein_5598              Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=31345.0  Fe=8330.0  flags=C
+  ein_5645              Rb=100.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400  Ca=33605.0  Fe=11175.0  flags=C
+  ein_5686              Rb=95.0  Zr=65.0  Nb=25.0  Nb/Zr=0.385  Ca=39410.0  Fe=11435.0  flags=C
+  ein_5888              Rb=100.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400  Ca=30525.0  Fe=11210.0  flags=C
+  ein_5927              Rb=95.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357  Ca=35310.0  Fe=14415.0  flags=C
+  ein_5929              Rb=110.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353  Ca=44375.0  Fe=13595.0  flags=C
+  ein_5945              Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=43655.0  Fe=7630.0  flags=C
+  ein_5948              Rb=80.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=38400.0  Fe=10210.0  flags=C
+  ein_5971              Rb=100.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=42510.0  Fe=10650.0  flags=C
+  ein_6003              Rb=115.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353  Ca=56780.0  Fe=14075.0  flags=C
+  ein_6014              Rb=100.0  Zr=90.0  Nb=30.0  Nb/Zr=0.333  Ca=33060.0  Fe=14300.0  flags=C
+  ein_6037              Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=31440.0  Fe=12340.0  flags=C
+  ein_6084              Rb=105.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=41380.0  Fe=11655.0  flags=C
+  ein_6105              Rb=90.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=32180.0  Fe=10030.0  flags=C
+  ein_6105A             Rb=100.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357  Ca=40320.0  Fe=12035.0  flags=C
+  ein_6105B             Rb=120.0  Zr=90.0  Nb=35.0  Nb/Zr=0.389  Ca=39230.0  Fe=14995.0  flags=C
+  ein_6149              Rb=100.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357  Ca=52785.0  Fe=10885.0  flags=C
+  ein_6164              Rb=130.0  Zr=120.0  Nb=35.0  Nb/Zr=0.292  Ca=38825.0  Fe=20095.0  flags=C
+  ein_6185              Rb=112.5  Zr=82.5  Nb=30.0  Nb/Zr=0.364  Ca=63190.0  Fe=18102.5  flags=C
+  ein_6187              Rb=90.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=42160.0  Fe=8435.0  flags=C
+  ein_6200              Rb=90.0  Zr=70.0  Nb=22.5  Nb/Zr=0.321  Ca=51612.5  Fe=11262.5  flags=C
+  ein_6202              Rb=110.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375  Ca=30820.0  Fe=12135.0  flags=C
+  ein_6208              Rb=120.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353  Ca=56275.0  Fe=13150.0  flags=C
+  ein_6244              Rb=75.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=74770.0  Fe=8840.0  flags=C
+  ein_6250              Rb=115.0  Zr=75.0  Nb=35.0  Nb/Zr=0.467  Ca=73845.0  Fe=16915.0  flags=C
+  ein_6379A             Rb=90.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=37370.0  Fe=11730.0  flags=C
+  ein_6427              Rb=110.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400  Ca=39425.0  Fe=13820.0  flags=C
+  ein_6431              Rb=85.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=40720.0  Fe=13025.0  flags=C
+  ein_6444B             Rb=97.5  Zr=72.5  Nb=30.0  Nb/Zr=0.414  Ca=46760.0  Fe=15330.0  flags=C
+  ein_6497              Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333  Ca=36580.0  Fe=11225.0  flags=C
+  ein_6500              Rb=85.0  Zr=85.0  Nb=20.0  Nb/Zr=0.235  Ca=30750.0  Fe=12310.0  flags=C
+  ein_6544              Rb=110.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=33230.0  Fe=14930.0  flags=C
+  ein_6621              Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=34990.0  Fe=13260.0  flags=C
+  ein_6627              Rb=87.5  Zr=67.5  Nb=20.0  Nb/Zr=0.296  Ca=31492.5  Fe=9540.0  flags=C
+  ein_6806              Rb=100.0  Zr=73.33  Nb=26.67  Nb/Zr=0.364  Ca=55873.33  Fe=10686.67  flags=C
+  ein_7345              Rb=100.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=49450.0  Fe=12550.0  flags=C
+  ein_7346              Rb=100.0  Zr=85.0  Nb=30.0  Nb/Zr=0.353  Ca=76040.0  Fe=11375.0  flags=C
+  ein_7347              Rb=130.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375  Ca=82150.0  Fe=19770.0  flags=C
+  ein_7364              Rb=120.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375  Ca=51150.0  Fe=20720.0  flags=C
+  ein_7565              Rb=105.0  Zr=90.0  Nb=30.0  Nb/Zr=0.333  Ca=57095.0  Fe=15655.0  flags=C
+  ein_7786              Rb=90.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=42095.0  Fe=12555.0  flags=C
+  ein_7819              Rb=100.0  Zr=75.0  Nb=30.0  Nb/Zr=0.400  Ca=39550.0  Fe=13040.0  flags=C
+  ein_7855a             Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=41725.0  Fe=14490.0  flags=C
+  ein_7988              Rb=105.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=34280.0  Fe=12980.0  flags=C
+  ein_7989              Rb=95.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357  Ca=84615.0  Fe=13595.0  flags=C
+  ein_8013              Rb=100.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=43890.0  Fe=11370.0  flags=C
+  ein_8025              Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333  Ca=46420.0  Fe=14030.0  flags=C
+  ein_8073              Rb=100.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=37900.0  Fe=14570.0  flags=C
+  ein_8082              Rb=110.0  Zr=130.0  Nb=30.0  Nb/Zr=0.231  Ca=39280.0  Fe=12630.0  flags=C
+  ein_9485              Rb=86.67  Zr=66.67  Nb=20.0  Nb/Zr=0.300  Ca=100063.33  Fe=11286.67  flags=C
+  mot_40589PE           Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=34930.0  Fe=6485.0  flags=C
+  mot_40816             Rb=87.5  Zr=62.5  Nb=20.0  Nb/Zr=0.320  Ca=42285.0  Fe=14825.0  flags=C
+  mot_40871a            Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=58400.0  Fe=10070.0  flags=C
+  mot_41024             Rb=85.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=31295.0  Fe=7410.0  flags=C
+  mot_41024b            Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333  Ca=38975.0  Fe=9745.0  flags=C
+  mot_41042             Rb=100.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357  Ca=42730.0  Fe=10345.0  flags=C
+  mot_41095a            Rb=90.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=35115.0  Fe=7665.0  flags=C
+  mot_41157a            Rb=110.0  Zr=80.0  Nb=30.0  Nb/Zr=0.375  Ca=42990.0  Fe=11790.0  flags=C
+  mot_41160             Rb=95.0  Zr=70.0  Nb=25.0  Nb/Zr=0.357  Ca=39620.0  Fe=10315.0  flags=C
+  mot_41217b            Rb=95.0  Zr=75.0  Nb=25.0  Nb/Zr=0.333  Ca=60355.0  Fe=7875.0  flags=C
+  mot_41279a            Rb=97.5  Zr=75.0  Nb=27.5  Nb/Zr=0.367  Ca=30257.5  Fe=8297.5  flags=C
+  mot_41293             Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=34683.33  Fe=5883.33  flags=C
+  mot_41295             Rb=105.0  Zr=70.0  Nb=30.0  Nb/Zr=0.429  Ca=39260.0  Fe=11925.0  flags=C
+  mot_50210             Rb=80.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=30120.0  Fe=7035.0  flags=C
+  mot_50373             Rb=75.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=102190.0  Fe=5685.0  flags=C
+  mot_50438             Rb=85.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=30245.0  Fe=6625.0  flags=C
+  mot_50450             Rb=75.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=40720.0  Fe=7210.0  flags=C
+  mot_50542             Rb=80.0  Zr=70.0  Nb=20.0  Nb/Zr=0.286  Ca=76430.0  Fe=11220.0  flags=C
+  mot_50565             Rb=80.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=31300.0  Fe=6110.0  flags=C
+  mot_50604a            Rb=90.0  Zr=75.0  Nb=20.0  Nb/Zr=0.267  Ca=34710.0  Fe=11750.0  flags=C
+  mot_50604c            Rb=90.0  Zr=65.0  Nb=20.0  Nb/Zr=0.308  Ca=36400.0  Fe=7030.0  flags=C
+  mot_50655             Rb=85.0  Zr=60.0  Nb=20.0  Nb/Zr=0.333  Ca=72650.0  Fe=8060.0  flags=C
+
+CATEGORY 3 -- Source chemistry outlier (unusual Nb/Zr or high Zr -- different source family): 4 item(s)
+  mot_40935a            Rb=95.0  Zr=60.0  Nb=30.0  Nb/Zr=0.500  Ca=8605.0  Fe=7055.0  flags=F
+  mot_50662b            Rb=120.0  Zr=163.33  Nb=30.0  Nb/Zr=0.184  Ca=7336.67  Fe=9586.67  flags=F
+  yif_                  Rb=82.5  Zr=205.0  Nb=27.5  Nb/Zr=0.134  Ca=3850.0  Fe=9340.0  flags=F,G
+  yif_10671             Rb=100.0  Zr=1005.0  Nb=65.0  Nb/Zr=0.065  Ca=3925.0  Fe=22560.0  flags=F,G
+
+CATEGORY 4 -- Rb/Nb near zero only (possible measurement artifact, no positive non-obsidian indicator): 0 item(s)
+
+======================================================================
+REFERENCE: Typical obsidian assemblage values
+======================================================================
+  Rb:   mean=92.9  SD=10.8
+  Zr:   mean=70.6  SD=43.4
+  Nb:   mean=23.4  SD=4.7
+  Nb/Zr mean=0.341  SD=0.050
+  Fe:   mean=8281  SD=2908
+  Ca:   mean=17508  SD=15768

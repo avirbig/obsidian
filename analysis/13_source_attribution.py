@@ -63,6 +63,12 @@ CHI2_95_3DF = chi2.ppf(0.95, df=3)  # ~7.815
 SITE_COLORS  = {'motza': '#2196F3', 'einan': '#4CAF50', 'yiftahel': '#FF5722'}
 SITE_MARKERS = {'motza': 's',       'einan': 'D',       'yiftahel': '^'}
 
+# Items excluded from all figures (but attribution still computed for report)
+# yif_       : no basket number, geochemically suspicious Group3d attribution
+# mot_50633  : light-green item, no Rb/Zr/Nb signal, not obsidian
+# mot_40878  : light-green item, no Rb/Zr/Nb signal, not obsidian
+PLOT_EXCLUDE = ['yif_', 'mot_50633', 'mot_40878']
+
 SOURCE_PALETTE = [
     '#e6194B', '#3cb44b', '#4363d8', '#f58231', '#911eb4',
     '#42d4f4', '#f032e6', '#bfef45', '#469990', '#dcbeff', '#9A6324',
@@ -315,6 +321,9 @@ def main():
     # Samples: obsidian only
     samples = samples_all[samples_all['material'] == 'obsidian'].copy()
 
+    # Plot subset: exclude unreliable / non-obsidian items from all figures
+    samples_plot = samples[~samples['item_id'].isin(PLOT_EXCLUDE)].copy()
+
     log("=" * 70)
     log("PHASE 5 -- OBSIDIAN SOURCE ATTRIBUTION (Mahalanobis Distance)")
     log("=" * 70)
@@ -448,7 +457,7 @@ def main():
 
     # 1. Nb vs Zr -- linear scale with 95% ellipses
     biplot_ellipses(
-        ref_t1, stats_2el, samples,
+        ref_t1, stats_2el, samples_plot,
         x_col='Zr', y_col='Nb',
         xlabel='Zr (ppm)', ylabel='Nb (ppm)',
         title='Source attribution: Nb vs Zr\n'
@@ -458,7 +467,7 @@ def main():
 
     # 2. Nb vs Zr -- log scale (separates peralkaline sources)
     biplot_ellipses(
-        ref_t1, stats_2el, samples,
+        ref_t1, stats_2el, samples_plot,
         x_col='Zr', y_col='Nb',
         xlabel='Zr (ppm) [log]', ylabel='Nb (ppm) [log]',
         title='Source attribution: Nb vs Zr (log scale)\n'
@@ -470,7 +479,7 @@ def main():
     # 3. Rb vs Zr (calibration offset visible between source ellipses and samples)
     stats_rb_zr = build_source_stats(ref_t1, ['Rb', 'Zr'])
     biplot_ellipses(
-        ref_t1, stats_rb_zr, samples,
+        ref_t1, stats_rb_zr, samples_plot,
         x_col='Rb', y_col='Zr',
         xlabel='Rb (ppm)  [samples under-read ~2x vs reference]',
         ylabel='Zr (ppm)',
@@ -481,16 +490,17 @@ def main():
 
     # 4. Nb/Zr ratio strip chart
     ratio_strip_plot(
-        ref_t1, stats_2el, samples,
+        ref_t1, stats_2el, samples_plot,
         x_col='Zr', y_col='Nb',
         ratio_name='Nb/Zr',
         outpath=FIGS / 'ratio_NbZr_comparison.png',
     )
 
     # 5. Per-site source pie charts
+    merged_plot = merged[~merged['item_id'].isin(PLOT_EXCLUDE)]
     fig, axes = plt.subplots(1, 3, figsize=(14, 5))
     for ax, site in zip(axes, ['motza', 'einan', 'yiftahel']):
-        sub = merged[merged['site'] == site]
+        sub = merged_plot[merged_plot['site'] == site]
         if sub.empty:
             ax.set_visible(False)
             continue
