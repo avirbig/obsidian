@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html dir="rtl" lang="he" xmlns="http://www.w3.org/1999/xhtml" lang="he" xml:lang="he" dir="rtl">
+<html dir="rtl" lang="he" xmlns="http://www.w3.org/1999/xhtml" xml:>
 <head>
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
@@ -17,9 +17,9 @@
     }
     body {
       margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
+      max-width: none;
+      padding-left: 0;
+      padding-right: 0;
       padding-top: 50px;
       padding-bottom: 50px;
       hyphens: auto;
@@ -173,25 +173,64 @@
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 <style>
-/* RTL body */
+/* ===== OVERRIDES ===== */
+html, body {
+  max-width: none !important;
+  width: auto !important;
+}
 body {
   direction: rtl;
   text-align: right;
-  font-family: Arial, "Segoe UI", Tahoma, "Times New Roman", sans-serif;
+  font-family: Arial, "Segoe UI", Tahoma, "DejaVu Sans", sans-serif;
   unicode-bidi: embed;
-  margin: 2.5cm;
+  margin: 0 2cm !important;
+  padding: 1cm 0 !important;
+  box-sizing: border-box;
 }
-/* Tables stay LTR */
-table, th, td { direction: ltr; text-align: left; unicode-bidi: embed; }
-table { margin: 1em auto; border-collapse: collapse; }
-th, td { padding: 4px 8px; border: 1px solid #ccc; }
-/* Figures / captions stay LTR */
-img { display: block; margin: 1em auto; max-width: 100%; }
-figcaption, p em { direction: ltr; text-align: left; unicode-bidi: embed; }
-/* Code / formulas stay LTR */
-pre, code { direction: ltr; text-align: left; unicode-bidi: embed; }
-/* Print: page margins, hide URL footer via zero-size page margins trick */
+/* ===== TABLES: LTR, full width ===== */
+table {
+  direction: ltr !important;
+  text-align: left !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.85em;
+  overflow: visible;
+  table-layout: auto;
+}
+th, td {
+  direction: ltr;
+  text-align: left;
+  padding: 4px 6px;
+  border: 1px solid #bbb;
+  word-break: break-word;
+  hyphens: auto;
+}
+/* ===== FIGURES: centered, LTR ===== */
+img {
+  display: block;
+  margin: 1em auto;
+  max-width: 100%;
+  direction: ltr;
+}
+figcaption, p em {
+  direction: ltr;
+  text-align: center;
+  display: block;
+}
+/* ===== CODE / FORMULAS: LTR ===== */
+pre, code, .math {
+  direction: ltr !important;
+  text-align: left !important;
+  unicode-bidi: embed;
+}
+/* ===== PRINT ===== */
 @page { margin: 2.5cm; size: A4; }
+@media print {
+  body { margin: 0 !important; padding: 0 !important; }
+  table { font-size: 0.78em; }
+}
 </style>
 </head>
 <body>
