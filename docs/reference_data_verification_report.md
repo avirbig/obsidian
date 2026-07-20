@@ -41,9 +41,9 @@ archaeological assemblage attributed to sources. `~N` = approximate data rows
 |---|-------|---------------|--------------|--------------------------|----|------|-----------|
 | 1 | Campbell & Healey 2016 | pXRF (T1) | E Anatolia | Bingöl A/B, Nemrut Dağ, Muş, Meydan Dağ, Group 3d, Pasinler | ~880 | Source characterisation | ★★★★★ the peralkaline sources we must discriminate |
 | 2 | Schechter et al 2016 | pXRF (T1) | S Levant sites + Anatolia | Göllü Dağ, Bingöl | ~100 | Levant artifacts + sources | ★★★★★ same region + method as our samples |
-| 3 | Milic 2014 | pXRF (T1) | Cappadocia + Aegean | Göllü Dağ, Nenezi (+ Melos, Giali, Antiparos) | ~40* | Multi-source reference | ★★★★☆ key Cappadocian sources (*wide layout — parse) |
+| 3 | Milic 2014 | pXRF (T1) | Cappadocia + Aegean | Göllü Dağ, Nenezi (+ Melos, Giali, Antiparos) | ~52 samples | Multi-source reference | ★★★★☆ key Cappadocian sources — **sheet fixed** (per-sample table, 9 elements) |
 | 4 | Frahm & Hauck 2017 | Multi-method incl. pXRF (T1–T3) | Anatolia | Acıgöl, Bingöl, Göllü, Hasan, Meydan, Nenezi (+ Göllü cross-method sheet) | ~250 | Source + cross-method | ★★★★☆ ideal cross-method calibration reference |
-| 5 | Frahm 2013 | pXRF / HHpXRF (T1) | Anatolia / Near East *(verify)* | sample codes only — sources to confirm | ~65 | Source/artifacts | ★★★★☆ pXRF; confirm sources |
+| 5 | Frahm 2013 | pXRF / HHpXRF (T1) | *(verify — see §D7)* | **appears to be reference-glass standards** (Basalt_Glass…), not named obsidian sources | ~65 | verify | ★★★☆☆ may be instrument-validation data, not source data |
 | 6 | Forster & Grave 2012 | pXRF (T1) | Cappadocia | Acıgöl, Nenezi | ~5 | Source reference | ★★★☆☆ pXRF but very small N |
 | 7 | Carter & Shackley 2007 | EDXRF (T2) | Central Anatolia (Çatalhöyük) | Göllü Dağ, Nenezi | ~55 | Artifacts + sources | ★★★★☆ Cappadocian, near-pXRF |
 | 8 | Carter et al 2017 | EDXRF (T2) | S Levant (Shaʿar Hagolan) | EGD, Göllü, Kaletepe, Kayırlı, Nemrut, Nenezi | ~35 | Levant artifacts + sources | ★★★★☆ |
@@ -183,8 +183,8 @@ handled before or during extraction.*
 3. **Corrected mislabel — `Carter et al 2013` sheet is Körtik Tepe, not Kenan Tepe**: the sheet's sample IDs are `KT.002 … KT.119`, which match the Körtik Tepe article (`Carter_2013_Sourcing_obsidian_Kortik_Tepe.txt`; 204 `KT.0xx` codes). The string "Kenan" appears in **no cell of any workbook**. The earlier "Kenan Tepe" attribution was an error and has been corrected in Section A. **Extraction cleanups for this sheet**: (a) the `Source` field is split across 3 columns and has encoding corruption — `Nemrut | Da_x0002_g` → "Nemrut Dağ", `Muş | e | Konuk` → rejoin; (b) drop the stray final row `Bekle` (a text fragment, no data). Spot-check verified: KT.002 → Rb 230, Sr 46, Zr 329, Nb 22, Bingöl B (exact match to article).
 4. **Encoding**: `Obsidian Sources List.xlsx` has garbled characters (Agicšl, GollŸ Dag) — Turkish characters corrupted.
 5. **Complex layout**: `Carter et al. 2006` in `data2.xlsx` has ~102 rows and many NaN columns — the table structure may be misaligned; verify alignment.
-6. **`Milic 2014` wide layout**: the `data1.xlsx` sheet is a 42×38 side-by-side layout (multiple tables horizontally); the standalone `Milic 2014.xlsx` is a smaller clean table. Pick a canonical version and reconcile.
-7. **Range values**: `Milic 2014` contains range strings like "166-194" instead of numeric values — these need parsing.
+6. **`Milic 2014` — FIXED**: the side-by-side layout was restructured into a stacked sheet — a per-source summary (rows 1–15) plus a **per-sample table with a proper header** (`Source, Ti, Mn, Fe, Zn, Rb, Sr, Zr, Ba, Pb`, rows 19–71). The redundant means-only block and the standalone `Milic 2014.xlsx` were removed. **Use the per-sample block** as canonical (avoids the range strings, which now live only in the summary block). *Residual (low priority, Carpathian only — not a Levant source)*: `Carpathian 1/2` labels sit in 2 cells, and 3 Carpathian-2 Fe values are split across cells (`11671→11|671`, r63/69/70).
+7. **Frahm 2013 (`data1.xlsx`)**: has element+`Error` column pairs and section labels like `Basalt_Glass`; the rows look like **measurements of reference glasses/standards, not named obsidian sources**. Verify against `Frahm_2013.txt` whether it contributes any source data before using it (relevance may drop).
 
 ---
 
@@ -253,11 +253,15 @@ Your `Frahm and Hauck 2017.xlsx` "Gollu Dag" sheet is exactly the cross-method c
 
 *Legend — recommended follow-up tasks, ordered by priority.*
 
-1. **Reconcile Milic 2014** — parse range values and separate the side-by-side tables; pick a canonical version between `data1.xlsx` and the standalone file (see §D6/D7).
-2. **Clean the Körtik Tepe (`Carter et al 2013`) sheet** — rejoin/repair the `Source` column and drop the `Bekle` junk row (see §D3).
-3. **Verify `Carter et al 2006`** table alignment (many NaN columns).
-4. **Fix encoding** in `Obsidian Sources List.xlsx` (Agicšl → Acıgöl, GollŸ Dag → Göllü Dağ) *if that external file is used*.
-5. **Optionally extract** tables from unlinked articles (§C): `Carter_et_al_2008.txt`, `Carter_2013_Orange...Tell_Aswad...txt`, `Yellin_and_Garfinkel_1986.txt`, `URMIA_Iran.txt`, `Balkan-Atli...gollu_dag_survey.txt`.
-6. **Build the master pXRF-comparable table** starting from Tier 1 papers first, adding Tier 2/3 only as clearly-labelled reference-only rows.
+1. ~~Reconcile Milic 2014~~ — **DONE** (§D6). Optional: repair the Carpathian split cells (low priority — not a Levant source).
+2. **Clean the Körtik Tepe (`Carter et al 2013`) sheet** — `data2.xlsx`: rejoin/repair the `Source` column (`Bingöl|B`, `Nemrut|Da_x0002_g`→Nemrut Dağ, `Muş|e|Konuk`) and drop the `Bekle` junk row (see §D3). *Relevant — E Anatolian sources.*
+3. **Verify Frahm 2013** (`data1.xlsx`) — confirm whether it holds obsidian-source data or only reference-glass standards (see §D7).
+4. **Verify `Carter et al 2006`** (`data2.xlsx`) — 109-col, 33%-filled layout; header not in row 0, needs reconstruction (Tier 3 reference-only — lower priority).
+5. **Tidy the `Multiple` sheet** (`data2.xlsx`) — author/source names split across cells (`Bressy|et|al.,|2005`, `East Golu Da[ğ]`); second-hand Tier 3, low priority.
+6. **Fix encoding** in `Obsidian Sources List.xlsx` (Agicšl → Acıgöl) *if that external file is used*.
+7. **Optionally extract** tables from unlinked articles (§C): `Carter_et_al_2008.txt`, `Carter_2013_Orange...Tell_Aswad...txt`, `Yellin_and_Garfinkel_1986.txt`, `URMIA_Iran.txt`, `Balkan-Atli...gollu_dag_survey.txt`.
+8. **Build the master pXRF-comparable table** starting from Tier 1 papers first, adding Tier 2/3 only as clearly-labelled reference-only rows.
+
+**Sheets confirmed clean (no fix needed):** Campbell & Healey source sheets + `Kenan sources assignments`, Frahm & Hauck `MAIN`, Schechter 2016, Carter & Shackley 2007, Carter 2017, Carter/Rosenberg 2022.
 
 *Resolved / dropped since first draft:* Kenan Tepe "missing article" — was a mislabel; the data is Körtik Tepe and its article is on file. Oddone 1997, Yellin et al. 1996, Gratuze 1999 — dropped (§B4). Morgan 2015 & Acquafredda 2018 articles — now on file (§A).
