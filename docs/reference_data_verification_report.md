@@ -64,15 +64,21 @@ traceability: name-only references (no data, harmless), data traceable via a
 containing article you do have (acceptable), and papers dropped from the
 reference set.*
 
-**B1 — Name-only references (`Indicative Elements` sheet; no data rows, harmless):**
+**B1 — Name-only methodological references (`Indicative Elements` sheet; no data rows):**
 
-| Paper | Table Location | Method | Notes |
-|-------|---------------|--------|-------|
-| Craig et al 2007 | `data1.xlsx` Indicative Elements | XRF, pXRF | Referenced only — no data rows |
-| P.J. Sheppard et al. 2011 | `data1.xlsx` Indicative Elements | pXRF | Pacific obsidian — not relevant to Eastern Med |
-| Moholy-Nagy et al. 2013 | `data1.xlsx` Indicative Elements | pXRF | Mesoamerican obsidian — not relevant |
-| Nazaroff et al. 2010 | `data1.xlsx` Indicative Elements | pXRF | Referenced in elements table only |
-| Delerue 2007 ("Delerou") | `data1.xlsx` Indicative Elements | ? | Incomplete name; mentioned in DObsiSS for Mallaha site |
+*These appear only as citations in the "which elements are diagnostic" methodology
+sheet — none contribute source data. Craig, Sheppard, Moholy-Nagy and Nazaroff are
+from **non-Mediterranean contexts** (Pacific / Mesoamerican / general method) and are
+**irrelevant to this study — safe to remove**. Delerue is retained (it concerns the
+Mallaha/Einan site) but is name-only and needs verification.*
+
+| Paper | Region / relevance | Disposition |
+|-------|--------------------|-------------|
+| Craig et al 2007 | General method, non-Mediterranean | **Irrelevant — remove** |
+| P.J. Sheppard et al. 2011 | Pacific obsidian | **Irrelevant — remove** |
+| Moholy-Nagy et al. 2013 | Mesoamerican obsidian | **Irrelevant — remove** |
+| Nazaroff et al. 2010 | Method reference, non-Mediterranean | **Irrelevant — remove** |
+| Delerue 2007 ("Delerou") | Mentioned in DObsiSS for Mallaha/Einan site | Keep (name-only; verify) |
 
 **B2 — Data present, but traceable via another article you have (no standalone paper needed):**
 
@@ -81,11 +87,11 @@ reference set.*
 | Bressy et al. 2005 | `data2.xlsx` `Multiple` sheet | ICP-AES/ICP-MS | Reproduced in **Forster & Grave 2012** (compilation "From Forster 2012"). Second-hand — Tier 3, reference-only. |
 | Kelle & Seifried 1990 | `data2.xlsx` `Frahm & Hauck 2017 – Göllü Dağ` sheet | WDXRF | Reproduced in **Frahm & Hauck 2017** cross-method table. |
 
-**B3 — Article present but sheet empty:**
+**B3 — Removed (no data of its own):**
 
-| Paper | Table Location | Method | Notes |
-|-------|---------------|--------|-------|
-| Frahm 2014 | `data2.xlsx` (empty sheet) | pXRF | Article (`Frahm_2014.txt`) confirmed: Bronze Age blade production, no elemental tables. Sheet stays empty. |
+| Paper | Notes |
+|-------|-------|
+| Frahm 2014 | Sheet **deleted from `data2.xlsx`** — it held only provenance values reproduced from other articles, no original data. Article (`Frahm_2014.txt`) confirmed: Bronze Age blade production, not a source-characterisation study. |
 
 **B4 — Dropped from the reference set (excluded from all analysis):**
 
@@ -133,7 +139,7 @@ but is now matched to its data table (see Section A).*
 *Legend — specific data-quality problems in the source spreadsheets that must be
 handled before or during extraction.*
 
-1. **Empty sheets**: `Frahm 2014` sheet in `data2.xlsx` — confirmed no extractable geochemical tables (Bronze Age craft paper). `Gratuze 1999` sheet is also empty — paper dropped (see §B4).
+1. **Removed sheets**: `Frahm 2014`, `Gratuze 1999`, and `Yellin et al 1996` sheets have been **deleted from `data2.xlsx`** (no original data / dropped — see §B). `data2.xlsx` now holds 12 sheets. The `Oddone et al. 1997` sheet remains in the workbook but is **excluded** from the reference set (no article; see §B4). *(Note: Excel trimmed empty trailing rows on save — e.g. `Yellin and Perlman 1981` 38→10 rows — no data was lost, verified.)*
 2. **Incomplete reference**: "Delerou" in `data1.xlsx` — likely "Delerue 2007".
 3. **Corrected mislabel — `Carter et al 2013` sheet is Körtik Tepe, not Kenan Tepe**: the sheet's sample IDs are `KT.002 … KT.119`, which match the Körtik Tepe article (`Carter_2013_Sourcing_obsidian_Kortik_Tepe.txt`; 204 `KT.0xx` codes). The string "Kenan" appears in **no cell of any workbook**. The earlier "Kenan Tepe" attribution was an error and has been corrected in Section A. **Extraction cleanups for this sheet**: (a) the `Source` field is split across 3 columns and has encoding corruption — `Nemrut | Da_x0002_g` → "Nemrut Dağ", `Muş | e | Konuk` → rejoin; (b) drop the stray final row `Bekle` (a text fragment, no data). Spot-check verified: KT.002 → Rb 230, Sr 46, Zr 329, Nb 22, Bingöl B (exact match to article).
 4. **Encoding**: `Obsidian Sources List.xlsx` has garbled characters (Agicšl, GollŸ Dag) — Turkish characters corrupted.
