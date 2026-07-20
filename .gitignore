@@ -32,6 +32,11 @@ Desktop.ini
 # macOS
 .DS_Store
 
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
 # Excel temp files
 ~$*.xlsx
 ~$*.xls
