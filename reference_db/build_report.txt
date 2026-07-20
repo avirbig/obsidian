@@ -1,0 +1,76 @@
+REFERENCE DB BUILD -- Step 2 (Tier 1/2 clean sheets)
+================================================================
+Total rows: 1495   Papers: 8
+
+Campbell & Healey 2016  [T1 pXRF]  n=873  roles={'artifact_assigned': 873}
+    Bingöl A               [Eastern Anatolia            ] n= 122
+    Bingöl B               [Eastern Anatolia            ] n= 123
+    Group 3d               [Eastern Anatolia            ] n= 279
+    Meydan Dağ             [Eastern Anatolia            ] n=   6
+    Muş                    [Eastern Anatolia            ] n=   3
+    Nemrut Dağ             [Eastern Anatolia            ] n= 340
+
+Carter & Rosenberg 2022  [T2 EDXRF]  n=56  roles={'source_sample': 44, 'artifact_assigned': 12}
+    Bingöl A               [Eastern Anatolia            ] n=   4
+    Bingöl A or Nemrut Dağ A [Eastern Anatolia            ] n=   2
+    Bingöl B               [Eastern Anatolia            ] n=   6
+    East Göllü Dağ         [Central Anatolia (Cappadocia)] n=  12
+    East Göllü Dağ?        [Central Anatolia (Cappadocia)] n=   2
+    Gurgurbabatepe         [Eastern Anatolia            ] n=   1
+    Mus                    [Eastern Anatolia            ] n=   1
+    Nemrut Dağ A           [Eastern Anatolia            ] n=   5
+    Pasinler Eksisu        [Eastern Anatolia            ] n=   5
+    Pasinler Tizgi         [Eastern Anatolia            ] n=   7
+    Sarakamis Hamamli      [Eastern Anatolia            ] n=   5
+    Sarakamis Sehetin      [Eastern Anatolia            ] n=   5
+    Suphan Dağ             [Eastern Anatolia            ] n=   1
+
+Carter & Shackley 2007  [T2 EDXRF]  n=42  roles={'artifact_assigned': 42}
+    East Göllü Dağ         [Central Anatolia (Cappadocia)] n=  25
+    Nenezi Dağ             [Central Anatolia (Cappadocia)] n=  17
+
+Carter et al 2013 (Körtik Tepe)  [T2 EDXRF]  n=120  roles={'artifact_assigned': 120}
+    Bingöl A               [Eastern Anatolia            ] n=  36
+    Bingöl B               [Eastern Anatolia            ] n=  68
+    Muşe Konuk Bekler      [Eastern Anatolia            ] n=   1
+    Nemrut Dağ             [Eastern Anatolia            ] n=  15
+
+Carter et al 2017  [T2 EDXRF]  n=34  roles={'artifact_assigned': 34}
+    EGD-K/KD               [Central Anatolia (Cappadocia)] n=  14
+    EGD-KE                 [Central Anatolia (Cappadocia)] n=   1
+    Nemrut Dağ             [Eastern Anatolia            ] n=   2
+    Nenezi Dağ             [Central Anatolia (Cappadocia)] n=  17
+
+Frahm & Hauck 2017  [T2 multi (see paper)]  n=230  roles={'source_sample': 230}
+    Acıgöl                 [Central Anatolia (Cappadocia)] n=  12
+    Acıgöl2                [Central Anatolia (Cappadocia)] n=  12
+    Acıgöl3                [Central Anatolia (Cappadocia)] n=  13
+    Bingöl B               [Eastern Anatolia            ] n=   8
+    Göllü Dağ1             [Central Anatolia (Cappadocia)] n=   8
+    Göllü Dağ2             [Central Anatolia (Cappadocia)] n=   7
+    Göllü Dağ3             [Central Anatolia (Cappadocia)] n=   4
+    Hasan Dağ              [Central Anatolia (Cappadocia)] n=  21
+    Kars-Arpaçay           [Eastern Anatolia            ] n=  11
+    Kars-Digor             [Eastern Anatolia            ] n=  14
+    Kars-Digor2            [Eastern Anatolia            ] n=   8
+    Kömürcü             [other/verify                ] n=  12
+    Meydan Dağ             [Eastern Anatolia            ] n=  31
+    Nenezi Dağ             [Central Anatolia (Cappadocia)] n=   8
+    Sarıkamış              [Eastern Anatolia            ] n=  36
+    Sarıkamış2             [Eastern Anatolia            ] n=   7
+    Suphan Dağ             [Eastern Anatolia            ] n=  18
+
+Milic 2014  [T1 pXRF]  n=52  roles={'source_sample': 52}
+    Antiparos              [Aegean                      ] n=   1  (no Nb)
+    Carpathian 1           [Central Europe              ] n=   7  (no Nb)
+    Carpathian 2           [Central Europe              ] n=   8  (no Nb)
+    Giali                  [Aegean                      ] n=   5  (no Nb)
+    Göllü Dağ              [Central Anatolia (Cappadocia)] n=   7  (no Nb)
+    Melos Adamas           [Aegean                      ] n=   8  (no Nb)
+    Melos Demenegaki       [Aegean                      ] n=  11  (no Nb)
+    Nenezi Dağ             [Central Anatolia (Cappadocia)] n=   5  (no Nb)
+
+Schechter et al 2016  [T1 pXRF]  n=88  roles={'artifact_assigned': 88}
+    Bingöl A               [Eastern Anatolia            ] n=  30
+    Bingöl B               [Eastern Anatolia            ] n=  34
+    Göllü Dağ              [Central Anatolia (Cappadocia)] n=  24

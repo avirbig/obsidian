@@ -1,0 +1,57 @@
+paper,year,method,method_tier,role,source_raw,source_norm,source_region,sample_id,units,notes,Rb,Sr,Y,Zr,Nb,Ti,Mn,Fe,Zn,Ga,Ba,Pb,Th
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol A,Bingöl A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,236.0,4.4,143.0,1355.0,59.0,,592.0,30415.0,191.0,31.0,,,34.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol A,Bingöl A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,245.0,4.8,148.0,1353.0,60.0,,622.0,32115.0,210.0,35.0,,,36.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol A,Bingöl A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,241.0,4.4,148.0,1337.0,61.0,,623.0,30475.0,194.0,30.0,,,34.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol A,Bingöl A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,253.0,4.5,155.0,1413.0,63.0,,584.0,30007.0,193.0,31.0,,,36.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol B,Bingöl B,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,221.0,43.0,31.0,339.0,18.0,,293.0,13238.0,50.0,16.0,,,27.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol B,Bingöl B,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,226.0,43.0,29.0,357.0,19.0,,327.0,13541.0,45.0,17.0,,,28.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol B,Bingöl B,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,227.0,43.0,34.0,348.0,19.0,,340.0,13687.0,45.0,18.0,,,28.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol B,Bingöl B,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,224.0,44.0,31.0,345.0,18.0,,318.0,13307.0,49.0,17.0,,,26.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Bingol B,Bingöl B,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,223.0,44.0,29.0,346.0,19.0,,312.0,13289.0,47.0,18.0,,,28.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),,ppm,Tel Tsaf source reference samples,196.0,6.6,23.0,88.0,24.0,,465.0,5886.0,24.0,14.0,,,22.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),,ppm,Tel Tsaf source reference samples,186.0,9.8,22.0,87.0,22.0,,502.0,5834.0,24.0,11.0,,,21.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),,ppm,Tel Tsaf source reference samples,195.0,9.6,22.0,94.0,25.0,,533.0,6149.0,22.0,13.0,,,23.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),,ppm,Tel Tsaf source reference samples,199.0,7.4,21.0,79.0,24.0,,541.0,5977.0,23.0,14.0,,,21.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),,ppm,Tel Tsaf source reference samples,189.0,8.4,20.0,87.0,23.0,,443.0,5807.0,28.0,14.0,,,21.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),,ppm,Tel Tsaf source reference samples,195.0,7.3,21.0,76.0,23.0,,512.0,5877.0,24.0,13.0,,,21.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Gurgurbabatepe,Gurgurbabatepe,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,203.0,17.0,54.0,298.0,32.0,,527.0,9888.0,75.0,18.0,,,24.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Mus,Mus,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,182.0,1.0,63.0,249.0,73.0,,395.0,9242.0,99.0,24.0,,,22.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Nemrut Dag A,Nemrut Dağ A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,210.0,2.8,126.0,1241.0,70.0,,664.0,24904.0,158.0,29.0,,,27.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Nemrut Dag A,Nemrut Dağ A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,207.0,2.9,125.0,1232.0,67.0,,661.0,25198.0,179.0,30.0,,,27.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Nemrut Dag A,Nemrut Dağ A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,194.0,3.3,119.0,1205.0,62.0,,683.0,23272.0,152.0,28.0,,,26.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Nemrut Dag A,Nemrut Dağ A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,201.0,3.0,122.0,1218.0,65.0,,683.0,23918.0,162.0,28.0,,,28.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Nemrut Dag A,Nemrut Dağ A,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,205.0,3.7,131.0,1229.0,64.0,,679.0,23538.0,161.0,29.0,,,26.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Eksisu,Pasinler Eksisu,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,131.0,115.0,12.0,179.0,19.0,,330.0,11567.0,42.0,15.0,,,21.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Eksisu,Pasinler Eksisu,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,134.0,97.0,12.0,177.0,20.0,,379.0,11842.0,43.0,16.0,,,22.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Eksisu,Pasinler Eksisu,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,134.0,105.0,13.0,180.0,20.0,,396.0,12010.0,46.0,14.0,,,20.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Eksisu,Pasinler Eksisu,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,132.0,95.0,12.0,183.0,21.0,,440.0,11237.0,46.0,14.0,,,21.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Eksisu,Pasinler Eksisu,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,131.0,102.0,12.0,176.0,20.0,,428.0,11473.0,43.0,14.0,,,22.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Tizgi,Pasinler Tizgi,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,190.0,0.7,34.0,188.0,29.0,,362.0,7754.0,37.0,15.0,,,34.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Tizgi,Pasinler Tizgi,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,180.0,0.7,32.0,181.0,28.0,,368.0,7406.0,32.0,14.0,,,31.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Tizgi,Pasinler Tizgi,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,176.0,4.1,33.0,281.0,28.0,,416.0,9535.0,45.0,17.0,,,31.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Tizgi,Pasinler Tizgi,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,181.0,1.4,34.0,189.0,28.0,,375.0,7560.0,36.0,15.0,,,33.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Tizgi,Pasinler Tizgi,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,184.0,1.2,33.0,176.0,28.0,,378.0,7622.0,40.0,17.0,,,33.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Pasinler Tizgi,Pasinler Tizgi,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,186.0,1.9,32.0,184.0,27.0,,361.0,7867.0,40.0,14.0,,,33.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Hamamli,Sarakamis Hamamli,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,140.0,4.0,47.0,263.0,30.0,,645.0,7921.0,64.0,16.0,,,18.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Hamamli,Sarakamis Hamamli,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,139.0,3.8,50.0,250.0,30.0,,647.0,7822.0,56.0,16.0,,,18.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Hamamli,Sarakamis Hamamli,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,145.0,3.9,49.0,286.0,31.0,,638.0,8030.0,62.0,18.0,,,20.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Hamamli,Sarakamis Hamamli,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,145.0,4.2,51.0,269.0,30.0,,647.0,8243.0,64.0,18.0,,,18.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Hamamli,Sarakamis Hamamli,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,146.0,3.6,50.0,264.0,30.0,,663.0,8411.0,71.0,18.0,,,18.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Sehetin,Sarakamis Sehetin,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,142.0,4.1,48.0,242.0,29.0,,617.0,7640.0,59.0,18.0,,,20.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Sehetin,Sarakamis Sehetin,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,141.0,3.8,49.0,240.0,29.0,,604.0,7655.0,66.0,15.0,,,18.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Sehetin,Sarakamis Sehetin,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,143.0,4.5,48.0,256.0,30.0,,611.0,7664.0,62.0,16.0,,,18.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Sehetin,Sarakamis Sehetin,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,136.0,4.6,48.0,248.0,30.0,,627.0,7680.0,61.0,16.0,,,18.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Sarakamis Sehetin,Sarakamis Sehetin,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,141.0,4.7,48.0,247.0,29.0,,637.0,7899.0,63.0,15.0,,,19.0
+Carter & Rosenberg 2022,2022,EDXRF,2,source_sample,Suphan Dag,Suphan Dağ,Eastern Anatolia,,ppm,Tel Tsaf source reference samples,150.0,15.0,30.0,114.0,10.0,,262.0,9147.0,39.0,15.0,,,15.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,Bingol A or Nemrut Dag A,Bingöl A or Nemrut Dağ A,Eastern Anatolia,Bead 1,ppm,Tel Tsaf obsidian beads (artifacts),211.0,0.2,113.0,988.0,45.0,,490.0,28403.0,213.0,32.0,,,27.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),Bead 2,ppm,Tel Tsaf obsidian beads (artifacts),152.0,6.9,16.0,70.0,19.0,,354.0,5313.0,71.0,16.0,,,17.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,Bingol A or Nemrut Dag A,Bingöl A or Nemrut Dağ A,Eastern Anatolia,Bead 3,ppm,Tel Tsaf obsidian beads (artifacts),160.0,0.8,83.0,829.0,35.0,,455.0,24130.0,195.0,35.0,,,25.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,Pasinler Tizgi,Pasinler Tizgi,Eastern Anatolia,Bead 4,ppm,Tel Tsaf obsidian beads (artifacts),156.0,0.3,29.0,183.0,22.0,,312.0,7910.0,62.0,14.0,,,25.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),Bead 5,ppm,Tel Tsaf obsidian beads (artifacts),173.0,7.8,16.0,61.0,19.0,,376.0,5640.0,46.0,14.0,,,17.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),Bead 6,ppm,Tel Tsaf obsidian beads (artifacts),164.0,6.5,15.0,63.0,18.0,,353.0,5485.0,49.0,15.0,,,14.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),Bead 7,ppm,Tel Tsaf obsidian beads (artifacts),195.0,8.3,15.0,73.0,19.0,,498.0,6756.0,61.0,18.0,,,19.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),Bead 8,ppm,Tel Tsaf obsidian beads (artifacts),166.0,7.8,15.0,56.0,19.0,,390.0,5830.0,62.0,13.0,,,15.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag,East Göllü Dağ,Central Anatolia (Cappadocia),Bead 13,ppm,Tel Tsaf obsidian beads (artifacts),160.0,3.9,13.0,41.0,16.0,,371.0,5971.0,94.0,18.0,,,17.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag?,East Göllü Dağ?,Central Anatolia (Cappadocia),Bead 14,ppm,Tel Tsaf obsidian beads (artifacts),188.0,9.9,20.0,58.0,47.0,,527.0,4006.0,45.0,14.0,,,21.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,Bingol B,Bingöl B,Eastern Anatolia,Bead 15,ppm,Tel Tsaf obsidian beads (artifacts),182.0,33.0,19.0,222.0,13.0,,195.0,12903.0,127.0,23.0,,,22.0
+Carter & Rosenberg 2022,2022,EDXRF,2,artifact_assigned,East Gollu Dag?,East Göllü Dağ?,Central Anatolia (Cappadocia),Bead 16,ppm,Tel Tsaf obsidian beads (artifacts),132.0,4.7,9.3,23.0,12.0,,373.0,6171.0,131.0,19.0,,,15.0
