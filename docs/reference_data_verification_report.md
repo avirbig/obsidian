@@ -1,23 +1,49 @@
 # Cross-Reference Audit: Tables vs Articles
 
+*Purpose: verify that every obsidian reference table extracted from the
+literature is (a) reliable and (b) traceable back to a source article. This is
+the trusted foundation for the reference database — the analysis pipeline must
+follow the tier logic in Section E exactly.*
+
+## Contents
+
+- [Summary](#summary-of-all-papers-referenced-in-your-spreadsheets)
+- [A. Papers WITH data tables AND matching articles](#a-papers-with-data-tables-and-matching-articles)
+- [B. Papers WITH data tables but NO matching article](#b-papers-with-data-tables-but-no-matching-article-in-dataarticles)
+- [C. Articles with NO corresponding data table](#c-articles-in-dataarticles-with-no-corresponding-data-table)
+- [D. Data Quality Issues Found](#d-data-quality-issues-found)
+- [E. Analytical Method Comparability for pXRF](#e-analytical-method-comparability-for-pxrf)
+- [F. Priority Actions](#f-priority-actions)
+
+---
+
 ## Summary of all papers referenced in your spreadsheets
 
-Below is every paper/study referenced across your xlsx files, mapped against what exists in your `articles/` folder.
+*Legend — every paper/study referenced across the xlsx files in
+`data/article_tables/`, mapped against the article texts in `data/articles/`.
+Each paper is sorted into: has-data-and-article (A), has-data-but-no-article (B),
+or has-article-but-no-data-yet (C).*
 
 ---
 
 ## A. Papers WITH data tables AND matching articles
+
+*Legend — papers whose element tables were extracted **and** whose source
+article text is on file, so every number can be traced back to its publication.
+Columns: **Paper** · **Table Location** (workbook/sheet in `data/article_tables/`)
+· **Article File** (text in `data/articles/`) · **Method** · **Units**.*
 
 | Paper | Table Location | Article File | Method | Units |
 |-------|---------------|--------------|--------|-------|
 | Milic 2014 | `data1.xlsx`, `Milic 2014.xlsx` | `Milic_2014.txt` | pXRF | ppm |
 | Campbell and Healey 2016 | `data1.xlsx`, `campbell and healey 1.xlsx`, `campbell and healey 2.xlsx` | `Campbell and Healey 2016.txt` | pXRF | ppm |
 | Frahm 2013 | `data1.xlsx`, `Frahm 2013.xlsx` | `Frahm_2013.txt` | pXRF (HHpXRF) | ppm — Rb, Sr, Zr, Zn, Mn, Ti with error columns |
-| Morgan 2015 | `data1.xlsx`, `Morgan 2015.xlsx` | — | pXRF | ppm |
+| Morgan 2015 | `data1.xlsx`, `Morgan 2015.xlsx` | `morgan_2015.txt` | pXRF | ppm |
 | Schechter et al 2016 | `data1.xlsx`, `Schechter et al 2016.xlsx` | `Schechter_et_al_2016.txt` | pXRF | ppm |
 | Khalidi, Gratuze & Boucetta 2009 | `data1.xlsx`, `Khalidi Gratuze Boucetta 2009.xlsx` | `khalidi Gratuze 2009.txt` | LA-ICP-MS | ppm |
 | Frahm and Hauck 2017 | `data1.xlsx`, `Frahm and Hauck 2017.xlsx` | `Frahm and Hauck 2017.txt` | Mixed (comparison table of many techniques) | ppm |
 | Carter and Shackley 2007 | `data2.xlsx` | `Carter_and_Shackley_2007.txt` | EDXRF | ppm |
+| **Carter et al. 2013 (Körtik Tepe)** | `data2.xlsx` sheet `Carter et al 2013` (121 samples, KT.xxx) | `Carter_2013_Sourcing_obsidian_Kortik_Tepe.txt` | EDXRF | ppm — sources: Bingöl B, Nemrut Dağ, Muş. **Verified**: sample IDs & values match the article (see §D). Previously mislabelled "Kenan Tepe". |
 | Carter et al. 2006 | `data2.xlsx` | `Carter_et_al_2006.txt` | ICP-AES/ICP-MS | mixed (oxides wt% + ppm) |
 | Forster and Grave 2012 | `data2.xlsx` | `Forster_and_Grave_2012.txt` | pXRF | mixed (oxides wt% + ppm) |
 | Yellin and Maeir 2007 | `data2.xlsx` | `Yellin_and_Maeir_2007.txt` | NAA (INAA) | ppm |
@@ -30,30 +56,51 @@ Below is every paper/study referenced across your xlsx files, mapped against wha
 | Rosenberg, Carter et al. 2022 | `Carter_Rosenberg_2022_Tel_Tsaf.xlsx` | `Carter_2022_Obsidian_Beads_Tel_Tsaf.txt` | EDXRF | ppm |
 | Acquafredda et al. 2018 | `data2.xlsx` | `Acquafredda_et_al_2018.txt` | XRF | ppm — Italian/Sardinian sources (Arci, Palmarola, Lipari, Pantelleria) |
 
-## B. Papers WITH data tables but NO matching article in `articles/`
+## B. Papers WITH data tables but NO matching article in `data/articles/`
 
-These are studies you have extracted data from but don't have the article text available:
+*Legend — papers whose data (or a reference to it) appears in the xlsx files but
+whose original article text is **not** on file. Subdivided by how this affects
+traceability: name-only references (no data, harmless), data traceable via a
+containing article you do have (acceptable), and papers dropped from the
+reference set.*
+
+**B1 — Name-only references (`Indicative Elements` sheet; no data rows, harmless):**
 
 | Paper | Table Location | Method | Notes |
 |-------|---------------|--------|-------|
-| **Craig et al 2007** | `data1.xlsx` Indicative Elements | XRF, pXRF | Referenced only — no data rows, just noted in elements table |
-| **P.J. Sheppard et al. 2011** | `data1.xlsx` Indicative Elements | pXRF | Pacific obsidian — may not be relevant to Eastern Med |
-| **Moholy-Nagy et al. 2013** | `data1.xlsx` Indicative Elements | pXRF | Mesoamerican obsidian — likely not relevant |
-| **Nazaroff et al. 2010** | `data1.xlsx` Indicative Elements | pXRF | Referenced in elements table only |
-| **Delerou** (incomplete name) | `data1.xlsx` Indicative Elements | ? | Likely "Delerue 2007" — mentioned in DObsiSS for Mallaha site |
-| **Frahm 2014** | `data2.xlsx` (empty sheet!) | pXRF | Sheet exists but contains no data. Article (`Frahm_2014.txt`) confirmed: Bronze Age Northern Mesopotamia blade production — no elemental concentration tables. Sheet will remain empty. |
-| **Oddone et al. 1997** | `data2.xlsx` | NAA | Göllü Dağ source data (WGD, EGD) |
-| **Carter et al. 2013 (Kenan Tepe)** | `data2.xlsx` | EDXRF | Kenan Tepe data, Bingöl assignments — distinct from Orange/Carter 2013 (Tell Aswad) and Carter/Grant 2013 (Körtik Tepe) |
-| **Acquafredda et al. 2018** | `data2.xlsx` | XRF | Italian/Sardinian obsidian (Arci) — moved to Section A (article now available: `Acquafredda_et_al_2018.txt`) |
-| **Bressy et al. 2005** | `data2.xlsx` | ICP-AES/ICP-MS | Referenced for EGD, Bingöl A/B comparisons |
-| **Ozdemir et al. 2006** | `data2.xlsx` | LA-ICP-MS | Nemrut data |
-| **Kelle and Seifried 1990** | `data2.xlsx` Frahm & Hauck sheet | WDXRF | Göllü Dağ reference data |
-| **Yellin et al 1996** | `data2.xlsx` | NAA | Source signatures |
-| **Gratuze 1999** | `data2.xlsx` (empty sheet!) | LA-ICP-MS | Sheet exists but contains no data |
+| Craig et al 2007 | `data1.xlsx` Indicative Elements | XRF, pXRF | Referenced only — no data rows |
+| P.J. Sheppard et al. 2011 | `data1.xlsx` Indicative Elements | pXRF | Pacific obsidian — not relevant to Eastern Med |
+| Moholy-Nagy et al. 2013 | `data1.xlsx` Indicative Elements | pXRF | Mesoamerican obsidian — not relevant |
+| Nazaroff et al. 2010 | `data1.xlsx` Indicative Elements | pXRF | Referenced in elements table only |
+| Delerue 2007 ("Delerou") | `data1.xlsx` Indicative Elements | ? | Incomplete name; mentioned in DObsiSS for Mallaha site |
 
-## C. Articles in `articles/` folder with NO corresponding data table
+**B2 — Data present, but traceable via another article you have (no standalone paper needed):**
 
-These articles might contain useful tables you haven't yet extracted:
+| Paper | Table Location | Method | Traceable via |
+|-------|---------------|--------|---------------|
+| Bressy et al. 2005 | `data2.xlsx` `Multiple` sheet | ICP-AES/ICP-MS | Reproduced in **Forster & Grave 2012** (compilation "From Forster 2012"). Second-hand — Tier 3, reference-only. |
+| Kelle & Seifried 1990 | `data2.xlsx` `Frahm & Hauck 2017 – Göllü Dağ` sheet | WDXRF | Reproduced in **Frahm & Hauck 2017** cross-method table. |
+
+**B3 — Article present but sheet empty:**
+
+| Paper | Table Location | Method | Notes |
+|-------|---------------|--------|-------|
+| Frahm 2014 | `data2.xlsx` (empty sheet) | pXRF | Article (`Frahm_2014.txt`) confirmed: Bronze Age blade production, no elemental tables. Sheet stays empty. |
+
+**B4 — Dropped from the reference set (excluded from all analysis):**
+
+| Paper | Reason |
+|-------|--------|
+| Oddone et al. 1997 | No article available; data will not be used. |
+| Yellin et al. 1996 | No matching article could be found; data will not be used. |
+| Gratuze 1999 | Sheet is empty (no data) and no article. |
+| Ozdemir et al. 2006 | Claimed Nemrut LA-ICP-MS data, but no confirmed data rows located and no article — treat as absent unless a table is found. |
+
+## C. Articles in `data/articles/` with NO corresponding data table
+
+*Legend — article texts on file that are **not** yet linked to any extracted
+table. Candidates for new extraction (or confirmation that they hold no usable
+geochemical data).*
 
 | Article File | Likely Content |
 |-------------|---------------|
@@ -70,28 +117,39 @@ These articles might contain useful tables you haven't yet extracted:
 | `Sesto_Italy.txt` | Italian obsidian |
 | `Timor.txt` | Not relevant to Eastern Med |
 | `Balkan-Atli_N_Kuhn_S_Astruc_L_Kayacan_gollu_dag_survey.txt` | Göllü Dağ survey — **may have source data** |
-| `Carter_et_al_2008.txt` | Bingöl/Nemrut at Çatalhöyük; EDXRF; Carter, Dubernet, King, Le Bourdonnec, Milić, Poupeau & Shackley — **likely has extractable tables** |
-| `Carter_2013_Orange_Sourcing_obsidian_Tell_Aswad_Syria.txt` | Tell Aswad & Qdeir 1 (Syria); SEM-EDS and EDXRF; Orange, Carter & Le Bourdonnec — **likely has extractable tables** |
-| `Carter_2013_Sourcing_obsidian_Kortik_Tepe.txt` | Körtik Tepe (SE Anatolia); EDXRF; Carter & Grant — **likely has extractable tables** |
-| `JARMT.txt` | Agent-based modelling of obsidian exchange, Neolithic Near East; Ortega et al. 2013 — methodological, likely no raw data tables |
-| `Yellin_and_Garfinkel_1986.txt` | PPNB Yiftahel (Israel) obsidian sourcing; NAA; Yellin & Garfinkel 1986 — **likely has extractable tables** |
+| `Carter_et_al_2008.txt` | Bingöl/Nemrut at Çatalhöyük; EDXRF — **likely has extractable tables** |
+| `Carter_2013_Orange_Sourcing_obsidian_Tell_Aswad_Syria.txt` | Tell Aswad & Qdeir 1 (Syria); SEM-EDS and EDXRF — **likely has extractable tables** |
+| `JARMT.txt` | Agent-based modelling of obsidian exchange; Ortega et al. 2013 — methodological, likely no raw data |
+| `Yellin_and_Garfinkel_1986.txt` | PPNB Yiftahel (Israel) obsidian sourcing; NAA — **likely has extractable tables** |
 | Hebrew articles (5 files) | Various — check for tables |
+
+*Note: `Carter_2013_Sourcing_obsidian_Kortik_Tepe.txt` was previously listed here
+but is now matched to its data table (see Section A).*
 
 ---
 
 ## D. Data Quality Issues Found
 
-1. **Empty sheets**: `Frahm 2014` sheet in `data2.xlsx` — confirmed no extractable geochemical tables (Bronze Age craft paper, not a source characterisation study). `Gratuze 1999` sheet is also empty — PDF still needed
-2. **Incomplete reference**: "Delerou" in `data1.xlsx` — likely "Delerue 2007"
-3. **Carter et al. 2013 (Kenan Tepe) disambiguation**: Two other Carter 2013 papers are now in `articles/` (Tell Aswad by Orange/Carter, and Körtik Tepe by Carter/Grant) — the Kenan Tepe entry in `data2.xlsx` is a third, distinct paper still without an article text
-4. **Encoding**: `Obsidian Sources List.xlsx` has garbled characters (Agicšl, GollŸ Dag) — Turkish characters corrupted
-5. **Complex layout**: `Carter et al. 2006` in `data2.xlsx` has 109 columns with many NaN — the table structure may be misaligned
-6. **`Milic 2014.xlsx`** has a very wide layout (38 cols) with data tables placed side-by-side horizontally — may need restructuring
-7. **Range values**: `Milic 2014.xlsx` contains range strings like "166-194" instead of numeric values — these need parsing
+*Legend — specific data-quality problems in the source spreadsheets that must be
+handled before or during extraction.*
+
+1. **Empty sheets**: `Frahm 2014` sheet in `data2.xlsx` — confirmed no extractable geochemical tables (Bronze Age craft paper). `Gratuze 1999` sheet is also empty — paper dropped (see §B4).
+2. **Incomplete reference**: "Delerou" in `data1.xlsx` — likely "Delerue 2007".
+3. **Corrected mislabel — `Carter et al 2013` sheet is Körtik Tepe, not Kenan Tepe**: the sheet's sample IDs are `KT.002 … KT.119`, which match the Körtik Tepe article (`Carter_2013_Sourcing_obsidian_Kortik_Tepe.txt`; 204 `KT.0xx` codes). The string "Kenan" appears in **no cell of any workbook**. The earlier "Kenan Tepe" attribution was an error and has been corrected in Section A. **Extraction cleanups for this sheet**: (a) the `Source` field is split across 3 columns and has encoding corruption — `Nemrut | Da_x0002_g` → "Nemrut Dağ", `Muş | e | Konuk` → rejoin; (b) drop the stray final row `Bekle` (a text fragment, no data). Spot-check verified: KT.002 → Rb 230, Sr 46, Zr 329, Nb 22, Bingöl B (exact match to article).
+4. **Encoding**: `Obsidian Sources List.xlsx` has garbled characters (Agicšl, GollŸ Dag) — Turkish characters corrupted.
+5. **Complex layout**: `Carter et al. 2006` in `data2.xlsx` has ~102 rows and many NaN columns — the table structure may be misaligned; verify alignment.
+6. **`Milic 2014` wide layout**: the `data1.xlsx` sheet is a 42×38 side-by-side layout (multiple tables horizontally); the standalone `Milic 2014.xlsx` is a smaller clean table. Pick a canonical version and reconcile.
+7. **Range values**: `Milic 2014` contains range strings like "166-194" instead of numeric values — these need parsing.
 
 ---
 
 ## E. Analytical Method Comparability for pXRF
+
+*Legend — how each analytical method compares to your pXRF samples, and the
+resulting comparability tiers. **This tier table is the authoritative
+method→tier mapping**; the pipeline must follow it exactly (the previous
+analysis failed because its code diverged from this — see
+`prior_work_audit_made_with_github_copilot.md`).*
 
 ### Can you directly compare values across methods?
 
@@ -102,9 +160,9 @@ These articles might contain useful tables you haven't yet extracted:
 | Method | Papers Using It | Measures | Directly Comparable to pXRF? |
 |--------|----------------|----------|------------------------------|
 | **pXRF** | Milic 2014, Campbell & Healey 2016, Frahm 2013, Morgan 2015, Schechter et al 2016, Forster & Grave 2012 | Trace elements in ppm | **YES** — same method family, BUT instrument calibration matters |
-| **EDXRF** (lab) | Carter & Shackley 2007, Carter et al 2013 | Trace elements in ppm | **Mostly yes** for trace elements (Rb, Sr, Zr, Nb, Y, Fe). Lab EDXRF is more precise but measures the same physics |
-| **NAA / INAA** | Yellin & Perlman 1980/1981, Yellin et al 1996, Oddone et al 1997 | REE + trace elements in ppm | **Limited** — NAA measures different elements (La, Ce, Nd, Sm, Eu, Yb). Overlap only on some elements (Fe, Rb) |
-| **LA-ICP-MS** | Khalidi et al 2009, Gratuze 1999, Binder et al 2011, Ozdemir et al 2006 | Trace elements in ppm | **Partially** — measures same elements but different matrix effects. Values can differ systematically |
+| **EDXRF** (lab) | Carter & Shackley 2007, Carter et al 2013 (Körtik Tepe), Carter et al 2017 | Trace elements in ppm | **Mostly yes** for trace elements (Rb, Sr, Zr, Nb, Y, Fe). Lab EDXRF is more precise but measures the same physics |
+| **NAA / INAA** | Yellin & Perlman 1980/1981, Yellin & Maeir 2007 | REE + trace elements in ppm | **Limited** — NAA measures different elements (La, Ce, Nd, Sm, Eu, Yb). Overlap only on some elements (Fe, Rb) |
+| **LA-ICP-MS** | Khalidi et al 2009, Binder et al 2011 | Trace elements in ppm | **Partially** — measures same elements but different matrix effects. Values can differ systematically |
 | **ICP-AES/ICP-MS** | Carter et al 2006, Bressy et al 2005 | Oxides (wt%) + trace (ppm) | **For trace ppm: partially**. Oxides need conversion. Destructive method — different sample prep |
 | **PIXE** | Poupeau et al 2010 | Trace elements in ppm | **Limited** — different excitation physics, values may differ |
 | **WDXRF** | Kelle & Seifried 1990, URMIA article | Trace elements in ppm | **Mostly yes** — same physics as EDXRF, higher precision |
@@ -122,22 +180,22 @@ These articles might contain useful tables you haven't yet extracted:
 
 **Tier 2 — Comparable with caution (same elements, similar method):**
 - Carter & Shackley 2007 (lab EDXRF)
-- Carter et al 2013 (lab EDXRF)
-- Carter et al. 2017 (likely EDXRF)
+- Carter et al 2013 — Körtik Tepe (lab EDXRF)
+- Carter et al. 2017 (EDXRF)
 - Frahm & Hauck 2017 (multi-method comparison — use their pXRF values)
-- Kelle & Seifried 1990 (WDXRF)
+- Kelle & Seifried 1990 (WDXRF, via Frahm & Hauck 2017)
 
 **Tier 3 — Use for reference patterns only (different method, values may differ):**
-- LA-ICP-MS papers (Khalidi, Binder, Gratuze, Ozdemir)
+- LA-ICP-MS papers (Khalidi, Binder)
 - ICP-AES/MS papers (Carter et al 2006, Bressy et al 2005)
 - PIXE (Poupeau et al 2010)
 
 **Tier 4 — Different element suites, not directly comparable:**
-- NAA/INAA papers (Yellin & Perlman — measure REE, not the same trace elements as pXRF)
+- NAA/INAA papers (Yellin & Perlman, Yellin & Maeir — measure REE, not the same trace elements as pXRF)
 - Electron Microprobe (Rosen et al 2011 — major oxides only)
 
 ### Key insight from Frahm & Hauck 2017:
-Your `Frahm and Hauck 2017.xlsx` "Gollu Dag" sheet is exactly the cross-method comparison you need — it lists Göllü Dağ values measured by WDXRF, NAA, ICP-AES/MS, pXRF, LA-ICP-MS, and EDXRF side by side. **This table directly answers your comparability question for Göllü Dağ source data.**
+Your `Frahm and Hauck 2017.xlsx` "Gollu Dag" sheet is exactly the cross-method comparison you need — it lists Göllü Dağ values measured by WDXRF, NAA, ICP-AES/MS, pXRF, LA-ICP-MS, and EDXRF side by side. **This table directly answers your comparability question for Göllü Dağ source data** and is the right basis for any cross-method calibration check.
 
 ### What about unit differences?
 - **ppm vs ppm**: Directly comparable (just watch for calibration offsets)
@@ -148,10 +206,13 @@ Your `Frahm and Hauck 2017.xlsx` "Gollu Dag" sheet is exactly the cross-method c
 
 ## F. Priority Actions
 
-1. **Acquire missing articles** for: Carter et al. 2013 (Kenan Tepe), Oddone et al. 1997, Yellin et al. 1996
-2. **Re-extract** empty xlsx sheets: Frahm 2014, Gratuze 1999 sheets in `data2.xlsx`
-3. **Extract data tables** from newly added articles: `Carter_et_al_2008.txt`, `Carter_2013_Orange_Sourcing_obsidian_Tell_Aswad_Syria.txt`, `Carter_2013_Sourcing_obsidian_Kortik_Tepe.txt`, `Yellin_and_Garfinkel_1986.txt`, `URMIA_Iran.txt`, `Balkan-Atli...gollu_dag_survey.txt`
-4. **Fix encoding** in `Obsidian Sources List.xlsx` (Agicšl → Acıgöl, GollŸ Dag → Göllü Dağ)
-5. **Restructure Milic 2014.xlsx** — parse range values, separate the side-by-side tables
-6. **Verify Carter et al 2006** table alignment (109 columns, many NaN)
-7. **Build master pXRF-comparable table** starting from Tier 1 papers first
+*Legend — recommended follow-up tasks, ordered by priority.*
+
+1. **Reconcile Milic 2014** — parse range values and separate the side-by-side tables; pick a canonical version between `data1.xlsx` and the standalone file (see §D6/D7).
+2. **Clean the Körtik Tepe (`Carter et al 2013`) sheet** — rejoin/repair the `Source` column and drop the `Bekle` junk row (see §D3).
+3. **Verify `Carter et al 2006`** table alignment (many NaN columns).
+4. **Fix encoding** in `Obsidian Sources List.xlsx` (Agicšl → Acıgöl, GollŸ Dag → Göllü Dağ) *if that external file is used*.
+5. **Optionally extract** tables from unlinked articles (§C): `Carter_et_al_2008.txt`, `Carter_2013_Orange...Tell_Aswad...txt`, `Yellin_and_Garfinkel_1986.txt`, `URMIA_Iran.txt`, `Balkan-Atli...gollu_dag_survey.txt`.
+6. **Build the master pXRF-comparable table** starting from Tier 1 papers first, adding Tier 2/3 only as clearly-labelled reference-only rows.
+
+*Resolved / dropped since first draft:* Kenan Tepe "missing article" — was a mislabel; the data is Körtik Tepe and its article is on file. Oddone 1997, Yellin et al. 1996, Gratuze 1999 — dropped (§B4). Morgan 2015 & Acquafredda 2018 articles — now on file (§A).
