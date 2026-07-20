@@ -8,6 +8,7 @@ follow the tier logic in Section E exactly.*
 ## Contents
 
 - [Summary](#summary-of-all-papers-referenced-in-your-spreadsheets)
+- [Ranked Data Summary (most → least relevant)](#ranked-data-summary-most--least-relevant)
 - [A. Papers WITH data tables AND matching articles](#a-papers-with-data-tables-and-matching-articles)
 - [B. Papers WITH data tables but NO matching article](#b-papers-with-data-tables-but-no-matching-article-in-dataarticles)
 - [C. Articles with NO corresponding data table](#c-articles-in-dataarticles-with-no-corresponding-data-table)
@@ -23,6 +24,44 @@ follow the tier logic in Section E exactly.*
 `data/article_tables/`, mapped against the article texts in `data/articles/`.
 Each paper is sorted into: has-data-and-article (A), has-data-but-no-article (B),
 or has-article-but-no-data-yet (C).*
+
+---
+
+## Ranked Data Summary (most → least relevant)
+
+*Legend — every paper that contributes **actual data**, ranked from most to least
+relevant for sourcing Southern-Levant obsidian. Relevance combines **method
+comparability** to our pXRF samples (pXRF > EDXRF > ICP / LA-ICP-MS / PIXE >
+NAA / microprobe) with **how directly the sources/region bear on Anatolian→Levant
+provenance**. "Sources" = geological obsidian sources characterised; "Site" =
+archaeological assemblage attributed to sources. `~N` = approximate data rows
+(sources or artifacts). Sources confirmed by scanning the actual sheet cells.*
+
+| # | Paper | Method (Tier) | Region focus | Sources / sites present | ~N | Role | Relevance |
+|---|-------|---------------|--------------|--------------------------|----|------|-----------|
+| 1 | Campbell & Healey 2016 | pXRF (T1) | E Anatolia | Bingöl A/B, Nemrut Dağ, Muş, Meydan Dağ, Group 3d, Pasinler | ~880 | Source characterisation | ★★★★★ the peralkaline sources we must discriminate |
+| 2 | Schechter et al 2016 | pXRF (T1) | S Levant sites + Anatolia | Göllü Dağ, Bingöl | ~100 | Levant artifacts + sources | ★★★★★ same region + method as our samples |
+| 3 | Milic 2014 | pXRF (T1) | Cappadocia + Aegean | Göllü Dağ, Nenezi (+ Melos, Giali, Antiparos) | ~40* | Multi-source reference | ★★★★☆ key Cappadocian sources (*wide layout — parse) |
+| 4 | Frahm & Hauck 2017 | Multi-method incl. pXRF (T1–T3) | Anatolia | Acıgöl, Bingöl, Göllü, Hasan, Meydan, Nenezi (+ Göllü cross-method sheet) | ~250 | Source + cross-method | ★★★★☆ ideal cross-method calibration reference |
+| 5 | Frahm 2013 | pXRF / HHpXRF (T1) | Anatolia / Near East *(verify)* | sample codes only — sources to confirm | ~65 | Source/artifacts | ★★★★☆ pXRF; confirm sources |
+| 6 | Forster & Grave 2012 | pXRF (T1) | Cappadocia | Acıgöl, Nenezi | ~5 | Source reference | ★★★☆☆ pXRF but very small N |
+| 7 | Carter & Shackley 2007 | EDXRF (T2) | Central Anatolia (Çatalhöyük) | Göllü Dağ, Nenezi | ~55 | Artifacts + sources | ★★★★☆ Cappadocian, near-pXRF |
+| 8 | Carter et al 2017 | EDXRF (T2) | S Levant (Shaʿar Hagolan) | EGD, Göllü, Kaletepe, Kayırlı, Nemrut, Nenezi | ~35 | Levant artifacts + sources | ★★★★☆ |
+| 9 | Carter et al 2013 (Körtik Tepe) | EDXRF (T2) | SE Anatolia | Bingöl B, Nemrut Dağ, Muş | 121 | Artifacts + sources | ★★★★☆ E Anatolian |
+| 10 | Carter & Rosenberg 2022 (Tel Tsaf) | EDXRF (T2) | S Levant | beads + source samples: Bingöl, Göllü, Nemrut, Muş, Pasinler, Suphan | 25 + 45 | Levant beads + sources | ★★★★☆ |
+| 11 | Carter et al 2006 | ICP-AES/MS (T3) | Cappadocia | Göllü Dağ, Nenezi | ~100 | Source reference | ★★★☆☆ non-pXRF — reference-only |
+| 12 | Khalidi, Gratuze & Boucetta 2009 | LA-ICP-MS (T3) | E Anatolia | Bingöl, Meydan | ~24 | Source reference | ★★★☆☆ reference-only |
+| 13 | Binder et al 2011 | LA-ICP-MS (T3) | Cappadocia | Göllü Dağ | ~10 | Source reference | ★★☆☆☆ reference-only |
+| 14 | "Multiple" (Bressy 2005 / Poupeau 2010 / Carter 2006) | ICP-AES/MS, PIXE (T3) | Anatolia | Bingöl, Meydan, Nemrut, Nenezi, EGD | ~30 | Second-hand compilation | ★★☆☆☆ second-hand, reference-only |
+| 15 | Yellin & Perlman 1980 | NAA (T4) | Anatolia + Levant | Göllü, Nenezi, Van; Beisamoun | ~12 | REE reference | ★★☆☆☆ different element suite (REE) |
+| 16 | Yellin & Perlman 1981 | NAA (T4) | Anatolia | Göllü, Hasan, Nenezi, Nemrut, Van, Zincirkale | ~8 | REE reference | ★★☆☆☆ different element suite (REE) |
+| 17 | Morgan 2015 | pXRF (T1) | Aegean (Melos) | Sta Nychia, Demenegaki, Giali | ~700 | Aegean sources | ★★☆☆☆ good method, but Melian sources don't reach the Levant |
+| 18 | Rosen et al 2011 | Electron microprobe (T4) | major oxides | oxides only — no trace elements | ~18 | — | ★☆☆☆☆ not usable for trace-element sourcing |
+| 19 | Acquafredda et al 2018 | XRF (T3) | Central Med / Aegean | Arci, Lipari, Palmarola, Melos, Yali | ~75 | Non-Levant sources | ★☆☆☆☆ wrong region for this study |
+
+**Flags:**
+- *Yellin & Maeir 2007* is listed in Section A as having a data table, but **no `Yellin and Maeir 2007` sheet exists in any workbook** — data location unconfirmed. Treat as article-only until a table is found.
+- Ranking of *Morgan 2015* is low despite pXRF because its sources are **Melian (Aegean)** — obsidian that does not occur in Southern-Levant assemblages; useful only as a method/calibration comparison, not as a candidate source.
 
 ---
 
