@@ -270,6 +270,13 @@ def main():
         g.to_csv(BYPAPER / f'{slug(paper)}.csv', index=False)
     df.to_csv(OUTDIR / 'reference_long.csv', index=False)
 
+    # DECISION B (2026-07-20): the reference uses ONLY geological source samples,
+    # not artifacts-assigned-to-a-source. reference_long.csv keeps everything
+    # (tagged by role) so this is reversible; reference_source_only.csv is the
+    # active reference for the analysis.
+    src_only = df[df['role'] == 'source_sample'].copy()
+    src_only.to_csv(OUTDIR / 'reference_source_only.csv', index=False)
+
     # report
     lines = ['REFERENCE DB BUILD -- Step 2 (Tier 1/2 clean sheets)',
              '=' * 64, f'Total rows: {len(df)}   Papers: {df["paper"].nunique()}', '']
