@@ -176,6 +176,27 @@ one source" rather than claiming one source.
 
 ---
 
+**Step 6 — We cleaned our own measurements and made a clean Excel file.**
+The code is `analysis/03_clean_samples.py`; the result is
+`samples_db/obsidian_samples_CLEAN.xlsx`.
+
+- We started with **1228 measurements** and removed **19** (1.5%). Every removal
+  is written down with its reason — nothing was deleted quietly.
+- Most were removed for one reason: **the elements we need (Rb, Zr, Nb) were too
+  weak for the machine to measure**, so there was nothing to compare.
+- We joined the two faces of each tool into **one object**. Result: the 1209 good
+  measurements represent **521 objects**. From now on we count objects, not
+  measurements — otherwise our results would look twice as certain as they are.
+- Each object got a **quality score** from 0 to 1: 367 high, 135 medium, 19 low.
+- **2 objects were flagged** because their measurements disagree with each other
+  while both look valid. We did not average them — they need a human look.
+
+There is also a full **report for the supervisors** in simple English:
+`REPORT_for_supervisors.md`. It explains every step, every statistic we use and
+why, what we found, and what we suggest doing next.
+
+---
+
 ## 5. Decisions we made (and why)
 
 | Decision | What we chose | Why |
