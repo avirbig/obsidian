@@ -20,10 +20,18 @@ Outputs (in reference_db/):
 
 from pathlib import Path
 import re
+import sys
 import pandas as pd
 import openpyxl
 import warnings
 warnings.filterwarnings('ignore')
+
+# Source names carry Turkish characters (Göllü Dağ, Acıgöl, Sarıkamış). A default
+# Windows console is cp1252 and raises UnicodeEncodeError on them, which would
+# crash this script for anyone re-running it. The report FILE is always UTF-8;
+# this only makes the console safe.
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 ROOT   = Path(__file__).resolve().parent.parent
 TABLES = ROOT / 'data' / 'article_tables'

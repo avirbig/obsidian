@@ -22,10 +22,16 @@ Outputs (samples_db/):
   samples_objects.csv    one row per object -- the analysis-ready table
   cleaning_report.txt    counts at each stage, every drop with its reason
   obsidian_samples_CLEAN.xlsx   the same, formatted for humans
+
+Reproducibility: the CSV and txt outputs are byte-identical on every re-run.
+The .xlsx is not -- an xlsx is a zip archive and stores a modification time per
+entry, so its BYTES change each run while its CONTENT does not. Expect git to
+show it as modified after re-running; that is not a data change.
 """
 
 from pathlib import Path
 import re
+import sys
 import warnings
 
 import numpy as np
@@ -35,6 +41,11 @@ from openpyxl.styles import Font, PatternFill, Alignment
 from openpyxl.utils import get_column_letter
 
 warnings.filterwarnings('ignore')
+
+# Windows consoles default to cp1252 and raise on Turkish characters; keep the
+# console safe without touching file output (which is always UTF-8).
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 
 ROOT = Path(__file__).resolve().parent.parent
 SAMPLES = ROOT / 'data' / 'samples'

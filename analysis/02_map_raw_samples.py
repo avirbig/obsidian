@@ -24,12 +24,18 @@ Output: the tables reproduced in docs/raw_sample_data_map_and_quality.md
 
 from pathlib import Path
 import re
+import sys
 import warnings
 
 import numpy as np
 import pandas as pd
 
 warnings.filterwarnings('ignore')
+
+# Windows consoles default to cp1252 and raise on Turkish characters; keep the
+# console safe without touching file output (which is always UTF-8).
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8', errors='replace')
 pd.set_option('display.width', 200)
 
 ROOT = Path(__file__).resolve().parent.parent
