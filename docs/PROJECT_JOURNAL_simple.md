@@ -232,9 +232,15 @@ a real archaeological result about ancient trade.
 We cannot say whether it is Bingöl or Nemrut — they are too similar for our
 machine to separate.
 
-⚠️ **One thing to check:** the second tool's locus is written as **"Modern"** and
-it has no basket number. It may not be an ancient tool at all. Avishai should
-check its excavation record before we use it.
+✅ **Clarified by Avishai:** the second high-Zirconium piece is a **modern
+obsidian sample** he measured for comparison — not an excavated tool. It is now
+excluded from all counts and figures, which use **520 archaeological objects**.
+So the archaeological finding is **one** tool from a different volcano, not two.
+(Interestingly, the modern piece is also peralkaline — but it tells us nothing
+about the ancient trade.)
+
+**Four figures** were made for the report (`results/figures/`): the resolution
+problem, the calibration gap, the single chemical group, and the second source.
 
 ---
 

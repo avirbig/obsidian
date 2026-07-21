@@ -95,11 +95,3 @@ site
 einan         105   100.0    70.0    30.0  1.357     0.124    0.707
 motza         388    90.0    65.0    20.0  1.375     0.118    0.803
 yiftahel       28    87.5    60.0    20.0  1.393     0.351    0.704
-
-==============================================================================
-FILES WRITTEN
-==============================================================================
-  samples_db/obsidian_samples_CLEAN.xlsx
-  samples_db/samples_objects.csv
-  samples_db/samples_readings.csv
-  samples_db/cleaning_report.txt

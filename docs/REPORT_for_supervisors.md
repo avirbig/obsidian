@@ -13,9 +13,9 @@ Data: 1,228 measurements taken 2017–2018
 We prepared the excavation obsidian measurements for source analysis. The data
 is now clean, traceable and ready.
 
-**One positive result:** two objects from Yiftahel come from a **different,
-peralkaline source** (eastern Anatolia — Bingöl A or Nemrut Dağ). Their Zirconium
-is 10–15 times that of the rest of the assemblage. This conclusion is
+**One positive result:** one excavated object from Yiftahel comes from a
+**different, peralkaline source** (eastern Anatolia — Bingöl A or Nemrut Dağ).
+Its Zirconium is 15 times that of the rest of the assemblage. This conclusion is
 **independent of the calibration problem below**, because a calibration error
 cannot produce a fifteen-fold difference. It is evidence of more than one supply
 route reaching Yiftahel.
@@ -286,6 +286,8 @@ is therefore completely normal — not an error.
 **The bulk of the assemblage is chemically uniform.** The three sites' Rb/Zr
 ratios differ by less than 3%, while the spread within each site is around 9%.
 
+![Rb/Zr distribution](../results/figures/fig3_one_group.png)
+
 **How this should be interpreted.** It is consistent with all three sites drawing
 the majority of their obsidian from one source. But the spread (sd ≈ 0.12) is
 approximately **one step of the instrument's resolution**, so the apparent
@@ -298,16 +300,16 @@ Note the sample imbalance: Motza contributes 388 objects, Yiftahel only 28.
 
 ### A second source IS present — two objects at Yiftahel
 
-Yiftahel's larger spread (sd 0.351) is not noise. It is caused by **two objects
-whose chemistry is categorically different from the other 519**:
+Yiftahel's larger spread (sd 0.351) is not noise. It is caused by **one excavated
+object whose chemistry is categorically different from the other 519**:
 
 | | Rb | Zr | Nb | Fe | Zr/Nb |
 |---|---:|---:|---:|---:|---:|
 | Our 519 ordinary objects (median) | 90 | **65** | 20 | ~0.7% | 3.0 |
-| Yiftahel, locus 1233 / basket 10671 | 100 | **1005** | 65 | 2.3% | 15.5 |
-| Yiftahel, reading 1703 (locus "Modern") | 70 | **640** | 50 | 2.0% | 12.8 |
+| **Yiftahel, locus 1233 / basket 10671** | 100 | **1005** | 65 | 2.3% | 15.5 |
+| *(modern comparative specimen, not excavated)* | 70 | *640* | 50 | 2.0% | 12.8 |
 
-**Zirconium is 10–15 times higher.** Niobium and Iron are elevated in step. That
+**Zirconium is 15 times higher.** Niobium and Iron are elevated in step. That
 combination — high Zr, high Nb, high Fe — is the signature of **peralkaline**
 obsidian, which in this region means the eastern Anatolian sources **Bingöl A**
 or **Nemrut Dağ**:
@@ -328,7 +330,7 @@ measurements agree to within 3%** (Zr 990 and 1020 ppm). It is not an instrument
 error.
 
 **What we can and cannot say about it:**
-- We *can* say: at least one object from Yiftahel comes from a **different,
+- We *can* say: one excavated object from Yiftahel comes from a **different,
   peralkaline source** than the rest of the assemblage — almost certainly eastern
   Anatolian.
 - We *cannot* say whether it is Bingöl A or Nemrut Dağ. The two are chemically
@@ -338,14 +340,18 @@ This also matters methodologically: it demonstrates that **our data can detect a
 genuinely different source when one is present.** The instrument is not
 uninformative — it is unable to make *fine* distinctions, not *gross* ones.
 
-⚠️ **One item requires archaeological checking.** The second object's locus is
-recorded as **"Modern"**, and it has no basket number. It may be a modern
-intrusion or a comparative specimen rather than a Neolithic artefact. Its
-context should be verified before it is included in any interpretation.
+*A second high-Zirconium measurement (reading 1703, locus recorded as "Modern")
+is a **modern obsidian comparative specimen** the researcher measured alongside
+the assemblage, not an excavated artefact. It is excluded from all counts and
+figures in this report, which use **520 archaeological objects**. Its
+independently similar peralkaline chemistry is consistent, but it carries no
+archaeological weight.*
 
-With those two objects removed, Yiftahel's spread falls from sd 0.351 to
-**0.113** — in line with Motza (0.118) and Einan (0.124), confirming that the
-two objects, not random noise, caused the difference.
+With the peralkaline object removed, Yiftahel's spread falls from sd 0.351 to
+**0.113** — in line with Motza (0.118) and Einan (0.124), confirming that this
+object, not random noise, caused the difference.
+
+![Zirconium per object](../results/figures/fig4_second_source.png)
 
 ---
 
@@ -355,13 +361,17 @@ The instrument recorded concentrations in **percent with three decimal places**.
 The smallest step it can express is 0.001% = **10 ppm**. For trace elements
 present at 20–90 ppm, that step is enormous.
 
-| Element | Distinct values in 1,212 measurements | Typical value | One step equals |
+| Element | Distinct values in the 1,209 usable measurements | Typical value | One step equals |
 |---|---:|---:|---:|
-| Rb | **9** | 90 ppm | **11%** of the value |
+| Rb | **8** | 90 ppm | **11%** of the value |
 | Zr | **15** | 70 ppm | **14%** |
 | Nb | **6** | 20 ppm | **50%** |
 
-Niobium is effectively binary — 829 measurements read 0.002 and 372 read 0.003.
+Rubidium takes only the values 60, 70, 80, 90, 100, 110, 120 and 130 ppm in the
+entire dataset. Niobium is effectively binary — 829 measurements read 20 ppm and
+372 read 30 ppm.
+
+![Element resolution](../results/figures/fig1_resolution.png)
 
 **This cannot be repaired.** We checked every original instrument export: the
 same resolution appears throughout, so nothing was lost in transcription. The
@@ -403,6 +413,13 @@ Our values fall **below the entire published range**. The only two sources
 overlapping ours are Melos Adamas and Giali — both **Aegean**, which for
 Levantine Neolithic obsidian would be an extraordinary claim requiring
 extraordinary evidence.
+
+![Calibration gap](../results/figures/fig2_calibration_gap.png)
+
+The figure shows the two-dimensional separation clearly: our objects occupy a
+region of the Rb–Zr plane that no reference source occupies. (A few of our
+objects reach Rb 130 and so overlap the *lowest* sources on Rubidium alone, but
+none coincides with a source in both elements together.)
 
 **The ordinary explanation is instrumental.** The measurements were taken using
 the instrument's factory "Mining" calibration, which is designed for soils and
@@ -521,7 +538,7 @@ The following is defensible on the present data:
 > homogeneous at the resolution available, with the great majority of objects
 > consistent with a single raw-material source, which cannot be identified from
 > these measurements because the instrument was not calibrated against a
-> reference standard. Two objects from Yiftahel are exceptions: their strongly
+> reference standard. One object from Yiftahel is an exception: its strongly
 > elevated Zirconium, Niobium and Iron identify a **peralkaline source**,
 > pointing to eastern Anatolia (Bingöl A or Nemrut Dağ). This second-source
 > identification does not depend on calibration, since the difference is an
@@ -549,7 +566,9 @@ calibration question is resolved.
 | `samples_db/samples_objects.csv` | 521 objects — the analysis table |
 | `samples_db/samples_readings.csv` | All 1,228 measurements with keep/remove decisions |
 | `samples_db/cleaning_report.txt` | Full log of every step and every removal |
-| `analysis/03_clean_samples.py` | The code, re-runnable from the raw files |
+| `analysis/03_clean_samples.py` | The cleaning code, re-runnable from the raw files |
+| `analysis/04_figures.py` | The code that produces the four figures |
+| `results/figures/` | The four figures as PNG |
 
 The Excel workbook is the one to open. Its **Objects** sheet is the analysis
 table; **Needs_review** lists the two objects requiring inspection; **Dropped**
@@ -560,18 +579,130 @@ to its source file and original spreadsheet row.
 
 ---
 
-## 10. Assessment
+## 10. Conclusions
+
+### 10.1 What we can state with confidence
+
+1. **The dataset is now clean, complete and traceable.** 1,228 measurements were
+   examined, 19 removed with a recorded reason, and 1,209 retained, representing
+   **520 archaeological objects**. Every number can be traced to its original
+   file and spreadsheet row. The pipeline re-runs from the raw files and
+   reproduces its output exactly.
+
+2. **The assemblage is chemically homogeneous.** Motza, Einan and Yiftahel differ
+   in Rb/Zr by less than 3%. The great majority of objects are consistent with a
+   single raw-material source.
+
+3. **At least two sources are present.** One excavated object from Yiftahel is
+   peralkaline — Zirconium 15× the assemblage median, with Niobium and Iron
+   elevated in step — indicating an eastern Anatolian source (Bingöl A or Nemrut
+   Dağ). **This conclusion is unaffected by the calibration problem.**
+
+4. **The instrument can detect gross differences.** Point 3 proves the data is
+   not uninformative; it is imprecise, not blind.
+
+### 10.2 The problems with the sampling — the full list
+
+*These are the limitations that constrain what may be claimed. Points 1–4 are
+properties of the measurements themselves and cannot be repaired by analysis.*
+
+**1. The measurements are systematically low (calibration offset).**
+Our samples read Rb ≈ 90 ppm against a published Anatolian minimum of 110 ppm and
+a typical range of 130–270. The likely cause is that the instrument's factory
+"Mining" calibration — designed for soils and ores — was applied to volcanic
+glass. Testing implies the instrument reads **50–75% of true concentration**.
+*Consequence:* absolute values cannot be compared with published data at all.
+
+**2. No calibration standard was ever measured.**
+No certified reference material (RGM-2, NIST, or similar) was run on this
+instrument. We searched every original workbook. Without it, the offset in
+point 1 **cannot be quantified or corrected**. This is the single decisive gap.
+
+**3. The resolution is too coarse.**
+Recording in percent to three decimals gives a smallest step of 10 ppm. Rubidium
+therefore takes **8 distinct values** across the whole dataset, Zirconium 15.
+Real uncertainty is Rb ±11–22%, Zr ±14–29%.
+*Consequence:* chemically similar volcanoes cannot be separated.
+
+**4. Niobium is at the detection floor and carries no information.**
+⚠️ *A clarification: Nb is not "undetected" — it is reported in 99% of
+measurements. The problem is subtler and worse.* It sits so close to the
+detection limit that it takes only **6 values**, with 829 of 1,209 measurements
+reading exactly 20 ppm and 372 reading 30 ppm. Its stated uncertainty (±10–20
+ppm) is **as large as the value itself (±50–100%)**.
+*Consequence:* Nb cannot support any fine distinction, and **every ratio
+involving Nb is unusable** — which removes the independent cross-check that would
+otherwise narrow the candidate sources. Our Rb/Nb is 4.0 where every source
+matching our Rb/Zr sits near 10.
+
+**5. Ratios only partly rescue the situation.**
+A ratio cancels a calibration error **only if both elements are affected by the
+same factor**. Point 4 is direct evidence that ours are not. Rb/Zr is the most
+trustworthy quantity available and is probably sound — Rb and Zr are adjacent
+elements with similar X-ray energies — but this is **reasoned, not demonstrated**.
+
+**6. The reference literature is itself imprecise.**
+Nenezi Dağ is published at Rb/Zr **1.35** in one study and **1.13** in another —
+a 19% disagreement for the same volcano. "Göllü Dağ" spans **1.55–3.46** across
+its sub-sources. Between-laboratory variation in the published fingerprints is of
+the same order as the effect being measured.
+
+**7. Only one reference study used a portable instrument.**
+Our methodological rule is to compare like with like. Of the reference database,
+only Milic 2014 is pXRF, and it covers just Göllü Dağ and Nenezi Dağ among
+Anatolian sources.
+
+**8. The sample is very unbalanced.**
+Motza 388 objects, Einan 105, Yiftahel 28. Statements about Yiftahel rest on a
+small sample.
+
+**9. Surface condition was variable.**
+Only 282 of 1,209 measurements had full beam coverage; dirt was recorded on 278.
+Where the field was left blank we treat it as *unknown*, never as clean.
+
+### 10.3 Why we cannot say how many sources are present
+
+This deserves stating precisely, because it is the question most likely to be
+asked.
+
+Counting sources means asking whether the objects form **separate chemical
+clusters**. Our data cannot answer that, for three compounding reasons:
+
+- **Different sources can collapse into one measured value.** Rb/Zr is built from
+  two elements each recorded in 10 ppm steps. Two genuinely distinct sources
+  whose true Rb/Zr differ by less than roughly 0.12 would produce *identical*
+  measurements. They would be invisible to us — not absent, invisible.
+- **The steps can also create clusters that are not real.** The spikes in the
+  histogram (Figure 3) are artefacts of the instrument's discrete steps, not
+  sub-groups in the material. Reading them as clusters would be a mistake in the
+  opposite direction.
+- **The reference data cannot arbitrate.** Even a genuine sub-group could not be
+  matched to a named volcano, because of the calibration gap and the spread in
+  the published values (points 1, 2 and 6).
+
+So the honest position is:
+
+> We observe **one dominant chemical group** and **one clear exception**. We
+> cannot determine whether the dominant group represents one source or several
+> chemically similar ones. Our data can establish a **lower bound of two
+> sources**, and cannot establish an upper bound at all.
+
+Any statement of the form "the assemblage derives from N sources" would be
+unsupported for any N.
+
+### 10.4 Assessment
 
 The data preparation is complete and sound. The assemblage is well characterised
-and internally consistent.
+and internally consistent, and it has already yielded one substantive
+archaeological result — evidence of a second, eastern Anatolian supply route
+reaching Yiftahel.
 
-The obstacle to source attribution is not the quality of the excavation data or
-of the preparation — it is a missing calibration measurement, which was simply
-not taken at the time and could not have been anticipated then. It is
-straightforward to remedy.
+The obstacle to full source attribution is not the quality of the excavation data
+or of the preparation. It is a missing calibration measurement, which was not
+taken at the time and could not reasonably have been anticipated. It is
+straightforward and inexpensive to remedy (Section 8).
 
 We consider it preferable to identify this now than to discover it after
-publishing source attributions that could not be supported. The earlier analysis
-of this material, which we set aside, made precisely that error: it produced
-confident assignments resting on differences smaller than the instrument could
-measure.
+publishing attributions that could not be supported. The earlier analysis of this
+material, which we set aside, made precisely that error: confident assignments
+resting on differences smaller than the instrument could measure.
