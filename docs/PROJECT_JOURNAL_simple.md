@@ -4,7 +4,7 @@
 decided. Written to be easy to read and to present to others. For the technical
 details, see `reference_data_verification_report.md` and `CHANGELOG.md`.*
 
-*Last updated: 2026-07-20.*
+*Last updated: 2026-07-21.*
 
 ---
 
@@ -87,6 +87,45 @@ exist? Is it reliable? Can we trace it back to the article?* During this we:
 code that reads each cleaned table and collects the chemistry, **keeping each
 paper separate**. The result is in `reference_db/`.
 
+**Step 4 — Checked our own measurement files (before touching them).** Before
+cleaning anything, we made a map: where does every measurement come from, and
+what condition is it in? Full details in `raw_sample_data_map_and_quality.md`.
+What we learned:
+
+- **The big workbook is complete and honest.** All
+  **1227 measurements** in it can be traced back to an original machine file.
+  We had wondered whether some samples existed *only* there, with no original
+  file behind them — **they do not**. Nothing is unsourced.
+- It is a **filtered copy**, not a merge. The machine was also used for **other
+  projects** (Roman bronze from Caesarea, pottery from Tel Tsaf, metal objects),
+  and those readings sit in the same files. 518 readings were left out, and
+  515 of them were left out correctly — they are not obsidian.
+- **One Motza object was lost.** On 27.11.2017 a tool was measured **twice**
+  (the usual two faces), and **both measurements are missing** from the big
+  workbook. The reason is almost certainly a **typing mistake**: the label says
+  "**obidian** motza" instead of "obsidian", so it was missed when the workbook
+  was put together by hand. The measurements are in
+  `Avishai_Obsidian 12.2017.xlsx`, rows 832–833.
+  **What we decided:** the second measurement (row 833) is **not good** — Avishai
+  had marked its time as "Invalid" while working, it ran only 81 seconds instead
+  of 120, and part of the machine's reading never finished. So we **leave it
+  out**, and we write down *why*. The first measurement (row 832) is complete and
+  its chemistry matches normal Motza obsidian, so we **put it back in**, marked
+  as slightly lower quality. This object will therefore have **one** measurement
+  instead of two.
+- **Two elements we hoped to use are not really there.** *Strontium* and
+  *Barium* were below the machine's detection limit in ~95% of measurements,
+  and *Yttrium* was never recorded at all. **But the three most important ones
+  — Rubidium, Zirconium, Niobium — are present in 99%.** Those are exactly the
+  elements that separate the Turkish volcanoes best, so the plan still works.
+- **Each tool was usually measured twice** (both faces, "dorsal" and "ventral").
+  So 1227 measurements are really about **521 objects**. We must count objects,
+  not measurements — otherwise our results would look twice as certain as they
+  really are.
+- **The three sites are very unequal:** Motza 946, Einan 228, Yiftahel only 53
+  measurements. Anything we say about Yiftahel will be much less certain, and
+  we will say so.
+
 ---
 
 ## 5. Decisions we made (and why)
@@ -115,14 +154,39 @@ is lost. The active reference is `reference_source_only.csv`.
   sources (Göllü Dağ, Nenezi, Acıgöl, Hasan, Bingöl, Nemrut, Meydan, Sarıkamış,
   Suphan, and others).
 - ⚠️ Two volcanoes have few samples: **Bingöl A (4)** and **Nemrut (5)**.
-- ⏳ We have **not yet** touched our own tools' data — that comes next.
+- ✅ Our own measurements are **mapped and checked** — we know where every number
+  comes from and what its problems are. Nothing has been changed yet.
+- ⏳ Cleaning our own measurements is the **next** step.
 
 ---
 
 ## 7. What comes next
 
-1. (Optional) Add a few more reference papers if we find gaps.
-2. Clean our own tools' measurements (the pXRF data from the three sites).
-3. Compare our tools to the fingerprint library and say where each came from —
+1. **Decisions for Avishai** (from Step 4):
+   - ✅ *Decided:* the lost Motza object — keep the good measurement, drop the
+     one marked "Invalid" (see Step 4).
+   - ✅ *Decided:* the Einan measurement from 23.2.2017 (the one Avishai had
+     already removed) **stays out**. We checked it: even though the machine ran
+     almost the full time, the three elements we need (Rb, Zr, Nb) were **all
+     too weak to measure**, and its Iron was 3 times too high. Avishai's original
+     judgement was right. *Lesson: a long measurement is not automatically a good
+     one — what matters is whether the useful elements were actually detected.*
+   - **A question we need Avishai to answer before cleaning:** is one excavation
+     basket always **one** obsidian object? We plan to combine measurements that
+     share a basket, assuming they are the two faces of the same tool. If a
+     basket can contain several different pieces, we would wrongly mix them
+     together — so this needs checking first.
+   - ✅ *Done:* the big workbook was **renamed** from `data manipulation.xlsx` to
+     **`obsidian_pxrf_master_2017-2018.xlsx`**. "Manipulation" sounded bad in a
+     scientific project, and the file is really the faithful master record. Only
+     the name changed — the contents are untouched.
+2. (Optional) Add a few more reference papers if we find gaps.
+3. Clean our own tools' measurements — the full plan is written in
+   `cleaning_plan.md`. In short: throw out measurements where the useful
+   elements were not detected, **combine the two faces of each tool into one
+   object** (about 521 objects, not 1227 measurements), use **ratios between
+   elements** instead of raw amounts (they are far less affected by dirt and by
+   how the machine was held), and give every object a **quality score**.
+4. Compare our tools to the fingerprint library and say where each came from —
    with a clear confidence level, and an honest "unknown" when we cannot tell.
-4. Make figures and write the final report.
+5. Make figures and write the final report.
