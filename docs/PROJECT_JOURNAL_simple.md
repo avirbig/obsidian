@@ -125,6 +125,21 @@ What we learned:
 - **The three sites are very unequal:** Motza 946, Einan 228, Yiftahel only 53
   measurements. Anything we say about Yiftahel will be much less certain, and
   we will say so.
+- **⚠️ The most important thing we found: the numbers are very rough.** The
+  machine wrote its results in percent with only three digits after the point.
+  For elements this rare, that is a very big step: for Rubidium each step is
+  about **11%** of the value, for Zirconium **14%**, and for Niobium **50%**.
+  In the whole dataset Rubidium has only **9 different values** and Niobium only
+  **6** (nearly all are one of two numbers).
+  This is **not a mistake and cannot be fixed** — it is how the machine wrote
+  the data, in every original file. The machine's own error column agrees: it
+  says the uncertainty is the same size as the step.
+  **What it means:** we can tell apart volcanoes whose chemistry is *clearly*
+  different, but we **cannot** make fine distinctions between volcanoes that are
+  chemically similar. For many tools the honest answer will be **"we cannot
+  tell"** — and saying that is the correct result, not a failure. This is exactly
+  the mistake the old analysis made: giving confident answers based on
+  differences smaller than the machine can actually measure.
 
 ---
 

@@ -111,14 +111,57 @@ readings from different sites can never be combined even if locus and basket
 numbers happen to coincide. This yields ~521 groups: 395 dorsal+ventral pairs,
 58 with 4 readings, 32 single, a tail up to 12.
 
-**C2. Check agreement *before* combining.** For each group, compare its readings
-on the sourcing ratios (Rb/Zr, Rb/Nb, Zr/Nb). Readings of one object should sit
-close together. We measure the spread and compare it against how much *repeat
-measurements of the same object normally vary* in this dataset — a threshold
-taken from the data itself, not invented.
+**C2. Check agreement *before* combining — with a threshold taken from the data.**
+
+Measured across the 392 objects that have exactly two readings:
+
+| | median diff | 95th | **worst observed** |
+|---|---:|---:|---:|
+| Rb | 0% | 12% | **1.38×** |
+| Zr | 0% | 15% | **1.57×** |
+| Nb | 0% | 40% | **1.50×** |
+
+The two faces of one object normally agree **very** closely — median difference
+**0%**, and across 392 pairs the largest disagreement ever seen on Zr is
+**1.57×**. This is expected: obsidian is volcanic **glass**, homogeneous by
+formation. That homogeneity is the reason provenance work is possible at all.
+
+**Working threshold: a fold-difference above ~1.6× is outside anything this
+dataset has ever produced, and is treated as suspicious.**
 
 **C3. Combine with the *median*** of the agreeing readings, not the mean. The
 median cannot be dragged by a single bad reading.
+
+**C3b. A large divergence is NEVER averaged.**
+
+*Avishai's question: dorsal Zr 0.008, ventral Zr 0.1 — average it, average and
+flag it, or drop the ventral?*
+
+**Answer: drop the ventral, keep the dorsal, flag the object. Never average.**
+
+Averaging gives **0.054** — a value that describes *neither* reading and matches
+no real material. It would then be compared against the volcano fingerprints and
+could yield a confident, wrong source. Of the three options, averaging is the
+most dangerous, because the damage becomes invisible downstream.
+
+Why the ventral is the one to drop — on **independent** evidence, not merely
+because it disagrees:
+
+- 0.1 is about **9× the 99th percentile** of Zr across all 1212 accepted readings
+  (99th = 0.0119); exactly **one** reading in the whole dataset reaches 0.1.
+- A 12.5× fold-difference has **no precedent**: 0 of 392 observed pairs.
+- The dorsal value, 0.008, sits essentially on the Zr median (0.007).
+
+The distinction matters. "It disagrees with its partner" is **not** grounds for
+dropping a reading — that would assume the answer. "It is outside the plausible
+range for obsidian in this entire dataset" **is**.
+
+> ⚠️ **Note for pairs:** with exactly two readings, the median *equals* the mean,
+> so C3's median offers no protection. Two-reading objects rely entirely on this
+> rule.
+
+Physically, a wildly high Zr on one face usually means the beam did not read
+clean glass — a crystal inclusion, adhering sediment, or the sample mount.
 
 **C4. When readings disagree — the 3-measurements problem.**
 
@@ -154,10 +197,11 @@ by side, so the decisions are reviewable rather than buried.
 
 ## Stage D — Build the comparison values
 
-**D1. Use only the elements that exist.** Sourcing runs on **Rb, Zr, Nb**
-(~99% present), with Fe, Ti, Mn as support. **Sr (5.4%), Ba (4.7%), Y, Ga and Th
-are dropped** — they are below detection or were never recorded. Y is absent on
-the reference side too, so nothing is lost there.
+**D1. Use only the elements that exist.** Sourcing runs on **Rb and Zr** as the
+primary discriminators, with **Nb as a coarse check only** (see the resolution
+box below — Nb has just 6 distinct values and ±50% uncertainty), and Fe, Ti, Mn
+as support. **Sr (5.4%), Ba (4.7%), Y, Ga and Th are dropped** — below detection
+or never recorded. Y is absent on the reference side too, so nothing is lost.
 
 **D2. Prefer ratios over raw concentrations.** Demonstrated on the 946 accepted
 Motza readings: absolute Rb falls as `Bal` rises (0.010 → 0.008), but **Rb/Zr
@@ -195,6 +239,63 @@ accounts for, the more falls into `Bal`.
 
 **D3. Keep raw concentrations too**, for plots and for comparison with published
 work — but attribution decisions rest on the ratios.
+
+---
+
+### 🔴 A hard limit we must design around: the numbers are very coarse
+
+Found while checking Avishai's divergence question, and it affects everything.
+
+The instrument recorded in **%** with **3 decimal places**, so the smallest step
+it can express is 0.001% = **10 ppm**. For trace elements at 20–90 ppm that is
+enormous:
+
+| Element | distinct values in 1212 readings | median | one step = |
+|---|---:|---:|---:|
+| **Rb** | **9** | 90 ppm | **11%** of the value |
+| **Zr** | **15** | 70 ppm | **14%** of the value |
+| **Nb** | **6** | 20 ppm | **50%** of the value |
+
+Nb is effectively **binary**: 829 readings are 0.002 and 372 are 0.003. Rb takes
+only nine values in the whole dataset.
+
+**This is not something we can fix.** It is present in every raw session file
+back to the original instrument exports — no precision was lost in transcription.
+The instrument's own reported error confirms it: the `Rb Error` / `Zr Error` /
+`Nb Error` columns contain only 0.001 or 0.002 (10–20 ppm), i.e. **the
+uncertainty is the same size as the rounding step.** The rounding is not
+discarding real information; the measurement genuinely is this coarse.
+
+In plain terms:
+- Rb = 90 ± 10–20 ppm → **±11–22%**
+- Zr = 70 ± 10–20 ppm → **±14–29%**
+- **Nb = 20 ± 10–20 ppm → ±50–100%**
+
+**Consequences for the plan:**
+
+1. **Nb is demoted.** Its uncertainty is as large as its value; it cannot carry a
+   fine distinction. Keep it as a **coarse** check (roughly "low" vs "high"), and
+   never let a source assignment hinge on Nb alone. *This revises Stage D1, which
+   listed Rb/Zr/Nb as equal partners.*
+2. **Rb and Zr carry real but blunt information.** Rb/Zr takes only **38 distinct
+   values** across 1212 readings, and one last-digit step moves it by ~0.12–0.15.
+3. **We can separate sources that differ a lot; we cannot make fine
+   distinctions.** Volcanoes with genuinely different chemistry (e.g. Bingöl vs
+   Göllü Dağ) should still separate. Close or overlapping sources — including
+   Göllü Dağ East vs West, which we deliberately kept apart — may simply be
+   **beyond the resolution of this data**.
+4. **This makes the "unassigned" option essential, not optional.** With
+   uncertainty this size, a confident single-source answer will often be
+   unjustifiable, and saying so is the correct scientific result.
+
+> This is precisely the failure mode of the earlier Copilot analysis — confident
+> assignments resting on differences smaller than the measurement error. Our
+> confidence scores must be built from these real uncertainties, and be allowed
+> to come out low.
+
+**D5. Propagate the uncertainty.** Every object's ratio carries a ±, derived from
+the instrument's own error columns. An assignment is only reported as confident
+when the sources are separated by **more than** that uncertainty.
 
 **D4. Convert units once, explicitly.** The workbook is in **%**; the reference
 database is in **ppm**. This conversion is a classic silent error — it happens in
@@ -243,9 +344,13 @@ Code: `analysis/03_clean_samples.py`.
   them as independent would make our confidence intervals look about √2 times
   tighter than they truly are.
 - Surface quality is mixed: only **282 readings have full beam coverage**.
-- We are sourcing on **three elements**. That is enough to separate the main
-  Anatolian sources, but it will leave some objects genuinely ambiguous — and
-  those get "unassigned", not a forced answer.
+- We are sourcing on **two usable elements plus a coarse third**, at ±11–29%
+  precision (Nb worse). That should separate genuinely different volcanoes, but
+  **cannot** resolve close ones. Many objects will honestly be "unassigned", and
+  that is the correct answer rather than a failure.
+- The `Bal`/`cover`/`Dirt` quality flags matter less than this resolution limit —
+  the coarseness of the numbers, not surface dirt, is the binding constraint on
+  what we can conclude.
 
 ---
 
