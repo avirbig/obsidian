@@ -102,6 +102,38 @@ They contain no concentrations and cannot calibrate anything.
 
 ---
 
+## ✅ Update 2026-07-21 — what the data CAN still do
+
+Testing the ratio question produced a positive result that survives the
+calibration gap entirely.
+
+**Two objects from Yiftahel have Zr 10–15× the assemblage median** (1005 and
+640 ppm vs 65), with Nb and Fe elevated in step — the **peralkaline** signature
+of Bingöl A or Nemrut Dağ. The stronger object was measured on both faces and the
+two readings agree within 3%.
+
+**A calibration offset scales everything together; it cannot create a fifteen-fold
+difference.** So this second-source identification is valid despite everything
+below.
+
+This bounds the problem usefully: our data **cannot** make fine distinctions, but
+it **can** detect a grossly different source. The instrument is not
+uninformative — only imprecise.
+
+⚠️ Reading 1703 (the weaker outlier) has locus recorded as **"Modern"** and no
+basket. Its archaeological context must be verified before use.
+
+### And a caution about the reference data itself
+
+While matching ratios we found the published fingerprints are less firm than
+assumed: **Nenezi Dağ** is reported at Rb/Zr **1.35** (Frahm & Hauck) and **1.13**
+(Milic) — a 19% disagreement for one volcano, comparable to our own uncertainty.
+"Göllü Dağ" spans **1.55–3.46** across its sub-sources. Between-laboratory
+variation in the reference literature is of the same order as the effect we are
+trying to measure, which independently limits how finely anyone can attribute.
+
+---
+
 ## What our data still supports
 
 Not everything is lost. **Internal comparison does not need cross-instrument

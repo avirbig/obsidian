@@ -197,6 +197,47 @@ why, what we found, and what we suggest doing next.
 
 ---
 
+**Step 7 — A real discovery: not all the obsidian is the same.**
+
+We asked two questions:
+
+**(a) Does our Rb/Zr ratio match any volcano?**
+Six volcanoes match it. Four are in Turkey (Nenezi Dağ, Sarıkamış, Acıgöl,
+Göllü Dağ) and two are in Europe and the Aegean, which do not make sense for our
+sites. So the ratio **narrows** the answer to a few Turkish volcanoes, but it
+**cannot choose one**. We also learned that the published numbers themselves
+disagree: the *same* volcano (Nenezi Dağ) is given as 1.35 in one paper and 1.13
+in another.
+
+*(A warning: a ratio only cancels the machine's error if the error is the same
+for both elements. We tested this and it is **not** true for Niobium — our
+Niobium is too weak for the machine to measure properly, so any ratio using
+Niobium is useless. Rubidium and Zirconium are more trustworthy, but not proven.)*
+
+**(b) Are some of our tools from a different volcano? — YES.**
+
+**Two tools from Yiftahel are completely different from the other 519.** Their
+Zirconium is **10 to 15 times higher**, and their Niobium and Iron are high too.
+That combination points to a special type of obsidian ("peralkaline") which in
+this region means the **eastern Turkish volcanoes Bingöl A or Nemrut Dağ**.
+
+**This finding is safe even though our machine is not calibrated**, because a
+calibration error makes *everything* wrong by the same amount — it can never make
+one tool read 15 times higher than its neighbours. The stronger of the two tools
+was measured on **both faces, and the two measurements agree within 3%**.
+
+So Yiftahel received obsidian from **at least two different directions**. That is
+a real archaeological result about ancient trade.
+
+We cannot say whether it is Bingöl or Nemrut — they are too similar for our
+machine to separate.
+
+⚠️ **One thing to check:** the second tool's locus is written as **"Modern"** and
+it has no basket number. It may not be an ancient tool at all. Avishai should
+check its excavation record before we use it.
+
+---
+
 ## 5. Decisions we made (and why)
 
 | Decision | What we chose | Why |

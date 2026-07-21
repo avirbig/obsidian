@@ -13,7 +13,14 @@ Data: 1,228 measurements taken 2017–2018
 We prepared the excavation obsidian measurements for source analysis. The data
 is now clean, traceable and ready.
 
-**Two findings must be understood before any conclusion is drawn:**
+**One positive result:** two objects from Yiftahel come from a **different,
+peralkaline source** (eastern Anatolia — Bingöl A or Nemrut Dağ). Their Zirconium
+is 10–15 times that of the rest of the assemblage. This conclusion is
+**independent of the calibration problem below**, because a calibration error
+cannot produce a fifteen-fold difference. It is evidence of more than one supply
+route reaching Yiftahel.
+
+**Two limitations must be understood before any further conclusion is drawn:**
 
 1. **The measurements are very coarse.** The instrument recorded in percent with
    three decimals, so its smallest step is 10 ppm. Rubidium therefore takes only
@@ -23,9 +30,10 @@ is now clean, traceable and ready.
    more, most 130–270. No certified standard was ever measured, so we cannot
    correct for this.
 
-**Consequence:** we can describe and group the assemblage, but we **cannot yet
-name the volcano of origin**. The fix is cheap — one measurement session using a
-standard reference glass (RGM-2) on the same instrument — and is described in
+**Consequence:** we can describe and group the assemblage, and we can identify a
+*grossly* different source when one is present (as above) — but we **cannot name
+the volcano** for the main body of material. The fix is cheap: one measurement
+session using a standard reference glass (RGM-2) on the same instrument. See
 Section 8.
 
 ---
@@ -275,22 +283,69 @@ is therefore completely normal — not an error.
 | Einan | 105 | 100 | 70 | **1.357** | 0.124 |
 | Yiftahel | 28 | 88 | 60 | **1.393** | 0.351 |
 
-**The three sites are chemically indistinguishable.** Their Rb/Zr ratios differ
-by less than 3%, while the spread within each site is around 9%.
+**The bulk of the assemblage is chemically uniform.** The three sites' Rb/Zr
+ratios differ by less than 3%, while the spread within each site is around 9%.
 
 **How this should be interpreted.** It is consistent with all three sites drawing
-obsidian from the same source. But we must state the limitation plainly: the
-spread (sd ≈ 0.12) is approximately **one step of the instrument's resolution**.
-The apparent variation may be nothing but rounding. The honest formulation is:
+the majority of their obsidian from one source. But the spread (sd ≈ 0.12) is
+approximately **one step of the instrument's resolution**, so the apparent
+variation may be rounding alone. The honest formulation is:
 
-> *We find no evidence of more than one source, and we do not have the resolution
-> to rule one out.*
+> *For the great majority of objects we find no evidence of more than one source,
+> and we do not have the resolution to rule one out.*
 
-It is **not** proof of a single source.
+Note the sample imbalance: Motza contributes 388 objects, Yiftahel only 28.
 
-Note also the sample imbalance: Motza contributes 388 objects, Yiftahel only 28.
-Any statement about Yiftahel is correspondingly weaker, and its larger spread
-(sd 0.351) may simply reflect the small number.
+### A second source IS present — two objects at Yiftahel
+
+Yiftahel's larger spread (sd 0.351) is not noise. It is caused by **two objects
+whose chemistry is categorically different from the other 519**:
+
+| | Rb | Zr | Nb | Fe | Zr/Nb |
+|---|---:|---:|---:|---:|---:|
+| Our 519 ordinary objects (median) | 90 | **65** | 20 | ~0.7% | 3.0 |
+| Yiftahel, locus 1233 / basket 10671 | 100 | **1005** | 65 | 2.3% | 15.5 |
+| Yiftahel, reading 1703 (locus "Modern") | 70 | **640** | 50 | 2.0% | 12.8 |
+
+**Zirconium is 10–15 times higher.** Niobium and Iron are elevated in step. That
+combination — high Zr, high Nb, high Fe — is the signature of **peralkaline**
+obsidian, which in this region means the eastern Anatolian sources **Bingöl A**
+or **Nemrut Dağ**:
+
+| Reference source | Rb | Zr | Nb | Zr/Nb |
+|---|---:|---:|---:|---:|
+| Bingöl A | 243 | 1354 | 60 | 22.4 |
+| Nemrut Dağ A | 205 | 1229 | 65 | 18.9 |
+| (Göllü Dağ, Nenezi, Acıgöl) | — | 60–140 | 15–20 | 3–8 |
+
+**This finding does not depend on calibration.** A calibration offset scales
+every measurement together; it cannot make one object read fifteen times higher
+than its neighbours. The difference is real regardless of the offset problem
+described in Section 7.
+
+The stronger of the two objects was **measured twice, on both faces, and the two
+measurements agree to within 3%** (Zr 990 and 1020 ppm). It is not an instrument
+error.
+
+**What we can and cannot say about it:**
+- We *can* say: at least one object from Yiftahel comes from a **different,
+  peralkaline source** than the rest of the assemblage — almost certainly eastern
+  Anatolian.
+- We *cannot* say whether it is Bingöl A or Nemrut Dağ. The two are chemically
+  similar, and our uncertainty cannot separate them.
+
+This also matters methodologically: it demonstrates that **our data can detect a
+genuinely different source when one is present.** The instrument is not
+uninformative — it is unable to make *fine* distinctions, not *gross* ones.
+
+⚠️ **One item requires archaeological checking.** The second object's locus is
+recorded as **"Modern"**, and it has no basket number. It may be a modern
+intrusion or a comparative specimen rather than a Neolithic artefact. Its
+context should be verified before it is included in any interpretation.
+
+With those two objects removed, Yiftahel's spread falls from sd 0.351 to
+**0.113** — in line with Motza (0.118) and Einan (0.124), confirming that the
+two objects, not random noise, caused the difference.
 
 ---
 
@@ -366,9 +421,57 @@ any such measurement — RGM, NIST, SRM, standard, control. **There is none.** T
 only non-sample readings are 14 instrument self-tests reported in
 counts-per-second, which contain no concentrations.
 
-**Ratios do not solve this.** Our earlier plan assumed they would, but two things
-prevent it: the implied offset is **not uniform** across elements, and our Rb/Zr
-of 1.33 is compatible with **6 of the 32 sources** in any case.
+### Do ratios solve the problem? Partly — but less than we hoped
+
+A ratio survives a calibration error **only if both elements are affected by the
+same factor.** That is not guaranteed: each element has its own calibration
+curve, so the errors can differ.
+
+We can test this in our own data. If a single factor applied to everything, then
+the sources matching our Rb/Zr should also match our Rb/Nb. They do not:
+
+| | Rb/Zr | Rb/Nb |
+|---|---:|---:|
+| **Ours** | **1.38** | **4.0** |
+| Nenezi Dağ | 1.35 ✅ | 10.0 ❌ |
+| Sarıkamış | 1.40 ✅ | 10.4 ❌ |
+| Acıgöl2 | 1.24 ✅ | 9.7 ❌ |
+
+Our Rb/Nb is roughly **2.5 times off** from every source that matches on Rb/Zr.
+The reason is Section 6: our Niobium sits at the instrument's detection floor
+(20 ppm, only 6 distinct values), so it is not measuring real variation. **Any
+ratio involving Nb is therefore unusable**, which removes the independent check
+that would otherwise narrow the candidates.
+
+Rb and Zr are adjacent elements with similar X-ray energies, so their calibration
+errors are more likely to be similar, and Rb/Zr is the most trustworthy quantity
+we have. But it is **not proven** safe, and it does not identify a unique source
+in any case — see below.
+
+### Which sources match our Rb/Zr?
+
+Six of the 32 sources match within 15%:
+
+| Source | Region | Method | Rb/Zr | Difference |
+|---|---|---|---:|---:|
+| Carpathian 2 | Europe | pXRF | 1.37 | 0.4% |
+| **Nenezi Dağ** | **Cappadocia** | multi | 1.35 | 1.9% |
+| **Sarıkamış** | **NE Anatolia** | multi | 1.40 | 2.0% |
+| Giali | Aegean | pXRF | 1.27 | 7.6% |
+| **Acıgöl2** | **Cappadocia** | multi | 1.24 | 9.6% |
+| **Göllü Dağ1** | **Cappadocia** | multi | 1.55 | 12.7% |
+
+On archaeological grounds the European and Aegean sources are implausible for
+this material, which leaves four Anatolian candidates — three of them Cappadocian
+(Nenezi, Acıgöl, Göllü Dağ), the expected region for Levantine PPNB obsidian.
+That is a meaningful narrowing, but it is **not an identification**.
+
+⚠️ **A further caution about the reference data itself.** Nenezi Dağ appears in
+two studies with Rb/Zr of **1.35** and **1.13** — a 19% disagreement for the same
+volcano, comparable to our own uncertainty. And "Göllü Dağ" is not one value: its
+sub-sources range from **1.55 to 3.46**. The published fingerprints carry
+between-laboratory variation of the same order as the effect we are trying to
+measure.
 
 ---
 
@@ -415,14 +518,23 @@ instrument reference data.
 The following is defensible on the present data:
 
 > *The obsidian assemblages from Motza, Einan and Yiftahel are chemically
-> homogeneous at the resolution available, showing no evidence of more than one
-> raw-material source across the three sites and the periods represented. The
-> source itself cannot be identified from these measurements, because the
-> instrument was not calibrated against a reference standard.*
+> homogeneous at the resolution available, with the great majority of objects
+> consistent with a single raw-material source, which cannot be identified from
+> these measurements because the instrument was not calibrated against a
+> reference standard. Two objects from Yiftahel are exceptions: their strongly
+> elevated Zirconium, Niobium and Iron identify a **peralkaline source**,
+> pointing to eastern Anatolia (Bingöl A or Nemrut Dağ). This second-source
+> identification does not depend on calibration, since the difference is an
+> order of magnitude.*
+
+That is a substantive archaeological result: evidence of **more than one supply
+route** reaching Yiftahel.
 
 The following is **not** currently defensible:
 
 > ~~*The obsidian derives from Göllü Dağ.*~~
+> ~~*The Yiftahel outlier derives from Bingöl A.*~~ (Bingöl A and Nemrut Dağ
+> cannot be separated with our precision.)
 
 We recommend against publishing any named-source attribution until the
 calibration question is resolved.
