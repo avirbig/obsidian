@@ -297,6 +297,22 @@ In plain terms:
 the instrument's own error columns. An assignment is only reported as confident
 when the sources are separated by **more than** that uncertainty.
 
+> ### 🔴 STOP before attribution — see `CRITICAL_calibration_gap.md`
+>
+> Our samples read Rb ≈ 90 ppm; **every** Anatolian source is ≥ 110 ppm, most
+> 130–270. Our values fall below the entire published range, most likely because
+> the instrument's factory calibration reads low on rhyolitic glass (implied
+> factor 0.5–0.75). **No certified standard was ever measured**, so the offset
+> cannot be determined.
+>
+> Ratios do not rescue it: the implied offset is **not uniform** across elements,
+> and our Rb/Zr of 1.33 matches **6 of 32 sources** anyway.
+>
+> **Stages A–E below remain valid and worth doing** — cleaning is needed
+> regardless and nothing is wasted. But **source attribution must wait** for
+> either an RGM-2 measurement on the same instrument, or an explicit decision to
+> publish only the weaker, internally-valid claim.
+
 **D4. Convert units once, explicitly.** The workbook is in **%**; the reference
 database is in **ppm**. This conversion is a classic silent error — it happens in
 one documented place, with a unit test.

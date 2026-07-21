@@ -143,6 +143,39 @@ What we learned:
 
 ---
 
+**Step 5 — We checked whether we can actually match our tools to the volcanoes.
+The answer is: not yet.** Full details in `CRITICAL_calibration_gap.md`.
+
+We compared our measurements with the volcano fingerprints and found a serious
+problem:
+
+- Our tools measure about **90 ppm of Rubidium**. But **every** Turkish volcano
+  in our library is **110 ppm or more**, and most are **130–270**. Our numbers
+  fall **below the entire published range**.
+- The most likely reason is not archaeology but the **machine itself**. A
+  portable machine using its standard factory settings can read too low for this
+  kind of glass. Our numbers look like roughly **half to three-quarters** of the
+  true values.
+- To correct for this, we would need a measurement of a **known reference
+  material** taken with the same machine. We searched every original file.
+  **There isn't one.**
+
+**What this means:** we can still describe and group our tools, but we **cannot
+honestly name the volcano** they came from — not with the data as it stands.
+
+**The fix is cheap and worth doing:** measure a standard glass called **RGM-2**
+(a known volcanic glass used exactly for this purpose) on the **same machine**,
+with the same settings. One short session would probably rescue the whole
+question. If the machine is no longer available, measuring a few obsidian pieces
+whose source is already known would also work.
+
+**One thing we did learn:** the obsidian from **all three sites looks the same**
+chemically. That *might* mean all three sites used the same volcano — but our
+measurements are too rough to be sure, so we will say "no evidence of more than
+one source" rather than claiming one source.
+
+---
+
 ## 5. Decisions we made (and why)
 
 | Decision | What we chose | Why |
@@ -202,6 +235,10 @@ is lost. The active reference is `reference_source_only.csv`.
    object** (about 521 objects, not 1227 measurements), use **ratios between
    elements** instead of raw amounts (they are far less affected by dirt and by
    how the machine was held), and give every object a **quality score**.
-4. Compare our tools to the fingerprint library and say where each came from —
-   with a clear confidence level, and an honest "unknown" when we cannot tell.
-5. Make figures and write the final report.
+4. **⚠️ Before naming any volcano:** measure the **RGM-2** standard on the same
+   machine (see Step 5). Without it we cannot place our numbers on the same
+   scale as the published ones.
+5. Then compare our tools to the fingerprint library and say where each came
+   from — with a clear confidence level, and an honest "unknown" when we cannot
+   tell.
+6. Make figures and write the final report.
